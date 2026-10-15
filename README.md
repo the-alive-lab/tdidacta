@@ -33,6 +33,10 @@ Estas categorías orientan la lectura y la revisión; no constituyen una taxonom
 
 Una realización puede revelar tensiones o contradicciones en el canon. Su revisión debe ser explícita y trazable, sin reescribir retrospectivamente la evidencia histórica.
 
+## Origen documentado
+
+El origen en **Teaching**, la motivación de aprendizaje autónomo y las primeras decisiones técnicas se conservan en [Bootstrap — origen y evolución](bootstrap/README.md). Ese registro es evidencia histórica, no autoridad normativa sobre las definiciones vigentes. La reconstrucción editorial extensa permanece en Research mediante su V6 aprobada.
+
 ## Responsabilidades todavía abiertas
 
 TDidacta contempla provisionalmente una familia de productos denominada **Method, Design, Docs Standard, Framework y Platform**. Esa factorización es una propuesta existente, no una demostración de que todas sus fronteras sean correctas o estables.
