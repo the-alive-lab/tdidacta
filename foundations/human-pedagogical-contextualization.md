@@ -76,8 +76,11 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 | Orientación | Relación con este fundamento |
 | --- | --- |
 | [Orientación principal](../orientation/README.md) | Ajustar las intenciones a personas, necesidades y situaciones diversas. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar distinción entre propósito y condiciones situadas. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Hacer reutilizables y reconstruibles a través del tiempo las decisiones de contextualización y sus condiciones. |
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Asistencia puede informar, no definir por sí sola la intención. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Facilitar decisiones situadas sin añadir carga documental excesiva. |
+
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | El juicio humano decide intenciones y condiciones; una sugerencia de IA no queda autorizada automáticamente. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Identificar aporte interpretativo humano e inferencial al contextualizar, si es material. |
 
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
