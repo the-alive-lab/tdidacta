@@ -64,7 +64,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
 | T05 | Revisión y corrección pedagógica | Cerrado | [Fundamento](../foundations/pedagogical-review-and-correction.md); tensión hacia T06; feedback diferido |
-| T06 | Autoridad y autorización de elementos pedagógicos | En curso | [Fundamento T06](../foundations/pedagogical-authorization.md); autorización por titular de cuenta; [versionamiento candidato](../mechanisms/pedagogical-element-versioning.md); pendiente cierre explícito |
+| T06 | Autoridad y autorización de elementos pedagógicos | Cerrado | [Fundamento T06](../foundations/pedagogical-authorization.md); autorización individual MVP, reautorización por impacto; [versionamiento candidato](../mechanisms/pedagogical-element-versioning.md); [checkpoint](2026-10-16-relationships-lifecycle-checkpoint-t01-t06.md) |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
 | T09 | Versionamiento de fuentes, intenciones y realizaciones | Pendiente | — |
@@ -139,6 +139,43 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Cierre T06 y retroalimentación transversal (2026-10-16)
+
+**Decisión expresa del fundador:** cierre conceptual de T06. La persona titular de cuenta autoriza planificaciones, unidades, clases, actividades y demás elementos representables mediante intenciones. El alcance autorizado queda semánticamente estable sin autorizar automáticamente todas sus realizaciones. Se revisan y reautorizan el punto afectado y las dependencias relevantes ante cambios de necesidad. Declaración de impacto interpreta cambio y comprueba vigencia; declaración de cambios/revisión de cambios adecua lo afectado. Mecanismos de versionamiento y detección de drift permanecen candidatos; implementación y prueba pendientes. Colaboración e institucionalidad se posponen.
+
+**Revisión de cada uno de los otros 27 tópicos, sin cambio automático de sus estados:**
+
+- **T01** (Cerrado): Titular de cuenta autoriza en MVP; autoría, generación y supervisión siguen distintas de aprobar.
+- **T02** (Cerrado): Interpretación asistida produce propuestas, nunca autorización automática.
+- **T03** (Cerrado): Evidencia, inferencia e incertidumbre informan revisión, no equivalen a aprobación.
+- **T04** (Cerrado): Una intención puede autorizarse antes de realizaciones; Docs/IR y situaciones deben conservar alcance.
+- **T05** (Cerrado): Tensión de suficiencia resuelta por punto afectado y dependencias; revisión distinta de autorización.
+- **T07** (Pendiente): Publicar no equivale a autorizar; distinguir objeto autorizado y publicación.
+- **T08** (Pendiente): Rastrear responsable, objeto y alcance, sin exigir historial técnico universal todavía.
+- **T09** (Pendiente): Nuevo mecanismo candidato de versionamiento; cambios no sobrescriben alcances aprobados.
+- **T10** (Pendiente): La referencia autorizada sirve para continuidad semántica entre usos y actores.
+- **T11** (Pendiente): MVP individual; transferencia de autorización posterior requiere delimitar autoridad.
+- **T12** (Pendiente): Impacto interpreta cambio y dependencias; revisión de cambios adapta lo afectado.
+- **T13** (Pendiente): Exportación puede preservar realización autorizada y sus referencias, a investigar.
+- **T14** (Pendiente): Portabilidad de autorizaciones y alcance no significa compatibilidad técnica asumida.
+- **T15** (Pendiente): Deriva semántica y conformidad se evalúan sobre exploraciones/realizaciones, no solo IR.
+- **T16** (Pendiente): Aprobación no demuestra calidad educativa.
+- **T17** (Pendiente): Aprobación no demuestra resultados de aprendizaje.
+- **T18** (Pendiente): Detección manual de dependencias genera carga; automatización es objetivo por evaluar.
+- **T19** (Pendiente): Adecuación y revisión de elementos autorizados deben considerar accesibilidad situacional.
+- **T20** (Pendiente): Una intención puede conservarse con varias situaciones; alcance de autorización es situado.
+- **T21** (Pendiente): Autorización institucional/multinivel explícitamente fuera del MVP.
+- **T22** (Pendiente): Titularidad de cuenta no sustituye consentimiento, licencia o resguardos de datos.
+- **T23** (Pendiente): Autorización pedagógica y publicación comunitaria son decisiones diferentes.
+- **T24** (Pendiente): Autorización personal no exige plataforma central; persistencia técnica pendiente.
+- **T25** (Pendiente): LLM pueden proponer, explorar y asistir; titular mantiene autorización.
+- **T26** (Pendiente): Versionamiento y reautorización tienen costo a contrastar con sostenibilidad.
+- **T27** (Pendiente): Necesidad de conservar referencia aprobada y cambios al cesar el servicio.
+- **T28** (Pendiente): Autorización pedagógica individual no define autoridad jurídica del operador.
+
+**Conclusión transversal:** sin contradicciones que obliguen a reabrir T01–T05; se detecta deuda de representación en Relationships/Lifecycle, registrada en [checkpoint](2026-10-16-relationships-lifecycle-checkpoint-t01-t06.md). T07–T28 permanecen pendientes. **Total: 6/28 tópicos cerrados.**
+
 
 ### T06 — autoridad de cuenta y versionamiento candidato (2026-10-16)
 
