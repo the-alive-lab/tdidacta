@@ -62,7 +62,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
-| T04 | Contextualización pedagógica humana | Revisado | [Propuesta T04](../foundations/human-pedagogical-contextualization.md), pendiente de aprobación humana |
+| T04 | Contextualización pedagógica humana | En curso | [T04](../foundations/human-pedagogical-contextualization.md); [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [Proyección](../mechanisms/document-to-intermediate-projection.md), [IR](../structures/tdidacta-intermediate-representation.md) deben especificarse antes del 31-10-2026 |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
@@ -139,6 +139,19 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Ampliación de T04 — decisión del fundador (2026-10-16)
+
+- **Estado:** En curso; el alcance recibió una decisión concreta que introduce **tres entregables de definición necesarios antes del deadline del 31-10-2026**. No se diseñan íntegramente en esta conversación y T04 **no queda cerrado**.
+- **Resultado de contextualización humana:** **intención pedagógica con subdivisiones pertinentes**, documentada junto a **una o más situaciones válidas**, sin confundir *qué se desea enseñar* con *dónde, a quiénes y bajo qué condiciones*. Las situaciones influyen en exploración y realización; pueden coexistir para una intención.
+- **Superficie Docs Standard:** se asigna la responsabilidad específica de documentación a [mecanismo de documentación de intención y situaciones](../mechanisms/pedagogical-intent-documentation.md), sin declarar automáticamente validada la familia completa de productos.
+- **Proyección con apoyo de IA:** [mecanismo de proyección documental a IR](../mechanisms/document-to-intermediate-projection.md) distinto del mecanismo T02 de interpretación inferencial de fuentes y distinto de la clasificación de evidencia T03.
+- **Especificación estructurada:** [Representación intermedia de TDidacta](../structures/tdidacta-intermediate-representation.md), **preferentemente una unidad por intención**, capaz de referir a varias situaciones, sin exigir que una unidad sea un solo archivo.
+- **Pregunta por investigar:** qué significa «proyección semántica» y si pertenece a Orientation, Foundations o Mechanisms. Registrar sin promocionarla antes de contrastar el concepto.
+- **Diferencia temporal material:** los tres entregables nuevos **sí** deben definirse antes del 31-10-2026; el mecanismo detallado de interpretación IA de T02 se mantiene **después de publicación de PResolver**. Son problemas distintos.
+- **Continuidad:** T01–T03 continúan cerrados y sus decisiones mantienen autoridad dentro de su alcance; no se ejecuta todavía retroalimentación transversal de cierre de T04.
+- **Pendiente:** profundizar las tres especificaciones en ejecuciones posteriores y revisar expresamente el concepto proyección semántica, coherencia, representación, carga humana y pruebas de continuidad.
+
 
 ### T04 — Contextualización pedagógica humana (2026-10-16)
 
