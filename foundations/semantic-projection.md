@@ -20,7 +20,7 @@ El [mecanismo de proyección a dominio](../mechanisms/intermediate-to-domain-pro
 
 ## Arquitectura conceptual distinguida
 
-- **Orientación:** [adaptación a capacidades tecnológicas contemporáneas](../orientation/technology-enabled-semantic-continuity.md), particularmente LLM, conservando responsabilidad y continuidad.
+- **Orientaciones:** [continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md), distintas y complementarias.
 - **Fundamentos:** abstracción semántica (**documentación → IR**) y proyección semántica (**IR → resultados de dominio**).
 - **Mecanismos:** operaciones especializadas, potencialmente asistidas por IA.
 - **Estructura de dominio:** IR Specification define la IR de TDidacta.
