@@ -574,3 +574,10 @@ El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan esta
 - Primera tensión: [continuidad semántica frente a esfuerzo humano — O1/O3](../tensions/semantic-continuity-human-effort.md). **O1 y O3 son los polos de la tensión**: preservar y reconstruir significados puede exigir considerable esfuerzo humano. **O2 no es un polo**: la tecnología puede ayudar a atenderla, aunque también introducir costos adicionales de revisión.
 - Para cada fundamento donde O1 y O3 **incidan materialmente**, los mecanismos responsables deberán explicar cómo atienden la tensión y qué permanece no resuelto. Una fila preliminar o una relación marginal no bastan automáticamente para activarla.
 - F02 continúa abierto para reconciliación individual. No adelantar auditoría de mecanismos o relaciones.
+
+### Reconciliación F03 y revisión de O6 en F01/F02 (2026-10-16)
+
+- [F03](../foundations/human-pedagogical-contextualization.md) reconciliado: O0/O1 origen, O2 complemento, O3/O4/O6 condición, O5 incidencia marginal. Documentación suficiente: necesidad + intención + circunstancias. Docs Standard mecanismo independiente, abstracción y proyección semánticas fundamentos aparte.
+- [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) formalizada en Orientation. [Tensión O3/O6](../tensions/effort-inversion-proportionality.md) reconocida y aplicable a F03 junto a O1/O3. Respuestas y evidencia de los mecanismos pendientes.
+- Revisado O6 en [F01](../foundations/teaching-and-learning.md): **sin incidencia**; en [F02](../foundations/pedagogical-needs-and-intentions.md): **incidencia marginal**, sin alterar su reconciliación previa ni activar automáticamente tensión O3/O6.
+- La reconciliación general de los demás fundamentos continúa abierta y deberá contrastar O6 individualmente.
