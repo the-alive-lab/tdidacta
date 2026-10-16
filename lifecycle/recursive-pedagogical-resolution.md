@@ -12,19 +12,32 @@ Una necesidad pedagógica puede motivar una intención, que delimita un espacio 
 
 Una realización puede responder suficientemente a la necesidad, resultar insuficiente o revelar necesidades adicionales. En estos últimos casos puede revisarse la respuesta o formularse otra necesidad e intención, **repitiendo la misma operación a otra escala o desde otro ángulo**.
 
-```text
-Necesidad pedagógica
-  -> Intención pedagógica
-     -> Espacio de posibilidades delimitado
-        -> Explorar (comprender)
-        -> Realizar (concretar)
-           -> observar/evaluar lo obtenido
-              -> respuesta suficiente
-              -> revisar intención o realización
-              -> necesidad nueva/derivada -> ...
+### Representación visual candidata
+
+**Pregunta de lectura:** ¿cómo pueden relacionarse una necesidad, la intención que la aborda, la exploración, la realización y las continuidades posibles sin imponer una secuencia única?
+
+```mermaid
+flowchart TB
+    N["Necesidad pedagógica"] -->|puede motivar| I["Intención pedagógica"]
+    I -->|delimita| S["Espacio de posibilidades"]
+    S -->|consultar o recorrer| E["Explorar: comprender"]
+    S -->|concretar dentro de límites| R["Realizar: responder"]
+    E --> H["Hallazgos, comprensión o preguntas"]
+    R --> O["Resultados u observaciones"]
+    H -.->|puede informar revisión| I
+    O -.->|puede motivar revisión| I
+    O -.->|puede revelar| NN["Nueva necesidad"]
+    NN -.->|puede motivar| I2["Otra intención"]
+    O -.->|podría ser suficiente| C["Cierre de esta necesidad"]
 ```
 
-El dibujo expresa **relaciones posibles**, no un orden forzoso de etapas.
+**Cómo leerlo:** las flechas continuas ayudan a reconocer relaciones principales de este modelo candidato; las discontinuas identifican **continuidades posibles**, no etapas obligatorias. Explorar y realizar son operaciones distintas que pueden alternarse o repetirse; ninguna exige que la otra ocurra antes. Una exploración puede producir comprensión o preguntas sin generar una realización.
+
+**Alternativa textual:** una necesidad puede motivar una intención; esa intención delimita un espacio de posibilidades. En él se puede explorar para comprender o realizar para concretar una respuesta. Los hallazgos y resultados pueden informar revisiones; una realización puede considerarse suficiente o revelar una necesidad adicional. No se requiere subdivisión, cierre formal ni un orden único.
+
+**Límite:** la posición de los nodos no prescribe fases, jerarquías ni cardinalidades. La aparición de «cierre» no garantiza aprendizaje, y la «otra intención» no tiene por qué ser más pequeña que la original. El diagrama no demuestra que este lifecycle sea universal ni que haya sido adoptado como metodología.
+
+**Experimento editorial relacionado:** [comparación Mermaid y SVG](visual-comparison-mermaid-svg.md). Se conserva como contraste de formatos, no como segunda definición del lifecycle.
 
 ## Recursividad
 
