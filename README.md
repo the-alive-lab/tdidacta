@@ -18,6 +18,7 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 | [Postulaciones y financiamiento](governance/funding-and-applications.md) | Cómo derivar abstracts y solicitudes fieles al canon |
 | [Bootstrap](bootstrap/README.md) | Origen histórico en Teaching y evolución inicial |
 | [Notas externas](notes/external/2026-10-16-vslices-conceptual-correspondences.md) | Hipótesis de correspondencias con VSlices; no validadas |
+| [Reglas de generación de proyectos](https://github.com/the-alive-lab/project-generation-rules) | Referencia transversal para estructura, descubrimiento humano y orientación de agentes; incluye [guía de creación](https://github.com/the-alive-lab/project-generation-rules/blob/main/guides/bootstrap.md) y [reglas de descubrimiento](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/human-and-agent-discovery.md) |
 | [Reglas de visualización compartidas](https://github.com/the-alive-lab/visualization-rules) | Referencia editorial transversal de The Alive Lab; incluye [guía práctica](https://github.com/the-alive-lab/visualization-rules/blob/main/guides/application.md) y [entrada para agentes](https://github.com/the-alive-lab/visualization-rules/blob/main/AGENTS.md) |
 
 ## Estado
@@ -31,3 +32,9 @@ Las revisiones deben respetar las fuentes, sus estados y las decisiones de promo
 Las [Visualization Rules de The Alive Lab](https://github.com/the-alive-lab/visualization-rules) sirven como **referencia compartida** para representar conceptos, relaciones, mecanismos y ciclos con claridad y fidelidad semántica. Incluyen [reglas editoriales](https://github.com/the-alive-lab/visualization-rules/blob/main/rules/document-visualizations.md), una [guía de aplicación](https://github.com/the-alive-lab/visualization-rules/blob/main/guides/application.md) y superficies para agentes ([AGENTS.md](https://github.com/the-alive-lab/visualization-rules/blob/main/AGENTS.md) y [llms.txt](https://github.com/the-alive-lab/visualization-rules/blob/main/llms.txt)).
 
 Este enlace **no constituye una adopción normativa automática** ni cambia las definiciones canónicas de TDidacta. Cualquier aplicación concreta debe respetar la autoridad y el estado de los documentos de este repositorio, así como sus decisiones de promoción.
+
+## Generación y evolución documental del proyecto
+
+Las [Project Generation Rules de The Alive Lab](https://github.com/the-alive-lab/project-generation-rules) son una **referencia transversal** para organizar proyectos, facilitar su reconocimiento por personas y agentes y conservar continuidad cuando evolucionan. Incluyen [reglas de fundamentación](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/project-foundation.md), [criterios de descubrimiento](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/human-and-agent-discovery.md), [guía de evolución](https://github.com/the-alive-lab/project-generation-rules/blob/main/guides/evolution.md) y entradas para agentes ([AGENTS.md](https://github.com/the-alive-lab/project-generation-rules/blob/main/AGENTS.md) y [llms.txt](https://github.com/the-alive-lab/project-generation-rules/blob/main/llms.txt)).
+
+El vínculo constituye una **referencia, no una adopción normativa automática** ni una reestructuración de TDidacta. Las definiciones canónicas, la gobernanza y las decisiones específicas de este proyecto conservan su autoridad. La creación de un `AGENTS.md` o `llms.txt` propio se evaluará sin duplicar el canon.
