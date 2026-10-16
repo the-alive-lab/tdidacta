@@ -12,7 +12,7 @@ Al releer las definiciones candidatas de TDidacta, Hernán identificó semejanza
 
 | Superficie candidata en TDidacta | Correspondencia señalada en VSlices | Lectura provisional |
 | --- | --- | --- |
-| [Resolución recursiva de necesidades pedagógicas](../../foundations/recursive-pedagogical-resolution.md) | **Ciclo de vida de VSlices** | Ambos se entienden como procesos de abordar necesidades, obtener resultados y reabrir trabajo cuando surgen necesidades adicionales. |
+| [Resolución recursiva de necesidades pedagógicas](../../lifecycle/recursive-pedagogical-resolution.md) | **Ciclo de vida de VSlices** | Ambos se entienden como procesos de abordar necesidades, obtener resultados y reabrir trabajo cuando surgen necesidades adicionales. |
 | [Espacio de posibilidades pedagógico](../../mechanisms/possibility-spaces.md) | **Espacio de posibilidades obtenido al entender un dominio, trabajado con VSlices.Space** | Entender el dominio delimita un espacio válido desde el que se puede trabajar. |
 | [Exploración y realización](../../mechanisms/exploration-and-realization.md) | **VSlices.Work** | Correspondencia con operaciones de trabajo que producen traslaciones en espacios válidos de dominio; las definiciones pedagógicas actuales hacen explícita una distinción más extensa entre explorar para comprender y realizar para concretar. |
 | [Necesidades e intenciones pedagógicas](../../foundations/pedagogical-needs-and-intentions.md) | **Necesidades de negocio y sus intenciones** | Ambas propuestas relacionan una necesidad con la intención que orienta su abordaje, sin asumir que la semántica sea automáticamente la misma. |
