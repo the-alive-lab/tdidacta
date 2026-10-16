@@ -78,3 +78,9 @@ Autorizar no implica publicación (T07), conformidad técnica verificada (T15), 
 Cerrar T06 con aprobación humana, ejecutar retroalimentación de los otros 27 tópicos y **después** auditar Relationships y Lifecycle respecto de T01–T06. No anticipar la auditoría.
 
 **Relacionados:** [T05](pedagogical-review-and-correction.md), [T04](human-pedagogical-contextualization.md), [T01](pedagogical-authorship.md).
+
+## Alcance de revisión y reautorización según impacto
+
+**Decisión del fundador:** revisar y reautorizar el punto afectado por un cambio de necesidad pedagógica y sus dependencias. Si el cambio afecta toda la planificación, se revisa y reautoriza toda ella; si afecta solo una unidad, se revisa y reautoriza esa unidad y sus dependencias, sin extender la revisión indiscriminadamente a otras unidades. Los cambios amplios suelen vincularse con intenciones de mayor alcance.
+
+El procedimiento es manual en la actualidad y se aspira a automatizar su apoyo operativo, particularmente la detección de dependencias y riesgos de drift, sin transferir la autoridad humana al sistema. El criterio conceptual de suficiencia heredado de T05 queda precisado por el alcance del impacto; los algoritmos y garantías siguen pendientes.
