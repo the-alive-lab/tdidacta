@@ -57,7 +57,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 | ID | Tópico | Estado de seguimiento | Resultado / enlace |
 | --- | --- | --- | --- |
-| T01 | Autoría pedagógica | Revisado | [Propuesta candidata](../foundations/pedagogical-authorship.md); aprobación canónica pendiente |
+| T01 | Autoría pedagógica | Revisado | [Autoría](../foundations/pedagogical-authorship.md), [gradiente](../mechanisms/contribution-gradient.md), [feedback](../mechanisms/feedback-traceability.md), [transparencia](../transparency/README.md) |
 | T02 | Interpretación asistida de fuentes educativas | Pendiente | — |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
@@ -88,6 +88,12 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 ## Bitácora de ejecución
 
+
+### Ampliación T01 — 2026-10-16
+
+Se incorporaron las precisiones del fundador: crear, editar, mediar y retroalimentar como formas de contribución; autorización humana como principio de responsabilidad; gradiente multidimensional por aporte y objeto; feedback general trazable; transparencia de autoría, anonimato opcional, consentimiento y reutilización como responsabilidades del servicio. Ver [fundamento](../foundations/pedagogical-authorship.md), [gradiente](../mechanisms/contribution-gradient.md), [feedback](../mechanisms/feedback-traceability.md) y [transparencia](../transparency/README.md).
+
+**Estado:** Revisado, no cerrado. Pendientes: terminología de clasificación, parámetros verificables, consentimiento/derechos por contexto, competencia autorizadora. T02 no ejecutado.
 
 ### T01 — Autoría pedagógica (2026-10-16)
 
