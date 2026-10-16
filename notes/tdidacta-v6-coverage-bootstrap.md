@@ -89,6 +89,13 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 ## Bitácora de ejecución
 
 
+### Delimitación de clasificación T01 — 2026-10-16
+
+- **Decisión expresa del fundador:** mantener el objetivo original de distinguir recursos elaborados completamente por humanos de recursos con intervención de IA. No ampliar por ahora la clasificación a otros ejes de contribución.
+- **Vocabulario provisional único:** elaboración humana, elaboración asistida, transformación asistida y generación supervisada. Las definiciones de trabajo están en [Transparencia](../transparency/README.md).
+- **Condición de continuación:** detener la formalización, extensión y reglas de asignación de esta clasificación hasta que el [gradiente de contribución](../mechanisms/contribution-gradient.md) esté completamente definido. Su naturaleza sigue siendo candidata.
+- **Estado T01:** Revisado, no cerrado. No se ejecutó T02.
+
 ### Ampliación T01 — 2026-10-16
 
 Se incorporaron las precisiones del fundador: crear, editar, mediar y retroalimentar como formas de contribución; autorización humana como principio de responsabilidad; gradiente multidimensional por aporte y objeto; feedback general trazable; transparencia de autoría, anonimato opcional, consentimiento y reutilización como responsabilidades del servicio. Ver [fundamento](../foundations/pedagogical-authorship.md), [gradiente](../mechanisms/contribution-gradient.md), [feedback](../mechanisms/feedback-traceability.md) y [transparencia](../transparency/README.md).
