@@ -60,7 +60,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | ID | Tópico | Estado de seguimiento | Resultado / enlace |
 | --- | --- | --- | --- |
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
-| T02 | Interpretación asistida de fuentes educativas | Pendiente | — |
+| T02 | Interpretación asistida de fuentes educativas | Revisado | [Propuesta T02](../foundations/assisted-source-interpretation.md); pendiente revisión humana de alcance |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
@@ -139,6 +139,18 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T02 — Interpretación asistida de fuentes educativas (2026-10-16)
+
+- **Estado:** Revisado, no cerrado; propuesta candidata, no implementación.
+- **Continuidad T01:** separa fuente, intérprete, intención y autoridad humana; la clasificación manual de asistencia no demuestra fidelidad.
+- **Problema:** lectura asistida de fuentes con uso permitido sin confundir contenido original, propuestas inferenciales, incertidumbre o decisiones de quien enseña.
+- **TDidacta y V6:** [necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md), [exploración/realización](../mechanisms/exploration-and-realization.md), [V6 editorial](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
+- **VSlices:** separación de autoridad semántica y realización aprovechable como criterio, no modelo técnico importado.
+- **Salida documental:** [propuesta T02](../foundations/assisted-source-interpretation.md) y entrada en Foundations. El recorrido es conceptual y flexible; sin validación empírica.
+- **Fronteras:** T03 (incertidumbre), T04–T06 (contextualización/revisión/autorización), T08/T09 (procedencia/versiones), T22/T25 (derechos e inferencia).
+- **Pendiente de cierre:** decisión humana sobre suficiencia del alcance y el mínimo de procedencia exigible. La retroalimentación con todos los tópicos, incluidos cerrados, corresponde al cierre y todavía no se ha ejecutado.
+
 
 ### Cierre autorizado de T01 — 2026-10-16
 
