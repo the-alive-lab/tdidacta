@@ -124,3 +124,12 @@ Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo human
 ## Reconciliación de F02 (2026-10-16)
 
 **F02 — Necesidades e intenciones pedagógicas:** reconciliado con decisión del fundador. Orígenes O0/O1; complemento O2/O4/O5; condición O3. Reconocida como aplicable la [tensión O1/O3](../tensions/semantic-continuity-human-effort.md), **atenuable mediante O2**, sin afirmar resolución ni reducción empíricamente probada. [Fundamento actualizado](../foundations/pedagogical-needs-and-intentions.md). Continúa abierta la auditoría de los demás fundamentos.
+
+## Reconciliación de F03 e incorporación de O6 (2026-10-16)
+
+- [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md): orientación específica de TDidacta creada por propuesta del fundador. Distribuir prioritariamente esfuerzo hacia comprensión, formulación y documentación suficiente frente a realizaciones repetitivas; no implica más documentación por sí misma.
+- **[F03](../foundations/human-pedagogical-contextualization.md): reconciliado** por decisión del fundador. Origen O0/O1; complemento O2; condiciones O3/O4/O6; incidencia marginal O5. Documentación suficiente comprende necesidad, intención y circunstancias; Docs Standard es mecanismo, abstracción/proyección tienen fundamentos independientes.
+- **Tensiones F03:** [O1/O3](../tensions/semantic-continuity-human-effort.md), atenuable con O2, y [O3/O6](../tensions/effort-inversion-proportionality.md), con proporcionalidad como criterio de respuesta pero no resolución demostrada.
+- **[F01](../foundations/teaching-and-learning.md): O6 sin incidencia**; interpreta el problema de enseñanza/aprendizaje, no la distribución del esfuerzo para resolverlo. Clasificaciones anteriores intactas.
+- **[F02](../foundations/pedagogical-needs-and-intentions.md): O6 incidencia marginal**; favorece dedicar atención a comprender/formular pero no modifica la identidad de necesidad, intención o espacio de posibilidades. Clasificaciones anteriores intactas. No activar automáticamente la tensión O3/O6 en F02.
+- La auditoría general de los otros fundamentos continúa abierta; se debe contrastar O6 en cada uno al revisarlo.
