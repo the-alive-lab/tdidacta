@@ -36,4 +36,7 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Motiva capacidades de estructuración automatizable, no una tecnología obligatoria. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Puede reducir reestructuración manual; beneficio por comprobar. |
 
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | La autoridad humana decide qué significado documentado es apto; regenerar IR no autoriza. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Debe conservar procedencia relevante sin fingir que toda transformación genera autoría. |
+
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
