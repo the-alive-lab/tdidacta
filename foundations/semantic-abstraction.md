@@ -23,4 +23,4 @@ La entrada es documentación de TDidacta Docs Standard sobre **intenciones pedag
 - Abstracción **no** equivale a generar exploraciones o realizaciones: eso corresponde a la [proyección semántica](semantic-projection.md).
 - Una IR obtenida no se considera automáticamente conforme ni autorizada.
 
-**Autoridad:** decisión del fundador sobre el concepto; su generalidad operativa y las garantías técnicas deben contrastarse desde PResolver. [Orientación tecnológica](../orientation/technology-enabled-semantic-continuity.md).
+**Autoridad:** decisión del fundador sobre el concepto; su generalidad operativa y las garantías técnicas deben contrastarse desde PResolver. [Continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md).
