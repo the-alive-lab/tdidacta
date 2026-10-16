@@ -1,92 +1,133 @@
-# Revisión y corrección pedagógica — propuesta T05
+# F06 — Revisión y corrección pedagógica
 
-**Estado:** tópico **T05 cerrado conceptualmente por decisión del fundador (2026-10-16)**. Los mecanismos siguen candidatos o diferidos; sin implementación o eficacia validada.
+**Estado:** fundamento conceptual reconciliado y cerrado por decisión del fundador (2026-10-16). Mecanismos concretos y eficacia operativa pendientes; el cierre conceptual no supone validación empírica.
 
-## Problema y responsabilidad
+## 1. Definición
 
-Una intención documentada, una situación, una representación intermedia, una interpretación o una realización pueden presentar errores, omisiones, extrapolaciones, contradicciones o diferencias respecto de lo que se desea enseñar. **Revisar** es examinar críticamente su pertinencia y suficiencia para la intención y situación reconocidas; **corregir** es decidir y aplicar o solicitar cambios cuando el examen revela un problema relevante.
+La **revisión y corrección pedagógica** es el fundamento que establece la responsabilidad de examinar críticamente los elementos involucrados en una intención pedagógica y de atender los problemas relevantes que puedan identificarse.
 
-Una revisión puede producir correcciones, una solicitud de comprobación, un rechazo o una conservación razonada de lo existente. **Revisar no equivale a autorizar** (T06), ni a publicar (T07), ni a certificar aprendizaje (T17).
+Su propósito es permitir que las intenciones, sus circunstancias de aplicación, la documentación que las expresa y los elementos derivados de ellas puedan examinarse respecto de su pertinencia, suficiencia y coherencia pedagógica.
 
-## Objetos revisables y fronteras
+Se distinguen dos responsabilidades:
 
-- **Intención y subdivisiones:** propósitos, inclusiones, exclusiones y relaciones entre intenciones, sin redefinirlas silenciosamente a través de una realización.
-- **Situaciones válidas:** destinatarios, medios y condiciones; un ajuste situacional no modifica necesariamente el contenido de la intención.
-- **Documentación Docs Standard:** legibilidad, contradicciones, omisiones y coherencia interna respecto de las decisiones humanas.
-- **IR derivada mediante abstracción:** diferencias materiales entre documentación e IR; no presumir que una representación estructurada es semánticamente fiel.
-- **Exploraciones y realizaciones por proyección:** fidelidad respecto de la intención y situación aplicable, errores factuales, omisiones y ampliaciones no justificadas.
-- **Interpretaciones y evidencia:** distinguir afirmaciones respaldadas, elaboración humana, inferencias de IA e incertidumbre relevante según [T03](../mechanisms/evidence-classification.md).
+- **Revisión:** examinar críticamente un elemento para identificar errores, omisiones, contradicciones, extrapolaciones, insuficiencias o desviaciones respecto de la intención y las circunstancias pertinentes.
+- **Corrección:** decidir y efectuar, o solicitar, modificaciones cuando una revisión identifica problemas relevantes.
 
-Revisar no tiene que significar revisar exhaustivamente todos estos objetos en cada caso. La selección y profundidad dependen del riesgo, propósito, cambios y consecuencias para quienes aprenden.
+La revisión no obliga necesariamente a corregir: puede justificar conservar un elemento, solicitar información adicional, rechazarlo o mantener abierta una cuestión. La corrección no exige rehacer íntegramente el elemento; depende del problema y sus consecuencias.
 
-## Responsabilidad humana
+Ambas responsabilidades pueden recibir asistencia tecnológica sin que esa asistencia sustituya el juicio humano pertinente.
 
-En el escenario operativo aprobado en T01, una misma persona puede formular, planificar, supervisar y autorizar su propio material, aunque esas responsabilidades sean **conceptualmente distintas**. La persona responsable examina qué aceptar, corregir, rechazar o dejar abierto; no tiene que ejecutar personalmente cada edición si supervisa su resultado.
+## 2. Elementos susceptibles de revisión
 
-La IA puede proponer detecciones, explicaciones y correcciones, pero **no se convierte por eso en autoridad humana ni en prueba de conformidad o calidad**. Las sugerencias deben poder ser cuestionadas o rechazadas sin descartar automáticamente las partes respaldadas.
+- **Necesidades e intenciones pedagógicas:** propósitos, inclusiones, exclusiones, subdivisiones y relaciones. Una realización no redefine silenciosamente su intención.
+- **Circunstancias de aplicación:** destinatarios, medios y condiciones. Modificar una circunstancia no implica modificar necesariamente la intención.
+- **Documentación:** legibilidad, suficiencia, omisiones, contradicciones, coherencia y correspondencia con decisiones humanas documentadas.
+- **Representaciones intermedias:** diferencias materiales entre documentación e IR obtenida por [abstracción](semantic-abstraction.md). La estructura no demuestra fidelidad semántica.
+- **Exploraciones y realizaciones:** correspondencia con intenciones y circunstancias en resultados de [proyección](semantic-projection.md); errores factuales, omisiones, desviaciones o ampliaciones injustificadas.
+- **Interpretaciones y evidencia:** afirmaciones respaldadas, elaboraciones humanas, inferencias tecnológicas e incertidumbres relevantes.
 
-## Criterio conceptual de revisión proporcional
+## 3. Resultados de la revisión
 
-La revisión debe dar al responsable oportunidad real de:
-1. identificar el objeto, la intención y la situación pertinentes;
-2. reconocer problemas **materiales** y sus respaldos, límites e incertidumbres;
-3. decidir si mantener, corregir, rechazar o solicitar aclaración;
-4. reconocer el alcance del cambio y qué otras piezas podrían necesitar revisión;
-5. distinguir el resultado de revisión de la **autorización** posterior.
+- **Conservación razonada:** mantener el elemento cuando no hay razón suficiente para cambiarlo.
+- **Corrección:** modificarlo o solicitar una modificación específica.
+- **Solicitud de comprobación:** requerir información para aclarar una incertidumbre.
+- **Rechazo:** descartar un elemento con problemas que impiden su uso adecuado.
+- **Cuestión abierta:** reconocer que aún falta información para decidir.
 
-No se propone registro por oración, puntuación universal, doble aprobación ni jerarquía institucional obligatoria. Una corrección puntual puede ser suficiente; cambios que alteran intención o situación pueden requerir reconsideración más amplia.
+Ninguno de estos resultados constituye por sí mismo autorización, publicación o certificación de calidad o aprendizaje.
 
-**Condición de carga:** cualquier sistema que instrumente la revisión deberá facilitar detectar, priorizar y corregir problemas con menos esfuerzo innecesario para el responsable. El ahorro neto es algo **por medir**, no un hecho demostrado.
+## 4. Responsabilidad humana
 
-## Ejemplos de contraste
+La responsabilidad humana consiste en examinar elementos pertinentes y decidir qué conservar, modificar, rechazar o dejar abierto. Una misma persona puede formular, revisar, corregir y autorizar, aunque sean responsabilidades distintas.
 
-- La fuente dice que estudiantes practicaron fracciones; una realización afirma que dominan sumas: se detecta extrapolación no respaldada y puede corregirse sin desechar la actividad original.
-- Una intención se mantiene, pero una situación pierde conectividad: se revisa la realización afectada, no necesariamente todo el conocimiento que se quiere enseñar.
-- Una IA añade un prerrequisito no documentado: puede ser hipótesis revisable, no obligación de modificar automáticamente la intención.
-- Una realización técnicamente conforme puede tener poca calidad didáctica: el resultado no resuelve automáticamente T16 ni T17.
+No es indispensable realizar personalmente cada edición, siempre que exista posibilidad real de examinar y supervisar sus resultados.
 
-Son ejemplos conceptuales, no casos empíricos validados.
+La asistencia tecnológica puede aportar detecciones, explicaciones, propuestas de corrección y comparaciones, **sin convertir por sí sola sus sugerencias en evidencia suficiente, conformidad, calidad o autoridad humana**. Las propuestas pueden rechazarse o aceptarse parcialmente.
 
-## Retroalimentación y orientación de capacidad humana
+La **adopción de correcciones y decisiones pedagógicas materiales** debe respetar la autorización humana correspondiente; esto no significa exigir aprobación separada para toda inspección o propuesta de cambio.
 
-Se distinguen [generación de feedback](../mechanisms/feedback-generation.md) y [trazabilidad de feedback](../mechanisms/feedback-traceability.md), que puede ser parcialmente o completamente automatizada **sin conferir verdad ni aprobación por defecto**. La revisión decide qué atender y corregir; feedback no es automáticamente una corrección. El [mecanismo de apoyo a la revisión](../mechanisms/pedagogical-review-assistance.md) se pospone a después de la publicación de PResolver.
+## 5. Proporcionalidad de la revisión
 
-La [orientación de reducción de carga y ampliación de capacidad de acción](../orientation/human-effort-and-agency.md) contiene **dos fines independientes**: pueden lograrse por separado. La evaluación de resultados de estos fines no se da por realizada.
+La revisión no exige examinar exhaustivamente todos los elementos en todas las circunstancias. Su profundidad depende del propósito, los riesgos, los cambios y las consecuencias para quienes aprenden.
 
-## Continuidad y límites
+Debe permitir proporcionalmente:
 
-- [T01](pedagogical-authorship.md): supervisar, revisar, autorizar y publicar son responsabilidades distintas.
-- [T02](assisted-source-interpretation.md): interpretación asistida es opcional; el mecanismo detallado para interpretar fuentes se mantiene pospublicación PResolver.
-- [T03](source-inference-uncertainty.md): evidencia humana e inferencial e incertidumbre permanecen distinguibles.
-- [T04](human-pedagogical-contextualization.md): intención y situaciones documentadas; abstracción Docs→IR y proyección IR→resultados son **dos fronteras de revisión diferentes**. Los tres entregables Docs Standard, abstracción e IR Specification siguen comprometidos antes del 31-10-2026.
-- **T06:** asignación y alcance de autorización humana; **T07:** publicación; **T08/T09/T12:** procedencia, versiones e impacto de cambios; **T15/T16/T17:** conformidad, calidad y aprendizaje como evaluaciones separadas.
+1. Identificar el elemento, intención y circunstancia pertinentes.
+2. Reconocer problemas materiales, respaldos, límites e incertidumbres.
+3. Decidir si conservar, corregir, rechazar o pedir aclaración.
+4. Considerar el impacto del cambio sobre elementos relacionados.
+5. Distinguir revisión de autorización posterior.
 
-[Mechanism candidato de revisión y corrección](../mechanisms/pedagogical-review-and-correction.md) · [Gobernanza](../governance/README.md).
+Una corrección localizada puede bastar; cambios en intención o circunstancias pueden requerir reconsiderar elementos dependientes. No se exige registro por oración, puntuación uniforme, doble aprobación o jerarquía institucional universal. La proporcionalidad tampoco exime controles materialmente necesarios.
 
-## Tensión abierta hacia T06
+## 6. Circunstancias que justifican considerar una revisión
 
-**TNS-T05/T06 — obligación de revisión vs procedimiento universal.** Está cerrada la responsabilidad conceptual de revisar y corregir pedagógicamente, pero permanece **abierto hasta T06** decidir cómo expresar las exigencias de revisión al determinar el alcance de autorización, sin imponer inadvertidamente un procedimiento universal ni revisión exhaustiva de todos los objetos. No presumir ni que toda autorización exija revisión idéntica ni que la proporcionalidad dispense controles materialmente necesarios.
+Una revisión puede resultar pertinente cuando existe una razón para examinar adecuación, coherencia, suficiencia o continuidad semántica de un elemento:
 
-Esta tensión no impide cerrar T05; debe examinarse explícitamente al tratar T06 y preservarse si allí tampoco se resuelve.
+- **Creación o transformación:** se produce un elemento nuevo o transforma uno existente y resulta pertinente comprobar su adecuación.
+- **Cambios materiales:** se modifica una intención, circunstancia o dependencia relevante.
+- **Detección de problemas:** surgen errores, contradicciones, omisiones, extrapolaciones o incertidumbres significativas.
+- **Resultados de exploración:** aparecen posibilidades inesperadas, límites o problemas de delimitación.
+- **Retroalimentación:** observaciones de docentes, estudiantes u otros participantes justifican reconsiderar algo.
+- **Cambios en las necesidades:** cambian la necesidad pedagógica o las circunstancias de aplicación.
+- **Consecuencias potenciales:** la naturaleza o impacto de un elemento justifica una comprobación preventiva.
 
-## Propuesta de decisión
+Estos casos **no son disparadores universales** ni exigen revisión exhaustiva por su sola aparición. Hay que distinguir **considerar la revisión** de **ejecutarla**, valorando relevancia, riesgo y consecuencias. No encontrar señales de error tampoco garantiza corrección. Las detecciones y procedimientos concretos pertenecen a mecanismos y coordinación operativa.
 
-Reconocer **revisión y corrección pedagógica** como una responsabilidad humana separada de contextualización y autorización, aplicable proporcionalmente a intenciones, situaciones, documentación, IR, exploraciones y realizaciones; posibilitar asistencia inferencial **sin delegar autoridad ni aumentar innecesariamente la carga**. Los procedimientos concretos, controles y pruebas quedan por especificar en sus fronteras correspondientes.
+## 7. Fronteras conceptuales
 
-**Fuentes:** decisiones T01–T04, orientación vigente de TDidacta y [maestro editorial V6](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md), que exige contextualización, corrección y autorización humanas sin imponer el registro de cada decisión trivial. V6 no constituye evidencia empírica.
+- **Contextualización:** interpreta necesidades y formula y documenta intenciones y circunstancias; la revisión las examina sin sustituir esa formulación.
+- **Abstracción:** relaciona prosa con IR; la revisión puede comprobar su continuidad.
+- **Proyección:** relaciona IR con exploraciones y realizaciones; la revisión puede examinar resultados.
+- **Autorización humana:** decide aprobación pertinente, distinta de revisar y corregir.
+- **Publicación:** disponibiliza elementos según condiciones aplicables, no equivale a examinarlos.
+- **Evaluación de conformidad, calidad y aprendizaje:** responsabilidades diferenciadas; revisión puede apoyarse en ellas sin garantizarlas.
+- **Feedback:** aporta observaciones o propuestas; no equivale automáticamente a una corrección aceptada.
 
-## Trazabilidad hacia las orientaciones vigentes
+## 8. Límites
 
-La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+La revisión y corrección:
 
-| Orientación | Relación con este fundamento |
-| --- | --- |
-| [Orientación principal](../orientation/README.md) | Mantener la respuesta adecuada a necesidades pedagógicas reales. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Reconocer y corregir desviaciones del significado y sus restricciones. |
-| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Herramientas pueden asistir, sin sustituir juicio humano. |
-| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Evitar revisiones innecesarias y reducir esfuerzo neto por evaluar. |
+- No requieren examinar todos los objetos en todas las operaciones ni imponer un procedimiento universal.
+- No exigen que una persona ejecute físicamente todas las correcciones.
+- No convierten propuestas de tecnología en decisiones humanas.
+- No garantizan detección exhaustiva de problemas, conformidad, calidad o aprendizaje.
+- No equivalen a autorización ni publicación.
+- No habilitan la modificación silenciosa de intenciones de origen.
+- No definen mecanismos técnicos específicos de revisión.
 
-| [Autorización humana](../orientation/human-pedagogical-authorization.md) | La revisión puede asistir el juicio de autorización, pero nunca autoriza por sí sola. |
-| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Feedback y correcciones relevantes han de permitir reconocer aportes cuando corresponda. |
+## 9. Nota de especialización — TDidacta
 
-**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
+En TDidacta pueden revisarse necesidades e intenciones, circunstancias, Docs Standard, IR, interpretaciones, exploraciones y realizaciones. Se consideran tanto la perspectiva de quien enseña como las necesidades de quien aprende.
+
+Las fuentes, inferencias, incertidumbres y retroalimentación pueden informar la revisión, conservando sus distinciones. [Feedback generado](../mechanisms/feedback-generation.md), [trazabilidad de feedback](../mechanisms/feedback-traceability.md) y [asistencia a revisión](../mechanisms/pedagogical-review-assistance.md) son responsabilidades de mecanismos, no parte de la definición del fundamento.
+
+Los procedimientos y su eficacia quedan por especificar y validar.
+
+## 10. Tensiones aplicables
+
+- **[O1 ↔ O3 — Continuidad semántica frente a esfuerzo humano](../tensions/semantic-continuity-human-effort.md):** comprobar y corregir continuidad puede exigir revisiones costosas. Proporcionalidad y ayuda tecnológica son respuestas conceptuales, no resolución demostrada.
+- **[O3 ↔ O6 — Carga humana e inversión del esfuerzo](../tensions/effort-inversion-proportionality.md):** controlar numerosos resultados puede desplazar esfuerzo desde comprender y documentar hacia revisiones repetitivas.
+- **[O4 ↔ O3 — Autorización humana frente a carga y capacidad](../tensions/human-authorization-review-burden.md):** adoptar correcciones y decisiones materiales puede añadir carga de autorización humana. **Tensión candidata registrada**, sin resolver; no toda revisión o propuesta demanda una aprobación independiente.
+
+Los mecanismos deberán responder explícitamente a estas tensiones y sus límites, sin asumir eficacia por haber enunciado proporcionalidad.
+
+## 11. Trazabilidad hacia orientaciones
+
+| Orientación | Clasificación | Justificación |
+| --- | --- | --- |
+| [O0 — Principal](../orientation/README.md) | **Condición** | Toda revisión y corrección debe ser coherente con la necesidad y el propósito pedagógico correspondientes. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Origen** | Preservar y revisar la continuidad justifica detectar y corregir desviaciones de significado. |
+| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | La tecnología puede asistir y atenuar carga, sin originar la responsabilidad humana de revisión. |
+| [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | La densidad de revisión y decisiones puede imponer carga elevada; requiere proporcionalidad. |
+| [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Condición** | La adopción de correcciones materiales debe respetar aprobación humana, aun si la propuesta o ejecución fue asistida. |
+| [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Condición** | El proceso debe poder reconocer contribuciones y feedback significativos. |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | La revisión no debería desplazar desproporcionadamente trabajo humano desde comprensión y documentación a controles repetitivos. |
+
+## 12. Continuidad histórica
+
+T05 fue cerrado conceptualmente el 2026-10-16; la cuestión histórica TNS-T05/T06 «revisión obligatoria frente a procedimiento universal» no exige convertirla en un flujo de aprobaciones idéntico para cada objeto. O4/O3 registra una tensión más amplia por la carga añadida de autorizar.
+
+T01–T04, T06–T09, T12 y T15–T17 identifican responsabilidades contiguas, sin definir el fundamento mediante el orden histórico de esos tópicos. El [mecanismo candidato](../mechanisms/pedagogical-review-and-correction.md) y la [gobernanza](../governance/README.md) conservan sus fronteras.
+
+**Mantenimiento:** cualquier modificación sustantiva de orientaciones obliga a revisar esta trazabilidad y las tensiones aplicables.
