@@ -97,3 +97,14 @@ La reconciliación **no está cerrada**: se revisará cada fundamento **uno por 
 Si no se encuentra orientación originadora, registrar **brecha real de justificación**, examinar si falta una orientación o si la clasificación/definición del fundamento es equivocada; no crear una orientación automáticamente sin decisión humana.
 
 **Estado:** F01 enseñanza y aprendizaje en discusión; las tablas ya existentes son propuestas preliminares sujetas a esta auditoría, no acreditan cierre. No avanzar a mecanismos ni relaciones.
+
+## Ausencia e influencia marginal — precisión del fundador
+
+Se admiten explícitamente dos resultados adicionales al examinar cada par orientación–fundamento:
+
+- **Sin incidencia:** la orientación no origina, complementa ni condiciona materialmente ese fundamento. Registrar la ausencia sin fabricar una relación.
+- **Incidencia marginal:** existe alguna influencia indirecta, eventual o muy pequeña que no modifica la identidad, responsabilidades ni restricciones materiales del fundamento. Señalar exactamente qué influencia existe y por qué se considera marginal, sin elevarla a complemento o condición sustantiva.
+
+Así, la clasificación a contrastar por fundamento es **origen, complemento, condición, incidencia marginal o sin incidencia**; las relaciones de origen pueden ser múltiples y una orientación puede cumplir más de una función cuando esté justificado, sin perder la explicación específica. **Mínimo obligatorio: al menos un origen real.** Si no aparece, abrir brecha de justificación; no atribuir relaciones artificiales para completar la tabla.
+
+Las tablas existentes todavía contienen formulaciones preliminares: deberán revisar expresamente las filas de incidencia marginal y ausencia de relación durante el trabajo individual, iniciando por F01. No se cierra aún la auditoría.
