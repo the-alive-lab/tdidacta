@@ -14,6 +14,7 @@
 - [Mechanisms](mechanisms/README.md): mecanismos y operaciones candidatas.
 - [Relationships](relationships/README.md): relaciones conceptuales candidatas.
 - [Lifecycle](lifecycle/README.md): coordinación recursiva candidata.
+- [Transparencia](transparency/README.md): atribución, anonimato y clasificación candidata de los recursos del servicio.
 - [Products](products/README.md): familia de productos provisional y fronteras abiertas.
 - [Bootstrap](bootstrap/README.md): historia y procedencia; no sustituye el canon.
 - [Bootstrap operativo V6](notes/tdidacta-v6-coverage-bootstrap.md): seguimiento vivo de 28 tópicos y contraste con VSlices; no altera el canon.
