@@ -1,6 +1,6 @@
 # Fuentes, inferencias de IA e incertidumbre — propuesta T03
 
-**Seguimiento:** T03 revisado con aprobación expresa del mecanismo conceptual (2026-10-16); falta registrar la decisión formal de cierre. **Estado epistemológico:** delimitación y mecanismo conceptuales aceptados, sin validación automática ni esquema técnico universal.
+**Seguimiento:** T03 **cerrado** por decisión expresa del fundador (2026-10-16); reducción de carga y validación de implementación quedan como trabajo posterior. **Estado epistemológico:** delimitación y mecanismo conceptuales aceptados, sin validación automática ni esquema técnico universal.
 
 ## Problema
 
