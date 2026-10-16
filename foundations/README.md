@@ -6,7 +6,7 @@
 
 | Documento | Responsabilidad | Estado |
 | --- | --- | --- |
-| [Enseñanza y aprendizaje](teaching-and-learning.md) | Orientación que reconoce a quien enseña y a quien aprende como participantes activos | Basado en canon vigente |
+| [Enseñanza y aprendizaje](teaching-and-learning.md) | Fundamento de participación activa de quien enseña y aprende, originado en orientación principal | Reconocido como fundamento por el fundador |
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
 | [Abstracción semántica](semantic-abstraction.md) | Documentación semántica a IR (encode) | Concepto transversal confirmado por fundador; formalización pendiente |
 | [Proyección semántica](semantic-projection.md) | IR individual/combinada a resultados de dominio (decode) | Concepto transversal confirmado por fundador; formalización pendiente |
@@ -17,7 +17,7 @@
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
 | [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Lectura asistida de fuentes con responsabilidad humana y separación de inferencias | Candidato |
 | [Autoría pedagógica](pedagogical-authorship.md) | Participación, tipos de contribución y autorización humana, sin roles universales | Candidato |
-| [Resolución recursiva de necesidades](../lifecycle/recursive-pedagogical-resolution.md) | Relación entre necesidad, intención, espacio, operaciones y nuevas necesidades; hipótesis entre flavors | Candidato |
+| [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
 
 Los mecanismos candidatos se consultan en [Mechanisms](../mechanisms/README.md) y la coordinación del ciclo en [Lifecycle](../lifecycle/README.md).
@@ -42,4 +42,4 @@ La [orientación principal](../orientation/README.md) es transversal a **cada fu
 
 **Cualquier orientación agregada, retirada o alterada sustantivamente desencadena una revisión de todos los fundamentos y sus tablas**, para evitar drift documental. La revisión puede concluir «sin cambio» con una razón; no obliga a adoptar propuestas. Mantener correspondencia entre índice y documentos y registrar hallazgos de insuficiencia o contradicción.
 
-**Delimitación de superficies de este índice:** [Enseñanza y aprendizaje](teaching-and-learning.md) principalmente desarrolla la orientación principal, [Inventario](concept-candidates.md) agrupa candidatos múltiples y [Alcance y promoción](scope-and-promotion.md) establece criterios editoriales. No deben computarse automáticamente como tres fundamentos individuales huérfanos. Para estos documentos, la trazabilidad se aplica al nivel de conceptos materiales y su responsabilidad editorial.
+**Delimitación de superficies de este índice:** [Enseñanza y aprendizaje](teaching-and-learning.md) se conserva **como fundamento** que concreta la orientación principal; [Resolución recursiva](recursive-pedagogical-resolution.md) se distingue de su coordinación en Lifecycle. [Inventario](concept-candidates.md) agrupa candidatos múltiples y **su posible función de formalización operable permanece en estudio**, no se ha promovido a mecanismo. [Alcance y promoción](scope-and-promotion.md) establece criterios editoriales. Para estos documentos, la trazabilidad se aplica al nivel de conceptos materiales y su responsabilidad editorial.
