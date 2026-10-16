@@ -140,6 +140,14 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### T05 — aplazamiento de ambos mecanismos de feedback (2026-10-16)
+
+- **Decisión expresa:** [generación de feedback](../mechanisms/feedback-generation.md) y [trazabilidad de feedback](../mechanisms/feedback-traceability.md) quedan **ambos diferidos por ahora** como mecanismos candidatos; no se requiere su definición técnica, implementación o validación para la publicación de PResolver del 31-10-2026.
+- **No se eliminan:** permanecen separados y documentados. La trazabilidad podrá investigarse con automatización parcial o completa; no se presume fiabilidad.
+- **Sin arrastre de plazo:** el mecanismo conceptual de [revisión y corrección](../mechanisms/pedagogical-review-and-correction.md) conserva su estado candidato y el [apoyo a revisión](../mechanisms/pedagogical-review-assistance.md) permanece diferido según decisión anterior.
+- **Límites:** tratamiento de datos personales, privacidad y consentimiento no se aplazan automáticamente. T05 continúa **Revisado**, pendiente de cierre humano y retroalimentación transversal.
+
+
 ### T05 — ampliación de mecanismos y orientación humana (2026-10-16)
 
 - **Decisión del fundador:** conservar como **candidatos distinguibles** [revisión y corrección](../mechanisms/pedagogical-review-and-correction.md), [generación de feedback](../mechanisms/feedback-generation.md) y [trazabilidad de feedback](../mechanisms/feedback-traceability.md). El mecanismo de revisión posee delimitación suficiente para estado candidato; no significa implementación o validación.
