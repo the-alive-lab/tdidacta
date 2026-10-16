@@ -108,6 +108,11 @@ Los mecanismos que realicen este fundamento deberán explicar cómo responden a 
 | [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Exige procurar una distribución del esfuerzo que no vuelva impracticable la formulación, seguimiento y revisión de intenciones. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Complemento** | Exige distinguir la intención formulada de su eventual aprobación humana. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Complemento** | Permite reconocer contribuciones relevantes a la construcción y revisión de intenciones sin equipararlas a aprobación. |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Incidencia marginal** | Priorizar comprender necesidades y formular intenciones antes de producir realizaciones puede favorecer el uso de estos conceptos, pero no determina su definición ni el espacio de posibilidades. |
+
+### Revisión de O6
+
+La incidencia de O6 es **marginal**: favorece concentrar atención en interpretar necesidades y formular intenciones, pero la inversión del esfuerzo se vuelve **condición material en F03**, donde se exige documentar suficientemente. La tensión O3/O6 no se activa automáticamente en F02 por esta relación marginal.
 
 ## 11. Criterio de mantenimiento
 
