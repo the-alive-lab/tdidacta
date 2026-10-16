@@ -19,7 +19,7 @@
 
 ## Aplicabilidad y seguimiento
 
-- **F02 — Necesidades e intenciones:** candidato de aplicación, al tener O1 como origen y O3 como condición. Sigue en revisión individual.
+- **F02 — Necesidades e intenciones:** aplicación **reconocida por el fundador** tras reconciliación: O1 es origen, O3 condición y O2 complemento que puede atenuar la tensión. Los mecanismos aún deben demostrar su respuesta y sus límites.
 - En otros fundamentos, comprobar si **O1 y O3 inciden materialmente** y registrar la respuesta exigible a sus mecanismos; no imponerla por menciones marginales o sin incidencia.
 - Las respuestas pueden ser manuales o asistidas, deberán explicitar costos y límites, y no equivalen a resolución demostrada.
 - Posible continuidad investigativa con T18 (carga humana neta) y T15 (conformidad semántica), sin anticipar resultados.
