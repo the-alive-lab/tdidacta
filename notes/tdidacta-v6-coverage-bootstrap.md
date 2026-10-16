@@ -62,7 +62,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
-| T04 | Contextualización pedagógica humana | En curso | [T04](../foundations/human-pedagogical-contextualization.md); [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [Proyección](../mechanisms/document-to-intermediate-projection.md), [IR](../structures/tdidacta-intermediate-representation.md) deben especificarse antes del 31-10-2026 |
+| T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
@@ -139,6 +139,48 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Cierre conceptual de T04 y retroalimentación transversal — 2026-10-16
+
+- **Cierre expresamente autorizado:** contextualización humana resulta en intención pedagógica, subdivisiones pertinentes y situaciones válidas, que son distinguibles del contenido/intención en sí. Una intención puede corresponder a más de una situación. Estas distinciones informan exploración y realización.
+- **Arquitectura acordada:** Docs Standard documenta intenciones y situaciones; [abstracción semántica](../foundations/semantic-abstraction.md) transforma documentación en IR; [proyección semántica](../foundations/semantic-projection.md) transforma IR individual o combinada en resultados del dominio. [Continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md) son orientaciones distintas y complementarias. La especificación de estructura tiene la superficie [TDidacta IR Specification](../products/ir-specification/README.md).
+- **Compromisos independientes NO completados por el cierre:** definición del [mecanismo documental Docs Standard](../mechanisms/pedagogical-intent-documentation.md), del [mecanismo de abstracción](../mechanisms/document-to-intermediate-projection.md) y de [IR Specification](../products/ir-specification/README.md) **antes del 31-10-2026**. [Proyección IR→dominio](../mechanisms/intermediate-to-domain-projection.md) queda pendiente de precisión de contrato/plazo, sin convertir automáticamente su implementación integral en prerrequisito de cierre T04.
+- **Estado epistemológico:** decisiones conceptuales aprobadas, sin validación de fidelidad automatizada, calidad pedagógica, generación LLM ni adopción general de contratos en PResolver. El mecanismo detallado de interpretación IA de T02 permanece pospublicación.
+- **Control retrospectivo de T01–T03:** contrastados contra sus fronteras autorizadas; **no se detectan contradicciones**. Se preserva separación autoría/autorización (T01), interpretación de fuentes vs abstracción de intención (T02), y clasificación de evidencia vs conformidad de IR (T03). Sin reaperturas.
+- **Revisión transversal:** 27 receptores examinados, con estados inalterados. Los impactos representan continuidad y preguntas, no cierres ni validación de esos otros tópicos.
+
+| Receptor | Impacto | Continuidad o delimitación heredada | Pendiente propio |
+| --- | --- | --- | --- |
+| T01 | Cerrado, consistente | Responsabilidades distintas aunque una sola persona contextualice, planifique y autorice; destinatarios pueden ser otros | Sin reapertura; autoría no sustituye autorización |
+| T02 | Cerrado, consistente | Interpretación desde cero o de fuentes asistida puede anteceder a contextualización; mecanismo IA de fuentes sigue pospublicación | No exigir mecanismo T02 para Docs Standard ni encode |
+| T03 | Cerrado, consistente | Documentación y abstracción conservan procedencia, inferencias y dudas relevantes; evitar carga de clasificación manual exhaustiva | No equiparar IR con evidencia verificada |
+| T05 | Directo | La intención y situaciones documentadas son objetos revisables; corrección humana distinta de encode | Criterios y acciones de revisión |
+| T06 | Directo | La formalización en Docs/IR no implica autorización; responsable autoriza conforme a contexto | Alcance de aprobación |
+| T07 | Directo | Publicar realización no equivale a publicar intención, situación ni IR | Flujos y condiciones de publicación |
+| T08 | Directo | Relacionar documentos, intenciones, situaciones, abstracción e IR demanda procedencia reconstruible | Granularidad mínima |
+| T09 | Directo | Cambios en situación no deben redefinir silenciosamente intención; versiones de Docs/IR relacionadas | Versionado y correspondencias |
+| T10 | Directo | Intención y contexto explícitos apoyan continuidad entre actores | Qué debe permanecer interpretable |
+| T11 | Parcial | Distinguir intención de situación permite entregar contexto a responsable sucesor | Responsabilidades y aceptación de handoff |
+| T12 | Directo | Cambios de una situación afectan proyecciones sin necesariamente cambiar intención | Análisis de impacto y reabstracción |
+| T13 | Directo | La realización exportada tiene que mantenerse diferenciada de IR e intención, sin regeneración obligatoria | Contrato de exportación |
+| T14 | Directo | Docs e IR pueden ser portables en formas distintas | Portabilidad semántica y técnica |
+| T15 | Directo | Separar abstracción (Docs→IR) y proyección (IR→resultado) permite contrastes de fidelidad distintos | Oráculos y garantías por frontera |
+| T16 | Parcial | Preservar intención/situación no garantiza buena experiencia educativa | Evaluación pedagógica independiente |
+| T17 | Sin avance directo | Proyección adecuada no demuestra comprensión o autonomía del aprendiz | Mediciones de resultados |
+| T18 | Directo | Documentar, mantener, corregir y proyectar puede aumentar trabajo humano | Evaluación del esfuerzo neto |
+| T19 | Parcial | Situaciones incluyen medios disponibles y accesibilidad pertinente a realizaciones | Criterios accesibles específicos |
+| T20 | Directo | Una intención puede tener varias situaciones válidas, incluidas docentes e institucionales | Límites de adaptación por contexto |
+| T21 | Sin avance directo | Situación institucional no impone coordinación o aprobaciones multinivel | Coordinación institucional sigue separada |
+| T22 | Directo | Documentar situaciones personales y usar LLM requiere límites de privacidad, permisos y minimización | Controles previos al tratamiento real |
+| T23 | Parcial | Publicar comunitariamente no transfiere por sí mismo derechos sobre fuente o situación | Autorización y licencias |
+| T24 | Parcial | IR Specification es estructura conceptual propia; no promete interoperabilidad técnica | Contratos e implementación |
+| T25 | Directo | LLM pueden asistir encode y decode; no los hacen obligatorios ni autorizan inferencias añadidas | Modos y controles de inferencia |
+| T26 | Antecedente | Costos de IA/documentación pueden incidir en acceso público | Sostenibilidad sin cálculos adoptados |
+| T27 | Parcial | Conservar documentación e IR puede facilitar continuidad tras cierre de servicio | Recuperabilidad demostrable |
+| T28 | Sin avance directo | Responsabilidad de Docs Standard/IR no redefine al operador The Alive Lab | Separación proyecto/organización |
+
+**Resultado:** T04 **Cerrado** en seguimiento conceptual; quedan **24 tópicos pendientes** de los 28 originales. Siguientes posibilidades: T05 como tópico; entregables de T04 como trabajos separados con deadline obligatorio.
+
 
 ### Dos orientaciones complementarias — precisión T04 (2026-10-16)
 
