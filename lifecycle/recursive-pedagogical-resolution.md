@@ -31,15 +31,17 @@ flowchart TB
     O -.->|"podría ser<br/>suficiente"| C["Cierre de esta<br/>necesidad"]
 ```
 
-**Cómo leerlo:** las flechas continuas ayudan a reconocer relaciones principales de este modelo candidato; las discontinuas identifican **continuidades posibles**, no etapas obligatorias. Explorar y realizar son operaciones distintas que pueden alternarse o repetirse; ninguna exige que la otra ocurra antes. Una exploración puede producir comprensión o preguntas sin generar una realización.
+**Cómo leerlo:** las flechas continuas ayudan a reconocer relaciones principales de este modelo candidato; las discontinuas identifican **continuidades posibles**, no etapas obligatorias. Explorar y realizar son operaciones distintas que pueden alternarse o repetirse; ninguna exige que la otra ocurra antes. Una exploración puede producir comprensión o preguntas sin generar una realización. El retorno desde «Nueva necesidad» al nodo «Intención pedagógica» reutiliza el **concepto visual**, no necesariamente la misma intención: puede formularse una intención nueva con un espacio distinto.
 
 **Alternativa textual:** una necesidad puede motivar una intención; esa intención delimita un espacio de posibilidades. En él se puede explorar para comprender o realizar para concretar una respuesta. Los hallazgos y resultados pueden informar revisiones; una realización puede considerarse suficiente o revelar una necesidad adicional. No se requiere subdivisión, cierre formal ni un orden único.
 
-**Límite:** la posición de los nodos no prescribe fases, jerarquías ni cardinalidades. La aparición de «cierre» no garantiza aprendizaje, y la «otra intención» no tiene por qué ser más pequeña que la original. El diagrama no demuestra que este lifecycle sea universal ni que haya sido adoptado como metodología.
+**Límite:** la posición de los nodos no prescribe fases, jerarquías ni cardinalidades. La aparición de «cierre» no garantiza aprendizaje. El retorno desde «Nueva necesidad» no implica revisar necesariamente la intención anterior ni exige que la nueva necesidad sea más pequeña. El diagrama no demuestra que este lifecycle sea universal ni que haya sido adoptado como metodología.
 
 **Experimento editorial relacionado:** [comparación Mermaid y SVG](visual-comparison-mermaid-svg.md). Se conserva como contraste de formatos, no como segunda definición del lifecycle.
 
 ## Recursividad
+
+El diagrama representa la **recurrencia posible del patrón de resolución**, no todas las relaciones entre intenciones. Una realización también puede dar lugar a una intención más específica; esa especialización no es obligatoria ni es la única forma de continuidad.
 
 Una realización sobre una intención amplia puede producir una intención más específica: por ejemplo, una planificación anual puede concretarse en planificaciones de menor alcance y estas en unidades, clases o actividades.
 
