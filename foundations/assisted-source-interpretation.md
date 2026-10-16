@@ -1,12 +1,14 @@
 # Interpretación asistida de fuentes educativas — propuesta T02
 
-**Estado:** candidato revisado; no adoptado como especificación universal ni implementado. Fecha: 2026-10-16.
+**Estado del tópico T02:** cerrado por aprobación expresa del fundador (2026-10-16). **Estado del mecanismo:** delimitación conceptual aceptada, no especificación técnica universal ni implementación validada.
 
 ## Problema y alcance
 
-Una necesidad pedagógica puede abordarse desde una formulación humana manual o mediante interpretación asistida de materiales educativos cuyo uso esté autorizado. Interpretar una fuente **no** equivale a copiarla, declarar que todas sus afirmaciones son correctas ni generar inmediatamente una realización. La función de la asistencia es **proponer una lectura estructurada y revisable**, útil para que una persona responsable formule o refine su propia intención pedagógica.
+La vía normal puede comenzar con una **interpretación elaborada desde cero** por la persona responsable, sin fuente documental obligatoria ni asistencia de IA. Como **camino complementario**, una necesidad pedagógica también puede abordarse mediante interpretación asistida de materiales educativos cuyo uso esté autorizado. Interpretar una fuente **no** equivale a copiarla, declarar que todas sus afirmaciones son correctas ni generar inmediatamente una realización. La función de la asistencia es **proponer una lectura estructurada y revisable**, útil para que una persona responsable formule o refine su propia intención pedagógica.
 
 La fuente puede expresar contenidos, relaciones, ejemplos, restricciones, supuestos o lagunas. La interpretación puede proponer objetivos, prerrequisitos, dependencias, dificultades, exclusiones y posibilidades de enseñanza, **identificando qué procede de la fuente y qué es elaboración inferencial**.
+
+**Decisión aprobada:** TDidacta reconoce la interpretación asistida de fuentes con supervisión humana sin imponer un mecanismo técnico universal. No reemplaza ni subordina la interpretación que una persona construye desde cero.
 
 ## Fronteras de responsabilidad
 
