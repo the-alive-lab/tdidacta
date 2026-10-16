@@ -21,16 +21,16 @@ flowchart LR
     I["Intención<br/>pedagógica"]
     subgraph S["Espacio de posibilidades delimitado"]
         direction TB
-        D["Condiciones, propósitos<br/>y restricciones"]
-        E["Exploración dentro<br/>del alcance"]
+        D["Condiciones,<br/>propósitos<br/>y restricciones"]
+        E["Exploración<br/>dentro del<br/>alcance"]
         D -.->|"orientan"| E
     end
     X["Reconocer cambio<br/>de alcance"]
-    F["Exploración adicional<br/>fuera del espacio original"]
+    F["Exploración<br/>adicional fuera<br/>del espacio<br/>original"]
 
     I -->|"delimita"| D
     E -.->|"puede extenderse"| X
-    X -->|"continuar sin atribuirla<br/>al espacio original"| F
+    X -->|"continuar sin<br/>atribuirla al<br/>espacio original"| F
 ```
 
 **Cómo leerlo:** el contenedor representa el alcance de posibilidades delimitadas por una intención pedagógica, **no un límite a la curiosidad**. Dentro puede realizarse una exploración conforme a las condiciones declaradas. Si surge interés por algo fuera del espacio original, la exploración puede continuar, reconociendo el cambio de alcance. Las conexiones discontinuas expresan posibilidades, no pasos obligatorios.
