@@ -14,7 +14,7 @@ Esto vale para una interpretación creada desde cero y para propuestas obtenidas
 
 Se identifican tres artefactos cuyo **diseño debe quedar definido antes del deadline 31-10-2026**, sin desarrollarlos completamente en esta revisión: [Documentación mediante Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [Proyección documental asistible por IA](../mechanisms/document-to-intermediate-projection.md) y [Representación intermedia por intención](../structures/tdidacta-intermediate-representation.md). La representación puede distribuirse en varios archivos y conservar varias situaciones por intención.
 
-**Proyección semántica:** el fundador confirma su carácter de **facultad transversal de la familia PResolver**. Su [definición y especialización pedagógica](semantic-projection.md) distinguen documentación, *encode*, IR individual/combinada y *decode* a exploraciones o realizaciones. Permanece por investigar el reparto definitivo entre orientación, fundamento y mecanismos; no se confunde con interpretación de fuentes de T02.
+**Abstracción semántica y proyección semántica:** el fundador las distingue como **dos fundamentos comunes a la familia PResolver**: [abstracción](semantic-abstraction.md) transforma documentación en IR (*encode*); [proyección](semantic-projection.md) transforma una o varias IR en elementos de dominio (*decode*). La orientación propuesta reconoce las posibilidades habilitadas por tecnologías actuales, especialmente LLM, sin convertirlos en dependencia universal. TDidacta sitúa la especificación de su IR en [tdidacta/ir-specification](../products/ir-specification/README.md).
 
 ## Elementos que pueden ser pertinentes
 
