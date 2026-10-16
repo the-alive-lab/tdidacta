@@ -64,7 +64,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
 | T05 | Revisión y corrección pedagógica | Cerrado | [Fundamento](../foundations/pedagogical-review-and-correction.md); tensión hacia T06; feedback diferido |
-| T06 | Autoridad y autorización de realizaciones | En curso | [Propuesta T06](../foundations/pedagogical-authorization.md); resolver tensión de revisión proporcional heredada de T05 |
+| T06 | Autoridad y autorización de elementos pedagógicos | En curso | [Fundamento T06](../foundations/pedagogical-authorization.md); autorización por titular de cuenta; [versionamiento candidato](../mechanisms/pedagogical-element-versioning.md); pendiente cierre explícito |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
 | T09 | Versionamiento de fuentes, intenciones y realizaciones | Pendiente | — |
@@ -139,6 +139,15 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T06 — autoridad de cuenta y versionamiento candidato (2026-10-16)
+
+- **MVP aprobado:** la persona titular de la cuenta, en el caso de profesor particular, autoriza lo que está listo; casos colaborativos/institucionales/multinivel permanecen después del deadline.
+- **Objetos autorizables:** planificaciones, unidades, clases, actividades y cualquier elemento representable mediante intenciones pedagógicas.
+- **Impacto y reautorización:** actualmente la persona particular determina manualmente el alcance afectado y sus dependencias, revisa y reautoriza; el objetivo es apoyo automático para reducir esfuerzo sin transferir autoridad.
+- **Mecanismo nuevo candidato:** [versionamiento de elementos pedagógicos](../mechanisms/pedagogical-element-versioning.md), para reconocer evolución y alcances autorizados, sin especificación técnica ni validación; continuidad con T09/T12.
+- **Cierre:** no declarado todavía; permanecen actividades de especificación/automatización separadas del fundamento. Sin feedback transversal de T06 ni auditoría de Relationships/Lifecycle antes de cierre.
+
 
 ### T06 — declaración de impacto y declaración de cambios (2026-10-16)
 
