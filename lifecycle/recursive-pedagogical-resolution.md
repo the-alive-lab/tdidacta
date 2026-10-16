@@ -18,16 +18,16 @@ Una realización puede responder suficientemente a la necesidad, resultar insufi
 
 ```mermaid
 flowchart TB
-    N["Necesidad pedagógica"] -->|puede motivar| I["Intención pedagógica"]
-    I -->|delimita| S["Espacio de posibilidades"]
+    N["Necesidad<br/>pedagógica"] -->|puede motivar| I["Intención<br/>pedagógica"]
+    I -->|delimita| S["Espacio de<br/>posibilidades"]
     S -->|consultar o recorrer| E["Explorar: comprender"]
     S -->|concretar dentro de límites| R["Realizar: responder"]
     E --> H["Hallazgos, comprensión o preguntas"]
     R --> O["Resultados u observaciones"]
     H -.->|puede informar revisión| I
     O -.->|puede motivar revisión| I
-    O -.->|puede revelar| NN["Nueva necesidad"]
-    NN -.->|puede motivar| I2["Otra intención"]
+    O -.->|puede revelar| NN["Nueva<br/>necesidad"]
+    NN -.->|puede motivar| I2["Otra<br/>intención"]
     O -.->|podría ser suficiente| C["Cierre de esta necesidad"]
 ```
 
