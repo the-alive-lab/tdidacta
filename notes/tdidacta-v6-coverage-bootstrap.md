@@ -514,3 +514,10 @@ El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan esta
 - La amplitud suele corresponder a intenciones más amplias, pero el alcance exacto se determina por impacto, no solo jerarquía.
 - La operación actual es manual; se busca automatizar la detección y el soporte sin delegar autorización humana.
 - La tensión conceptual T05→T06 queda precisada en cuanto al alcance de revisión. Persisten preguntas técnicas de identificación de dependencias y trazabilidad. T06 sigue abierto hasta cierre solicitado.
+
+### T06 — frontera entre declaración de impacto y revisión de cambios (2026-10-16)
+
+- **Declaración de impacto:** interpretar el cambio de necesidad y determinar qué elementos, exploraciones, realizaciones y dependencias se ven afectados y si siguen siendo válidos.
+- **Declaración de cambios**, también **revisión de cambios:** tomar lo afectado y adecuarlo a la nueva necesidad; actualizar documentación y, por extensión, regenerar IR y reevaluar impacto según sea necesario.
+- Son responsabilidades distintas, no dos nombres de la misma detección. El mecanismo candidato de drift asiste principalmente a identificar impacto, sin sustituir la revisión/adaptación humana ni la autorización.
+- T06 permanece en curso. Se conserva la secuencia: cierre T06, feedback transversal, auditoría posterior de Relationships/Lifecycle.
