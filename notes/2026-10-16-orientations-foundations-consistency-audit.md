@@ -62,3 +62,24 @@ Se evalúa **justificación**, no deducción lógica exclusiva. Una orientación
 - Se actualizó el índice de Foundations para reflejar T06 cerrado. Este tratamiento corrige trazabilidad, **no** determina que toda relación de orientación sea exhaustiva ni crea nuevas orientaciones, fundamentos o validaciones empíricas.
 
 **Estado de esta auditoría:** primera aplicación de trazabilidad documental ejecutada; siguen abiertas las preguntas de suficiencia explicativa de autoría y autoridad, sin promover una orientación adicional. No se avanzó todavía a Mechanics o Relationships.
+
+## Segunda reconciliación del fundador — decisiones y distinciones (2026-10-16)
+
+**Decisiones aprobadas en esta revisión:**
+
+1. **Enseñanza y aprendizaje se conserva como fundamento**: concretar conceptualmente la orientación principal facilita trazar el origen de los fundamentos y su posterior realización, sin fusionar Orientation y Foundations.
+2. **Necesidades e intenciones:** O0 es su justificación central y O1 permite reconstruir el significado; se corrigió la tabla del fundamento.
+3. **Contextualización humana:** O0 explica su finalidad principal; O1 hace reutilizables y reconstruibles sus decisiones en el tiempo, explicitado en su tabla.
+4. **Abstracción/proyección:** mantienen O1+O2 como motivaciones específicas y O0 como orientación transversal.
+5. **Revisión/corrección:** articular las orientaciones existentes, conservando revisión distinta de autorización.
+6. **Nueva orientación de [autorización humana](../orientation/human-pedagogical-authorization.md):** O0 no establece quién autoriza; la nueva orientación explica el juicio humano de aprobación, con titular de cuenta como especialización MVP, no regla universal.
+7. **Nueva orientación de [reconocimiento transparente y trazable de aportes](../orientation/transparent-contribution-recognition.md):** justifica directamente autoría y atribución, sin confundirlas con autorización o derechos.
+8. **Interpretación asistida:** principalmente O0+O2+O3; O1 es soporte indirecto para preservar significado, no razón primaria.
+9. **Fuentes, inferencias e incertidumbre:** relación material con orientación de autorización humana para evitar atribución de autoridad a inferencias no revisadas; reconocimiento de aportes complementa procedencia.
+10. **Resolución recursiva se reconoce como fundamento** por la misma motivación que necesidades/intenciones. Se añadió [fundamento específico](../foundations/recursive-pedagogical-resolution.md) y se mantuvo [Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) como coordinación temporal distinta.
+
+**Hipótesis no decidida:** [Inventario de conceptos candidatos](../foundations/concept-candidates.md) podría ser mecanismo de formalización utilizable o seguir como índice editorial; **no reubicarlo** hasta contrastar su responsabilidad real.
+
+**Regla de propagación aplicada:** las dos orientaciones nuevas motivaron revisión y actualización de las tablas de los nueve fundamentos individuales preexistentes, incorporación de la tabla del nuevo fundamento de resolución recursiva y actualización del fundamento de enseñanza/aprendizaje. Un enlace de trazabilidad no prueba eficacia ni exige que todas las orientaciones sean igualmente constitutivas.
+
+**Interpretación de capas, sujeta a futuras auditorías:** orientaciones motivan fundamentos; fundamentos justifican mecanismos; relaciones vinculan responsabilidades/operaciones expresadas en mecanismos; Lifecycle coordina relaciones en el tiempo. Es un principio de **trazabilidad justificativa**, no una regla que impida relaciones entre fundamentos ni una cadena de dependencia uno-a-uno. Todavía **no se ejecutó la auditoría Foundations→Mechanisms ni Mechanisms→Relationships**.
