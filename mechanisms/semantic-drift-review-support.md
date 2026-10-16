@@ -6,11 +6,11 @@
 
 Reducir el esfuerzo humano necesario para **identificar diferencias semánticas y dependencias potencialmente afectadas** por cambios en necesidades, documentación de intenciones y situaciones, y representaciones intermedias reinterpretadas.
 
-El mecanismo debería priorizar la **coherencia y validez de exploraciones y realizaciones existentes frente a la necesidad/documentación actualizada**, utilizando diferencias entre IR regeneradas solo como posible insumo instrumental. Debe asistir la **declaración de impacto** (lo existente responde o no) y, si hay insuficiencia, ayudar a delimitar el alcance de una **declaración de cambios** (qué revisar, corregir o ampliar). **No reemplaza el deber de revisar y autorizar nuevamente elementos dependientes afectados** ni confirma automáticamente si existe conformidad.
+El mecanismo debería priorizar la **coherencia y validez de exploraciones y realizaciones existentes frente a la necesidad/documentación actualizada**, utilizando diferencias entre IR regeneradas solo como posible insumo instrumental. Debe asistir principalmente la **declaración de impacto** (interpretar el cambio e identificar lo afectado y su vigencia) y aportar información a la posterior **declaración de cambios o revisión de cambios** (adecuar lo afectado a la nueva necesidad). La segunda es una responsabilidad de adaptación, no otro nombre para detectar el impacto. **No reemplaza el deber de revisar y autorizar nuevamente elementos dependientes afectados** ni confirma automáticamente si existe conformidad.
 
 ## Evento de interés
 
-Cambio externo → necesidad cambia → documentación se desincroniza → documentación se actualiza → IR se regenera → **declaración de impacto** sobre exploraciones y realizaciones → si hay insuficiencia, **declaración de cambios** y nueva actualización documental → nueva IR → reevaluación. Las autorizaciones de elementos afectados siguen siendo humanas.
+Cambio externo → necesidad cambia → documentación se desincroniza → documentación se actualiza → IR se regenera → **declaración de impacto** sobre exploraciones y realizaciones → si hay insuficiencia, **declaración de cambios / revisión de cambios** para adecuar lo afectado, actualización documental → nueva IR → reevaluación. Las autorizaciones de elementos afectados siguen siendo humanas.
 
 La regeneración de IR pertenece al mecanismo de abstracción; este mecanismo asiste a **detectar y comunicar incoherencias, pérdida de cobertura de la necesidad, dependencias y riesgos de drift**, no a tratar cualquier diferencia estructural como un fallo. El versionamiento y la procedencia corresponden a T08/T09, los impactos a T12 y la conformidad a T15.
 
