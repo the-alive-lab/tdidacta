@@ -57,7 +57,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 | ID | Tópico | Estado de seguimiento | Resultado / enlace |
 | --- | --- | --- | --- |
-| T01 | Autoría pedagógica | Pendiente | — |
+| T01 | Autoría pedagógica | Revisado | [Propuesta candidata](../foundations/pedagogical-authorship.md); aprobación canónica pendiente |
 | T02 | Interpretación asistida de fuentes educativas | Pendiente | — |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
@@ -87,6 +87,20 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T28 | Relación entre TDidacta y la organización operadora de The Alive Lab | Pendiente | — |
 
 ## Bitácora de ejecución
+
+
+### T01 — Autoría pedagógica (2026-10-16)
+
+- **Estado de seguimiento:** Revisado. No cerrado; propuesta candidata redactada, promoción canónica pendiente de decisión humana.
+- **Responsable:** Research (revisión documental y propuesta).
+- **Problema y alcance:** reconocer contribuciones a fuentes, intenciones y realizaciones sin asumir que crear, interpretar, aprobar, publicar o poseer derechos son la misma responsabilidad.
+- **TDidacta / V6:** [Conceptos candidatos](../foundations/concept-candidates.md), [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md), [Enseñanza y aprendizaje](../foundations/teaching-and-learning.md), [Gobernanza](../governance/README.md) y [V6 aprobada](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md). Ya existían participación activa, responsabilidad compartida y autoría ≠ autoridad; faltaba una delimitación enfocada.
+- **VSlices:** reutilizable separar titularidad semántica/uso/realización y exigir procedencia para promoción ([Relationships](https://github.com/the-alive-lab/vslices/blob/main/relationships/README.md), [Promotion](https://github.com/the-alive-lab/vslices/blob/main/promotion/README.md)); adaptable la trazabilidad proporcional; no aplicable copiar sin examen roles o categorías de ingeniería; incierto un modelo transversal de atribución.
+- **Investigación y límite:** V6 es maestro editorial en Research, no estudio demostrativo de modelos de autoría. No se atribuye eficacia o factibilidad validada a las distinciones.
+- **Decisión documental:** proponer una sola nota candidata y enlazarla desde Foundations; no alterar las definiciones vigentes ni institucionalizar un sistema de permisos.
+- **Salida:** [Autoría pedagógica — propuesta candidata](../foundations/pedagogical-authorship.md); índice [Foundations](../foundations/README.md).
+- **Decisiones pendientes:** si promover y bajo qué alcance la definición de autoría; criterios de atribución en entornos colaborativos o autodidactas; separación de derechos y autorización (T05, T06, T22).
+- **Siguiente acción:** revisión humana de T01; siguiente tópico disponible T02, sin ejecutarlo en esta intervención.
 
 - **2026-10-16 — Inicialización:** inventario de 28 tópicos reconstruido desde la conversación sobre V6; contraste de estructura con `the-alive-lab/vslices` incorporado como paso transversal, sin adopción de su taxonomía. No se declara ninguno revisado o cerrado sin aplicar el procedimiento.
 - **Siguiente selección sugerida:** T01 — Autoría pedagógica. La sugerencia no es prioridad irrevocable.
