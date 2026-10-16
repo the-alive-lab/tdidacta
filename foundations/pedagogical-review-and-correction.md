@@ -86,4 +86,7 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Herramientas pueden asistir, sin sustituir juicio humano. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Evitar revisiones innecesarias y reducir esfuerzo neto por evaluar. |
 
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | La revisión puede asistir el juicio de autorización, pero nunca autoriza por sí sola. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Feedback y correcciones relevantes han de permitir reconocer aportes cuando corresponda. |
+
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
