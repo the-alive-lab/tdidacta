@@ -63,7 +63,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
-| T05 | Revisión y corrección pedagógica | Revisado | [Fundamento](../foundations/pedagogical-review-and-correction.md), [revisión](../mechanisms/pedagogical-review-and-correction.md), [generación de feedback](../mechanisms/feedback-generation.md), [trazabilidad](../mechanisms/feedback-traceability.md); [apoyo](../mechanisms/pedagogical-review-assistance.md) diferido; cierre pendiente |
+| T05 | Revisión y corrección pedagógica | Cerrado | [Fundamento](../foundations/pedagogical-review-and-correction.md); tensión hacia T06; feedback diferido |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
@@ -139,6 +139,43 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Cierre T05 y revisión transversal (2026-10-16)
+
+**Decisión:** cierre conceptual autorizado. Tensión abierta T05→T06: determinar cómo conciliar la obligación de revisar con proporcionalidad, sin imponer revisión exhaustiva ni procedimiento universal. Mecanismo de revisión candidato; mecanismos de feedback y apoyo diferidos. No implica validación ni ejecución técnica.
+
+**Revisión individual de los otros 27 tópicos**, incluyendo cuatro ya cerrados, sin modificar sus estados:
+
+- T01: sin contradicción autoría/revisión/autorización
+- T02: sin contradicción interpretación/revisión
+- T03: clasificación no sustituye revisión
+- T04: Docs/IR/situación revisables; deadline vigente
+- T06: tensión revisión proporcional/autorización pendiente
+- T07: revisión no publica
+- T08: trazabilidad de correcciones distinta de feedback diferido
+- T09: versiones de objetos corregidos
+- T10: continuidad de revisión entre actores
+- T11: traspaso de responsabilidad por revisar
+- T12: impacto de cambios sin aprobación automática
+- T13: revisión no exige regenerar exportaciones
+- T14: portabilidad de decisiones de revisión
+- T15: conformidad distinta de juicio de revisión
+- T16: revisión distinta de evaluación de calidad
+- T17: revisión no demuestra aprendizaje
+- T18: medir carga y capacidad por separado
+- T19: accesibilidad pertinente a situación
+- T20: revisión contextual sin cambiar intención
+- T21: no se impone aprobación institucional universal
+- T22: privacidad vigente pese al diferimiento de feedback
+- T23: feedback no autoriza publicación
+- T24: revisión compatible con autoalojamiento
+- T25: asistencia inferencial diferida
+- T26: costo de revisión afecta sostenibilidad
+- T27: recuperabilidad de decisiones según el caso
+- T28: revisión no redefine rol del operador
+
+**Secuencia:** abrir T06; cuando T06 sea cerrado y retroalimentado, auditar `relationships/` y `lifecycle/`.
+
 
 ### T05 — aplazamiento de ambos mecanismos de feedback (2026-10-16)
 
