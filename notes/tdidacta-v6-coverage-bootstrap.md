@@ -190,6 +190,7 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 - **Salida documental:** [propuesta T02](../foundations/assisted-source-interpretation.md) y entrada en Foundations. El recorrido es conceptual y flexible; sin validación empírica.
 - **Fronteras:** T03 (incertidumbre), T04–T06 (contextualización/revisión/autorización), T08/T09 (procedencia/versiones), T22/T25 (derechos e inferencia).
 - **Decisión de cierre:** el fundador acepta sin observaciones el alcance propuesto; interpretación asistida como complemento de la interpretación desde cero. Procedencia detallada y controles concretos siguen en T03/T08. Retroalimentación transversal ejecutada arriba.
+- **Precisión posterior del fundador (2026-10-16):** el mecanismo detallado de cómo una IA interpreta fuentes queda como **propuesta pendiente de definición para una versión posterior a la publicación de PResolver**. No cambia el cierre de T02, su alcance conceptual ni la retroalimentación transversal existente; no aplaza automáticamente T03, T08 o T25.
 
 
 ### Cierre autorizado de T01 — 2026-10-16
