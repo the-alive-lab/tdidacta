@@ -114,3 +114,9 @@ Las tablas existentes todavía contienen formulaciones preliminares: deberán re
 - **F01 — Enseñanza y aprendizaje:** formulación revisada y aprobada expresamente por el fundador. Origen O0; condición O1; complemento O5; sin incidencia O2/O3/O4. Documento sustituido conservando el diagrama original y límites relevantes: [F01](../foundations/teaching-and-learning.md).
 - **F02 — Necesidades e intenciones pedagógicas:** abierto para lectura íntegra y clasificación individual O0–O5. **No hay decisión de cierre ni reformulación todavía**.
 - La auditoría global Orientations→Foundations continúa **en curso**; no adelantar mecanismos o relaciones.
+
+## Tensión transversal propuesta durante F02 (2026-10-16)
+
+El fundador propone la superficie candidata [Tensions](../tensions/README.md) para registrar problemas que surgen al satisfacer **dos o más orientaciones conjuntamente**. Cuando una tensión incide materialmente en un fundamento, sus mecanismos deben dar una respuesta explícita; no significa que la tensión esté automáticamente resuelta ni que todas deban descubrirse de inmediato.
+
+Primer caso candidato: [O2/O3 — posibilidades generativas frente a esfuerzo de revisión](../tensions/technology-capacity-review-burden.md), con O1 como condición especialmente relevante al exigir continuidad semántica. **F02 sigue en revisión**. Las tensiones se registran progresivamente y se revisa la aplicabilidad según las clasificaciones efectivas del fundamento.
