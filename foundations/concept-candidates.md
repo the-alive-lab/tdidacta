@@ -12,7 +12,7 @@
 | **Continuidad pedagógica** | Posibilidad de reconstruir y revisar conexiones entre necesidades, razones, experiencias y evidencia a través del tiempo | No presuponer cadena lineal ni registro exhaustivo |
 | **Adaptación** | Modificación situada de medios, ejemplos, profundidad o apoyos | Personalización o conformidad no demuestran aprendizaje |
 
-El [espacio de posibilidades pedagógico](possibility-spaces.md) se documenta aparte por poseer antecedentes y preguntas propias.
+Se documentan aparte [necesidades e intenciones pedagógicas](pedagogical-needs-and-intentions.md), [espacios de posibilidades](possibility-spaces.md), [exploración y realización](exploration-and-realization.md), y [resolución recursiva](recursive-pedagogical-resolution.md) porque poseen distinciones y preguntas propias. Esas definiciones afinan este inventario sin promocionarlo a canon.
 
 ## Distinciones a conservar
 
