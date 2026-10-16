@@ -46,9 +46,11 @@ La diferencia y el riesgo de **drift semántico** generan costo humano. Se propo
 
 ## Dos declaraciones diferentes durante la actualización
 
-**Declaración de impacto:** establecer si lo ya documentado, explorado y realizado **responde o no a la nueva necesidad**, indicando los efectos y riesgos de incoherencia. Un cambio documental pequeño puede dejar casi todas las realizaciones válidas, aunque exija comprobarlas; no se presume invalidación automática por diferencia de IR.
+**Declaración de impacto:** **interpretar el cambio en la necesidad e identificar qué elementos y dependencias resultan afectados**; determinar si lo ya documentado, explorado y realizado **responde o no a la nueva necesidad**, indicando los efectos y riesgos de incoherencia. Un cambio documental pequeño puede dejar casi todas las realizaciones válidas, aunque exija comprobarlas; no se presume invalidación automática por diferencia de IR.
 
-**Declaración de cambios:** cuando la respuesta existente no es suficiente, determinar y aplicar ajustes a la documentación, intenciones, situaciones o realizaciones necesarios para responder correctamente. Cambios importantes pueden exigir nuevas unidades, intenciones subordinadas o realizaciones; la nueva documentación produce IR regenerada y vuelve a evaluarse el impacto.
+**Declaración de cambios (también «revisión de cambios»):** **tomar los elementos identificados como afectados y adecuarlos a la nueva necesidad**. Cuando la respuesta existente no es suficiente, determinar y aplicar ajustes a la documentación, intenciones, situaciones o realizaciones necesarios para responder correctamente. Cambios importantes pueden exigir nuevas unidades, intenciones subordinadas o realizaciones; la nueva documentación produce IR regenerada y vuelve a evaluarse el impacto.
+
+**Frontera:** la declaración de impacto responde «¿qué afecta este cambio y sigue siendo válido?»; la declaración de cambios o revisión de cambios responde «¿cómo adecuamos lo afectado a la necesidad actual?». La primera no ejecuta los cambios, y la segunda no sustituye el análisis de impacto. Ambas pueden repetirse al actualizar documentación y regenerar IR.
 
 Las declaraciones constituyen **responsabilidades conceptuales diferenciadas**, no necesariamente dos formularios, artefactos físicos o etapas rígidas. Puede haber iteración entre impacto y cambios. La comparación material es sobre **vigencia y coherencia de exploraciones y realizaciones con la necesidad y semántica actual**, no una exigencia de aprobar manualmente cada regeneración de IR.
 
