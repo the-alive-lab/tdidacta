@@ -1,6 +1,6 @@
 # Trazabilidad de feedback — mecanismo candidato
 
-**Estado:** candidate; delimitación T01 (2026-10-16). No exige una implementación o bitácora universal.
+**Estado:** candidato **diferido expresamente por el fundador durante T05 (2026-10-16)**, con origen en T01. Tanto su diseño detallado como su implementación y validación quedan para después de la publicación de PResolver; no exige bitácora universal. Privacidad y consentimiento no quedan aplazados por esta decisión.
 
 ## Precisión T05: trazabilidad asistida o automatizada
 
