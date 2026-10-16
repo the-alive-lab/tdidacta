@@ -60,7 +60,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | ID | Tópico | Estado de seguimiento | Resultado / enlace |
 | --- | --- | --- | --- |
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
-| T02 | Interpretación asistida de fuentes educativas | Revisado | [Propuesta T02](../foundations/assisted-source-interpretation.md); pendiente revisión humana de alcance |
+| T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
@@ -140,16 +140,56 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### Retroalimentación transversal de T02 — 2026-10-16
+
+**Decisión aprobada:** interpretar desde cero es la vía normal disponible para quien asume responsabilidad pedagógica; interpretar fuentes mediante asistencia de IA es una **vía complementaria, opcional**, con revisión humana. No se exige pipeline universal, fuente formal para cada intención ni implementación declarada. Fuente: [T02](../foundations/assisted-source-interpretation.md).
+
+**Control sobre tópico cerrado T01:** **consistente**. La autoría, supervisión y autorización humana siguen diferenciadas, incluso cuando recaen en una persona; la clasificación manual de uso de IA continúa separada del juicio de fidelidad de la interpretación. No se identifica contradicción ni necesidad de reabrir T01.
+
+**Impactos sobre todos los tópicos abiertos** (sin cambios de estado):
+
+| Receptor | Efecto heredado de T02 y límite de continuidad |
+| --- | --- |
+| T03 | **Directo:** exige separar material fuente, inferencia, ambigüedad y omisión; desarrollar criterios de identificación, representación y revisión |
+| T04 | **Directo:** persona contextualiza tanto una interpretación propia desde cero como una propuesta asistida; delimitar criterios |
+| T05 | **Directo:** acepta, corrige o rechaza propuestas inferenciales; definir suficiencia de revisión |
+| T06 | **Directo:** interpretación asistida no autoriza automáticamente; conservar autorización humana situada |
+| T07 | **Parcial:** propuestas interpretativas no equivalen a publicaciones; definir condiciones específicas |
+| T08 | **Directo:** origen y distinción fuente/inferencia deben ser reconstruibles proporcionalmente; soporte técnico pendiente |
+| T09 | **Parcial:** revisiones de interpretación pueden requerir versiones; no se adopta esquema |
+| T10 | **Parcial:** lectura revisable debe ser inteligible para destinatarios distintos; continuidad pendiente |
+| T11 | **Parcial:** contexto de la interpretación puede ayudar a transferencia; no se aprueba delegación automática |
+| T12 | **Parcial:** fuentes o supuestos cambiantes pueden requerir relectura; detección pendiente |
+| T13 | **Parcial:** insumos interpretativos no equivalen a realizaciones aprobadas exportables |
+| T14 | **Parcial:** la separación origen/interpretación favorece portabilidad; mecanismos pendientes |
+| T15 | **Directo:** fidelidad interpretativa no demuestra conformidad semántica de una realización |
+| T16 | **Parcial:** extracción legible no demuestra calidad pedagógica |
+| T17 | **Sin resolución:** interpretar fuentes no prueba comprensión ni autonomía de aprendices |
+| T18 | **Antecedente:** revisión humana puede incidir en esfuerzo neto; no se presume ahorro |
+| T19 | **Sin resolución:** no se fijan medios accesibles ni adaptaciones |
+| T20 | **Parcial:** interpretación situada sirve a contextos individuales; coordinación institucional avanzada sigue fuera de alcance previo al hito |
+| T21 | **Sin resolución:** no introduce aprobación multinivel ni coordinación institucional |
+| T22 | **Directo:** materiales deben tener derechos de uso adecuados y los datos sensibles no transferirse sin autorización; salvaguardas pendientes |
+| T23 | **Parcial:** interpretar material ajeno no concede derecho a publicarlo comunitariamente |
+| T24 | **Sin resolución:** recorrido conceptual no implica autoalojamiento o interoperabilidad disponible |
+| T25 | **Directo:** interpretar con IA es modalidad posible, no obligatoria; proveedor, límites y modalidades por definir |
+| T26 | **Sin resolución:** no presupone disponibilidad o gratuidad de inferencia |
+| T27 | **Antecedente:** conservar origen e interpretación puede favorecer recuperación; no garantiza continuidad operativa |
+| T28 | **Sin resolución:** no asigna autoridad de interpretación a The Alive Lab como organización |
+
+**Resultado de consistencia:** no hay conflictos detectados con T01 en el alcance revisado. **Estados receptores:** sin cambios. Esta matriz registra dependencias documentales, no validación ni ejecución de los restantes tópicos.
+
+
 ### T02 — Interpretación asistida de fuentes educativas (2026-10-16)
 
-- **Estado:** Revisado, no cerrado; propuesta candidata, no implementación.
+- **Estado actualizado por decisión humana:** Cerrado en su alcance conceptual; no implica implementación ni adopción de técnica universal.
 - **Continuidad T01:** separa fuente, intérprete, intención y autoridad humana; la clasificación manual de asistencia no demuestra fidelidad.
 - **Problema:** lectura asistida de fuentes con uso permitido sin confundir contenido original, propuestas inferenciales, incertidumbre o decisiones de quien enseña.
 - **TDidacta y V6:** [necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md), [exploración/realización](../mechanisms/exploration-and-realization.md), [V6 editorial](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
 - **VSlices:** separación de autoridad semántica y realización aprovechable como criterio, no modelo técnico importado.
 - **Salida documental:** [propuesta T02](../foundations/assisted-source-interpretation.md) y entrada en Foundations. El recorrido es conceptual y flexible; sin validación empírica.
 - **Fronteras:** T03 (incertidumbre), T04–T06 (contextualización/revisión/autorización), T08/T09 (procedencia/versiones), T22/T25 (derechos e inferencia).
-- **Pendiente de cierre:** decisión humana sobre suficiencia del alcance y el mínimo de procedencia exigible. La retroalimentación con todos los tópicos, incluidos cerrados, corresponde al cierre y todavía no se ha ejecutado.
+- **Decisión de cierre:** el fundador acepta sin observaciones el alcance propuesto; interpretación asistida como complemento de la interpretación desde cero. Procedencia detallada y controles concretos siguen en T03/T08. Retroalimentación transversal ejecutada arriba.
 
 
 ### Cierre autorizado de T01 — 2026-10-16
