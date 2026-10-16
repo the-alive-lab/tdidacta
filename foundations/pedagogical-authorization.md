@@ -12,9 +12,9 @@
 
 ## Decisiones del fundador sobre alcance MVP y congelamiento (2026-10-16)
 
-**Quién autoriza:** por ahora una sola persona responsable. La autorización colaborativa, institucional o multinivel se difiere como pregunta abierta hasta después del 31-10-2026. Agentes LLM y otras personas pueden proponer, pero no adquieren autoridad por hacerlo.
+**Quién autoriza:** en el MVP, **la persona titular de la cuenta** (profesor particular) decide qué está listo y autoriza su utilización. La autorización colaborativa, institucional o multinivel se difiere como pregunta abierta hasta después del 31-10-2026. Agentes LLM y otras personas pueden proponer, pero no adquieren autoridad por hacerlo.
 
-**Qué se autoriza:** no solo realizaciones terminadas. La persona puede decir «apruebo este elemento para su uso en el resto del flujo» respecto de una intención pedagógica, planificación en borrador, trayectoria de unidades propuesta por humano o LLM, clase, actividad u otra realización. Se puede autorizar una parte sin autorizar automáticamente todos sus descendientes.
+**Qué se autoriza:** **planificaciones, unidades, clases, actividades y todo elemento representable mediante intenciones pedagógicas**, no solo realizaciones terminadas. La persona puede decir «apruebo este elemento para su uso en el resto del flujo» respecto de una intención pedagógica, planificación en borrador, trayectoria de unidades propuesta por humano o LLM, clase, actividad u otra realización. Se puede autorizar una parte sin autorizar automáticamente todos sus descendientes.
 
 **Qué significa congelar:** antes de la autorización, el espacio admite modificaciones de planificación; después, el **alcance semántico aprobado queda estable** para que personas o agentes exploren sus posibilidades sin modificar silenciosamente sus premisas. Congelar no es bloquear la exploración ni afirmar inmutabilidad técnica de archivos.
 
@@ -54,15 +54,23 @@ La diferencia y el riesgo de **drift semántico** generan costo humano. Se propo
 
 Las declaraciones constituyen **responsabilidades conceptuales diferenciadas**, no necesariamente dos formularios, artefactos físicos o etapas rígidas. Puede haber iteración entre impacto y cambios. La comparación material es sobre **vigencia y coherencia de exploraciones y realizaciones con la necesidad y semántica actual**, no una exigencia de aprobar manualmente cada regeneración de IR.
 
-## Tensión abierta recibida de T05
+## Criterio conceptual recibido de T05
 
-La obligación conceptual de revisar y corregir no implica necesariamente revisión exhaustiva de cada documento, intención, situación, IR o realización ni un procedimiento universal. Sin embargo, tampoco permite una aprobación sin juicio suficiente. **Por decidir en T06:** criterios de suficiencia de revisión según riesgos, intención, situación y alcance; qué evidencias y controles son necesarios, sin imponer una burocracia universal ni atribuir autoridad a un LLM.
+La obligación conceptual de revisar y corregir no implica necesariamente revisión exhaustiva de cada documento, intención, situación, IR o realización ni un procedimiento universal. Sin embargo, tampoco permite una aprobación sin juicio suficiente. **Criterio resuelto para el MVP:** se revisa y reautoriza el punto afectado y sus dependencias, determinado manualmente por la persona titular de la cuenta. La manera de detectar ese alcance con apoyo automático y verificar cobertura sigue pendiente, sin imponer una burocracia universal ni atribuir autoridad a un LLM.
 
 ## Alternativas abiertas
 
 - Autorización condicionada a flujo rígido de revisión: uniformidad posible, carga elevada en contextos pequeños.
 - Autorización sin referencia a revisión suficiente: poco esfuerzo, pero posibilidad de aprobación nominal.
 - Autorización situada tras revisión proporcional: equilibrio propuesto, **no adoptado todavía**.
+
+## Alcance MVP confirmado y mecanismo de versionamiento
+
+En este MVP, la **persona titular de la cuenta** determina manualmente el impacto del cambio, revisa y vuelve a autorizar el punto afectado y sus dependencias. Se propone apoyo técnico para reducir ese esfuerzo, sin transferir la decisión de autorización.
+
+El [versionamiento de elementos pedagógicos](../mechanisms/pedagogical-element-versioning.md) queda como **mecanismo candidato independiente** para planificaciones, unidades, clases, actividades y demás elementos expresables mediante intenciones. Su contrato técnico se examinará con T09 y T12.
+
+Toda autorización debe poder referirse a un **elemento y alcance semántico reconocibles**, asociables a la persona titular que autorizó; no se fija aún una estrategia técnica de identificadores, archivos o firmas.
 
 ## Fronteras
 
