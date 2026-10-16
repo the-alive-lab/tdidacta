@@ -23,6 +23,31 @@ Se documentan aparte [necesidades e intenciones pedagógicas](pedagogical-needs-
 - **Conformidad ≠ calidad pedagógica ≠ resultados de aprendizaje.**
 - **Canon ≠ evidencia ≠ hipótesis.**
 
+## Visualización de fuente, realización y aprendizaje
+
+**Pregunta de lectura:** ¿cómo distinguir una fuente pedagógica, una realización pedagógica y los posibles resultados de aprendizaje, sin convertirlos en una cadena obligatoria?
+
+```mermaid
+flowchart LR
+    I["Intención<br/>pedagógica"]
+    F["Fuente<br/>pedagógica"]
+    R["Realización<br/>pedagógica"]
+    E["Experiencia de<br/>aprendizaje"]
+    V["Evidencia de<br/>aprendizaje"]
+
+    I -->|"puede orientar"| F
+    I -.->|"puede orientar"| R
+    F -->|"puede informar"| R
+    R -->|"puede facilitar"| E
+    E -.->|"puede producir"| V
+```
+
+**Cómo leerlo:** la visualización distingue conceptos que a menudo se confunden. Una intención pedagógica puede orientar una fuente o una realización. Una fuente puede informar una realización, pero no se identifica con ella. Una realización puede facilitar experiencias de aprendizaje, y estas pueden producir alguna forma de evidencia, sin que ello ocurra siempre ni de una sola manera.
+
+**Lectura textual equivalente:** una fuente pedagógica puede servir de apoyo, referencia o representación consultable para una realización. Una realización pedagógica es una experiencia o material concreto que expresa o pone a prueba una responsabilidad en un contexto. Esa realización puede facilitar experiencias de aprendizaje, y dichas experiencias pueden producir alguna evidencia, aunque ni la conformidad de la realización ni la existencia de una fuente demuestren por sí mismas aprendizaje.
+
+**Límites:** el diagrama no representa una secuencia obligatoria ni una dependencia universal. Una realización puede existir sin una fuente documental explícita. La evidencia de aprendizaje puede ser parcial, situada o difícil de observar. El diagrama tampoco resuelve por sí mismo las fronteras entre autoría, autoridad, calidad pedagógica y resultados. Comparte el **estado candidato** de este inventario conceptual.
+
 ## Límite
 
 Los conceptos son candidatos y no definen automáticamente Method, Design, Docs Standard, Framework o Platform. Una propuesta o testimonio explícito puede orientar su elaboración sin equivaler a validación empírica.
