@@ -49,3 +49,7 @@ Las experiencias pueden ocurrir en diferentes entornos, medios y condiciones. Un
 Estas orientaciones no definen un lifecycle obligatorio, un modelo formal de aprendizaje, una jerarquía universal docente-estudiante ni una garantía de resultados.
 
 **Fuente normativa de estas orientaciones:** [README principal](../README.md).
+
+## Trazabilidad y naturaleza del documento
+
+Esta superficie **despliega la orientación principal transversal**, no introduce una orientación complementaria ni un fundamento autónomo nuevo. [Orientación principal](../orientation/README.md) es su fuente directa; [continuidad](../orientation/semantic-continuity.md), [tecnologías](../orientation/technology-enabled-semantic-continuity.md) y [carga/capacidad](../orientation/human-effort-and-agency.md) pueden favorecerla, pero no definen su existencia. Las revisiones de orientaciones deben verificar esta correspondencia.
