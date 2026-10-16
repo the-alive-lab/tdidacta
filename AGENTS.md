@@ -23,6 +23,17 @@ Este archivo orienta a agentes que leen o contribuyen al repositorio canónico *
 - Redactar primordialmente en español, sin excluir otros idiomas, conforme a la orientación vigente.
 - Evitar cargar indiscriminadamente todo el repositorio: seleccionar rutas pertinentes a la tarea.
 
+## Extensión y evolución de la estructura documental
+
+Cuando una tarea implique crear, extender significativamente o reorganizar documentos o estructuras de TDidacta, incluso si la solicitud no menciona reglas externas:
+
+1. Reconstruir primero las definiciones, responsabilidades y convenciones existentes en este repositorio.
+2. Consultar las [Project Generation Rules](https://github.com/the-alive-lab/project-generation-rules), especialmente las [reglas de fundamentación](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/project-foundation.md), las [reglas de descubrimiento](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/human-and-agent-discovery.md) y la [guía de evolución](https://github.com/the-alive-lab/project-generation-rules/blob/main/guides/evolution.md).
+3. Preferir extender una superficie existente antes de introducir nuevos conceptos, documentos o carpetas; justificar las responsabilidades realmente diferentes.
+4. Preservar procedencia, estados, enlaces y navegación de las superficies afectadas.
+
+**Autoridad:** la consulta es una orientación operativa para descubrir criterios compartidos, no una adopción normativa automática de las Project Generation Rules. Si hubiera diferencias, prevalecen las definiciones canónicas y decisiones explícitas de TDidacta.
+
 ## Límites entre repositorios
 
 - **Definiciones de TDidacta:** este repositorio.
