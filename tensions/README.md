@@ -20,6 +20,8 @@ Una tensión explicita un problema de **satisfacer simultáneamente dos o más o
 
 - [Tensión O3/O6 — proporcionalidad de la inversión del esfuerzo](effort-inversion-proportionality.md): priorizar comprensión y documentación sin imponer carga desproporcionada. **Aplica a F03**; respuesta de mecanismos aún pendiente.
 
+- [Tensión O4/O3 — autorización humana frente a carga y capacidad](human-authorization-review-burden.md): la aprobación humana introduce una decisión adicional; **candidata** y transversal a fundamentos donde O4 actúe como condición y O3 incida materialmente. Identificada durante F06; eficacia de respuestas pendiente.
+
 ## Fronteras
 
 - **Orientations** define compromisos.
