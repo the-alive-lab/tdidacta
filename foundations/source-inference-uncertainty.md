@@ -1,6 +1,6 @@
 # Fuentes, inferencias de IA e incertidumbre — propuesta T03
 
-**Seguimiento:** T03 revisado, pendiente de aprobación humana. **Estado epistemológico:** delimitación candidata; no mecanismo automático validado ni esquema técnico universal.
+**Seguimiento:** T03 revisado con aprobación expresa del mecanismo conceptual (2026-10-16); falta registrar la decisión formal de cierre. **Estado epistemológico:** delimitación y mecanismo conceptuales aceptados, sin validación automática ni esquema técnico universal.
 
 ## Problema
 
@@ -35,6 +35,12 @@ La señalización puede hacerse mediante lenguaje natural, referencias breves o 
 
 Si una fuente no menciona un prerrequisito, no se concluye que el prerrequisito sea inexistente. Si dos fuentes difieren, se conserva el conflicto pertinente y se evita simular una resolución que aún no existe.
 
+## Mecanismo propio y carga de aplicación
+
+La [clasificación de evidencia](../mechanisms/evidence-classification.md) opera sobre afirmaciones, interpretaciones y aspectos inciertos tanto humanos como de IA. **Una implementación debe facilitar esta clasificación y reducir la carga de revisión del responsable**, no exigir etiquetar manualmente cada afirmación. No se presume eficacia ni ahorro sin contrastar esfuerzo real.
+
+Su posible uso por el [mecanismo de interpretación asistida T02](../mechanisms/assisted-material-interpretation.md) tiene una [relación pendiente de revisión](../relationships/assisted-interpretation-evidence-classification.md).
+
 ## Fronteras con otros tópicos
 
 - **T01 cerrado:** autoría, responsabilidades separadas, supervisión humana y declaración **manual** del modo de elaboración de recursos. Esa declaración global **no comprueba** la veracidad ni las fuentes de cada afirmación.
@@ -61,6 +67,6 @@ No hay aquí evaluación experimental de efectividad, precisión de extracción,
 
 El [maestro editorial V6 en Research](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md) exige mantener distinguibles afirmaciones fuente e inferencias de IA y hacer visibles omisiones y ambigüedades. Se utiliza como antecedente, no como norma adoptada automáticamente. VSlices aporta, como analogía, la separación entre autoridad semántica y realización, **no** un esquema obligatorio de procedencia.
 
-## Propuesta para aprobación
+## Delimitación aceptada y límites posteriores
 
 Aceptar **un requisito conceptual de legibilidad proporcional**: no atribuir inferencias a las fuentes, no ocultar incertidumbre relevante ni convertir ausencia de información en certeza; mantener revisión humana en el contexto que corresponda. Diferir cualquier clasificación automática de afirmaciones, puntajes, algoritmo, representación obligatoria o verificación técnica detallada, sin dar por resueltos T08 ni el mecanismo de IA de T02.
