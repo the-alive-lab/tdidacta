@@ -27,7 +27,7 @@ flowchart TB
     H -.->|"puede informar<br/>revisión"| I
     O -.->|"puede motivar<br/>revisión"| I
     O -.->|puede revelar| NN["Nueva<br/>necesidad"]
-    NN -.->|puede motivar| I2["Otra<br/>intención"]
+    NN -.->|"conlleva nueva"| I
     O -.->|"podría ser<br/>suficiente"| C["Cierre de esta<br/>necesidad"]
 ```
 
