@@ -1,6 +1,6 @@
 # Generación de feedback — mecanismo candidato T05
 
-**Estado:** candidato conceptualmente delimitado (2026-10-16), sin especificación técnica ni validación. No equivale a implementación aprobada.
+**Estado:** mecanismo candidato **diferido por decisión del fundador (2026-10-16)**. Su definición e implementación detalladas quedan para después de la publicación de PResolver; sin validación ni obligación para el deadline del 31-10-2026. El aplazamiento no elimina obligaciones de privacidad o consentimiento cuando haya tratamiento real de datos.
 
 ## Responsabilidad
 
