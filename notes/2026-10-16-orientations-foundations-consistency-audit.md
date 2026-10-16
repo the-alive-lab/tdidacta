@@ -139,3 +139,9 @@ Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo human
 - [F04 — Abstracción semántica](../foundations/semantic-abstraction.md): definición basada en relación prosa/IR, composición posible dentro y entre flavors y utilidad tecnológica posterior; nota de TDidacta separada y **hipótesis investigativa sobre efectividad/eficiencia frente a prosa expresamente separada de la definición**.
 - Clasificación aprobada F04: O1/O2 **orígenes**; O0/O3/O6 **condiciones**; O4/O5 **sin incidencia**. Tensiones aplicables O1/O3 y O3/O6; mecanismos y evidencia pendientes.
 - [F05 — Proyección semántica](../foundations/semantic-projection.md): abierto para revisión individual, sin clasificación adoptada ni cambios aún.
+
+## F05 reconciliado (2026-10-16)
+
+- [F05 — Proyección semántica](../foundations/semantic-projection.md) reformulado como relación IR→exploraciones/realizaciones; exploración comprueba propiedades específicas del espacio de una intención; realización concreta elementos de alcance menor o igual, incluidos candidatos a intenciones posteriores. Apoyo al aprendizaje directo distinguido.
+- Clasificación aprobada: O1/O2 **orígenes**; O0/O3/O6 **condiciones**; O4/O5 **sin incidencia**. Tensiones O1/O3 y O3/O6 aplicables.
+- Se evitó repetir la explicación de trayectorias/intenciones candidatas en una sección adicional: figura una sola vez en Realización. Mecanismos y pruebas pendientes; auditoría de fundamentos siguientes abierta.
