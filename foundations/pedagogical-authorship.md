@@ -51,7 +51,9 @@ El [gradiente multidimensional](../mechanisms/contribution-gradient.md) y la [tr
 
 Esta decisión **delimita un escenario operativo**, no una ley pedagógica universal. No afirma que la persona sea autora de todas las fuentes, titular de todos los derechos, autoridad sobre cualquier disciplina ni que su aprobación garantice corrección factual o aprendizaje. El conocimiento presentado como autorizado debe permanecer circunscrito a su responsabilidad y uso pedagógico. No se requieren, para esta entrega, aprobaciones institucionales multinivel o jerarquías por roles; esas posibilidades no se descartan para etapas posteriores.
 
-Se mantiene la distinción conceptual **autoría ≠ autorización** aun cuando ambas responsabilidades recaigan temporalmente en una sola persona.
+Las **responsabilidades se modelan y evalúan separadamente**, incluso si corresponden a un solo actor humano: identificar necesidad, formular intención, planificar, crear o editar, supervisar, autorizar y eventualmente publicar no son actos intercambiables. Que una persona desempeñe varios de ellos no los fusiona ni les confiere automáticamente los mismos alcances. Se mantiene la distinción conceptual **autoría ≠ autorización**, aun cuando ambas responsabilidades recaigan en una sola persona.
+
+Para la clasificación visible del recurso, el profesional responsable **declara manualmente** cuál de las cuatro formas provisionales de elaboración describe su proceso. Esta declaración no equivale a verificar automáticamente las contribuciones ni sustituye la autorización pedagógica; véase [Transparencia](../transparency/README.md).
 
 **Tras la entrega del 31-10-2026** quedan para exploración posterior el gradiente multidimensional, la evaluación de contribuciones, la trazabilidad avanzada de feedback y las condiciones detalladas de atribución. La privacidad, consentimiento y reutilización **no se incluyen automáticamente en ese aplazamiento**: deben evaluarse separadamente, y los controles necesarios para un tratamiento real de datos personales son prerrequisitos de dicho tratamiento.
 
