@@ -88,6 +88,17 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 ## Bitácora de ejecución
 
+### Acotación de entrega de PResolver — decisión del fundador (2026-10-16)
+
+- **Hito:** entrega formal de PResolver el **31-10-2026**.
+- **Incorporar al alcance actual:** una persona humana formula intenciones pedagógicas y se encarga de planificar, supervisar y autorizar su propio material, aunque atienda necesidades externas y use fuentes ajenas. Esta distribución es un **escenario operativo acotado**, no un modelo universal. [Foundations](../foundations/pedagogical-authorship.md).
+- **Conservar como distinciones conceptuales:** crear, editar, mediar y retroalimentar; autoría distinta de autorización y distinta de titularidad.
+- **Aplazar como exploraciones posteriores al 31-10-2026:** [gradiente multidimensional](../mechanisms/contribution-gradient.md), evaluación de contribuciones, [trazabilidad avanzada de feedback](../mechanisms/feedback-traceability.md) y condiciones detalladas de atribución. No presentarlas como capacidades listas para entrega.
+- **Clasificación de IA:** conservar las cuatro denominaciones provisionales en [Transparencia](../transparency/README.md); congelar desarrollo de reglas de asignación hasta completar el gradiente.
+- **Privacidad/consentimiento/reutilización:** **NO** se consideran aplazados por esta decisión; requieren revisión separada en T22 y resguardos apropiados antes de cualquier tratamiento de datos personales reales.
+- **Fuera de alcance hasta el hito:** autorizaciones institucionales multinivel o diferenciadas por roles. No se niega su relevancia futura.
+- **Estado del seguimiento T01:** **Revisado; alcance del 31-10 definido; no cerrado integralmente** porque los trabajos aplazados y las aprobaciones conceptuales generales siguen identificados. T02 no ejecutado.
+
 
 ### Delimitación de clasificación T01 — 2026-10-16
 
