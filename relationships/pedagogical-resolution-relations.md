@@ -53,6 +53,29 @@ Estas relaciones describen **posibilidades de asociación y responsabilidad**, n
 
 ## Relaciones entre intenciones
 
+### Grafo de vínculos posibles entre intenciones (candidato)
+
+**Pregunta de lectura:** ¿de qué maneras pueden vincularse distintas intenciones pedagógicas, sin reducir su organización a un árbol de contenidos o a una secuencia temporal?
+
+```mermaid
+flowchart TB
+    A["Intención<br/>A"]
+    B["Intención<br/>B"]
+    C["Intención<br/>C"]
+    D["Intención<br/>D"]
+
+    A -->|"delimitación /<br/>especialización"| B
+    B -.->|"dependencia<br/>conceptual"| C
+    A -.->|"articulación<br/>temporal"| D
+    C -.->|"pertinencia<br/>para personas"| D
+```
+
+**Cómo leerlo:** A, B, C y D son **intenciones hipotéticas sin contenido asignado**. Las conexiones ilustran cuatro *tipos candidatos* de relación, no un caso pedagógico comprobado. La flecha de especialización representa una intención que delimita una parte de otra; las demás flechas solo permiten distinguir los extremos de la relación representada y **no fijan causalidad, anterioridad ni dependencia obligatoria**.
+
+**Lectura textual equivalente:** dos intenciones pueden relacionarse por especialización, por conocimientos conceptualmente conectados, por conveniencia de articulación temporal o por pertinencia para determinadas personas. Una intención puede mantener vínculos transversales con varias otras; no es necesario que todas pertenezcan a una única jerarquía.
+
+**Límites:** no se afirma que estas cuatro relaciones deban coexistir, que el grafo tenga cuatro intenciones reales, que las flechas indiquen un orden docente o que «pertinencia» sea una dependencia entre contenidos. El ejemplo solo exhibe la diversidad de vínculos mencionada en este documento; para decidir relaciones concretas hacen falta necesidades y contextos reales. Las líneas discontinuas diferencian visualmente vínculos transversales, **no** relaciones de menor validez epistemológica.
+
 Dos intenciones pueden estar vinculadas por:
 
 - **Delimitación / especialización:** una responde a una parte de otra, como una unidad en una planificación más amplia.
