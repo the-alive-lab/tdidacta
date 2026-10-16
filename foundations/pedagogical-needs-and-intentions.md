@@ -22,6 +22,32 @@ La **intención** corresponde a la perspectiva de quien formula la respuesta ped
 
 No se afirma identidad semántica entre intención y espacio: se propone una **relación de delimitación**.
 
+## Mapa conceptual de necesidad, intención y espacio
+
+**Pregunta de lectura:** ¿cómo una necesidad da lugar a una respuesta pedagógica deliberada y cómo esa respuesta delimita posibilidades, sin convertir las dimensiones del problema en requisitos fijos?
+
+```mermaid
+flowchart LR
+    N["Necesidad<br/>pedagógica"]
+    I["Intención<br/>pedagógica"]
+    S["Espacio de<br/>posibilidades"]
+    M["Materias"]
+    T["Tiempo"]
+    P["Personas"]
+
+    N -->|"motiva una<br/>respuesta"| I
+    I -->|"delimita"| S
+    M -.->|"puede informar"| I
+    T -.->|"puede informar"| I
+    P -.->|"puede informar"| I
+```
+
+**Cómo leerlo:** una necesidad pedagógica puede motivar la formulación de una intención por quien asume la responsabilidad de enseñar. La intención **delimita**, pero no es idéntica al espacio de posibilidades resultante. Materias, tiempo y personas aparecen como **consideraciones candidatas** que pueden informar la formulación o revisión de esa intención; las conexiones discontinuas no las convierten en entradas obligatorias.
+
+**Lectura textual equivalente:** ante una necesidad de enseñanza o aprendizaje, una persona responsable puede formular una intención con propósitos, condiciones y restricciones. Las decisiones de esa intención delimitan posibilidades para explorar o realizar. Según el contexto, pueden considerarse conocimientos y relaciones entre materias, trayectorias temporales y condiciones de quienes aprenden.
+
+**Límites:** este mapa no representa una secuencia operativa obligatoria, una jerarquía de escalas, tres ejes métricos ni un inventario exhaustivo. Tampoco afirma que formular una intención asegure el aprendizaje. Comparte el **estado candidato** de los conceptos descritos en esta página.
+
 ## Dimensiones del problema (candidatas)
 
 - **Materias:** conceptos, disciplinas, prerrequisitos y relaciones transversales.
