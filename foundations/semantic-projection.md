@@ -1,48 +1,86 @@
-# Proyección semántica — fundamento transversal
+# F05 — Proyección semántica
 
-**Estado (2026-10-16):** definición conceptual confirmada por el fundador para la familia PResolver; formalización general en el canon de PResolver y validación entre dominios pendientes.
+**Estado:** fundamento conceptual de la familia PResolver, reconciliado para TDidacta por decisión del fundador (2026-10-16). Formalización transversal y validación operativa pendientes.
 
-## Definición
+## 1. Definición
 
-**Proyección semántica** es la acción de convertir **una o varias representaciones intermedias** en elementos o resultados definidos por el dominio de aplicación.
+La **proyección semántica** es el fundamento que relaciona una o varias representaciones intermedias con los procesos de **exploración y realización** que se desarrollan a partir del significado representado.
 
-```text
-IR individual o IR combinadas -- decode / proyección --> resultados del dominio
-```
+Permite utilizar significados, relaciones y restricciones expresados en IR para examinar posibilidades o concretar elementos del dominio mediante capacidades tecnológicas. Puede operar sobre una representación o combinar varias, cuando sus significados sean compatibles.
 
-Esta definición **no incluye** convertir documentación en IR; esa responsabilidad corresponde al fundamento distinto de [abstracción semántica](semantic-abstraction.md). «Decode» no implica reversibilidad literal ni que las proyecciones sean copias de la documentación.
+No define los mecanismos que ejecutan esas operaciones ni garantiza la corrección de sus resultados. Es distinta de la [abstracción semántica](semantic-abstraction.md), que relaciona documentación en prosa con IR.
 
-## Especialización pedagógica
+## 2. Exploraciones y realizaciones
 
-En TDidacta, una o más IR especificadas mediante [IR Specification](../products/ir-specification/README.md) pueden servir para generar con apoyo de LLM **exploraciones y realizaciones pedagógicas** que consideren intención, subdivisiones, situaciones aplicables y relaciones con otras intenciones.
+El significado concreto de estas operaciones depende del dominio y de la intención representada.
 
-El [mecanismo de proyección a dominio](../mechanisms/intermediate-to-domain-projection.md) especificará cómo hacerlo; su operación técnica no está todavía definida. La generación no certifica conformidad, calidad pedagógica ni aprendizaje, ni autoriza automáticamente publicar.
+### Realización
 
-## Arquitectura conceptual distinguida
+Una **realización** concreta elementos cuyo **alcance pedagógico es menor o igual** al de la intención representada. «Alcance» no equivale necesariamente a duración, volumen de material o número de componentes.
 
-- **Orientaciones:** [continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md), distintas y complementarias.
-- **Fundamentos:** abstracción semántica (**documentación → IR**) y proyección semántica (**IR → resultados de dominio**).
-- **Mecanismos:** operaciones especializadas, potencialmente asistidas por IA.
-- **Estructura de dominio:** IR Specification define la IR de TDidacta.
+Por ejemplo, desde una intención de unidad pueden producirse propuestas de trayectorias de clases. Estas pueden considerarse posteriormente **intenciones pedagógicas candidatas**, pero no adquieren aprobación automática. La proyección genera candidatos; la contextualización, revisión y autorización mantienen sus responsabilidades independientes.
 
-## Cuestiones abiertas
+No es obligatorio realizar de una vez el alcance íntegro de la intención.
 
-Qué significa combinar varias representaciones sin perder contexto; qué transformaciones y ampliaciones son admisibles; qué garantías se exigen respecto de las intenciones y situaciones; cómo contrastar conformidad (T15); y cómo distribuir en PResolver la autoridad conceptual general. La pertenencia conceptual de ambas facultades a la familia está confirmada por el fundador; eso no demuestra equivalencia técnica entre dominios.
+### Exploración
 
-**Relacionados:** [T04](human-pedagogical-contextualization.md) · [Docs Standard](../mechanisms/pedagogical-intent-documentation.md) · [Abstracción T04](../mechanisms/document-to-intermediate-projection.md).
+Una **exploración** efectúa verificaciones específicas sobre significados, posibilidades, restricciones o aplicabilidad de una intención representada.
 
-## Trazabilidad hacia las orientaciones vigentes
+Puede examinar si el espacio de posibilidades está **suficientemente delimitado para una operación concreta**, buscar alternativas, contrastar condiciones o revelar ambigüedades y contradicciones que informen una futura revisión de la intención.
 
-La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+**Una exploración no garantiza por sí sola** que toda la intención esté bien delimitada, ni equivale necesariamente a una prueba formal o a una realización definitiva.
 
-| Orientación | Relación con este fundamento |
-| --- | --- |
-| [Orientación principal](../orientation/README.md) | Permitir experiencias y respuestas pedagógicas distintas a partir de una intención. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar significado al producir exploraciones o realizaciones. |
-| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Aprovechar tecnologías para materializar alternativas de dominio. |
-| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Puede ampliar alternativas disponibles; ahorro de esfuerzo no demostrado. |
+## 3. Espacio de posibilidades y continuidad
 
-| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Una proyección puede proponer realizaciones sin autorizar sus resultados. |
-| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Las contribuciones humanas/inferenciales a resultados deben permanecer distinguibles. |
+La intención delimita un espacio de posibilidades; la proyección puede explorarlo para verificar propiedades específicas antes de continuar o para producir realizaciones pertinentes.
 
-**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
+Los resultados pueden informar la corrección de la intención, **pero no reescriben automáticamente su documentación**.
+
+La continuidad semántica entre intención, representación, exploración y realización debe poder examinarse. No se presume que cualquier combinación de IR sea válida o preserve significado sin pérdida.
+
+## 4. Apoyo directo a quien aprende
+
+Desde la representación de una clase o actividad, exploraciones pueden adaptar explicaciones, ejemplos, enfoques y recorridos a necesidades concretas de quien aprende, manteniendo su relación con la intención pertinente.
+
+Esto no requiere modificar la intención original en todos los casos, ni garantiza aprendizaje por el solo hecho de producir alternativas.
+
+## 5. Límites
+
+La proyección semántica:
+
+- No exige una sola IR ni compatibilidad universal entre representaciones.
+- No convierte una exploración particular en garantía general sobre todo el espacio de posibilidades.
+- No garantiza calidad pedagógica, conformidad semántica o aprendizaje efectivo.
+- No promueve automáticamente realizaciones a intenciones aceptadas o autorizadas.
+- No sustituye contextualización, revisión, corrección o autorización humana.
+- No implica reversibilidad ni copia literal de documentación.
+- No define mecanismos tecnológicos específicos.
+
+## 6. Nota de especialización — TDidacta
+
+En TDidacta, las IR pueden representar intenciones pedagógicas, subdivisiones, circunstancias y relaciones con otras intenciones. Su [IR Specification](../products/ir-specification/README.md) define la representación concreta.
+
+La proyección sirve tanto para explorar la delimitación de intenciones como para producir realizaciones o apoyar experiencias adaptadas a estudiantes. El [mecanismo de proyección a dominio](../mechanisms/intermediate-to-domain-projection.md) es independiente de esta definición y permanece pendiente de especificación operativa.
+
+## 7. Tensiones aplicables
+
+- **[O1 ↔ O3](../tensions/semantic-continuity-human-effort.md):** revisar que exploraciones y realizaciones preserven la intención puede generar una carga de comparación y corrección considerable. O2 puede atenuarla, sin beneficio garantizado.
+- **[O3 ↔ O6](../tensions/effort-inversion-proportionality.md):** producir muchas alternativas puede desplazar esfuerzo humano desde comprender hacia seleccionar, corregir y mantener resultados. Generar más no constituye por sí mismo un objetivo.
+
+Los mecanismos de F05 deberán explicar cómo atienden ambas tensiones y cómo pueden contrastarse sus límites.
+
+## 8. Trazabilidad con las orientaciones
+
+| Orientación | Clasificación | Justificación |
+| --- | --- | --- |
+| [O0 — Principal](../orientation/README.md) | **Condición** | En TDidacta, las exploraciones y realizaciones deben responder a necesidades pedagógicas; no se impone esa especialización al fundamento general PResolver. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Origen** | Justifica mantener relación significativa entre representaciones, exploraciones y realizaciones. |
+| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Origen** | Justifica aprovechar tecnología para examinar y concretar alternativas del dominio, sin tecnología específica obligatoria. |
+| [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Exige considerar esfuerzo de generación, selección, revisión y corrección frente a la capacidad obtenida. |
+| [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | Aprobar resultados es una responsabilidad externa a la identidad de la proyección. |
+| [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Atribuir contribuciones corresponde a otras responsabilidades, principalmente documentales. |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | La proyección debe favorecer concentración del trabajo humano en comprender y documentar, no en producir o administrar realizaciones repetitivas. |
+
+## 9. Mantenimiento
+
+La definición general no presupone eficacia ni equivalencia técnica entre flavors. Reexaminar las orientaciones y tensiones cuando cambien, sin convertir la generación en garantía de conformidad o autorización.
