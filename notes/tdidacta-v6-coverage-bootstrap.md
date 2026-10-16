@@ -61,7 +61,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | --- | --- | --- | --- |
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
-| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Revisado | [Fundamento](../foundations/source-inference-uncertainty.md), [mecanismo aceptado](../mechanisms/evidence-classification.md); pendiente registrar cierre formal y retroalimentación |
+| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
@@ -139,6 +139,47 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Cierre de T03 y retroalimentación transversal — 2026-10-16
+
+- **Decisión del fundador:** T03 **Cerrado** en su alcance conceptual. Se adopta como delimitación del tópico el [mecanismo de clasificación de evidencia](../mechanisms/evidence-classification.md) para evidencia humana e inferencial; se conserva el [fundamento](../foundations/source-inference-uncertainty.md).
+- **Límite de cierre:** construir y validar una implementación que **facilite** clasificar y reduzca la carga humana es trabajo posterior; no se presume reducción efectiva de trabajo, clasificación automática fiable ni implementación actual.
+- **Relación T02/T03:** [pendiente de revisión](../relationships/assisted-interpretation-evidence-classification.md), no dependencia técnica adoptada. El mecanismo detallado [T02](../mechanisms/assisted-material-interpretation.md) permanece pospublicación de PResolver.
+- **Verificación de tópicos cerrados:** T01 y T02 examinados; **sin contradicciones identificadas** en el alcance de las definiciones actuales. La distinción entre clasificación global de recurso (T01) y clasificación de evidencia (T03) debe conservarse. La propuesta de uso por T02 no cambia su cierre.
+- **Tópicos receptores:** todos los otros 27 tópicos contrastados; ningún estado cambia. La siguiente tabla recoge continuidad útil, tensiones y límites, no porcentaje realizado.
+
+| Receptor | Resultado | Efecto y continuidad de T03 | Pendiente |
+| --- | --- | --- | --- |
+| T01 | Cerrado; consistente | La clasificación de evidencia por afirmación no es la declaración global/manual del modo de elaboración, ni autoría ni autorización. | Preservar separación; sin reapertura. |
+| T02 | Cerrado; consistente con dependencia candidata | La interpretación asistida puede utilizar clasificación de evidencia de T03, pero su integración técnica y relación `uses` no están aprobadas. | Mantener mecanismo T02 y relación en revisión para después de publicación PResolver. |
+| T04 | Directo | Necesidades situadas pueden interpretarse con afirmaciones humanas o de IA cuyo respaldo y límites son distinguibles. | Criterios de contextualización y uso adecuado de incertidumbre. |
+| T05 | Directo | Quien supervisa puede aceptar, corregir, rechazar o dejar pendientes clasificaciones; no obligar revisión exhaustiva. | Definir controles de revisión y prioridades proporcionales. |
+| T06 | Directo | Clasificar evidencia no autoriza el conocimiento, aunque ambas tareas recaigan en la misma persona. | Condiciones de autorización situada ante dudas relevantes. |
+| T07 | Parcial | Publicar requiere no confundir inferencia provisional con afirmación aprobada. | Estados y reglas de publicación. |
+| T08 | Directo | La legibilidad sobre origen/respaldo exige reconstrucción proporcional de fuente, interpretación y dudas. | Definir procedencia mínima sin imponer registros exhaustivos. |
+| T09 | Parcial | Correcciones en clasificación y evidencia pueden necesitar continuidad entre versiones. | Qué se versiona y bajo qué condiciones. |
+| T10 | Parcial | Dudas y apoyos relevantes deben ser legibles para nuevos participantes. | Continuidad pedagógica entre actores. |
+| T11 | Parcial | Handoff de material debe distinguir respaldo, inferencia y cuestiones abiertas. | Qué información transferir y con qué responsabilidad. |
+| T12 | Directo | Cambios en fuentes o premisas pueden invalidar respaldo y suscitar revisión. | Detección y alcance de revalidaciones. |
+| T13 | Parcial | Exportación aprobada puede preservar advertencias relevantes sin presumir que evidencia esté verificada. | Contrato de exportación estable. |
+| T14 | Parcial | Portabilidad requiere no borrar procedencia e incertidumbre pertinente. | Modelo de transferencia y derechos. |
+| T15 | Directo | Conformidad semántica no equivale a clasificación correcta ni a certeza de la fuente. | Oráculo de conformidad propio. |
+| T16 | Directo | Evidencia clasificada no prueba calidad educativa ni corrección material. | Evaluación de calidad separada. |
+| T17 | Parcial | Una afirmación respaldada no demuestra comprensión o transferencia del aprendiz. | Evaluación de resultados independiente. |
+| T18 | Directo | Riesgo explícito de carga alta por clasificar y revisar; cualquier sistema debe facilitarla. | Medir esfuerzo total, incluidas correcciones y mantenimiento. |
+| T19 | Antecedente | La legibilidad de clasificaciones e incertidumbres debe ser comprensible en cada medio. | Accesibilidad de su presentación, sin solución adoptada. |
+| T20 | Parcial | La importancia de incertidumbre y evidencia depende del contexto humano, sin exigir jerarquías institucionales. | Adaptación situada y casos institucionales posteriores. |
+| T21 | Sin avance directo | No se deduce coordinación institucional de clasificar evidencia. | Coordinar instituciones continúa fuera del alcance inicial. |
+| T22 | Directo | Evidencia puede contener datos personales o derechos de terceros; legibilidad no autoriza difundirla. | Salvaguardas y minimización antes de tratamiento real. |
+| T23 | Parcial | Publicar material de otros no queda legitimado por citar o clasificar evidencia. | Derechos y criterios de publicación comunitaria. |
+| T24 | Sin avance directo | No implica capacidad técnica de autoalojamiento o interoperabilidad. | Definir despliegue e interfaces. |
+| T25 | Directo | La clasificación podría asistir exploraciones inferenciales sin ser verificación automática. | Modalidades de inferencia y límites, respetando relación T02/T03 candidata. |
+| T26 | Antecedente | El costo de clasificar y revisar puede afectar sostenibilidad. | Costeo separado, aún no definido. |
+| T27 | Antecedente | Conservar respaldo y advertencias puede importar al recuperar material. | Recuperación efectiva no garantizada. |
+| T28 | Sin avance directo | Clasificación no determina competencia de The Alive Lab como operador. | Gobernanza organizacional independiente. |
+
+**Observaciones transversales:** (a) facilitar la clasificación y comprobar el esfuerzo en uso real es una exigencia de diseño futuro, no eficacia demostrada; (b) ninguna clasificación de evidencia por sí misma aprueba, publica ni garantiza fidelidad, verdad, calidad o aprendizaje; (c) los tópicos cerrados se conservaron sin reapertura automática. **Siguiente:** T04 queda disponible, pendiente de revisión propia.
+
 
 ### Ampliación aprobada de T03 y continuidad T02 — 2026-10-16
 
