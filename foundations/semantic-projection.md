@@ -30,3 +30,16 @@ El [mecanismo de proyección a dominio](../mechanisms/intermediate-to-domain-pro
 Qué significa combinar varias representaciones sin perder contexto; qué transformaciones y ampliaciones son admisibles; qué garantías se exigen respecto de las intenciones y situaciones; cómo contrastar conformidad (T15); y cómo distribuir en PResolver la autoridad conceptual general. La pertenencia conceptual de ambas facultades a la familia está confirmada por el fundador; eso no demuestra equivalencia técnica entre dominios.
 
 **Relacionados:** [T04](human-pedagogical-contextualization.md) · [Docs Standard](../mechanisms/pedagogical-intent-documentation.md) · [Abstracción T04](../mechanisms/document-to-intermediate-projection.md).
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Permitir experiencias y respuestas pedagógicas distintas a partir de una intención. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar significado al producir exploraciones o realizaciones. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Aprovechar tecnologías para materializar alternativas de dominio. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Puede ampliar alternativas disponibles; ahorro de esfuerzo no demostrado. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
