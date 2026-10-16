@@ -22,7 +22,7 @@ flowchart TB
     I -->|delimita| S["Espacio de<br/>posibilidades"]
     S -->|"consultar<br/>o recorrer"| E["Explorar<br/>comprender"]
     S -->|"concretar dentro<br/>de límites"| R["Realizar<br/>responder"]
-    E --> H["Hallazgos<br/>comprensión o preguntas"]
+    E --> H["Hallazgos<br/>comprensión<br/>o preguntas"]
     R --> O["Resultados u<br/>observaciones"]
     H -.->|"puede informar<br/>revisión"| I
     O -.->|"puede motivar<br/>revisión"| I
