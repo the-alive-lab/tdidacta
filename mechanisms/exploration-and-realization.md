@@ -15,8 +15,8 @@ flowchart LR
     S["Espacio de<br/>posibilidades"]
     E["Explorar<br/>comprender"]
     R["Realizar<br/>concretar"]
-    H["Comprensión<br/>hallazgos o preguntas"]
-    O["Experiencia<br/>artefacto o planificación"]
+    H["Comprensión,<br/>hallazgos o<br/>preguntas"]
+    O["Experiencia,<br/>artefacto o<br/>planificación"]
 
     S -->|"consultar o<br/>recorrer"| E
     S -->|"concretar dentro<br/>de límites"| R
