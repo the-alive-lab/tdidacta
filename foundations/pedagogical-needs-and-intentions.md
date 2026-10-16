@@ -39,4 +39,4 @@ No son ejes métricos obligatorios ni un inventario exhaustivo. La coherencia te
 - La organización no exige árbol único ni secuencia universal.
 - La responsabilidad de aprender no queda absorbida por quien formula la intención.
 
-**Relacionados:** [Espacios de posibilidades](possibility-spaces.md) · [Explorar y realizar](exploration-and-realization.md) · [Resolución recursiva](recursive-pedagogical-resolution.md).
+**Relacionados:** [Espacios de posibilidades](../mechanisms/possibility-spaces.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Resolución recursiva](recursive-pedagogical-resolution.md).
