@@ -1,6 +1,6 @@
 # Revisión y corrección pedagógica — mecanismo candidato T05
 
-**Estado:** propuesta conceptual bajo revisión del fundador (2026-10-16); no adoptada, implementada ni validada.
+**Estado:** mecanismo conceptual candidato suficientemente delimitado para T05 (2026-10-16); no implementado ni validado.
 
 ## Responsabilidad
 
@@ -23,6 +23,12 @@ Estas son responsabilidades posibles, **no un pipeline secuencial obligatorio** 
 - Verificar Docs→IR (abstracción) y verificar IR→realización (proyección) pueden requerir controles distintos; **conformidad técnica T15** se define por separado.
 - La corrección y el resultado de una revisión no otorgan derechos sobre fuentes ni autorización para publicar.
 - Debe minimizar trabajo manual improductivo y permitir correcciones proporcionadas; **ahorro neto no demostrado**.
+
+## Feedback y apoyo diferido
+
+La [generación de feedback](feedback-generation.md) y la [trazabilidad de feedback](feedback-traceability.md) son dos mecanismos candidatos distintos, complementarios a la revisión. La trazabilidad puede ser parcialmente o completamente automatizada sin que sus atribuciones sean automáticamente autoritativas.
+
+El [mecanismo de apoyo a la revisión](pedagogical-review-assistance.md) se conserva **separado y diferido hasta después de la publicación de PResolver**.
 
 ## Pendientes
 
