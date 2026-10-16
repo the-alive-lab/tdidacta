@@ -50,9 +50,15 @@ Una misma intervención puede afectar más de un objeto; evitar contarla dos vec
 5. Producir un **resumen comprensible de procedencia/participación**, sin deducir por defecto titularidad, autoría legal, permisos o calidad pedagógica.
 6. Permitir revisión humana de la clasificación y discrepancias, sin presentar una inferencia de IA como verdad confirmada.
 
+## Dependencia para una clasificación futura
+
+La clasificación pública está **deliberadamente limitada** a cuatro términos provisionales: elaboración humana, elaboración asistida, transformación asistida y generación supervisada. Su objetivo actual es distinguir elaboraciones completamente humanas de las que involucran IA, no producir una taxonomía integral de contribuciones. [Transparencia](../transparency/README.md) conserva ese alcance.
+
+**No avanzar en la formalización ni en extensiones de esa clasificación mientras este gradiente no esté definido completamente.** Esta dependencia no implica que las tres dimensiones aquí propuestas estén adoptadas, que se deban reducir a una puntuación o que determinen por sí solas una etiqueta.
+
 ## Clasificación global del recurso
 
-El servicio de TDidacta tiene como **requisito expresado por el fundador, pendiente de especificación**, que planificaciones, unidades, clases y actividades producidas mediante él exhiban clasificación transparente de la participación en su creación. Este mecanismo puede suministrar elementos para esa clasificación, pero **no define todavía su vocabulario, umbrales ni obligación técnica de emisión**. Ver [Transparencia](../transparency/README.md).
+El servicio de TDidacta tiene como **requisito expresado por el fundador, pendiente de especificación**, que planificaciones, unidades, clases y actividades producidas mediante él exhiban clasificación transparente de la participación en su creación. Este mecanismo puede suministrar elementos para esa clasificación, pero **no define todavía criterios de asignación, umbrales ni obligación técnica de emisión**. Ver [Transparencia](../transparency/README.md).
 
 ## Pruebas de contraste pendientes
 
