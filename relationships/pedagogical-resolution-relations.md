@@ -4,6 +4,40 @@
 
 ## Relaciones nucleares
 
+### Grafo de relaciones nucleares (candidato)
+
+**Pregunta de lectura:** ¿qué conceptos se vinculan al abordar una necesidad pedagógica y qué tipo de relación propone TDidacta entre ellos, sin establecer una secuencia de ejecución?
+
+```mermaid
+flowchart TB
+    N["Necesidad<br/>pedagógica"]
+    P["Responsable<br/>de enseñar"]
+    I["Intención<br/>pedagógica"]
+    S["Espacio de<br/>posibilidades"]
+    E["Exploración"]
+    R["Realización"]
+    IE["Intención más<br/>específica"]
+    O["Resultados u<br/>observaciones"]
+    NN["Nueva<br/>necesidad"]
+
+    N -->|"motiva / requiere<br/>respuesta"| I
+    P -->|"formula / revisa"| I
+    I -->|"delimita"| S
+    E -->|"consulta / recorre"| S
+    R -->|"concreta dentro de"| S
+    R -.->|"puede originar"| IE
+    O -.->|"informa / cuestiona"| N
+    O -.->|"informa / cuestiona"| I
+    O -.->|"informa / cuestiona"| R
+    O -.->|"puede revelar<br/>si es insuficiente"| NN
+```
+
+**Cómo leerlo:** las flechas nombran **relaciones semánticas**, no una trayectoria temporal. Por eso «Exploración» y «Realización» apuntan al espacio sobre el que operan, y no aparecen como pasos posteriores al espacio. Las líneas discontinuas resaltan posibilidades condicionadas o alternativas de continuidad; las relaciones de la tabla siguiente precisan sus alcances.
+
+**Lectura textual equivalente:** una necesidad puede motivar una intención formulada o revisada por quien asume enseñar. La intención delimita un espacio de posibilidades. La exploración consulta ese espacio y la realización concreta posibilidades dentro de él. Una realización puede originar otra intención más específica. Resultados u observaciones pueden informar o cuestionar necesidades, intenciones y realizaciones; cuando revelan insuficiencias o hallazgos, pueden aparecer nuevas necesidades.
+
+**Límites:** este grafo no afirma orden obligatorio, correspondencias uno-a-uno ni que todas las relaciones aparezcan en cada situación. «Responsable de enseñar» no equivale necesariamente a docente formal; tampoco concentra toda la agencia educativa. El grafo no representa exhaustivamente los roles de quien aprende, las relaciones transversales entre intenciones ni la coordinación recursiva, que corresponden a otras secciones y a [Lifecycle](../lifecycle/recursive-pedagogical-resolution.md). Una relación o realización correcta no demuestra aprendizaje.
+
 | Origen | Relación | Destino | Significado y límite |
 | --- | --- | --- | --- |
 | Necesidad pedagógica | **motiva / requiere respuesta** | Intención pedagógica | La intención aborda una necesidad; una necesidad no exige una escala ni una única intención. |
