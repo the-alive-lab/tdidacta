@@ -24,3 +24,16 @@ La entrada es documentación de TDidacta Docs Standard sobre **intenciones pedag
 - Una IR obtenida no se considera automáticamente conforme ni autorizada.
 
 **Autoridad:** decisión del fundador sobre el concepto; su generalidad operativa y las garantías técnicas deben contrastarse desde PResolver. [Continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md).
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Conservar significado de intenciones al formalizarlas como IR. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar relaciones y restricciones entre documentación e IR. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Motiva capacidades de estructuración automatizable, no una tecnología obligatoria. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Puede reducir reestructuración manual; beneficio por comprobar. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
