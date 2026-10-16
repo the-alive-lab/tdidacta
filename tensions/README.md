@@ -16,7 +16,7 @@ Una tensión explicita un problema de **satisfacer simultáneamente dos o más o
 
 ## Tensiones registradas
 
-- [Tensión entre aprovechamiento tecnológico y carga humana](technology-capacity-review-burden.md): el aumento de alternativas generadas puede trasladar o aumentar el costo de examinarlas, especialmente al mantener continuidad semántica. **Candidata**, especialmente pertinente a F02; pendiente de contraste en sus mecanismos.
+- [Tensión entre continuidad semántica y carga humana](semantic-continuity-human-effort.md): preservar y reconstruir significado puede exigir un esfuerzo elevado; O2 es posible apoyo tecnológico, no polo de la tensión. **Candidata**, especialmente pertinente a F02; pendiente de contraste en sus mecanismos.
 
 ## Fronteras
 
