@@ -35,4 +35,4 @@ Las dos operaciones pueden alternarse o repetirse; **no se impone explorar antes
 
 Que estas distinciones resulten útiles en TDidacta **no demuestra** que sean mecanismos universales de PResolver. La posible abstracción entre flavors es una hipótesis a investigar contrastando primero con VSlices y después con otros flavors.
 
-**Relacionados:** [Espacios de posibilidades](possibility-spaces.md) · [Resolución recursiva](../foundations/recursive-pedagogical-resolution.md).
+**Relacionados:** [Espacios de posibilidades](possibility-spaces.md) · [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
