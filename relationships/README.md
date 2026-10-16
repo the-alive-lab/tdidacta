@@ -8,6 +8,7 @@ Explicar cómo los conceptos de TDidacta se vinculan entre sí **sin redefinir l
 
 ## Lecturas
 
+- [Interpretación asistida → clasificación de evidencia](assisted-interpretation-evidence-classification.md): relación T02/T03 **pendiente de revisión**, sin dependencia técnica adoptada.
 - [Mapa relacional candidato](pedagogical-resolution-relations.md): relaciones entre necesidad, intención, espacio de posibilidades, exploración, realización, resultados y revisión.
 - [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md).
 - [Espacios de posibilidades](../mechanisms/possibility-spaces.md).
