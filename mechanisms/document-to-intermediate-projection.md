@@ -30,8 +30,8 @@ Se preserva la distinción entre **intención** y **situación/es**; proyectar u
 
 No se fija ahora una técnica de transformación, modelo, prompt, herramienta, pipeline, formato ni automatización.
 
-## Término por investigar: proyección semántica
+## Relación con la facultad de proyección semántica
 
-**Pendiente de indagación conceptual:** si «proyección semántica» es una *orientación*, un *fundamento*, una propiedad de continuidad o el nombre de un *mecanismo*. No se la promueve por la sola recurrencia del término. Debe contrastarse su sentido con VSlices, TDidacta y PResolver, y distinguir proyección de **interpretación**, **traducción**, **realización** y **verificación de conformidad**. Por ahora se usa el nombre descriptivo y delimitado **proyección documental a representación intermedia**.
+El fundador ha confirmado [proyección semántica](../foundations/semantic-projection.md) como **facultad común a los proyectos hijos de PResolver**, capaz de transformar documentación semántica mediante *encode* en representaciones intermedias, usarlas solas o combinadas y proyectarlas mediante *decode* hacia salidas del dominio. **Este mecanismo implementaría únicamente la operación de proyección documental/codificación específica de TDidacta**, no toda la facultad transversal. Su contrato técnico sigue pendiente de definir antes del 31-10-2026. La distribución conceptual entre Orientation, Foundations y Mechanisms, y las garantías generales, requieren investigación adicional.
 
 **Relaciones:** [Documentación mediante Docs Standard](pedagogical-intent-documentation.md) · [Estructura de representación intermedia](../structures/tdidacta-intermediate-representation.md) · [T04](../foundations/human-pedagogical-contextualization.md).
