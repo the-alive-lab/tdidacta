@@ -1,4 +1,4 @@
-# Autoridad y autorización de realizaciones — propuesta T06
+# Autorización de elementos pedagógicos — T06
 
 **Estado:** en curso, pendiente de decisión humana (2026-10-16). No cerrado ni validado.
 
@@ -8,7 +8,7 @@
 
 ## Responsabilidad candidata
 
-**Autorizar** es una decisión humana mediante la cual quien posee responsabilidad pertinente acepta una realización para un uso y alcance reconocibles. Puede ser situada: autorizar para una situación no la aprueba automáticamente para todas. Revisar, crear, corregir y autorizar son responsabilidades diferenciadas aunque puedan recaer en una misma persona (T01 y T05).
+**Autorizar** es una decisión humana mediante la cual la persona responsable acepta un elemento pedagógico para un uso y alcance reconocibles, estableciendo una referencia semántica estable para el trabajo posterior. Puede ser situada: autorizar para una situación no la aprueba automáticamente para todas. Revisar, crear, corregir y autorizar son responsabilidades diferenciadas aunque puedan recaer en una misma persona (T01 y T05).
 
 ## Decisiones del fundador sobre alcance MVP y congelamiento (2026-10-16)
 
@@ -42,8 +42,8 @@ Autorizar no implica publicación (T07), conformidad técnica verificada (T15), 
 
 ## Cuestiones para decisión humana
 
-1. ¿Quién tiene responsabilidad para autorizar en situaciones individuales, colaborativas e institucionales?
-2. ¿Qué objeto, versión y situación abarca la autorización?
+1. ¿Cómo abordar más adelante autorización colaborativa, institucional y multinivel, explícitamente fuera del MVP?
+2. ¿Cómo identificar el objeto y alcance autorizado sin decidir anticipadamente la tecnología de versiones?
 3. ¿Qué revisión es suficiente para autorizar sin imponer un procedimiento universal?
 4. ¿Cómo reconsiderar autorización cuando cambia una condición material?
 
