@@ -33,7 +33,7 @@ El estado de seguimiento es independiente del estado **candidate / active / stab
 5. Cuando corresponda, revisar Research: estudios, resultados, límites, protocolos y evidencia; no convertir observaciones en resultados de aprendizaje ni inventar validaciones.
 6. Preparar una propuesta con: concepto/responsabilidad, correspondencia V6 ↔ TDidacta, lectura comparativa de VSlices, autoridad, límites, alternativas, cambios propuestos y pendientes.
 7. Aplicar modificaciones solo cuando la operación esté autorizada. Actualizar enlaces e índices afectados; conservar procedencia, contexto y decisiones. Verificar referencias y navegación.
-8. Registrar el resultado en este documento. **Inmediatamente después del cierre de un tópico**, examinar su impacto sobre cada tópico pendiente y registrar relaciones relevantes, decisiones reutilizables, límites, aplazamientos y enlaces, **sin alterar el estado de esos otros tópicos**.
+8. Registrar el resultado en este documento. **Inmediatamente después del cierre de un tópico**, examinar su impacto sobre **todos los demás tópicos, abiertos y cerrados**. Registrar relaciones, decisiones reutilizables, límites y aplazamientos; para los ya cerrados, comprobar coherencia y detectar contradicciones o tensiones con las decisiones previamente adoptadas. **No modificar automáticamente el estado ni las decisiones de otros tópicos**: documentar hallazgos, evidencia y necesidad de revisión.
 9. Al iniciar un tópico futuro, leer primero los impactos recibidos de tópicos anteriores, contrastarlos con las fuentes vigentes y evitar reconstruir desde cero lo ya justificado. Escoger entonces el siguiente tópico; **no** marcar `cerrado` por haberlo analizado solamente.
 
 ### Registro mínimo de una revisión
@@ -90,11 +90,11 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 ## Retroalimentación transversal después de cada cierre
 
-**Regla operativa:** al cerrar un tópico, revisar **todos los tópicos todavía abiertos** y registrar únicamente impactos explicables con decisiones o artefactos concretos. Distinguir *decisión reutilizable*, *delimitación de alcance*, *antecedente candidato* y *ausencia de avance directo*. No convertir automáticamente correspondencias en progreso demostrado, ni modificar estados de tópicos receptores. Este registro es un **índice de continuidad**, no reemplaza los documentos de cada responsabilidad.
+**Regla operativa:** al cerrar un tópico, revisar **todos los demás tópicos, tanto abiertos como cerrados**, y registrar únicamente impactos explicables con decisiones o artefactos concretos. En los abiertos, identificar continuidad aprovechable y pendientes; en los cerrados, **verificar consistencia y buscar contradicciones, tensiones o supuestos invalidados**. Distinguir *decisión reutilizable*, *delimitación de alcance*, *antecedente candidato* y *ausencia de avance directo*. No convertir automáticamente correspondencias en progreso demostrado, ni modificar automáticamente estados o decisiones de tópicos receptores. Un conflicto con un tópico cerrado debe registrarse con enlaces y proponerse para revisión explícita, sin reabrirlo ni corregirlo silenciosamente. Este registro es un **índice de continuidad**, no reemplaza los documentos de cada responsabilidad.
 
-Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores, impacto fundado, qué queda por resolver y fuentes/enlaces. Si nuevos cierres contradicen registros previos, añadir una corrección trazable sin reescribir hechos históricos.
+Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores **abiertos y cerrados**, impacto fundado, resultado de verificación de coherencia, posibles contradicciones, qué queda por resolver y fuentes/enlaces. Si nuevos cierres contradicen registros previos, añadir una corrección trazable sin reescribir hechos históricos.
 
-### Retroalimentación de T01 hacia tópicos pendientes — 2026-10-16
+### Retroalimentación de T01 hacia tópicos restantes — 2026-10-16
 
 **Origen:** [T01 autoría pedagógica](../foundations/pedagogical-authorship.md), [transparencia](../transparency/README.md), [gradiente candidato](../mechanisms/contribution-gradient.md), [feedback candidato](../mechanisms/feedback-traceability.md). Cierre autorizado para alcance 31-10-2026; trabajos avanzados aplazados. **Ningún estado receptor cambia**. Los grados siguientes describen solo reutilización cualitativa, no porcentajes completados.
 
