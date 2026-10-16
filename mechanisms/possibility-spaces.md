@@ -25,8 +25,8 @@ flowchart LR
         E["Exploración<br/>dentro del<br/>alcance"]
         D -.->|"orientan"| E
     end
-    X["Reconocer cambio<br/>de alcance"]
-    F["Exploración<br/>adicional fuera<br/>del espacio<br/>original"]
+    X["Reconocer<br/>cambio de<br/>alcance"]
+    F["Exploración<br/>adicional fuera<br/>del espacio original"]
 
     I -->|"delimita"| D
     E -.->|"puede<br/>extenderse"| X
