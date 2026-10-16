@@ -29,7 +29,7 @@ flowchart LR
     F["Exploración<br/>adicional fuera<br/>del espacio<br/>original"]
 
     I -->|"delimita"| D
-    E -.->|"puede extenderse"| X
+    E -.->|"puede<br/>extenderse"| X
     X -->|"continuar sin<br/>atribuirla al<br/>espacio original"| F
 ```
 
