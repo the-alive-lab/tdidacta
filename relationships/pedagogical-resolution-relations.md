@@ -57,4 +57,4 @@ Un ciclo de trabajo puede **coordinar** estas relaciones para abordar necesidade
 - **Explora** y **realiza** no prescriben un orden obligatorio.
 - **Puede revelar nueva necesidad** habilita recursividad sin imponerla.
 
-**Fuentes locales:** [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) · [Espacios de posibilidades](../foundations/possibility-spaces.md) · [Explorar y realizar](../foundations/exploration-and-realization.md) · [Resolución recursiva](../foundations/recursive-pedagogical-resolution.md).
+**Fuentes locales:** [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) · [Espacios de posibilidades](../mechanisms/possibility-spaces.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Resolución recursiva](../foundations/recursive-pedagogical-resolution.md).
