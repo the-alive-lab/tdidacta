@@ -36,12 +36,21 @@ Cuando **cambia una intención pedagógica autorizada**, deben **revisarse y aut
 1. Un cambio externo afecta una necesidad pedagógica.
 2. La documentación vigente deja de reflejar plenamente el contexto o las intenciones pertinentes.
 3. Se actualiza la documentación para reflejar la necesidad y condiciones actuales.
-4. Deben **reinterpretarse las representaciones intermedias derivadas** de la documentación modificada.
-5. Las diferencias entre el estado anterior y posterior, y sus dependencias, requieren revisión y las autorizaciones correspondientes.
+4. La abstracción vuelve a **generar las IR derivadas** desde la documentación actualizada; esto es una operación instrumental prevista como automatizable, no el principal problema de revisión.
+5. Se evalúa **si las exploraciones y realizaciones existentes siguen siendo válidas y coherentes** con el mundo semántico actualizado, identificando las dependencias pertinentes.
+6. Si la respuesta existente es insuficiente para cubrir la necesidad, se proponen cambios en la documentación y se repite la abstracción, hasta alcanzar una respuesta adecuada sometida a revisión y autorización.
 
 La diferencia y el riesgo de **drift semántico** generan costo humano. Se propone un **mecanismo candidato independiente de apoyo para detectar dependencias y riesgos de drift**, sin sustituir revisión ni autorización humanas. Su diseño y alcance deben decidirse sin presumir eficacia o seguridad de la detección automatizada.
 
 **No se fijan aquí** formatos de diff, algoritmos, grados de transitividad, criterios técnicos ni procedimientos obligatorios de actualización; corresponden a especificaciones posteriores y al contraste con T08/T09/T12/T15.
+
+## Dos declaraciones diferentes durante la actualización
+
+**Declaración de impacto:** establecer si lo ya documentado, explorado y realizado **responde o no a la nueva necesidad**, indicando los efectos y riesgos de incoherencia. Un cambio documental pequeño puede dejar casi todas las realizaciones válidas, aunque exija comprobarlas; no se presume invalidación automática por diferencia de IR.
+
+**Declaración de cambios:** cuando la respuesta existente no es suficiente, determinar y aplicar ajustes a la documentación, intenciones, situaciones o realizaciones necesarios para responder correctamente. Cambios importantes pueden exigir nuevas unidades, intenciones subordinadas o realizaciones; la nueva documentación produce IR regenerada y vuelve a evaluarse el impacto.
+
+Las declaraciones constituyen **responsabilidades conceptuales diferenciadas**, no necesariamente dos formularios, artefactos físicos o etapas rígidas. Puede haber iteración entre impacto y cambios. La comparación material es sobre **vigencia y coherencia de exploraciones y realizaciones con la necesidad y semántica actual**, no una exigencia de aprobar manualmente cada regeneración de IR.
 
 ## Tensión abierta recibida de T05
 
