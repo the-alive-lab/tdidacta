@@ -74,3 +74,16 @@ Esta tensión no impide cerrar T05; debe examinarse explícitamente al tratar T0
 Reconocer **revisión y corrección pedagógica** como una responsabilidad humana separada de contextualización y autorización, aplicable proporcionalmente a intenciones, situaciones, documentación, IR, exploraciones y realizaciones; posibilitar asistencia inferencial **sin delegar autoridad ni aumentar innecesariamente la carga**. Los procedimientos concretos, controles y pruebas quedan por especificar en sus fronteras correspondientes.
 
 **Fuentes:** decisiones T01–T04, orientación vigente de TDidacta y [maestro editorial V6](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md), que exige contextualización, corrección y autorización humanas sin imponer el registro de cada decisión trivial. V6 no constituye evidencia empírica.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Mantener la respuesta adecuada a necesidades pedagógicas reales. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Reconocer y corregir desviaciones del significado y sus restricciones. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Herramientas pueden asistir, sin sustituir juicio humano. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Evitar revisiones innecesarias y reducir esfuerzo neto por evaluar. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
