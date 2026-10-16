@@ -20,15 +20,15 @@ Una realización puede responder suficientemente a la necesidad, resultar insufi
 flowchart TB
     N["Necesidad<br/>pedagógica"] -->|puede motivar| I["Intención<br/>pedagógica"]
     I -->|delimita| S["Espacio de<br/>posibilidades"]
-    S -->|consultar o recorrer| E["Explorar: comprender"]
-    S -->|concretar dentro de límites| R["Realizar: responder"]
-    E --> H["Hallazgos, comprensión o preguntas"]
-    R --> O["Resultados u observaciones"]
-    H -.->|puede informar revisión| I
-    O -.->|puede motivar revisión| I
+    S -->|"consultar<br/>o recorrer"| E["Explorar<br/>comprender"]
+    S -->|"concretar dentro<br/>de límites"| R["Realizar<br/>responder"]
+    E --> H["Hallazgos<br/>comprensión o preguntas"]
+    R --> O["Resultados u<br/>observaciones"]
+    H -.->|"puede informar<br/>revisión"| I
+    O -.->|"puede motivar<br/>revisión"| I
     O -.->|puede revelar| NN["Nueva<br/>necesidad"]
     NN -.->|puede motivar| I2["Otra<br/>intención"]
-    O -.->|podría ser suficiente| C["Cierre de esta necesidad"]
+    O -.->|"podría ser<br/>suficiente"| C["Cierre de esta<br/>necesidad"]
 ```
 
 **Cómo leerlo:** las flechas continuas ayudan a reconocer relaciones principales de este modelo candidato; las discontinuas identifican **continuidades posibles**, no etapas obligatorias. Explorar y realizar son operaciones distintas que pueden alternarse o repetirse; ninguna exige que la otra ocurra antes. Una exploración puede producir comprensión o preguntas sin generar una realización.
