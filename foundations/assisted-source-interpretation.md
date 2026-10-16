@@ -58,3 +58,16 @@ No existen aquí resultados de validación empírica, ni se presume extracción 
 **Decisión expresa del fundador (2026-10-16):** el **mecanismo detallado mediante el cual una IA interpreta una fuente educativa** queda pendiente de definir para una versión **posterior a la publicación de PResolver**. Esto incluye el procedimiento interno, controles, estructura técnica y criterios específicos de operación o evaluación del mecanismo, sin anticipar aquí su diseño. El recorrido conceptual de esta nota es orientativo y no constituye ese mecanismo implementado.
 
 **No altera el cierre de T02:** ya está aceptada la responsabilidad de interpretar fuentes mediante asistencia supervisada como complemento de la interpretación desde cero. Los desarrollos conceptuales propios de T03 (inferencias e incertidumbre), T08 (procedencia) y T25 (modalidades de inferencia) conservan sus límites y no se dan por resueltos ni se aplazan automáticamente por esta decisión.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Apoyar a quien enseña a comprender materiales según su necesidad. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar diferencia entre fuente, propuesta e interpretación. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Motiva la vía opcional de interpretación con IA u otras capacidades. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Ampliar capacidad interpretativa es posible; costo y fiabilidad pendientes. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
