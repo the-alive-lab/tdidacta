@@ -1,12 +1,20 @@
 # Contextualización pedagógica humana — propuesta T04
 
-**Estado del tópico:** revisado, pendiente de aprobación humana. **Autoridad:** propuesta conceptual; no especificación técnica, método universal ni eficacia validada.
+**Estado del tópico:** en revisión con ampliación de alcance aprobada por el fundador (2026-10-16). **Obligaciones documentales/estructurales identificadas para antes del 31-10-2026; especificaciones pendientes.**
 
 ## Problema y responsabilidad
 
 Una necesidad, contenido o interpretación no se convierte automáticamente en una intención pedagógica adecuada para una situación. **Contextualizar** consiste en que quien asume la responsabilidad de enseñar **interprete las condiciones relevantes de una necesidad situada y decida cómo informan, delimitan o revisan la intención pedagógica**, para destinatarios que pueden ser distintos de esa persona.
 
 Esto vale para una interpretación creada desde cero y para propuestas obtenidas mediante la vía complementaria de interpretación asistida. La contextualización humana no consiste únicamente en ajustar un texto al perfil de un alumno ni en aceptar recomendaciones de IA.
+
+## Resultado de la contextualización y proyección
+
+**Decisión del fundador:** la contextualización humana produce una **intención pedagógica y las subdivisiones pertinentes**. **Docs Standard** debe representar documentalmente la intención y **una o más situaciones válidas**, distinguiendo lo que se pretende enseñar de dónde, para quién y bajo qué condiciones se pretende enseñar. Esta separación debe informar tanto exploraciones como realizaciones.
+
+Se identifican tres artefactos cuyo **diseño debe quedar definido antes del deadline 31-10-2026**, sin desarrollarlos completamente en esta revisión: [Documentación mediante Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [Proyección documental asistible por IA](../mechanisms/document-to-intermediate-projection.md) y [Representación intermedia por intención](../structures/tdidacta-intermediate-representation.md). La representación puede distribuirse en varios archivos y conservar varias situaciones por intención.
+
+**Proyección semántica** queda como concepto por indagar para determinar si es orientación, fundamento o mecanismo. No se adopta todavía su ubicación conceptual ni se confunde con la interpretación de fuentes de T02.
 
 ## Elementos que pueden ser pertinentes
 
@@ -30,7 +38,7 @@ Una contextualización resulta **legible y revisable** cuando la persona respons
 3. qué decisiones incorpora, excluye o mantiene abiertas al formular o revisar la intención;
 4. qué evidencia e incertidumbre relevante sigue sin resolverse, **sin atribuir como hecho confirmado una inferencia no verificada**.
 
-La explicación puede ser breve, informal o quedar integrada en la propia intención. No exige completar formularios, registrar cada decisión, disponer de fuente documental formal, usar IA ni representar un TDIR. Una necesidad pequeña puede ameritar una contextualización mínima; una situación compleja podría necesitar mayor explicitud.
+La explicación puede ser breve, informal o quedar integrada en la propia intención. No exige completar formularios exhaustivos, registrar cada decisión, disponer de fuente documental formal ni usar IA para interpretar material. **Sin embargo, para el camino de documentación/proyección de T04 se deberán especificar Docs Standard y la representación intermedia antes del deadline**, de modo que esta obligación del sistema no se convierta automáticamente en carga técnica del responsable. Una necesidad pequeña puede ameritar una contextualización mínima; una situación compleja podría necesitar mayor explicitud.
 
 ## Límite de responsabilidades
 
@@ -57,6 +65,6 @@ Estos son casos ilustrativos, no validación empírica.
 - [Maestro editorial V6](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md): contexto, objetivos, restricciones, prerrequisitos, exclusiones y variación permisible. Evidencia editorial, no prueba de eficacia.
 - **VSlices:** adaptable separar definición/autoridad de realización; no importamos requisitos propios de arquitectura de software ni postulamos universalidad de PResolver.
 
-## Propuesta para cierre
+## Pendientes para definir antes del deadline
 
 Reconocer que **la persona responsable contextualiza la necesidad y cualquier interpretación disponible al formular o revisar la intención pedagógica**, haciendo legibles únicamente las condiciones, decisiones e incertidumbres relevantes. Mantener el mecanismo proporcional y no imponer un procedimiento técnico universal. Revisar posteriormente la eficacia y el esfuerzo de aplicar esta responsabilidad, sin convertir esa validación en un prerrequisito conceptual de T04.
