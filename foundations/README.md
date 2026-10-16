@@ -8,7 +8,8 @@
 | --- | --- | --- |
 | [Enseñanza y aprendizaje](teaching-and-learning.md) | Orientación que reconoce a quien enseña y a quien aprende como participantes activos | Basado en canon vigente |
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
-| [Proyección semántica](semantic-projection.md) | Facultad transversal declarada para PResolver y especialización de TDidacta; distribución de autoridad pendiente | Concepto transversal confirmado por fundador; formalización pendiente |
+| [Abstracción semántica](semantic-abstraction.md) | Documentación semántica a IR (encode) | Concepto transversal confirmado por fundador; formalización pendiente |
+| [Proyección semántica](semantic-projection.md) | IR individual/combinada a resultados de dominio (decode) | Concepto transversal confirmado por fundador; formalización pendiente |
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
