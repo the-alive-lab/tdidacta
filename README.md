@@ -37,6 +37,8 @@ Este enlace **no constituye una adopción normativa automática** ni cambia las 
 
 ## Generación y evolución documental del proyecto
 
+**Para extender o reorganizar este repositorio:** comenzar por [AGENTS.md](AGENTS.md), revisar las responsabilidades existentes y consultar las [Project Generation Rules](https://github.com/the-alive-lab/project-generation-rules) antes de proponer nuevas estructuras. Son referencias compartidas y no se adoptan automáticamente como normas de TDidacta.
+
 Las [Project Generation Rules de The Alive Lab](https://github.com/the-alive-lab/project-generation-rules) son una **referencia transversal** para organizar proyectos, facilitar su reconocimiento por personas y agentes y conservar continuidad cuando evolucionan. Incluyen [reglas de fundamentación](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/project-foundation.md), [criterios de descubrimiento](https://github.com/the-alive-lab/project-generation-rules/blob/main/rules/human-and-agent-discovery.md), [guía de evolución](https://github.com/the-alive-lab/project-generation-rules/blob/main/guides/evolution.md) y entradas para agentes ([AGENTS.md](https://github.com/the-alive-lab/project-generation-rules/blob/main/AGENTS.md) y [llms.txt](https://github.com/the-alive-lab/project-generation-rules/blob/main/llms.txt)).
 
 El vínculo constituye una **referencia, no una adopción normativa automática** ni una reestructuración de TDidacta. Las definiciones canónicas, la gobernanza y las decisiones específicas de este proyecto conservan su autoridad. TDidacta dispone de entradas propias para agentes ([AGENTS.md](AGENTS.md)) y descubrimiento por LLM ([llms.txt](llms.txt)); ambas enlazan las fuentes existentes sin duplicar ni redefinir el canon.
