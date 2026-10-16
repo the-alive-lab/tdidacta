@@ -5,6 +5,7 @@
 ## Documento
 
 - [Resolución recursiva de necesidades pedagógicas](recursive-pedagogical-resolution.md): necesidad → intención → espacio → operaciones → resultados, posibles revisiones y nuevas necesidades.
+- [Comparación visual Mermaid / SVG](visual-comparison-mermaid-svg.md): dos representaciones experimentales del mismo lifecycle candidato para evaluar claridad y mantenibilidad; no altera el modelo.
 
 ## Fronteras
 
