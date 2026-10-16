@@ -26,6 +26,23 @@
 
 Estas decisiones **sustituyen la interpretación anterior** de autorización limitada a una realización final. Los casos colaborativos e institucionales no son requisito de MVP.
 
+## Precisión: exploración previa a realizaciones y revisión por cambios documentales
+
+**Decisión del fundador (2026-10-16):** una persona puede **autorizar y congelar una intención pedagógica antes de definir sus realizaciones**, precisamente para habilitar exploración y prueba-error de alternativas sin desestabilizar la intención aprobada. Una realización posterior no queda aprobada por extensión.
+
+Cuando **cambia una intención pedagógica autorizada**, deben **revisarse y autorizarse de nuevo los elementos dependientes afectados por ese cambio**. Se requiere examinar todas las dependencias pertinentes; esto no implica aprobar automáticamente cambios ni alterar elementos que no dependan de la intención modificada. La delimitación y detección de dependencias necesita un mecanismo específico, aún no implementado.
+
+**Recorrido de cambio:**
+1. Un cambio externo afecta una necesidad pedagógica.
+2. La documentación vigente deja de reflejar plenamente el contexto o las intenciones pertinentes.
+3. Se actualiza la documentación para reflejar la necesidad y condiciones actuales.
+4. Deben **reinterpretarse las representaciones intermedias derivadas** de la documentación modificada.
+5. Las diferencias entre el estado anterior y posterior, y sus dependencias, requieren revisión y las autorizaciones correspondientes.
+
+La diferencia y el riesgo de **drift semántico** generan costo humano. Se propone un **mecanismo candidato independiente de apoyo para detectar dependencias y riesgos de drift**, sin sustituir revisión ni autorización humanas. Su diseño y alcance deben decidirse sin presumir eficacia o seguridad de la detección automatizada.
+
+**No se fijan aquí** formatos de diff, algoritmos, grados de transitividad, criterios técnicos ni procedimientos obligatorios de actualización; corresponden a especificaciones posteriores y al contraste con T08/T09/T12/T15.
+
 ## Tensión abierta recibida de T05
 
 La obligación conceptual de revisar y corregir no implica necesariamente revisión exhaustiva de cada documento, intención, situación, IR o realización ni un procedimiento universal. Sin embargo, tampoco permite una aprobación sin juicio suficiente. **Por decidir en T06:** criterios de suficiencia de revisión según riesgos, intención, situación y alcance; qué evidencias y controles son necesarios, sin imponer una burocracia universal ni atribuir autoridad a un LLM.
