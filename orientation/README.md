@@ -31,3 +31,11 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 ## Continuidad
 
 [Foundations](../foundations/README.md) desarrolla las distinciones conceptuales sin convertir sus candidatos en orientaciones ya adoptadas. [Bootstrap](../bootstrap/README.md) conserva el origen histórico.
+
+## Integridad de trazabilidad con Foundations
+
+La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las tres orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
+
+**Regla vigente para esta etapa:** agregar, retirar o modificar sustantivamente cualquier orientación —incluida la principal— **obliga a revisar todos los fundamentos** y sus tablas de trazabilidad, identificando apoyo directo, contribución indirecta, ausencia de relación, insuficiencia o contradicción. No basta con añadir enlaces al nuevo documento. La revisión precede a considerar la propagación documental concluida; no impone modificar el contenido de todos los fundamentos ni promueve automáticamente nuevas abstracciones.
+
+[Índice de Foundations](../foundations/README.md) · [Auditoría O→F](../notes/2026-10-16-orientations-foundations-consistency-audit.md).
