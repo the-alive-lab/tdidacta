@@ -10,6 +10,7 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 | --- | --- |
 | [Orientación](orientation/README.md) | Propósito, problema abordado, alcance e idioma |
 | [Foundations](foundations/README.md) | Conceptos reconocidos y definiciones candidatas |
+| [Mechanisms](mechanisms/README.md) | Espacios delimitados y operaciones candidatas de exploración/realización |
 | [Relationships](relationships/README.md) | Relaciones candidatas entre necesidades, intenciones, espacios y operaciones |
 | [Productos](products/README.md) | Familia propuesta y responsabilidades todavía abiertas |
 | [Gobernanza documental](governance/README.md) | Autoridad, procedencia, evolución y diferencias entre canon, evidencia y propuestas |
