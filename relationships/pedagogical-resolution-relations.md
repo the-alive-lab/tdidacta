@@ -59,8 +59,8 @@ Estas relaciones describen **posibilidades de asociación y responsabilidad**, n
 
 ```mermaid
 flowchart LR
-    A["Comprender<br/>arquitectura de software"]
-    B["Comprender separación<br/>de responsabilidades"]
+    A["Comprender<br/>arquitectura de<br/>software"]
+    B["Comprender<br/>separación de<br/>responsabilidades"]
     C["Aplicar<br/>MVVM"]
     D["Probar<br/>ViewModels"]
 
