@@ -95,9 +95,12 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 
 | Orientación | Relación con este fundamento |
 | --- | --- |
-| [Orientación principal](../orientation/README.md) | Reconocer responsabilidad y agencia de quien enseña en el MVP. |
+| [Orientación principal](../orientation/README.md) | La enseñanza y aprendizaje explican por qué existen decisiones pedagógicas; **no** fundamentan por sí mismos quién debe autorizarlas. |
 | [Continuidad semántica](../orientation/semantic-continuity.md) | Estabilizar un alcance semántico revisable sin bloquear exploración. |
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Puede apoyar identificación de cambios, nunca autoriza por sí sola. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Reducir carga de reautorización es objetivo, no resultado demostrado. |
+
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Es la orientación normativa directa: toda aprobación pedagógica reconocida corresponde a una persona responsable. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | La atribución de aportes no concede automáticamente autoridad de autorización. |
 
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
