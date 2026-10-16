@@ -66,8 +66,11 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 | Orientación | Relación con este fundamento |
 | --- | --- |
 | [Orientación principal](../orientation/README.md) | Apoyar a quien enseña a comprender materiales según su necesidad. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar diferencia entre fuente, propuesta e interpretación. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Contribución indirecta: conservar significado al interpretar, sin ser el motivo principal de la asistencia. |
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Motiva la vía opcional de interpretación con IA u otras capacidades. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Ampliar capacidad interpretativa es posible; costo y fiabilidad pendientes. |
+
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Directa: interpretación de IA es propuesta supervisable, no conocimiento autorizado. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Reconocer las fuentes y la asistencia en aportes significativos sin falsear atribuciones. |
 
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
