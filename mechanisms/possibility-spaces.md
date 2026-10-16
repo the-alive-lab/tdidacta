@@ -34,4 +34,4 @@ Antes de proponer un estudio nuevo se debe comprobar la continuidad con la inves
 
 No se establece un mecanismo universal, formato obligatorio, sintaxis, contrato técnico de Platform ni fundamento estable. La viabilidad observada de una realización no implica superioridad pedagógica general.
 
-**Relacionados:** [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) · [Explorar y realizar](exploration-and-realization.md) · [Resolución recursiva](../foundations/recursive-pedagogical-resolution.md) · [Criterios de madurez](../foundations/scope-and-promotion.md).
+**Relacionados:** [Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) · [Explorar y realizar](exploration-and-realization.md) · [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md) · [Criterios de madurez](../foundations/scope-and-promotion.md).
