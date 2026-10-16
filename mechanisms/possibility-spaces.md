@@ -26,11 +26,11 @@ flowchart LR
         D -.->|"orientan"| E
     end
     X["Reconocer<br/>cambio de<br/>alcance"]
-    F["Exploración<br/>adicional fuera<br/>del espacio original"]
+    F["Exploración<br/>adicional fuera<br/>del espacio<br/>original"]
 
     I -->|"delimita"| D
     E -.->|"puede<br/>extenderse"| X
-    X -->|"continuar sin<br/>atribuirla al<br/>espacio original"| F
+    X -->|"continuar sin<br/>atribuirla al<br/>espaciooriginal"| F
 ```
 
 **Cómo leerlo:** el contenedor representa el alcance de posibilidades delimitadas por una intención pedagógica, **no un límite a la curiosidad**. Dentro puede realizarse una exploración conforme a las condiciones declaradas. Si surge interés por algo fuera del espacio original, la exploración puede continuar, reconociendo el cambio de alcance. Las conexiones discontinuas expresan posibilidades, no pasos obligatorios.
