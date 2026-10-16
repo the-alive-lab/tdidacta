@@ -42,6 +42,26 @@ Las experiencias de enseñanza y aprendizaje pueden ocurrir en distintos entorno
 
 Los significados de trabajo son **candidatos**, no una nueva taxonomía adoptada ni definiciones normativas de Method, Design, Docs Standard, Framework o Platform.
 
+### Espacio de posibilidades pedagógico — definición candidata
+
+**Estado: candidate; antecedente de realización identificado; eficacia comparativa no establecida.**
+
+Un **espacio de posibilidades pedagógico** es una delimitación explícita de propósitos, condiciones, restricciones, límites y grados de libertad dentro de la cual pueden desarrollarse distintas realizaciones propuestas por quien enseña y exploraciones iniciadas por quien aprende. Su formulación intenta conservar la orientación pedagógica sin exigir una única experiencia ni suprimir la curiosidad o la autonomía del aprendiz.
+
+Cuando una exploración supera el alcance declarado, puede continuar como exploración adicional, **señalando que ya no pertenece al espacio original** en lugar de presentarla silenciosamente como parte de la misma enseñanza. Mostrar conexiones con clases anteriores o futuras es una posibilidad por investigar, no una obligación adoptada. Varios espacios podrían relacionarse para formar unidades u otras estructuras educativas, pero esa composición todavía no se establece como regla universal.
+
+**Antecedentes y alcance de evidencia:**
+
+- Hernán reporta experiencia práctica favorable con espacios de posibilidades en VSlices. Se conserva como **testimonio de uso**, no como demostración comparativa o validez general.
+- Las [instrucciones de generación de Clean Architecture](https://github.com/HernanFAR/teaching/blob/main/docs/lessons/clean-architecture/generation-instructions.md) expresan en prosa propósito, exclusiones, recorrido causal, invariantes, variaciones admisibles, restricciones y exploraciones: constituyen una **realización documentada compatible con el concepto**.
+- La línea existente de [Pedagogical Intent & Realization](https://github.com/vslices/research-space/tree/main/lines/pedagogical-intent-realization) y el estudio [PIR-STU-001 — Cross-realizer semantic conformance](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/studies/stu-001-cross-realizer-semantic-conformance.md) investigan la preservación de obligaciones de una fuente entre realizaciones y exploraciones. **No equivalen automáticamente a una evaluación de eficacia pedagógica comparada frente a otras herramientas.**
+
+**Pregunta abierta:** bajo qué condiciones este enfoque apoya efectivamente la enseñanza y el aprendizaje, la autonomía, la calidad y el esfuerzo humano, comparado con alternativas fuertes. Antes de crear un Study nuevo hay que contrastar su alcance con los existentes en Research.
+
+No se promueve este concepto a fundamento estable, a mecanismo universal, a sintaxis obligatoria ni a contrato de Platform por registrar esta definición candidata.
+
+
+
 ## Distinciones que deben conservarse durante la investigación
 
 - **Enseñar ≠ garantizar aprendizaje**: una realización plausible o conforme puede no producir comprensión.
