@@ -23,9 +23,11 @@ Se mantienen **únicamente cuatro denominaciones de trabajo**:
 
 Estos nombres **no constituyen una taxonomía definitiva**. Su posible solapamiento, criterios de asignación y relación con aportes individuales quedan expresamente sin resolver. No añadir categorías, subclases, etiquetas compuestas, puntuaciones o reglas de cálculo en esta etapa.
 
-**Intención de producto preservada:** planificaciones, unidades, clases y actividades generadas mediante el servicio de TDidacta deben exhibir su clasificación de manera transparente. La definición final y su implementación permanecen pendientes.
+**Mecanismo manual acordado para el alcance actual:** el profesional humano responsable de crear el recurso **declara y selecciona manualmente** una de las cuatro denominaciones provisionales que describa su proceso de elaboración, y esa declaración se muestra junto al recurso (planificación, unidad, clase o actividad). La declaración es responsabilidad de esa persona; **no se presenta como verificación automática de procedencia**, evaluación cuantitativa de aportes ni certificación de calidad. Si existen dudas, solapamientos o evidencia insuficiente, no inventar reglas de precedencia: la asignación debe poder revisarse humanamente. La implementación concreta de la interfaz y almacenamiento sigue pendiente.
 
-**Condición para continuar la formalización de la clasificación:** completar primero la definición del [gradiente multidimensional de contribución](../mechanisms/contribution-gradient.md). Hasta entonces, no derivar etiquetas automáticamente ni fijar umbrales, prevalencias o criterios de acreditación. El gradiente puede permitir ampliaciones futuras, pero estas **no forman parte del enfoque actual**.
+**Intención de producto preservada:** las planificaciones, unidades, clases y actividades publicadas o generadas mediante el servicio deben exhibir una declaración transparente sobre su elaboración. El mecanismo manual puede definirse ahora, aunque todavía no se haya implementado.
+
+**Dependencia acotada:** completar primero el [gradiente multidimensional de contribución](../mechanisms/contribution-gradient.md) sigue siendo condición para **automatizar la clasificación, fijar umbrales o ampliar su formalización**, pero **no** bloquea la declaración manual acordada. No añadir categorías ni puntuaciones en esta etapa.
 
 La clasificación debe distinguirse del consentimiento, de los derechos sobre los materiales y de la autorización humana de conocimiento: una etiqueta no prueba esas condiciones.
 
@@ -33,7 +35,7 @@ La clasificación debe distinguirse del consentimiento, de los derechos sobre lo
 
 **Hasta la entrega formal de PResolver del 31-10-2026:** el escenario operativo de TDidacta contempla a una persona humana que formula, planifica, supervisa y autoriza su propio material. Pueden existir necesidades o fuentes externas, pero no se modelan todavía aprobaciones institucionales multinivel ni autorizaciones distribuidas entre roles. Véase [Autoría pedagógica](../foundations/pedagogical-authorship.md).
 
-**Después del 31-10-2026, como propuestas de exploración:** gradiente multidimensional; evaluación de contribuciones; trazabilidad avanzada del feedback; condiciones detalladas de atribución. Son investigaciones aplazadas, no capacidades prometidas para la entrega. Los cuatro nombres de clasificación permanecen como propuesta sin reglas de asignación hasta completar el gradiente.
+**Después del 31-10-2026, como propuestas de exploración:** gradiente multidimensional; evaluación de contribuciones; trazabilidad avanzada del feedback; condiciones detalladas de atribución. Son investigaciones aplazadas, no capacidades prometidas para la entrega. La **declaración manual** por el profesional responsable se incorpora al alcance actual; permanecen pendientes la asignación automática, reglas de umbrales y ampliaciones basadas en el gradiente.
 
 **Privacidad, consentimiento y reutilización permanecen en una línea separada y no quedan aplazados automáticamente.** Antes de procesar datos personales reales, el servicio debe disponer de salvaguardas y permisos adecuados al tratamiento concreto. Las preferencias de anonimato no sustituyen consentimiento ni requisitos de protección de datos.
 
