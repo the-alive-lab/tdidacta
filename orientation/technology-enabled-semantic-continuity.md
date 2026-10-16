@@ -1,17 +1,21 @@
-# Aprovechamiento tecnológico de la continuidad semántica — orientación propuesta
+# Aprovechamiento de tecnologías — orientación de TDidacta
 
-**Estado:** formulación candidata de orientación TDidacta (2026-10-16), surgida de una decisión conceptual del fundador. No sustituye la orientación vigente ni se adopta automáticamente para todos los proyectos de PResolver.
+**Estado (2026-10-16):** orientación diferenciada por decisión conceptual expresa del fundador. Su formulación general en el canon de PResolver aún está pendiente.
 
-## Motivación
+## Sentido
 
-Las capacidades de tecnologías contemporáneas, particularmente los **modelos de lenguaje de gran escala (LLM)**, permiten trabajar con conocimiento documentado de maneras que antes resultaban más costosas o difíciles de generalizar: interpretar lenguaje, ayudar a estructurarlo y producir diferentes resultados a partir de representaciones explícitas.
+**Adaptar deliberadamente la forma de trabajar a las capacidades útiles de las tecnologías disponibles y emergentes**, aprovechando sus oportunidades para comprender, estructurar, transformar y utilizar conocimiento. La motivación histórica inmediata son los **modelos de lenguaje de gran escala (LLM)**, que facilitan operaciones antes costosas o menos accesibles.
 
-La orientación propuesta consiste en **adaptar deliberadamente la forma de trabajar a esas capacidades**, para convertir conocimiento documentado en representaciones reutilizables y resultados especializados, **preservando significado, contexto, responsabilidad y posibilidad de revisión**.
+La orientación no impone una tecnología concreta ni afirma que los LLM sean infalibles, obligatorios o capaces de sustituir autorización y juicio humanos. Deben evaluarse el esfuerzo real, los límites, las incertidumbres y la adecuación al contexto.
 
-Esta motivación da sentido a dos fundamentos distintos: [abstracción semántica](../foundations/semantic-abstraction.md) (documentación → IR) y [proyección semántica](../foundations/semantic-projection.md) (IR → resultados de dominio).
+## Independencia y complementariedad
 
-La orientación **no prescribe que toda abstracción o proyección utilice IA**, ni afirma que los LLM garanticen fidelidad, aprendizaje o ausencia de errores. Los mecanismos pueden servirse de IA, pero deben conservar autoridad humana situada y controles de conformidad que aún están por definir.
+La [continuidad semántica](semantic-continuity.md) establece **qué significado debe poder continuar y revisarse**; el aprovechamiento tecnológico orienta **qué capacidades conviene emplear para hacerlo practicable**. Una no se reduce a la otra.
 
-## Cuestión pendiente
+Su combinación motiva, sin agotar ni determinar de manera exclusiva, dos fundamentos: [abstracción semántica](../foundations/semantic-abstraction.md), documentación → IR, y [proyección semántica](../foundations/semantic-projection.md), IR → resultados de dominio.
 
-Determinar mediante revisión de PResolver si esta orientación corresponde a la familia completa o es una formulación particular de TDidacta. La decisión del fundador confirma que **ambas facultades** son comunes conceptualmente a sus especializaciones; no implica que esta redacción o su ubicación ya haya sido promovida al canon general.
+Los mecanismos concretos pueden emplear LLM u otras tecnologías según lo justifique su dominio. La elección tecnológica no constituye por sí misma evidencia de continuidad ni de conformidad.
+
+## Alcance transversal
+
+El fundador propone ambas orientaciones para los hijos de PResolver. Su adopción y redacción en el canon general quedan pendientes, sin dar por validada su eficacia en todos los dominios.
