@@ -1,6 +1,6 @@
 # Autorización de elementos pedagógicos — T06
 
-**Estado:** en curso, pendiente de decisión humana (2026-10-16). No cerrado ni validado.
+**Estado de seguimiento:** **T06 cerrado conceptualmente** por instrucción expresa del fundador (2026-10-16). No implica mecanismos técnicos implementados ni eficacia validada.
 
 ## Pregunta principal
 
@@ -22,7 +22,7 @@
 
 **Motivo:** el trabajo de planificación nueva necesita volatilidad y libertad de modificación; una planificación existente y aprobada puede requerir mayor estabilidad y adaptaciones controladas.
 
-**Tensión pendiente T05→T06:** qué revisión resulta suficiente antes de autorizar un elemento, sin procedimiento universal ni examen exhaustivo obligatorio, manteniendo juicio humano material. Las especificaciones de estado, permisos y versionamiento siguen abiertas.
+**Resolución T05→T06:** el alcance de revisión y reautorización corresponde al elemento afectado y sus dependencias, identificados manualmente por la persona titular de la cuenta en el MVP. Las especificaciones de detección, estados, permisos y versionamiento siguen abiertas.
 
 Estas decisiones **sustituyen la interpretación anterior** de autorización limitada a una realización final. Los casos colaborativos e institucionales no son requisito de MVP.
 
@@ -58,12 +58,6 @@ Las declaraciones constituyen **responsabilidades conceptuales diferenciadas**, 
 
 La obligación conceptual de revisar y corregir no implica necesariamente revisión exhaustiva de cada documento, intención, situación, IR o realización ni un procedimiento universal. Sin embargo, tampoco permite una aprobación sin juicio suficiente. **Criterio resuelto para el MVP:** se revisa y reautoriza el punto afectado y sus dependencias, determinado manualmente por la persona titular de la cuenta. La manera de detectar ese alcance con apoyo automático y verificar cobertura sigue pendiente, sin imponer una burocracia universal ni atribuir autoridad a un LLM.
 
-## Alternativas abiertas
-
-- Autorización condicionada a flujo rígido de revisión: uniformidad posible, carga elevada en contextos pequeños.
-- Autorización sin referencia a revisión suficiente: poco esfuerzo, pero posibilidad de aprobación nominal.
-- Autorización situada tras revisión proporcional: equilibrio propuesto, **no adoptado todavía**.
-
 ## Alcance MVP confirmado y mecanismo de versionamiento
 
 En este MVP, la **persona titular de la cuenta** determina manualmente el impacto del cambio, revisa y vuelve a autorizar el punto afectado y sus dependencias. Se propone apoyo técnico para reducir ese esfuerzo, sin transferir la decisión de autorización.
@@ -76,16 +70,16 @@ Toda autorización debe poder referirse a un **elemento y alcance semántico rec
 
 Autorizar no implica publicación (T07), conformidad técnica verificada (T15), calidad educativa validada (T16), resultados de aprendizaje (T17), derechos de uso ni consentimiento (T22). Los cambios relevantes de la realización o situación pueden afectar el alcance de la autorización (T09/T12). La coordinación institucional (T21) no es universal.
 
-## Cuestiones para decisión humana
+## Pendientes de implementación o tratamiento posterior
 
-1. ¿Cómo abordar más adelante autorización colaborativa, institucional y multinivel, explícitamente fuera del MVP?
-2. ¿Cómo identificar el objeto y alcance autorizado sin decidir anticipadamente la tecnología de versiones?
-3. ¿Qué revisión es suficiente para autorizar sin imponer un procedimiento universal?
-4. ¿Cómo reconsiderar autorización cuando cambia una condición material?
+1. Autorización colaborativa, institucional y multinivel: después del 31-10-2026.
+2. Versionamiento técnico del elemento y del alcance autorizado: mecanismo candidato, continuidad T09.
+3. Asistencia para detectar impactos, dependencias y drift, con validación del esfuerzo humano: mecanismo candidato, continuidad T12/T15/T18.
+4. Relaciones y coordinación del ciclo de vida: checkpoint posterior al cierre y a la retroalimentación T06.
 
 ## Secuencia acordada
 
-Cerrar T06 con aprobación humana, ejecutar retroalimentación de los otros 27 tópicos y **después** auditar Relationships y Lifecycle respecto de T01–T06. No anticipar la auditoría.
+T06 cerrado por instrucción humana; realizar retroalimentación de los otros 27 tópicos y después checkpoint de Relationships y Lifecycle respecto de T01–T06.
 
 **Relacionados:** [T05](pedagogical-review-and-correction.md), [T04](human-pedagogical-contextualization.md), [T01](pedagogical-authorship.md).
 
