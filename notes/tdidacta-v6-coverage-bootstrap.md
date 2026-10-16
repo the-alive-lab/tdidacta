@@ -61,7 +61,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | --- | --- | --- | --- |
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
-| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
+| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Revisado | [Propuesta T03](../foundations/source-inference-uncertainty.md), pendiente de aprobación humana |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
@@ -139,6 +139,19 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T03 — Fuentes, inferencias e incertidumbre (2026-10-16)
+
+- **Estado:** Revisado, **no cerrado**; propuesta conceptual pendiente de aprobación de Hernán.
+- **T01/T02 heredados:** autoría y autorización distintas; fuente no equivale a interpretación; IA propone sin asumir autoridad; interpretación humana desde cero es válida y la asistida es complementaria.
+- **Problema:** evitar atribuir extrapolaciones, interpretaciones y omisiones a fuentes, o convertir incertidumbre en conocimiento aparentemente autorizado.
+- **TDidacta/V6:** [conceptos candidatos](../foundations/concept-candidates.md), [T02](../foundations/assisted-source-interpretation.md), [V6 editorial](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
+- **VSlices:** aplicable como criterio separar autoridad semántica de realización; no importar esquema de ingeniería.
+- **Decisión documental:** [propuesta de T03](../foundations/source-inference-uncertainty.md), delimitando afirmación respaldada, interpretación humana, inferencia de IA, incertidumbre, ambigüedad, omisión y conflicto. Legibilidad proporcional, sin instrumento obligatorio.
+- **Autoridad y límites:** solo propuesta; sin validación de detección automática de inferencias, extracción o conformidad. Controles concretos siguen en T04–T09 y T25; el mecanismo IA detallado de T02 sigue aplazado.
+- **Preguntas para revisión humana:** aceptar este mínimo de legibilidad como responsabilidad T03 y mantener diseños automáticos detallados para después de publicación.
+- **Retroalimentación transversal:** corresponde al cierre de T03; todavía no se ejecuta ni se modifican otros estados.
+
 
 ### Retroalimentación transversal de T02 — 2026-10-16
 
