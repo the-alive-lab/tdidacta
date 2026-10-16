@@ -63,7 +63,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
-| T05 | Revisión y corrección pedagógica | Pendiente | — |
+| T05 | Revisión y corrección pedagógica | Revisado | [Fundamento candidato](../foundations/pedagogical-review-and-correction.md) y [mecanismo candidato](../mechanisms/pedagogical-review-and-correction.md); pendiente aprobación humana |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
@@ -139,6 +139,18 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T05 — Revisión y corrección pedagógica (2026-10-16)
+
+- **Estado:** Revisado; **no cerrado** ni autorizado como procedimiento universal.
+- **Continuidad T01–T04:** persona responsable puede supervisar y autorizar su propio material, pero los actos son distintos (T01); interpretación de fuentes asistida no crea autoridad (T02); evidencia e incertidumbre relevantes se distinguen con carga proporcional (T03); intención, situación, Docs Standard, abstracción a IR y proyección desde IR son objetos y fronteras distintas (T04).
+- **Problema:** identificar errores, contradicciones, omisiones, extrapolaciones y desajustes pedagógicos sin equiparar revisión con autorización o conformidad técnica.
+- **Correspondencia V6:** contextualización, corrección y autorización humanas no eludibles; no exigir documentación de cada decisión trivial. **Estado de evidencia:** antecedente editorial, no validación de eficacia o ahorro.
+- **Contraste VSlices:** separaciones entre semántica, realización y verificaciones adaptables, sin importar sus tipos de evidencia ni workflows como norma educativa.
+- **Artefactos propuestos:** [fundamento T05](../foundations/pedagogical-review-and-correction.md) y [mecanismo T05](../mechanisms/pedagogical-review-and-correction.md). Examinar, priorizar, mantener/corregir/rechazar/aclarar y revisar efectos como posibilidades no rígidas.
+- **Fronteras:** T06 autoriza; T07 publica; T08/T09/T12 trazan y mantienen; T15 comprueba conformidad; T16 calidad y T17 resultados son independientes; T18 debe medir carga real.
+- **Pendiente de cierre:** aprobación humana del alcance proporcional de revisión y de su separación respecto de autorización. Retroalimentación transversal a 27 tópicos, incluidos T01–T04, **aún no ejecutada**, según protocolo.
+
 
 ### Cierre conceptual de T04 y retroalimentación transversal — 2026-10-16
 
