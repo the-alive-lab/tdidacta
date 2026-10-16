@@ -140,6 +140,16 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### T06 — congelamiento previo, reabstracción y revisión de dependencias (2026-10-16)
+
+- **Precisión fundacional:** una intención puede ser autorizada **antes de decidir cualquier realización**, de modo que la exploración y el ensayo de alternativas mantengan una base estable; las realizaciones futuras siguen sin autorización automática.
+- **Decisión sobre cambios:** modificar una intención autorizada exige **revisar y autorizar de nuevo los elementos dependientes afectados**. No presupone que deba revisarse todo el universo no relacionado; la identificación de dependencias es responsabilidad pendiente de especificar.
+- **Causalidad del cambio:** cambio externo → cambio de necesidad → documentación desincronizada → actualización documental → **reinterpretación de IR derivadas** → detección de diferencias antes/después → revisión y autorizaciones de elementos afectados.
+- **Mecanismo candidato adicional:** [apoyo a detección de drift y dependencias](../mechanisms/semantic-drift-review-support.md), separado de la abstracción Docs→IR, la revisión/autorización humana y el apoyo general T05. Busca reducir esfuerzo de identificar riesgos, sin garantías técnicas todavía ni fecha propia acordada.
+- **Tensión T05→T06 redefinida:** hay una obligación explícita de revisar dependencias afectadas cuando cambia una intención autorizada; sigue abierta la **suficiencia, alcance verificable y medios** de esa revisión, sin adoptar procedimiento universal. T06 continúa en curso.
+- **Orden de trabajo intacto:** no ejecutar feedback de cierre T06 ni auditoría de Relationships/Lifecycle antes de cerrarlo.
+
+
 ### T06 — autorización individual y congelamiento semántico (2026-10-16)
 
 - **Decisión del fundador para MVP:** autoriza individualmente la persona responsable. Casos colaborativos, institucionales y autorización multinivel **diferidos para después del 31-10-2026**.
