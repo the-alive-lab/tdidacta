@@ -80,3 +80,16 @@ No se establece un sistema de roles o permisos, titularidad legal, cadena obliga
 - [Bootstrap operativo V6](../notes/tdidacta-v6-coverage-bootstrap.md): T01 y continuación.
 
 **Límite epistémico:** esta nota explicita distinciones y preguntas; no aporta validación empírica de su utilidad, accesibilidad o costo para autores y aprendices.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Reconocer participación activa y aportes diferenciados al enseñar y aprender. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Reconstruir qué se aportó, por quién y bajo qué límites. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Explica contribución asistida sin asignar autoridad automática a tecnología. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Reconocimiento y trazabilidad deben ser proporcionales; ganancia no demostrada. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
