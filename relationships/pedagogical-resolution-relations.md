@@ -55,26 +55,26 @@ Estas relaciones describen **posibilidades de asociación y responsabilidad**, n
 
 ### Grafo de vínculos posibles entre intenciones (candidato)
 
-**Pregunta de lectura:** ¿de qué maneras pueden vincularse distintas intenciones pedagógicas, sin reducir su organización a un árbol de contenidos o a una secuencia temporal?
+**Pregunta de lectura:** ¿de qué maneras pueden vincularse intenciones pedagógicas sobre arquitectura de software sin reducir su organización a un árbol de contenidos o a una secuencia temporal?
 
 ```mermaid
-flowchart TB
-    A["Intención<br/>A"]
-    B["Intención<br/>B"]
-    C["Intención<br/>C"]
-    D["Intención<br/>D"]
+flowchart LR
+    A["Comprender<br/>arquitectura de software"]
+    B["Comprender separación<br/>de responsabilidades"]
+    C["Aplicar<br/>MVVM"]
+    D["Probar<br/>ViewModels"]
 
-    A -->|"delimitación /<br/>especialización"| B
+    A -->|"especialización"| B
     B -.->|"dependencia<br/>conceptual"| C
-    A -.->|"articulación<br/>temporal"| D
-    C -.->|"pertinencia<br/>para personas"| D
+    C -.->|"articulación<br/>temporal"| D
+    B -.->|"pertinencia según<br/>conocimientos previos"| D
 ```
 
-**Cómo leerlo:** A, B, C y D son **intenciones hipotéticas sin contenido asignado**. Las conexiones ilustran cuatro *tipos candidatos* de relación, no un caso pedagógico comprobado. La flecha de especialización representa una intención que delimita una parte de otra; las demás flechas solo permiten distinguir los extremos de la relación representada y **no fijan causalidad, anterioridad ni dependencia obligatoria**.
+**Cómo leerlo:** los cuatro nodos son **ejemplos ilustrativos de intenciones pedagógicas**, no materias obligatorias ni un plan de enseñanza validado. «Comprender separación de responsabilidades» puede especializar una intención amplia de arquitectura de software; comprender esa separación puede resultar relevante para aplicar MVVM. La articulación temporal entre aprender MVVM y probar ViewModels puede ser útil en una trayectoria concreta. La conexión entre separación de responsabilidades y pruebas puede ser especialmente pertinente para ciertas personas según sus conocimientos previos.
 
-**Lectura textual equivalente:** dos intenciones pueden relacionarse por especialización, por conocimientos conceptualmente conectados, por conveniencia de articulación temporal o por pertinencia para determinadas personas. Una intención puede mantener vínculos transversales con varias otras; no es necesario que todas pertenezcan a una única jerarquía.
+**Lectura textual equivalente:** una intención amplia puede relacionarse con otra más específica, mientras otras intenciones se conectan por prerrequisitos conceptuales, oportunidades temporales o pertinencia para quienes aprenden. Las relaciones transversales no exigen que todas las intenciones estén organizadas bajo un árbol único.
 
-**Límites:** no se afirma que estas cuatro relaciones deban coexistir, que el grafo tenga cuatro intenciones reales, que las flechas indiquen un orden docente o que «pertinencia» sea una dependencia entre contenidos. El ejemplo solo exhibe la diversidad de vínculos mencionada en este documento; para decidir relaciones concretas hacen falta necesidades y contextos reales. Las líneas discontinuas diferencian visualmente vínculos transversales, **no** relaciones de menor validez epistemológica.
+**Límites:** el sentido izquierda-derecha organiza el dibujo, **no prescribe el orden de enseñanza**. Las flechas de dependencia conceptual, temporalidad y pertinencia distinguen los extremos de la relación ilustrada; no establecen causalidad, necesidad universal ni una relación válida para cualquier persona. En particular, la pertinencia depende del contexto del grupo o aprendiz y no es una propiedad fija del par de intenciones. Las líneas discontinuas resaltan vínculos transversales, no menor validez epistemológica.
 
 Dos intenciones pueden estar vinculadas por:
 
