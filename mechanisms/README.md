@@ -6,6 +6,8 @@ Los mecanismos describen cómo se opera sobre espacios delimitados, diferencián
 
 - [Espacios de posibilidades pedagógicos](possibility-spaces.md): delimitación y alcance sobre los que es posible operar.
 - [Exploración y realización](exploration-and-realization.md): consultar para comprender y concretar posibilidades.
+- [Clasificación de evidencia](evidence-classification.md): distinción proporcional de fuentes, aportes humanos e inferenciales e incertidumbre, facilitando la revisión sin carga excesiva.
+- [Interpretación asistida de material](assisted-material-interpretation.md): mecanismo T02 reservado para desarrollo posterior a publicación de PResolver.
 - [Gradiente multidimensional de contribución](contribution-gradient.md): valoración candidata por objeto y aporte.
 - [Trazabilidad de feedback](feedback-traceability.md): relación candidata entre feedback de cualquier participante y cambios.
 
