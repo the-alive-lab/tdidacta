@@ -4,6 +4,8 @@
 
 TDidacta contempla provisionalmente la familia **Method, Design, Docs Standard, Framework y Platform**. Que esta división aparezca en otros flavors de PResolver no demuestra que sea correcta o estable para TDidacta.
 
+**Delimitación específica aprobada en T04:** TDidacta Docs Standard es responsable de documentar intenciones pedagógicas y sus **situaciones válidas** mediante el [mecanismo documental](../mechanisms/pedagogical-intent-documentation.md). Esto **no valida automáticamente** la factorización completa de productos de PResolver. La [proyección documental](../mechanisms/document-to-intermediate-projection.md) y la [representación intermedia](../structures/tdidacta-intermediate-representation.md) tienen responsabilidades diferenciadas, pendientes de especificación antes del 31-10-2026.
+
 También permanecen abiertas preguntas sobre:
 - propiedad y formulación de la intención pedagógica;
 - relación de la intención con sus realizaciones;
