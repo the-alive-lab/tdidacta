@@ -1,6 +1,6 @@
 # Revisión y corrección pedagógica — propuesta T05
 
-**Estado:** tópico T05 revisado, **pendiente de aprobación humana** (2026-10-16). Delimitación candidata; no especificación técnica ni eficacia validada.
+**Estado:** tópico **T05 cerrado conceptualmente por decisión del fundador (2026-10-16)**. Los mecanismos siguen candidatos o diferidos; sin implementación o eficacia validada.
 
 ## Problema y responsabilidad
 
@@ -62,6 +62,12 @@ La [orientación de reducción de carga y ampliación de capacidad de acción](.
 - **T06:** asignación y alcance de autorización humana; **T07:** publicación; **T08/T09/T12:** procedencia, versiones e impacto de cambios; **T15/T16/T17:** conformidad, calidad y aprendizaje como evaluaciones separadas.
 
 [Mechanism candidato de revisión y corrección](../mechanisms/pedagogical-review-and-correction.md) · [Gobernanza](../governance/README.md).
+
+## Tensión abierta hacia T06
+
+**TNS-T05/T06 — obligación de revisión vs procedimiento universal.** Está cerrada la responsabilidad conceptual de revisar y corregir pedagógicamente, pero permanece **abierto hasta T06** decidir cómo expresar las exigencias de revisión al determinar el alcance de autorización, sin imponer inadvertidamente un procedimiento universal ni revisión exhaustiva de todos los objetos. No presumir ni que toda autorización exija revisión idéntica ni que la proporcionalidad dispense controles materialmente necesarios.
+
+Esta tensión no impide cerrar T05; debe examinarse explícitamente al tratar T06 y preservarse si allí tampoco se resuelve.
 
 ## Propuesta de decisión
 
