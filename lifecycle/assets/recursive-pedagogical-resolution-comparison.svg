@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" role="img" aria-labelledby="title desc">
+<title id="title">Resolución pedagógica recursiva — representación SVG candidata</title>
+<desc id="desc">Necesidad puede motivar intención, que delimita espacio. Desde el espacio puede explorarse para comprender o realizarse para concretar. Hallazgos y resultados pueden informar revisión, cierre o nuevas necesidades. Las conexiones no implican etapas obligatorias.</desc>
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M1 1 L8 4.5 L1 8" fill="none" stroke="#566b86" stroke-width="1.5"/></marker><style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#213047}.node{fill:#f7f9fc;stroke:#94a3b8;stroke-width:1.6}.em{fill:#e8f1ff;stroke:#628bbd}.act{fill:#e8f5ef;stroke:#64a58a}.out{fill:#fff4de;stroke:#c7a268}.edge{fill:none;stroke:#566b86;stroke-width:2;marker-end:url(#arr)}.optional{stroke-dasharray:6 6}.small{font-size:14;fill:#51647e}.main{font-size:18;font-weight:600}.sub{font-size:13;fill:#52637a}
+</style></defs>
+<rect width="900" height="660" rx="20" fill="#ffffff"/>
+<text x="450" y="36" text-anchor="middle" class="main">Coordinación posible de necesidades pedagógicas</text>
+<text x="450" y="58" text-anchor="middle" class="small">Modelo candidato · las flechas representan relaciones posibles, no pasos obligatorios</text>
+<rect class="node em" x="345" y="82" width="210" height="54" rx="14"/><text x="450" y="115" text-anchor="middle" class="main">Necesidad</text>
+<rect class="node em" x="345" y="170" width="210" height="54" rx="14"/><text x="450" y="203" text-anchor="middle" class="main">Intención</text>
+<rect class="node" x="315" y="258" width="270" height="58" rx="14"/><text x="450" y="283" text-anchor="middle" class="main">Espacio de posibilidades</text><text x="450" y="302" text-anchor="middle" class="sub">delimitado por la intención</text>
+<rect class="node act" x="155" y="369" width="235" height="66" rx="16"/><text x="272" y="393" text-anchor="middle" class="main">Explorar</text><text x="272" y="414" text-anchor="middle" class="small">comprender / preguntar</text>
+<rect class="node act" x="510" y="369" width="235" height="66" rx="16"/><text x="627" y="393" text-anchor="middle" class="main">Realizar</text><text x="627" y="414" text-anchor="middle" class="small">concretar respuesta</text>
+<rect class="node out" x="175" y="486" width="205" height="65" rx="14"/><text x="277" y="512" text-anchor="middle" class="main">Hallazgos</text><text x="277" y="532" text-anchor="middle" class="small">comprensión / preguntas</text>
+<rect class="node out" x="520" y="486" width="205" height="65" rx="14"/><text x="622" y="512" text-anchor="middle" class="main">Resultados</text><text x="622" y="532" text-anchor="middle" class="small">respuesta / observaciones</text>
+<path class="edge" d="M450 136 V168"/><text x="464" y="157" class="small">motiva</text>
+<path class="edge" d="M450 224 V256"/><text x="463" y="245" class="small">delimita</text>
+<path class="edge" d="M399 316 V339 H272 V367"/><path class="edge" d="M501 316 V339 H627 V367"/>
+<path class="edge" d="M272 435 V484"/><path class="edge" d="M627 435 V484"/>
+<path class="edge optional" d="M175 522 H74 V197 H342"/><text x="83" y="188" class="small">puede informar</text>
+<path class="edge optional" d="M725 519 H818 V197 H558"/><text x="722" y="185" class="small">puede motivar revisión</text>
+<path class="edge optional" d="M622 552 V603 H450 V640"/><text x="454" y="621" class="small">cierre suficiente o nueva necesidad</text>
+<rect x="218" y="640" width="465" height="1" fill="#e2e8f0"/>
+</svg>
