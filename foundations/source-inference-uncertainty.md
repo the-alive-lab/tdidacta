@@ -70,3 +70,16 @@ El [maestro editorial V6 en Research](https://github.com/vslices/research-space/
 ## Delimitación aceptada y límites posteriores
 
 Aceptar **un requisito conceptual de legibilidad proporcional**: no atribuir inferencias a las fuentes, no ocultar incertidumbre relevante ni convertir ausencia de información en certeza; mantener revisión humana en el contexto que corresponda. Diferir cualquier clasificación automática de afirmaciones, puntajes, algoritmo, representación obligatoria o verificación técnica detallada, sin dar por resueltos T08 ni el mecanismo de IA de T02.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Favorecer comprensión y juicio crítico en experiencias educativas. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Distinguir fuentes, inferencias y dudas para preservar significado reconstruible. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Exige reconocer límites de inferencia de herramientas, sin exigir su uso. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Se busca legibilidad proporcional con bajo costo de revisión. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
