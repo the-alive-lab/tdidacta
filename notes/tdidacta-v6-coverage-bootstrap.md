@@ -140,6 +140,15 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### T06 — declaración de impacto y declaración de cambios (2026-10-16)
+
+- **Corrección conceptual del fundador:** regenerar una IR a partir de documentación actualizada es una operación instrumental prevista como automatizable. El problema principal es la **validez y coherencia de exploraciones y realizaciones existentes** frente al nuevo estado semántico.
+- **Declaración de impacto:** determinar si la respuesta existente todavía cubre la necesidad modificada y qué elementos realmente requieren revisión. Cambios menores pueden dejar prácticamente todo vigente tras comprobar coherencia.
+- **Declaración de cambios:** ante cobertura insuficiente, definir los cambios pertinentes, incluso nuevas unidades o intenciones, actualizar documentación y regenerar IR. Reevaluar impacto iterativamente hasta obtener una respuesta suficiente.
+- **Ajuste del mecanismo candidato de drift:** asistencia para identificar pérdida de cobertura, incoherencias y dependencias, sin confundir diferencias estructurales entre IR con fallos pedagógicos ni sustituir revisión/autorización humana.
+- **Estado:** T06 sigue en curso; no ejecutar todavía retroalimentación de cierre ni auditoría de Relationships/Lifecycle.
+
+
 ### T06 — congelamiento previo, reabstracción y revisión de dependencias (2026-10-16)
 
 - **Precisión fundacional:** una intención puede ser autorizada **antes de decidir cualquier realización**, de modo que la exploración y el ensayo de alternativas mantengan una base estable; las realizaciones futuras siguen sin autorización automática.
