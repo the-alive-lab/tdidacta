@@ -2,6 +2,10 @@
 
 **Estado:** candidate; delimitación T01 (2026-10-16). No exige una implementación o bitácora universal.
 
+## Estado de ejecución y aplazamiento
+
+**Propuesta de investigación diferida hasta después de la entrega formal de PResolver del 31-10-2026 (decisión del fundador, 2026-10-16).** Se conserva esta formulación candidata como antecedente, sin establecer un requisito de implementación, validación o formalización para la entrega. El alcance vigente de TDidacta está descrito en [Autoría pedagógica](../foundations/pedagogical-authorship.md). Privacidad y protección de datos no se aplazan por esta decisión.
+
 ## Alcance
 
 Un feedback de **cualquier participante** —aprendiz, docente, autor, revisor u otro actor humano, o una señal inferencial explícitamente identificada— puede contribuir a revisar intenciones, realizaciones, restricciones y otras decisiones pedagógicas. No es exclusivo de quien aprende ni implica siempre un cambio.
