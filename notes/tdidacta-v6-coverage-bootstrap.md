@@ -57,7 +57,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 | ID | Tópico | Estado de seguimiento | Resultado / enlace |
 | --- | --- | --- | --- |
-| T01 | Autoría pedagógica | Revisado | [Autoría](../foundations/pedagogical-authorship.md), [gradiente](../mechanisms/contribution-gradient.md), [feedback](../mechanisms/feedback-traceability.md), [transparencia](../transparency/README.md) |
+| T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Pendiente | — |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Pendiente | — |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
@@ -87,6 +87,14 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T28 | Relación entre TDidacta y la organización operadora de The Alive Lab | Pendiente | — |
 
 ## Bitácora de ejecución
+
+### Cierre autorizado de T01 — 2026-10-16
+
+- **Decisión de Hernán:** T01 — Autoría pedagógica queda **Cerrado** para el alcance documental y operativo acordado.
+- **Observación expresa:** **pendiente la publicación de PResolver y de The Alive Lab**. El cierre de T01 no afirma que esa publicación haya ocurrido, ni la convierte en requisito para reabrir la definición conceptual.
+- **Continuidad:** el gradiente multidimensional, la evaluación de contribuciones, la trazabilidad avanzada de feedback y las condiciones detalladas de atribución siguen como propuestas para después de la entrega formal de PResolver del 31-10-2026. Privacidad, consentimiento y reutilización mantienen su tratamiento separado (T22) y salvaguardas previas a tratamientos reales.
+- **Estado de las definiciones:** el cierre del tópico no promueve automáticamente mecanismos candidatos a normas universales ni declara funcionalidades implementadas.
+- **Siguiente tópico:** T02 — Interpretación asistida de fuentes educativas, pendiente.
 
 ### Acotación de entrega de PResolver — decisión del fundador (2026-10-16)
 
