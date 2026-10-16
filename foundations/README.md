@@ -9,10 +9,10 @@
 | [Enseñanza y aprendizaje](teaching-and-learning.md) | Orientación que reconoce a quien enseña y a quien aprende como participantes activos | Basado en canon vigente |
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
-| [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Relación entre necesidad, intención, espacio, operaciones y nuevas necesidades; hipótesis entre flavors | Candidato |
+| [Resolución recursiva de necesidades](../lifecycle/recursive-pedagogical-resolution.md) | Relación entre necesidad, intención, espacio, operaciones y nuevas necesidades; hipótesis entre flavors | Candidato |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
 
-Los mecanismos candidatos se consultan en [Mechanisms](../mechanisms/README.md).
+Los mecanismos candidatos se consultan en [Mechanisms](../mechanisms/README.md) y la coordinación del ciclo en [Lifecycle](../lifecycle/README.md).
 
 ## Principio de organización
 
