@@ -507,3 +507,10 @@ Se incorporaron las precisiones del fundador: crear, editar, mediar y retroalime
 ## Criterios de cierre del bootstrap completo
 
 El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan estado `cerrado` con registro y enlaces verificables**, incluidos cierres justificados de «no incorporar» o «aplazar a otra autoridad» cuando exista decisión explícita. Una investigación en curso no bloquea que el tratamiento documental se cierre justificadamente, pero las incertidumbres restantes deben permanecer visibles. La finalización del bootstrap **no** equivale a implementación de TDidacta, adopción global de V6 ni evaluación pedagógica positiva.
+
+### T06 — alcance proporcional al impacto (2026-10-16)
+
+- Decisión del fundador: **revisión y reautorización del punto afectado y sus dependencias**; cambios sobre una necesidad que afectan toda la planificación obligan revisar y reautorizar ese alcance; cambios locales de unidad solo dicha unidad y sus dependencias.
+- La amplitud suele corresponder a intenciones más amplias, pero el alcance exacto se determina por impacto, no solo jerarquía.
+- La operación actual es manual; se busca automatizar la detección y el soporte sin delegar autorización humana.
+- La tensión conceptual T05→T06 queda precisada en cuanto al alcance de revisión. Persisten preguntas técnicas de identificación de dependencias y trazabilidad. T06 sigue abierto hasta cierre solicitado.
