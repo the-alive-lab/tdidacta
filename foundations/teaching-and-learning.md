@@ -1,20 +1,32 @@
-# Enseñanza y aprendizaje — orientaciones reconocidas
+# F01 — Enseñanza y aprendizaje
 
-**Estado:** orientación ya presente en el [canon actual](../README.md). Este documento organiza sus implicaciones; no introduce por sí solo una promoción nueva.
+**Estado:** fundamento conceptual reconciliado con orientaciones por aprobación del fundador (2026-10-16). No es una teoría universal ni una validación de eficacia.
 
-## Enseñanza y aprendizaje
+## 1. Origen y propósito
 
-TDidacta es un sistema de **enseñanza y aprendizaje**. Facilita experiencias para explorar, experimentar y desarrollar comprensión. Enseñar no equivale solamente a publicar o transmitir contenidos; aprender no equivale a recibirlos.
+TDidacta parte de comprender la enseñanza y el aprendizaje como experiencias que favorecen la exploración, la experimentación y el desarrollo de la comprensión.
 
-Ambos fenómenos pueden darse fuera de instituciones, sin docente profesional presente y en medios diferentes de lo digital.
+Este fundamento nace de la **orientación principal de TDidacta (O0)** y establece cómo interpretamos la problemática pedagógica que pretendemos abordar.
 
-## Participación activa
+Enseñar no equivale únicamente a transmitir o publicar contenidos; aprender no equivale únicamente a recibirlos.
 
-Quienes enseñan y quienes aprenden son participantes activos, aunque sus responsabilidades concretas no sean idénticas.
+Ambas actividades pueden ocurrir fuera de instituciones educativas, sin docentes profesionales presentes y mediante experiencias que no dependen necesariamente de medios digitales.
 
-Quien aprende puede explorar, cuestionar, cambiar de enfoque y producir interpretaciones no detalladas de antemano. Una intención previa no agota ni predetermina toda experiencia de aprendizaje.
+El fundamento no establece todavía cómo TDidacta resolverá esa problemática mediante tecnologías, mecanismos o procesos. Define la comprensión del problema sobre la que podrán desarrollarse otras capacidades.
 
-## Visualización de la participación activa
+## 2. Enseñanza y aprendizaje como experiencias participativas
+
+Quienes enseñan y quienes aprenden son participantes activos de la experiencia educativa, aunque sus perspectivas y responsabilidades no sean idénticas.
+
+**Desde la perspectiva de quien enseña**, una experiencia puede involucrar orientación, propuestas, apoyos y decisiones dirigidas a favorecer la comprensión.
+
+**Desde la perspectiva de quien aprende**, puede involucrar exploración, cuestionamiento, reinterpretación, cambios de enfoque y construcción de comprensiones que no estaban completamente determinadas de antemano.
+
+Estas perspectivas no necesariamente corresponden a personas distintas. En una experiencia autodidacta pueden coincidir.
+
+Una intención pedagógica previa puede orientar una experiencia sin agotar ni predeterminar todo lo que ocurra durante ella.
+
+### Visualización de la participación activa
 
 **Pregunta de lectura:** ¿cómo participan activamente quien enseña y quien aprende en una experiencia, sin reducir enseñar a transmitir ni aprender a recibir?
 
@@ -38,31 +50,78 @@ flowchart LR
 
 **Lectura textual equivalente:** una experiencia puede construirse mediante propuestas de orientación y apoyo, junto con las exploraciones, preguntas e interpretaciones de quien aprende. Lo que ocurre en ella puede motivar revisiones tanto de la enseñanza como del propio aprendizaje.
 
-**Límites:** los nodos representan **roles o perspectivas, no necesariamente personas diferentes**: en el aprendizaje autodidacta pueden coincidir. El diagrama no exige un docente profesional, un entorno institucional, un medio digital ni una secuencia fija. Tampoco implica que la presencia de estas operaciones garantice aprendizaje efectivo. Esta visualización ilustra las orientaciones reconocidas, sin añadir un modelo formal nuevo.
+**Límites del diagrama:** los nodos representan perspectivas, no necesariamente personas distintas; no impone docente profesional, institución, medios digitales ni secuencia fija. No garantiza aprendizaje ni introduce un modelo formal nuevo.
 
-## Contexto y multiplicidad
+## 3. Significado de las experiencias
 
-Las experiencias pueden ocurrir en diferentes entornos, medios y condiciones. Una necesidad no exige una única realización; la adaptación contextual tampoco demuestra por sí misma eficacia pedagógica.
+**Condición originada en O1 — Continuidad semántica.**
 
-## Delimitación
+Una experiencia de enseñanza y aprendizaje no se comprende únicamente por las actividades realizadas o los materiales utilizados, sino también por los significados que sus participantes construyen, reinterpretan o cuestionan.
 
-Estas orientaciones no definen un lifecycle obligatorio, un modelo formal de aprendizaje, una jerarquía universal docente-estudiante ni una garantía de resultados.
+Las experiencias pueden transformar la comprensión de quienes participan y producir hallazgos que informen experiencias posteriores.
 
-**Fuente normativa de estas orientaciones:** [README principal](../README.md).
+Por ello, al interpretar una experiencia educativa, deben considerarse sus significados, razones y cambios de comprensión relevantes, sin reducirla a una secuencia de actividades ni asumir que toda interpretación permanece inmutable.
 
-## Trazabilidad y naturaleza del documento
+La continuidad semántica condiciona así nuestra comprensión de la experiencia: su significado puede mantenerse, desarrollarse o reconstruirse a través del tiempo.
 
-Este documento **se conserva como fundamento por decisión del fundador**: concreta la orientación principal en distinciones operables de enseñanza y aprendizaje sin confundir el propósito general con las capacidades fundacionales. [Orientación principal](../orientation/README.md) es su fuente directa; [continuidad](../orientation/semantic-continuity.md), [tecnologías](../orientation/technology-enabled-semantic-continuity.md) y [carga/capacidad](../orientation/human-effort-and-agency.md) pueden favorecerla, pero no definen su existencia. [Autorización humana](../orientation/human-pedagogical-authorization.md) delimita cuándo una propuesta educativa se aprueba humanamente, sin volver autorización toda experiencia; [reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) distingue contribuciones de ambos participantes. Las revisiones de orientaciones deben verificar esta correspondencia.
+Esta condición no implica que toda experiencia deba documentarse exhaustivamente, ni que preservar su significado garantice aprendizaje.
 
-## Matriz de trazabilidad a orientaciones
+## 4. Participación y reconocimiento de aportes
 
-| Orientación | Relación con este fundamento |
-| --- | --- |
-| [Principal](../orientation/README.md) | **Origen directo:** reconocer enseñanza y aprendizaje como perspectivas activas y no como mera transmisión o recepción. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Permite reconstruir intenciones y comprensión entre experiencias, sin definir por sí sola qué es enseñar o aprender. |
-| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Tecnologías pueden apoyar experiencias; su uso no constituye enseñanza/aprendizaje automáticamente. |
-| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Favorecer agencia de quienes enseñan y aprenden y vigilar carga humana asociada a los medios. |
-| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Distingue aprobación humana de materiales de participación y aprendizaje efectivos. |
-| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Reconoce contribuciones de ambas perspectivas sin asimilarlas a autorización o autoría jurídica. |
+**Complemento originado en O5 — Reconocimiento transparente y trazable de aportes.**
 
-**Mantenimiento:** revisar todas las filas cada vez que cambien las orientaciones.
+La participación activa puede producir aportes significativos de quienes enseñan y de quienes aprenden.
+
+Estos aportes pueden manifestarse mediante propuestas, interpretaciones, preguntas, modificaciones, observaciones o retroalimentación.
+
+Una experiencia puede informar a cualquiera de sus participantes y motivar nuevas comprensiones o revisiones de lo que se enseña y aprende.
+
+Cuando un aporte es relevante para comprender cómo se construyó o transformó una experiencia, su contribución y procedencia deberían poder reconocerse de manera transparente y trazable.
+
+Reconocer un aporte no significa que todas las intervenciones tengan la misma responsabilidad, ni que participar convierta automáticamente a alguien en autor o responsable de la experiencia completa.
+
+Este complemento tampoco exige registrar cada intervención mínima o transformar toda experiencia en un procedimiento documental.
+
+## 5. Contexto y multiplicidad de experiencias
+
+Las experiencias de enseñanza y aprendizaje pueden ocurrir en diferentes entornos, medios y condiciones.
+
+Una misma necesidad pedagógica no exige necesariamente una única respuesta o realización.
+
+Las experiencias pueden diferir según las personas involucradas, sus circunstancias, los medios disponibles y las comprensiones que se desarrollen durante su transcurso.
+
+La adaptación contextual puede resultar pertinente sin que ello demuestre automáticamente eficacia pedagógica.
+
+## 6. Límites del fundamento
+
+Este fundamento no establece:
+
+- Un modelo formal universal del aprendizaje.
+- Una jerarquía obligatoria entre docentes y estudiantes.
+- La necesidad de que enseñar y aprender correspondan a personas distintas.
+- Una trayectoria educativa única o una secuencia temporal obligatoria.
+- La obligación de utilizar tecnologías digitales.
+- Un proceso universal de documentación de experiencias.
+- Que orientar una experiencia garantice aprendizaje.
+- Que reconocer una contribución implique autoría, autoridad o aprobación pedagógica.
+
+Tampoco define mecanismos de generación, autorización, publicación o evaluación de resultados. Estas responsabilidades deberán ser abordadas por los fundamentos y mecanismos correspondientes cuando estén justificadas por sus propias orientaciones.
+
+## 7. Trazabilidad con las orientaciones
+
+| Orientación | Clasificación | Justificación |
+| --- | --- | --- |
+| [O0 — Principal](../orientation/README.md) | **Origen** | F01 expresa cómo TDidacta comprende el problema de enseñanza y aprendizaje que su orientación principal pretende abordar. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Condición** | Condiciona cómo comprendemos el significado de las experiencias, sus transformaciones y su continuidad temporal. |
+| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Sin incidencia** | El fundamento interpreta la problemática pedagógica; no determina los medios tecnológicos para abordarla. |
+| [O3 — Carga y capacidad](../orientation/human-effort-and-agency.md) | **Sin incidencia** | El fundamento no determina todavía cómo reducir esfuerzo o ampliar las capacidades operativas de los participantes. |
+| [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | Comprender la enseñanza y el aprendizaje no exige establecer quién puede autorizar elementos pedagógicos. |
+| [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Complemento** | Complementa la participación activa al exigir que los aportes relevantes producidos durante las experiencias puedan reconocerse y reconstruirse. |
+
+## 8. Criterio de mantenimiento
+
+Toda incorporación, eliminación o modificación sustantiva de una orientación requiere revisar esta tabla y comprobar si cambia la justificación o formulación del fundamento.
+
+La revisión puede concluir que una orientación no tiene incidencia. No deben inventarse dependencias para completar la tabla ni reformularse el núcleo conceptual únicamente porque se incorporó una orientación nueva.
+
+**Fuente de origen:** [orientación principal de TDidacta](../orientation/README.md).
