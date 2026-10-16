@@ -140,6 +140,14 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### Dos orientaciones complementarias — precisión T04 (2026-10-16)
+
+- **Decisión del fundador:** reconocer como **dos orientaciones independientes** [continuidad semántica](../orientation/semantic-continuity.md) y [aprovechamiento de tecnologías](../orientation/technology-enabled-semantic-continuity.md). La primera expresa el compromiso sobre la continuidad del significado; la segunda, adaptación a capacidades tecnológicas actuales, especialmente LLM.
+- **Convergencia:** su combinación motiva los fundamentos [abstracción semántica](../foundations/semantic-abstraction.md) y [proyección semántica](../foundations/semantic-projection.md), sin reducir orientación a mecanismo o formato.
+- **Alcance:** transversal a hijos de PResolver por decisión conceptual del fundador; **formalización en PResolver pendiente**, sin declarar validación general ni forzar implementaciones idénticas.
+- **Seguimiento:** T04 continúa en curso; definiciones técnicas comprometidas para antes del 31-10-2026 permanecen pendientes y no se modifican los estados de los otros tópicos.
+
+
 ### Desdoblamiento de abstracción / proyección semántica — T04, 2026-10-16
 
 - **Decisión expresa del fundador:** separar dos fundamentos comunes a los hijos de PResolver: **[abstracción semántica](../foundations/semantic-abstraction.md)**, documentación → IR (*encode*), y **[proyección semántica](../foundations/semantic-projection.md)**, una o varias IR → resultados del dominio (*decode*). El esquema conjunto no debe atribuirse íntegramente al segundo concepto.
