@@ -108,3 +108,9 @@ Se admiten explícitamente dos resultados adicionales al examinar cada par orien
 Así, la clasificación a contrastar por fundamento es **origen, complemento, condición, incidencia marginal o sin incidencia**; las relaciones de origen pueden ser múltiples y una orientación puede cumplir más de una función cuando esté justificado, sin perder la explicación específica. **Mínimo obligatorio: al menos un origen real.** Si no aparece, abrir brecha de justificación; no atribuir relaciones artificiales para completar la tabla.
 
 Las tablas existentes todavía contienen formulaciones preliminares: deberán revisar expresamente las filas de incidencia marginal y ausencia de relación durante el trabajo individual, iniciando por F01. No se cierra aún la auditoría.
+
+## Reconciliación individual F01 y apertura F02 (2026-10-16)
+
+- **F01 — Enseñanza y aprendizaje:** formulación revisada y aprobada expresamente por el fundador. Origen O0; condición O1; complemento O5; sin incidencia O2/O3/O4. Documento sustituido conservando el diagrama original y límites relevantes: [F01](../foundations/teaching-and-learning.md).
+- **F02 — Necesidades e intenciones pedagógicas:** abierto para lectura íntegra y clasificación individual O0–O5. **No hay decisión de cierre ni reformulación todavía**.
+- La auditoría global Orientations→Foundations continúa **en curso**; no adelantar mecanismos o relaciones.
