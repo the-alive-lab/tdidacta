@@ -68,3 +68,16 @@ Estos son casos ilustrativos, no validación empírica.
 ## Continuidad tras el cierre conceptual — entregables antes del deadline
 
 Reconocer que **la persona responsable contextualiza la necesidad y cualquier interpretación disponible al formular o revisar la intención pedagógica**, haciendo legibles únicamente las condiciones, decisiones e incertidumbres relevantes. Mantener el mecanismo proporcional y no imponer un procedimiento técnico universal. Revisar posteriormente la eficacia y el esfuerzo de aplicar esta responsabilidad, sin convertir esa validación en un prerrequisito conceptual de T04.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Ajustar las intenciones a personas, necesidades y situaciones diversas. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Preservar distinción entre propósito y condiciones situadas. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Asistencia puede informar, no definir por sí sola la intención. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Facilitar decisiones situadas sin añadir carga documental excesiva. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
