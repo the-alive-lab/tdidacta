@@ -23,9 +23,10 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 ## Orientaciones complementarias
 
 - [Continuidad semántica](semantic-continuity.md): preservar, reconstruir y desarrollar significado, razones, restricciones y relaciones a través de transformaciones y realizaciones.
+- [Reducción de carga humana y ampliación de capacidad de acción](human-effort-and-agency.md): dos beneficios distintos, alcanzables separadamente; orientación propuesta a partir de T03/T05.
 - [Aprovechamiento de tecnologías](technology-enabled-semantic-continuity.md): adaptar deliberadamente el trabajo a capacidades tecnológicas útiles, especialmente las habilitadas por LLM, sin convertir una tecnología en requisito universal.
 
-**Decisión conceptual del fundador:** ambas son orientaciones distintas y transversales a los hijos de PResolver. **Su combinación motiva** los fundamentos de abstracción y proyección semánticas; no significa que sean fundamentos en sí mismas ni que sus formulaciones ya se hayan adoptado en el canon general de PResolver.
+**Decisión conceptual del fundador:** continuidad semántica y aprovechamiento tecnológico son orientaciones distintas y transversales a los hijos de PResolver; la orientación de carga y capacidad de acción se agrega para TDidacta, con generalización pendiente. **Su combinación motiva** los fundamentos de abstracción y proyección semánticas; no significa que sean fundamentos en sí mismas ni que sus formulaciones ya se hayan adoptado en el canon general de PResolver.
 
 ## Continuidad
 
