@@ -10,6 +10,7 @@
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
 | [Abstracción semántica](semantic-abstraction.md) | Documentación semántica a IR (encode) | Concepto transversal confirmado por fundador; formalización pendiente |
 | [Proyección semántica](semantic-projection.md) | IR individual/combinada a resultados de dominio (decode) | Concepto transversal confirmado por fundador; formalización pendiente |
+| [Revisión y corrección pedagógica](pedagogical-review-and-correction.md) | Evaluación y corrección humana proporcional, separada de autorización | Candidato T05 |
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
