@@ -57,3 +57,7 @@ Los conceptos son candidatos y no definen automáticamente Method, Design, Docs 
 ## Trazabilidad a orientaciones
 
 Este archivo es un **inventario de candidatos**, no un fundamento indivisible. Su justificación transversal es la [orientación principal](../orientation/README.md); las relaciones de cada concepto con [continuidad](../orientation/semantic-continuity.md), [tecnologías](../orientation/technology-enabled-semantic-continuity.md) y [carga/capacidad](../orientation/human-effort-and-agency.md) deben comprobarse individualmente antes de promoción. Incorporar o modificar una orientación obliga revisar cada entrada del inventario, además de las tablas de fundamentos individuales.
+
+## Hipótesis de clasificación pendiente (2026-10-16)
+
+El fundador plantea que este inventario podría corresponder a un **mecanismo para formalizar fundamentos de modo utilizable**, en vez de constituir un fundamento. **No se reclasifica ni mueve por ahora**: antes debe distinguirse si el documento solamente enumera conceptos (función editorial), si los formaliza con reglas de uso (posible mecanismo) o si contiene fundamentos aún no separados. Esta pregunta requiere contraste en la próxima auditoría Foundations→Mechanisms. La revisión transversal de orientaciones incluye los conceptos aquí contenidos, especialmente [autorización humana](../orientation/human-pedagogical-authorization.md) y [reconocimiento de aportes](../orientation/transparent-contribution-recognition.md).
