@@ -73,9 +73,12 @@ La orientación principal es **transversal** a este fundamento; las orientacione
 
 | Orientación | Relación con este fundamento |
 | --- | --- |
-| [Orientación principal](../orientation/README.md) | Fundar la enseñanza y exploración en necesidades y propósitos comprensibles. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Reconocer motivos y límites a través de las escalas. |
+| [Orientación principal](../orientation/README.md) | Fundamento central de O0: interpretar problemas pedagógicos mediante necesidades e intenciones, como base de la respuesta educativa. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Facilitar reconstrucción del significado de necesidades e intenciones a través de escalas, cambios y realizaciones. |
 | [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | No es requisito constitutivo; pueden utilizarse herramientas de apoyo. |
 | [Carga y capacidad](../orientation/human-effort-and-agency.md) | Explicitar intenciones puede ampliar agencia, pero su costo debe evaluarse. |
+
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Una intención formulada no queda autorizada por el mero hecho de existir. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Reconocer contribuciones a su formulación sin equipararlas con aprobación. |
 
 **Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
