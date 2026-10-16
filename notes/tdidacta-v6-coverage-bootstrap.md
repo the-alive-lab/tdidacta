@@ -61,7 +61,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | --- | --- | --- | --- |
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
-| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Revisado | [Propuesta T03](../foundations/source-inference-uncertainty.md), pendiente de aprobación humana |
+| T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Revisado | [Fundamento](../foundations/source-inference-uncertainty.md), [mecanismo aceptado](../mechanisms/evidence-classification.md); pendiente registrar cierre formal y retroalimentación |
 | T04 | Contextualización pedagógica humana | Pendiente | — |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
@@ -139,6 +139,16 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Ampliación aprobada de T03 y continuidad T02 — 2026-10-16
+
+- **Decisión sobre T03:** el fundador acepta la clasificación conceptual de evidencia de **origen humano e inferencial**, con una condición operativa: la aplicación puede imponer alta carga al responsable; el sistema deberá **facilitar y simplificar el proceso** en vez de delegarle etiquetado exhaustivo. [Mecanismo T03](../mechanisms/evidence-classification.md); [fundamento T03](../foundations/source-inference-uncertainty.md).
+- **No confundir:** clasificación de evidencia por afirmación/aspecto relevante ≠ clasificación manual global de elaboración de recursos acordada en T01.
+- **T02:** creado el [archivo de mecanismo de interpretación asistida](../mechanisms/assisted-material-interpretation.md). Su **definición detallada se mantiene pendiente hasta después de publicación de PResolver**; no se reabre T02.
+- **Relación candidata:** T02 *utilizaría* el mecanismo T03. Queda **pendiente de revisión**, sin adoptar una dependencia técnica; ver [Relationships](../relationships/assisted-interpretation-evidence-classification.md).
+- **T03:** permanece **Revisado** mientras se registre su cierre explícito. La retroalimentación transversal sobre abiertos y cerrados se ejecutará con el cierre, no se declara completada antes.
+- **Límites:** no afirmar implementación, reducción de carga comprobada, clasificación automatizada confiable ni métricas validadas.
+
 
 ### T03 — Fuentes, inferencias e incertidumbre (2026-10-16)
 
