@@ -88,3 +88,16 @@ T06 cerrado por instrucción humana; realizar retroalimentación de los otros 27
 **Decisión del fundador:** revisar y reautorizar el punto afectado por un cambio de necesidad pedagógica y sus dependencias. Si el cambio afecta toda la planificación, se revisa y reautoriza toda ella; si afecta solo una unidad, se revisa y reautoriza esa unidad y sus dependencias, sin extender la revisión indiscriminadamente a otras unidades. Los cambios amplios suelen vincularse con intenciones de mayor alcance.
 
 El procedimiento es manual en la actualidad y se aspira a automatizar su apoyo operativo, particularmente la detección de dependencias y riesgos de drift, sin transferir la autoridad humana al sistema. El criterio conceptual de suficiencia heredado de T05 queda precisado por el alcance del impacto; los algoritmos y garantías siguen pendientes.
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Reconocer responsabilidad y agencia de quien enseña en el MVP. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Estabilizar un alcance semántico revisable sin bloquear exploración. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Puede apoyar identificación de cambios, nunca autoriza por sí sola. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Reducir carga de reautorización es objetivo, no resultado demostrado. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
