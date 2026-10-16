@@ -1,6 +1,6 @@
 # Contextualización pedagógica humana — propuesta T04
 
-**Estado del tópico:** en revisión con ampliación de alcance aprobada por el fundador (2026-10-16). **Obligaciones documentales/estructurales identificadas para antes del 31-10-2026; especificaciones pendientes.**
+**Estado del tópico T04:** **cerrado conceptualmente** por decisión expresa del fundador (2026-10-16). **Entregables independientes comprometidos antes del 31-10-2026:** documentación mediante Docs Standard, mecanismo de abstracción semántica e IR Specification; no se consideran especificados ni implementados por este cierre.
 
 ## Problema y responsabilidad
 
@@ -65,6 +65,6 @@ Estos son casos ilustrativos, no validación empírica.
 - [Maestro editorial V6](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md): contexto, objetivos, restricciones, prerrequisitos, exclusiones y variación permisible. Evidencia editorial, no prueba de eficacia.
 - **VSlices:** adaptable separar definición/autoridad de realización; no importamos requisitos propios de arquitectura de software ni postulamos universalidad de PResolver.
 
-## Pendientes para definir antes del deadline
+## Continuidad tras el cierre conceptual — entregables antes del deadline
 
 Reconocer que **la persona responsable contextualiza la necesidad y cualquier interpretación disponible al formular o revisar la intención pedagógica**, haciendo legibles únicamente las condiciones, decisiones e incertidumbres relevantes. Mantener el mecanismo proporcional y no imponer un procedimiento técnico universal. Revisar posteriormente la eficacia y el esfuerzo de aplicar esta responsabilidad, sin convertir esa validación en un prerrequisito conceptual de T04.
