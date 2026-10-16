@@ -47,6 +47,12 @@ No se propone registro por oración, puntuación universal, doble aprobación ni
 
 Son ejemplos conceptuales, no casos empíricos validados.
 
+## Retroalimentación y orientación de capacidad humana
+
+Se distinguen [generación de feedback](../mechanisms/feedback-generation.md) y [trazabilidad de feedback](../mechanisms/feedback-traceability.md), que puede ser parcialmente o completamente automatizada **sin conferir verdad ni aprobación por defecto**. La revisión decide qué atender y corregir; feedback no es automáticamente una corrección. El [mecanismo de apoyo a la revisión](../mechanisms/pedagogical-review-assistance.md) se pospone a después de la publicación de PResolver.
+
+La [orientación de reducción de carga y ampliación de capacidad de acción](../orientation/human-effort-and-agency.md) contiene **dos fines independientes**: pueden lograrse por separado. La evaluación de resultados de estos fines no se da por realizada.
+
 ## Continuidad y límites
 
 - [T01](pedagogical-authorship.md): supervisar, revisar, autorizar y publicar son responsabilidades distintas.
