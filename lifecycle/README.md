@@ -15,3 +15,7 @@
 - **Lifecycle** se ocupa de coordinar esos vínculos cuando se aborda una necesidad.
 
 No presupone una etapa fija, escala inicial ni equivalencia validada con VSlices o PResolver.
+
+## Checkpoint posterior a T06
+
+[Revisión de Relationships y Lifecycle tras T01–T06](../notes/2026-10-16-relationships-lifecycle-checkpoint-t01-t06.md): conserva el mapa anterior como candidato, identifica relaciones y coordinaciones faltantes (intención–situaciones, Docs/IR, autorización, impacto, cambios y reautorización), y registra propuestas **no adoptadas automáticamente**. Los diagramas vigentes son parciales respecto de T01–T06.
