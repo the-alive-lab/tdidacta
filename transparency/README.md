@@ -29,6 +29,14 @@ Estos nombres **no constituyen una taxonomía definitiva**. Su posible solapamie
 
 La clasificación debe distinguirse del consentimiento, de los derechos sobre los materiales y de la autorización humana de conocimiento: una etiqueta no prueba esas condiciones.
 
+## Alcance y calendario de trabajo (decisión del 2026-10-16)
+
+**Hasta la entrega formal de PResolver del 31-10-2026:** el escenario operativo de TDidacta contempla a una persona humana que formula, planifica, supervisa y autoriza su propio material. Pueden existir necesidades o fuentes externas, pero no se modelan todavía aprobaciones institucionales multinivel ni autorizaciones distribuidas entre roles. Véase [Autoría pedagógica](../foundations/pedagogical-authorship.md).
+
+**Después del 31-10-2026, como propuestas de exploración:** gradiente multidimensional; evaluación de contribuciones; trazabilidad avanzada del feedback; condiciones detalladas de atribución. Son investigaciones aplazadas, no capacidades prometidas para la entrega. Los cuatro nombres de clasificación permanecen como propuesta sin reglas de asignación hasta completar el gradiente.
+
+**Privacidad, consentimiento y reutilización permanecen en una línea separada y no quedan aplazados automáticamente.** Antes de procesar datos personales reales, el servicio debe disponer de salvaguardas y permisos adecuados al tratamiento concreto. Las preferencias de anonimato no sustituyen consentimiento ni requisitos de protección de datos.
+
 ## Atribución, identificación y anonimato
 
 Según la orientación del fundador, las personas humanas deben poder elegir si su identidad aparece públicamente o no. Es deseable distinguir nombre, seudónimo, reconocimiento sin identificación y ausencia de crédito público individual, en la medida compatible con derechos y obligaciones aplicables.
@@ -54,7 +62,7 @@ Distinguir la autoría de una **fuente**, la formulación de una **intención**,
 
 La orientación expresada por el fundador exige una **persona humana responsable de autorizar el conocimiento que el servicio presenta como revisado, autorizado o pedagógicamente apto en un contexto**; dicha decisión debe distinguirse de creación, atribución y mera generación inferencial.
 
-Queda pendiente precisar quién tiene competencia para autorizar según contexto, bajo qué condiciones y qué exploraciones provisionales no se presentan como conocimiento autorizado. No crear jerarquía institucional universal ni afirmar que la autorización garantiza verdad o aprendizaje.
+Para el alcance actual, quien formula la intención pedagógica supervisa y autoriza el material propio para su contexto. Las competencias institucionales, autorizaciones multinivel y roles especializados quedan fuera del alcance anterior al 31-10-2026. Sigue siendo necesario distinguir conocimiento autorizado de exploración provisional y respetar derechos de fuentes ajenas. No crear jerarquía institucional universal ni afirmar que la autorización garantiza verdad o aprendizaje.
 
 ## Relación con otros tópicos
 
