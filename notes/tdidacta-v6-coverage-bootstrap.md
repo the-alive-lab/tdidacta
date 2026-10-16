@@ -140,6 +140,16 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### T06 — autorización individual y congelamiento semántico (2026-10-16)
+
+- **Decisión del fundador para MVP:** autoriza individualmente la persona responsable. Casos colaborativos, institucionales y autorización multinivel **diferidos para después del 31-10-2026**.
+- **Objetos autorizables:** intenciones, planificaciones aún en draft, trayectorias de unidades propuestas por humano o LLM, clases y actividades; no limitar autorización a realizaciones finales.
+- **Sentido de autorización:** aprobar un elemento para su uso posterior y **congelar su alcance semántico** como base de exploración segura. Espacios sin autorización permanecen modificables; autorizar una parte no aprueba automáticamente el conjunto.
+- **Revisión posterior:** la autorización puede reconsiderarse mediante revisión/corrección de T05 si exploración o cambios curriculares revelan problemas. Los detalles de versiones y propagación permanecen en T09/T12.
+- **Tensión abierta:** resolver qué revisión es suficiente antes de autorizar sin imponer un procedimiento universal o revisión exhaustiva. **T06 sigue En curso**.
+- **Secuencia preservada:** feedback transversal de T06 y revisión de Relationships/Lifecycle solamente después de su cierre.
+
+
 ### Inicio T06 — autorización situada y suficiencia de revisión (2026-10-16)
 
 - T06 **En curso**, no cerrado. [Propuesta](../foundations/pedagogical-authorization.md) distingue autorizar, revisar, corregir, publicar y poseer derechos.
