@@ -571,6 +571,6 @@ El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan esta
 ### Superficie candidata de tensiones entre orientaciones (2026-10-16)
 
 - Se creó [Tensions](../tensions/README.md) como superficie candidata de continuidad para tensiones entre al menos dos orientaciones, sin declarar una taxonomía completa ni mecanismos adoptados.
-- Primera tensión: [tecnología generativa y carga de revisión](../tensions/technology-capacity-review-burden.md). O2 puede ampliar alternativas mientras O3 exige vigilar esfuerzo humano; O1 introduce continuidad semántica a preservar.
-- Para cada fundamento donde ambas orientaciones **incidan materialmente**, los mecanismos responsables deberán explicar cómo atienden la tensión y qué permanece no resuelto. Una fila preliminar o una relación marginal no bastan automáticamente para activarla.
+- Primera tensión: [continuidad semántica frente a esfuerzo humano — O1/O3](../tensions/semantic-continuity-human-effort.md). **O1 y O3 son los polos de la tensión**: preservar y reconstruir significados puede exigir considerable esfuerzo humano. **O2 no es un polo**: la tecnología puede ayudar a atenderla, aunque también introducir costos adicionales de revisión.
+- Para cada fundamento donde O1 y O3 **incidan materialmente**, los mecanismos responsables deberán explicar cómo atienden la tensión y qué permanece no resuelto. Una fila preliminar o una relación marginal no bastan automáticamente para activarla.
 - F02 continúa abierto para reconciliación individual. No adelantar auditoría de mecanismos o relaciones.
