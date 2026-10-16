@@ -140,6 +140,15 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### Desdoblamiento de abstracción / proyección semántica — T04, 2026-10-16
+
+- **Decisión expresa del fundador:** separar dos fundamentos comunes a los hijos de PResolver: **[abstracción semántica](../foundations/semantic-abstraction.md)**, documentación → IR (*encode*), y **[proyección semántica](../foundations/semantic-projection.md)**, una o varias IR → resultados del dominio (*decode*). El esquema conjunto no debe atribuirse íntegramente al segundo concepto.
+- **Orientación propuesta:** [adaptación a ventajas tecnológicas actuales](../orientation/technology-enabled-semantic-continuity.md), motivada especialmente por LLM, sin obligatoriedad de que cada operación use IA. Su adopción general en PResolver aún requiere formalización.
+- **Mecanismos diferenciados:** [abstracción documental T04](../mechanisms/document-to-intermediate-projection.md) y [proyección IR a resultados](../mechanisms/intermediate-to-domain-projection.md); permanecen pendientes sus contratos técnicos.
+- **Producto específico escogido:** [TDidacta IR Specification](../products/ir-specification/README.md), destino de la especificación estructurada. [Nota anterior de estructuras](../structures/tdidacta-intermediate-representation.md) preservada como antecedente, sin esquema duplicado. El referente declarado de VSlices es `vslices/intermediate-representation`, no verificado documentalmente en esta revisión.
+- **T04 sigue en curso** y las especificaciones comprometidas para antes del 31-10-2026 continúan pendientes. No se cierran T04 ni otros tópicos ni se promueve automáticamente un contrato universal de PResolver.
+
+
 ### Aclaración conceptual de proyección semántica — T04, 2026-10-16
 
 - **Confirmación expresa del fundador:** la proyección semántica es una **facultad común a todos los proyectos derivados de PResolver**. Se trata de una afirmación adoptada por decisión conceptual, **no de una generalidad validada empíricamente** ni de un contrato técnico adoptado por PResolver.
