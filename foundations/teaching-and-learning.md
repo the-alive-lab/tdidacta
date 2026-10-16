@@ -53,3 +53,16 @@ Estas orientaciones no definen un lifecycle obligatorio, un modelo formal de apr
 ## Trazabilidad y naturaleza del documento
 
 Este documento **se conserva como fundamento por decisión del fundador**: concreta la orientación principal en distinciones operables de enseñanza y aprendizaje sin confundir el propósito general con las capacidades fundacionales. [Orientación principal](../orientation/README.md) es su fuente directa; [continuidad](../orientation/semantic-continuity.md), [tecnologías](../orientation/technology-enabled-semantic-continuity.md) y [carga/capacidad](../orientation/human-effort-and-agency.md) pueden favorecerla, pero no definen su existencia. [Autorización humana](../orientation/human-pedagogical-authorization.md) delimita cuándo una propuesta educativa se aprueba humanamente, sin volver autorización toda experiencia; [reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) distingue contribuciones de ambos participantes. Las revisiones de orientaciones deben verificar esta correspondencia.
+
+## Matriz de trazabilidad a orientaciones
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Principal](../orientation/README.md) | **Origen directo:** reconocer enseñanza y aprendizaje como perspectivas activas y no como mera transmisión o recepción. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Permite reconstruir intenciones y comprensión entre experiencias, sin definir por sí sola qué es enseñar o aprender. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Tecnologías pueden apoyar experiencias; su uso no constituye enseñanza/aprendizaje automáticamente. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Favorecer agencia de quienes enseñan y aprenden y vigilar carga humana asociada a los medios. |
+| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Distingue aprobación humana de materiales de participación y aprendizaje efectivos. |
+| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | Reconoce contribuciones de ambas perspectivas sin asimilarlas a autorización o autoría jurídica. |
+
+**Mantenimiento:** revisar todas las filas cada vez que cambien las orientaciones.
