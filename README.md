@@ -33,6 +33,10 @@ Estas categorías orientan la lectura y la revisión; no constituyen una taxonom
 
 Una realización puede revelar tensiones o contradicciones en el canon. Su revisión debe ser explícita y trazable, sin reescribir retrospectivamente la evidencia histórica.
 
+## Fundamentos conceptuales
+
+[Foundations — fundamentos de TDidacta](foundations/README.md) distingue las orientaciones ya reconocidas por este canon de los conceptos candidatos derivados de la V6 aprobada. Su inventario no promueve automáticamente hipótesis ni impone una arquitectura pedagógica o de productos.
+
 ## Origen documentado
 
 El origen en **Teaching**, la motivación de aprendizaje autónomo y las primeras decisiones técnicas se conservan en [Bootstrap — origen y evolución](bootstrap/README.md). Ese registro es evidencia histórica, no autoridad normativa sobre las definiciones vigentes. La reconstrucción editorial extensa permanece en Research mediante su V6 aprobada.
