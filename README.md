@@ -37,6 +37,10 @@ Una realización puede revelar tensiones o contradicciones en el canon. Su revis
 
 [Foundations — fundamentos de TDidacta](foundations/README.md) distingue las orientaciones ya reconocidas por este canon de los conceptos candidatos derivados de la V6 aprobada. Su inventario no promueve automáticamente hipótesis ni impone una arquitectura pedagógica o de productos.
 
+## Relaciones conceptuales candidatas
+
+[Relationships — mapa de relaciones pedagógicas](relationships/README.md) documenta cómo se vinculan necesidades, intenciones, espacios, exploraciones, realizaciones y evidencia. Estas relaciones son **candidatas**: sirven para examinar qué podría coordinar el ciclo de vida, sin imponer todavía un lifecycle ni abstraer mecanismos hacia PResolver.
+
 ## Origen documentado
 
 El origen en **Teaching**, la motivación de aprendizaje autónomo y las primeras decisiones técnicas se conservan en [Bootstrap — origen y evolución](bootstrap/README.md). Ese registro es evidencia histórica, no autoridad normativa sobre las definiciones vigentes. La reconstrucción editorial extensa permanece en Research mediante su V6 aprobada.
