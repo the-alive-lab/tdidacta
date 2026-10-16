@@ -120,3 +120,7 @@ Las tablas existentes todavía contienen formulaciones preliminares: deberán re
 El fundador propone la superficie candidata [Tensions](../tensions/README.md) para registrar problemas que surgen al satisfacer **dos o más orientaciones conjuntamente**. Cuando una tensión incide materialmente en un fundamento, sus mecanismos deben dar una respuesta explícita; no significa que la tensión esté automáticamente resuelta ni que todas deban descubrirse de inmediato.
 
 Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo humano](../tensions/semantic-continuity-human-effort.md), con O2 como posible medio de respuesta, no polo de la tensión. **F02 sigue en revisión**. Las tensiones se registran progresivamente y se revisa la aplicabilidad según las clasificaciones efectivas del fundamento.
+
+## Reconciliación de F02 (2026-10-16)
+
+**F02 — Necesidades e intenciones pedagógicas:** reconciliado con decisión del fundador. Orígenes O0/O1; complemento O2/O4/O5; condición O3. Reconocida como aplicable la [tensión O1/O3](../tensions/semantic-continuity-human-effort.md), **atenuable mediante O2**, sin afirmar resolución ni reducción empíricamente probada. [Fundamento actualizado](../foundations/pedagogical-needs-and-intentions.md). Continúa abierta la auditoría de los demás fundamentos.
