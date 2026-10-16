@@ -133,3 +133,9 @@ Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo human
 - **[F01](../foundations/teaching-and-learning.md): O6 sin incidencia**; interpreta el problema de enseñanza/aprendizaje, no la distribución del esfuerzo para resolverlo. Clasificaciones anteriores intactas.
 - **[F02](../foundations/pedagogical-needs-and-intentions.md): O6 incidencia marginal**; favorece dedicar atención a comprender/formular pero no modifica la identidad de necesidad, intención o espacio de posibilidades. Clasificaciones anteriores intactas. No activar automáticamente la tensión O3/O6 en F02.
 - La auditoría general de los otros fundamentos continúa abierta; se debe contrastar O6 en cada uno al revisarlo.
+
+## F04 reconciliado, F05 abierto (2026-10-16)
+
+- [F04 — Abstracción semántica](../foundations/semantic-abstraction.md): definición basada en relación prosa/IR, composición posible dentro y entre flavors y utilidad tecnológica posterior; nota de TDidacta separada y **hipótesis investigativa sobre efectividad/eficiencia frente a prosa expresamente separada de la definición**.
+- Clasificación aprobada F04: O1/O2 **orígenes**; O0/O3/O6 **condiciones**; O4/O5 **sin incidencia**. Tensiones aplicables O1/O3 y O3/O6; mecanismos y evidencia pendientes.
+- [F05 — Proyección semántica](../foundations/semantic-projection.md): abierto para revisión individual, sin clasificación adoptada ni cambios aún.
