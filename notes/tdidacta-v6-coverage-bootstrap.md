@@ -567,3 +567,10 @@ El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan esta
 - **Declaración de cambios**, también **revisión de cambios:** tomar lo afectado y adecuarlo a la nueva necesidad; actualizar documentación y, por extensión, regenerar IR y reevaluar impacto según sea necesario.
 - Son responsabilidades distintas, no dos nombres de la misma detección. El mecanismo candidato de drift asiste principalmente a identificar impacto, sin sustituir la revisión/adaptación humana ni la autorización.
 - T06 permanece en curso. Se conserva la secuencia: cierre T06, feedback transversal, auditoría posterior de Relationships/Lifecycle.
+
+### Superficie candidata de tensiones entre orientaciones (2026-10-16)
+
+- Se creó [Tensions](../tensions/README.md) como superficie candidata de continuidad para tensiones entre al menos dos orientaciones, sin declarar una taxonomía completa ni mecanismos adoptados.
+- Primera tensión: [tecnología generativa y carga de revisión](../tensions/technology-capacity-review-burden.md). O2 puede ampliar alternativas mientras O3 exige vigilar esfuerzo humano; O1 introduce continuidad semántica a preservar.
+- Para cada fundamento donde ambas orientaciones **incidan materialmente**, los mecanismos responsables deberán explicar cómo atienden la tensión y qué permanece no resuelto. Una fila preliminar o una relación marginal no bastan automáticamente para activarla.
+- F02 continúa abierto para reconciliación individual. No adelantar auditoría de mecanismos o relaciones.
