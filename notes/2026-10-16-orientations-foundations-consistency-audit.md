@@ -83,3 +83,17 @@ Se evalúa **justificación**, no deducción lógica exclusiva. Una orientación
 **Regla de propagación aplicada:** las dos orientaciones nuevas motivaron revisión y actualización de las tablas de los nueve fundamentos individuales preexistentes, incorporación de la tabla del nuevo fundamento de resolución recursiva y actualización del fundamento de enseñanza/aprendizaje. Un enlace de trazabilidad no prueba eficacia ni exige que todas las orientaciones sean igualmente constitutivas.
 
 **Interpretación de capas, sujeta a futuras auditorías:** orientaciones motivan fundamentos; fundamentos justifican mecanismos; relaciones vinculan responsabilidades/operaciones expresadas en mecanismos; Lifecycle coordina relaciones en el tiempo. Es un principio de **trazabilidad justificativa**, no una regla que impida relaciones entre fundamentos ni una cadena de dependencia uno-a-uno. Todavía **no se ejecutó la auditoría Foundations→Mechanisms ni Mechanisms→Relationships**.
+
+## Regla de origen mínimo — decisión del fundador (2026-10-16)
+
+La reconciliación **no está cerrada**: se revisará cada fundamento **uno por uno** y se reformulará a partir de sus orientaciones.
+
+**Invariante conceptual:** cada fundamento debe tener **al menos una orientación originadora** que justifique por qué existe. Puede haber origen múltiple. Solo después de establecer su origen pueden identificarse otras orientaciones que **complementan** o **condicionan** su definición. Complementos y condiciones no sustituyen la ausencia de origen.
+
+- **Origen:** razón que hace necesario el fundamento.
+- **Complemento:** amplía o habilita posibilidades del fundamento sin justificar por sí solo su existencia.
+- **Condición:** introduce límites o exigencias sobre la formulación o el uso del fundamento.
+
+Si no se encuentra orientación originadora, registrar **brecha real de justificación**, examinar si falta una orientación o si la clasificación/definición del fundamento es equivocada; no crear una orientación automáticamente sin decisión humana.
+
+**Estado:** F01 enseñanza y aprendizaje en discusión; las tablas ya existentes son propuestas preliminares sujetas a esta auditoría, no acreditan cierre. No avanzar a mecanismos ni relaciones.
