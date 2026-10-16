@@ -45,6 +45,18 @@ La **autorización humana** es otra distinción fundamental: una persona humana 
 
 El [gradiente multidimensional](../mechanisms/contribution-gradient.md) y la [trazabilidad de feedback general](../mechanisms/feedback-traceability.md) desarrollan mecanismos candidatos. [Transparencia](../transparency/README.md) reúne obligaciones candidatas de clasificación de recursos del servicio, identificación pública, consentimiento y reutilización.
 
+## Alcance operativo aprobado para la entrega de PResolver (31-10-2026)
+
+**Decisión del fundador del 2026-10-16 — alcance actual de TDidacta:** una misma persona humana formula la intención pedagógica, planifica, supervisa y autoriza su propio material para el contexto que atiende. Puede responder a necesidades originadas por terceros y apoyarse en fuentes externas o herramientas inferenciales, sin que eso transfiera a esos terceros la autorización de su material.
+
+Esta decisión **delimita un escenario operativo**, no una ley pedagógica universal. No afirma que la persona sea autora de todas las fuentes, titular de todos los derechos, autoridad sobre cualquier disciplina ni que su aprobación garantice corrección factual o aprendizaje. El conocimiento presentado como autorizado debe permanecer circunscrito a su responsabilidad y uso pedagógico. No se requieren, para esta entrega, aprobaciones institucionales multinivel o jerarquías por roles; esas posibilidades no se descartan para etapas posteriores.
+
+Se mantiene la distinción conceptual **autoría ≠ autorización** aun cuando ambas responsabilidades recaigan temporalmente en una sola persona.
+
+**Tras la entrega del 31-10-2026** quedan para exploración posterior el gradiente multidimensional, la evaluación de contribuciones, la trazabilidad avanzada de feedback y las condiciones detalladas de atribución. La privacidad, consentimiento y reutilización **no se incluyen automáticamente en ese aplazamiento**: deben evaluarse separadamente, y los controles necesarios para un tratamiento real de datos personales son prerrequisitos de dicho tratamiento.
+
+**Frontera de autoridad:** la presente decisión de alcance está autorizada; las hipótesis generales sobre autoría y mecanismos no quedan automáticamente promovidas a fundamentos universales.
+
 ## Fronteras abiertas
 
 - ¿Qué aportes merecen reconocimiento de autoría frente a una contribución menor, edición o mediación?
