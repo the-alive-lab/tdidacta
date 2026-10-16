@@ -94,6 +94,14 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 
 Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores **abiertos y cerrados**, impacto fundado, resultado de verificación de coherencia, posibles contradicciones, qué queda por resolver y fuentes/enlaces. Si nuevos cierres contradicen registros previos, añadir una corrección trazable sin reescribir hechos históricos.
 
+### Precisiones aprobadas al revisar tensiones de T01 — 2026-10-16
+
+- **Clasificación manual ahora:** el profesional humano que crea el recurso declara y selecciona manualmente su clasificación entre las cuatro denominaciones provisionales, visible junto al recurso. La declaración no implica comprobación automática ni validación de calidad. La interfaz y persistencia concretas todavía requieren definición e implementación. **No depende de finalizar el gradiente**; automatización, umbrales y posibles ampliaciones sí permanecen aplazados. Ver [Transparencia](../transparency/README.md) y [gradiente](../mechanisms/contribution-gradient.md).
+- **Responsabilidades separadas:** origen de necesidad, formulación de intención, creación, supervisión, autorización y publicación deben distinguirse conceptualmente, **aunque una sola persona desempeñe todas esas funciones**. Ver [Autoría pedagógica](../foundations/pedagogical-authorship.md).
+- **Se conserva la tercera observación:** cierre de T01 no promueve automáticamente a universales los mecanismos candidatos ni declara su implementación.
+- **Impactos en tópicos abiertos:** T05 y T06 reutilizarán la separación de funciones; T07 distinguirá autorización, clasificación y publicación; T23 y T25 considerarán declaración manual sin atribuirle verificación automática; T15/T16 no confundirán clasificación, autorización y calidad. **Sus estados no cambian**.
+- **Consistencia con T01 cerrado:** estas precisiones desarrollan su alcance autorizado; no se identifica necesidad de reabrirlo.
+
 ### Retroalimentación de T01 hacia tópicos restantes — 2026-10-16
 
 **Origen:** [T01 autoría pedagógica](../foundations/pedagogical-authorship.md), [transparencia](../transparency/README.md), [gradiente candidato](../mechanisms/contribution-gradient.md), [feedback candidato](../mechanisms/feedback-traceability.md). Cierre autorizado para alcance 31-10-2026; trabajos avanzados aplazados. **Ningún estado receptor cambia**. Los grados siguientes describen solo reutilización cualitativa, no porcentajes completados.
@@ -123,7 +131,7 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 | T22 | Parcial | Diferenciar identificación, consentimiento, derechos, privacidad y autorización; no aplazado automáticamente | Salvaguardas y bases jurídicas por contexto antes de tratar datos reales |
 | T23 | Antecedente | Autorización del material no equivale a derecho de publicación | Publicación comunitaria y permisos |
 | T24 | Sin avance directo | No se establecieron capacidades técnicas | Autoalojamiento e interoperabilidad |
-| T25 | Parcial | Declarar intervención de IA; cuatro clasificaciones provisionales y sin reglas de asignación hasta completar gradiente | Modalidades y límites de inferencia |
+| T25 | Parcial | Declaración manual de IA por profesional responsable entre cuatro denominaciones; la clasificación automática continúa supeditada al gradiente | Modalidades y límites de inferencia; implementación de declaración manual |
 | T26 | Sin avance directo | No se definió sostenibilidad | Acceso y modelo económico |
 | T27 | Antecedente | Distinción de fuentes y realizaciones podría ayudar a portabilidad | Recuperación tras cierre del servicio |
 | T28 | Sin avance directo | No se resolvió autoridad organizacional | Relación operativa con The Alive Lab |
