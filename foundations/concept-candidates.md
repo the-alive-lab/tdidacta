@@ -53,3 +53,7 @@ flowchart LR
 Los conceptos son candidatos y no definen automáticamente Method, Design, Docs Standard, Framework o Platform. Una propuesta o testimonio explícito puede orientar su elaboración sin equivaler a validación empírica.
 
 **Relacionados:** [Enseñanza y aprendizaje](teaching-and-learning.md) · [Espacio de posibilidades](../mechanisms/possibility-spaces.md) · [Criterios de madurez](scope-and-promotion.md).
+
+## Trazabilidad a orientaciones
+
+Este archivo es un **inventario de candidatos**, no un fundamento indivisible. Su justificación transversal es la [orientación principal](../orientation/README.md); las relaciones de cada concepto con [continuidad](../orientation/semantic-continuity.md), [tecnologías](../orientation/technology-enabled-semantic-continuity.md) y [carga/capacidad](../orientation/human-effort-and-agency.md) deben comprobarse individualmente antes de promoción. Incorporar o modificar una orientación obliga revisar cada entrada del inventario, además de las tablas de fundamentos individuales.
