@@ -16,3 +16,7 @@ Explicar cómo los conceptos de TDidacta se vinculan entre sí **sin redefinir l
 - [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
 
 **Regla de interpretación:** una relación propuesta no obliga a crear una clase, una tabla, un archivo ni una etapa de proceso. La autoridad y madurez de cada concepto siguen en sus fuentes.
+
+## Checkpoint posterior a T06
+
+[Revisión de Relationships y Lifecycle tras T01–T06](../notes/2026-10-16-relationships-lifecycle-checkpoint-t01-t06.md): conserva el mapa anterior como candidato, identifica relaciones y coordinaciones faltantes (intención–situaciones, Docs/IR, autorización, impacto, cambios y reautorización), y registra propuestas **no adoptadas automáticamente**. Los diagramas vigentes son parciales respecto de T01–T06.
