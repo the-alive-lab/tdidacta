@@ -10,6 +10,7 @@ Los mecanismos describen cómo se opera sobre espacios delimitados, diferencián
 - [Espacios de posibilidades pedagógicos](possibility-spaces.md): delimitación y alcance sobre los que es posible operar.
 - [Exploración y realización](exploration-and-realization.md): consultar para comprender y concretar posibilidades.
 - [Generación de feedback](feedback-generation.md): mecanismo candidato **diferido**, para formular retroalimentación humana o inferencial.
+- [Versionamiento de elementos pedagógicos](pedagogical-element-versioning.md): candidato para planificaciones, unidades, clases, actividades e intenciones autorizadas; detalle asociado a T09/T12.
 - [Detección de drift y alcance de revisión](semantic-drift-review-support.md): mecanismo candidato para localizar diferencias y dependencias tras cambios documentales, sin autorizar automáticamente.
 - [Apoyo a revisión pedagógica](pedagogical-review-assistance.md): mecanismo diferido hasta después de publicación de PResolver.
 - [Revisión y corrección pedagógica](pedagogical-review-and-correction.md): operaciones candidatas de revisión, corrección, rechazo o aclaración sin otorgar autorización automáticamente.
