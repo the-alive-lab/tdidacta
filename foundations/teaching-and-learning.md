@@ -117,6 +117,7 @@ Tampoco define mecanismos de generación, autorización, publicación o evaluaci
 | [O3 — Carga y capacidad](../orientation/human-effort-and-agency.md) | **Sin incidencia** | El fundamento no determina todavía cómo reducir esfuerzo o ampliar las capacidades operativas de los participantes. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | Comprender la enseñanza y el aprendizaje no exige establecer quién puede autorizar elementos pedagógicos. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Complemento** | Complementa la participación activa al exigir que los aportes relevantes producidos durante las experiencias puedan reconocerse y reconstruirse. |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Sin incidencia** | F01 interpreta qué son las experiencias de enseñanza y aprendizaje, sin prescribir cómo distribuir esfuerzo entre comprender/documentar y producir realizaciones. |
 
 ## 8. Criterio de mantenimiento
 
