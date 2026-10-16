@@ -33,7 +33,8 @@ El estado de seguimiento es independiente del estado **candidate / active / stab
 5. Cuando corresponda, revisar Research: estudios, resultados, límites, protocolos y evidencia; no convertir observaciones en resultados de aprendizaje ni inventar validaciones.
 6. Preparar una propuesta con: concepto/responsabilidad, correspondencia V6 ↔ TDidacta, lectura comparativa de VSlices, autoridad, límites, alternativas, cambios propuestos y pendientes.
 7. Aplicar modificaciones solo cuando la operación esté autorizada. Actualizar enlaces e índices afectados; conservar procedencia, contexto y decisiones. Verificar referencias y navegación.
-8. Registrar el resultado en este documento y escoger el siguiente tópico; **no** marcar `cerrado` por haberlo analizado solamente.
+8. Registrar el resultado en este documento. **Inmediatamente después del cierre de un tópico**, examinar su impacto sobre cada tópico pendiente y registrar relaciones relevantes, decisiones reutilizables, límites, aplazamientos y enlaces, **sin alterar el estado de esos otros tópicos**.
+9. Al iniciar un tópico futuro, leer primero los impactos recibidos de tópicos anteriores, contrastarlos con las fuentes vigentes y evitar reconstruir desde cero lo ya justificado. Escoger entonces el siguiente tópico; **no** marcar `cerrado` por haberlo analizado solamente.
 
 ### Registro mínimo de una revisión
 
@@ -49,6 +50,7 @@ El estado de seguimiento es independiente del estado **candidate / active / stab
 - Estado de autoridad: vigente | candidato | pendiente de aprobación | otro (explicar)
 - Archivos o decisiones afectados (enlaces):
 - Preguntas, bloqueos y siguiente acción:
+- Retroalimentación sobre otros tópicos (IDs, tipo de impacto, decisión reutilizable, pendiente y enlace):
 ```
 
 ## Inventario de cobertura (inicial, sin priorización definitiva)
@@ -85,6 +87,48 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T26 | Acceso público y sostenibilidad económica | Pendiente | — |
 | T27 | Continuidad y recuperación ante cierre del servicio | Pendiente | — |
 | T28 | Relación entre TDidacta y la organización operadora de The Alive Lab | Pendiente | — |
+
+## Retroalimentación transversal después de cada cierre
+
+**Regla operativa:** al cerrar un tópico, revisar **todos los tópicos todavía abiertos** y registrar únicamente impactos explicables con decisiones o artefactos concretos. Distinguir *decisión reutilizable*, *delimitación de alcance*, *antecedente candidato* y *ausencia de avance directo*. No convertir automáticamente correspondencias en progreso demostrado, ni modificar estados de tópicos receptores. Este registro es un **índice de continuidad**, no reemplaza los documentos de cada responsabilidad.
+
+Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores, impacto fundado, qué queda por resolver y fuentes/enlaces. Si nuevos cierres contradicen registros previos, añadir una corrección trazable sin reescribir hechos históricos.
+
+### Retroalimentación de T01 hacia tópicos pendientes — 2026-10-16
+
+**Origen:** [T01 autoría pedagógica](../foundations/pedagogical-authorship.md), [transparencia](../transparency/README.md), [gradiente candidato](../mechanisms/contribution-gradient.md), [feedback candidato](../mechanisms/feedback-traceability.md). Cierre autorizado para alcance 31-10-2026; trabajos avanzados aplazados. **Ningún estado receptor cambia**. Los grados siguientes describen solo reutilización cualitativa, no porcentajes completados.
+
+| Tópico receptor | Impacto de T01 | Continuidad aprovechable | Pendiente específico |
+| --- | --- | --- | --- |
+| T02 | Parcial | Separación entre autor de fuente, intérprete y autorizador; IA no adquiere autoridad | Definir interpretación asistida, manejo de omisiones y revisión |
+| T03 | Sustancial | Fuente, interpretación y generación inferencial no son equivalentes; procedencia explícita | Representación y detección de incertidumbre |
+| T04 | Sustancial | Una persona responde a necesidad situada para destinatarios distintos; formula intención | Criterios de contextualización y delimitación |
+| T05 | Sustancial | Persona que formula intención supervisa su material en el alcance actual | Procedimiento de revisar, corregir o rechazar |
+| T06 | Sustancial | La misma persona formula intención y autoriza su material; no hay aprobación institucional multinivel antes del hito | Condiciones y límites de autorización situada |
+| T07 | Parcial | Autorizar no equivale a publicar ni tener titularidad | Condiciones de publicación y diferenciación de estados |
+| T08 | Parcial | Autoría diferenciada de procedencia; feedback trazable como mecanismo candidato aplazado | Trazabilidad mínima; no exigir mecanismo avanzado antes del hito |
+| T09 | Antecedente | Se distinguen aportes según objetos/versiones en propuesta candidata | Identidad y cambios de versiones |
+| T10 | Parcial | Necesidad, responsable y destinatarios pueden diferir | Continuidad al cambiar participantes |
+| T11 | Parcial | Roles no institucionales y autoridad situada delimitada | Transferencia de contexto/responsabilidad |
+| T12 | Antecedente | Retroalimentación puede originar revisión; trazabilidad avanzada aplazada | Revisión de dependencias y cambios |
+| T13 | Antecedente | Distinguir material autorizado de generación provisional | Exportación estable |
+| T14 | Antecedente | Separación fuente/intención/realización | Qué se transfiere y cómo |
+| T15 | Parcial | Autorización humana no demuestra conformidad semántica | Criterios propios de conformidad |
+| T16 | Antecedente | Autorización no equivale a calidad | Evaluación pedagógica independiente |
+| T17 | Antecedente | La responsabilidad docente no garantiza aprendizaje | Medición de comprensión y autonomía |
+| T18 | Sin avance directo | No se derivan métricas del trabajo de autoría | Medición de esfuerzo humano neto |
+| T19 | Sin avance directo | No se definieron medios ni accesibilidad | Criterios de accesibilidad y variación de medios |
+| T20 | Parcial | Contextualización por un responsable individual, sin aprobación multinivel | Adaptación; institucionalidad avanzada diferida |
+| T21 | Delimitación de alcance | Aprobación multinivel fuera del alcance previo a 31-10-2026 | Coordinación institucional sigue pendiente |
+| T22 | Parcial | Diferenciar identificación, consentimiento, derechos, privacidad y autorización; no aplazado automáticamente | Salvaguardas y bases jurídicas por contexto antes de tratar datos reales |
+| T23 | Antecedente | Autorización del material no equivale a derecho de publicación | Publicación comunitaria y permisos |
+| T24 | Sin avance directo | No se establecieron capacidades técnicas | Autoalojamiento e interoperabilidad |
+| T25 | Parcial | Declarar intervención de IA; cuatro clasificaciones provisionales y sin reglas de asignación hasta completar gradiente | Modalidades y límites de inferencia |
+| T26 | Sin avance directo | No se definió sostenibilidad | Acceso y modelo económico |
+| T27 | Antecedente | Distinción de fuentes y realizaciones podría ayudar a portabilidad | Recuperación tras cierre del servicio |
+| T28 | Sin avance directo | No se resolvió autoridad organizacional | Relación operativa con The Alive Lab |
+
+**Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
 
