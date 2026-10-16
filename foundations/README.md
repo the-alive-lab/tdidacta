@@ -9,6 +9,7 @@
 | [Enseñanza y aprendizaje](teaching-and-learning.md) | Orientación que reconoce a quien enseña y a quien aprende como participantes activos | Basado en canon vigente |
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
+| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Lectura asistida de fuentes con responsabilidad humana y separación de inferencias | Candidato |
 | [Autoría pedagógica](pedagogical-authorship.md) | Participación, tipos de contribución y autorización humana, sin roles universales | Candidato |
 | [Resolución recursiva de necesidades](../lifecycle/recursive-pedagogical-resolution.md) | Relación entre necesidad, intención, espacio, operaciones y nuevas necesidades; hipótesis entre flavors | Candidato |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
