@@ -62,7 +62,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T01 | Autoría pedagógica | Cerrado | [Autoría](../foundations/pedagogical-authorship.md) y [transparencia](../transparency/README.md); **observación: publicación pendiente de PResolver y The Alive Lab**; [trabajo posterior](../mechanisms/contribution-gradient.md) |
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
-| T04 | Contextualización pedagógica humana | Pendiente | — |
+| T04 | Contextualización pedagógica humana | Revisado | [Propuesta T04](../foundations/human-pedagogical-contextualization.md), pendiente de aprobación humana |
 | T05 | Revisión y corrección pedagógica | Pendiente | — |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
@@ -139,6 +139,20 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T04 — Contextualización pedagógica humana (2026-10-16)
+
+- **Estado:** Revisado, **no cerrado**; propuesta conceptual pendiente de aprobación humana.
+- **Problema:** la fuente o el contenido no se vuelven intención situada automáticamente; hace falta reconocer condiciones de necesidad, destinatarios, materias, tiempo, personas y límites sin imponer una plantilla.
+- **Continuidad T01:** quien formula, supervisa y autoriza responde a destinatarios que pueden ser otros, aunque cada responsabilidad se evalúa separadamente.
+- **Continuidad T02:** la interpretación desde cero y la asistida son vías disponibles; ninguna sustituye contextualización humana.
+- **Continuidad T03:** respaldo, inferencias e incertidumbre deben permanecer distinguibles cuando sean relevantes; no transferir al responsable una carga exhaustiva de clasificación.
+- **TDidacta/V6:** [necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md), [relaciones](../relationships/pedagogical-resolution-relations.md), [V6 editorial](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
+- **VSlices:** aprovechable distinguir autoridad, definición y realización; no copiar estructura de software como ley pedagógica.
+- **Salida:** [propuesta de contextualización humana](../foundations/human-pedagogical-contextualization.md), sin mecanismo técnico universal ni validación empírica.
+- **Fronteras:** T05/T06 revisión y autorización; T08/T09 procedencia y versiones; T12 cambios; T15 conformidad; T19 accesibilidad; T20 contextos institucionales; T22 privacidad.
+- **Pendiente de cierre:** aprobación del criterio proporcional de contextualización y de sus límites. La retroalimentación con todos los tópicos, incluidos T01–T03 cerrados, se ejecutará tras el cierre.
+
 
 ### Cierre de T03 y retroalimentación transversal — 2026-10-16
 
