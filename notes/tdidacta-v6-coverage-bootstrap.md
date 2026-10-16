@@ -140,6 +140,15 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 
 ## Bitácora de ejecución
 
+### Aclaración conceptual de proyección semántica — T04, 2026-10-16
+
+- **Confirmación expresa del fundador:** la proyección semántica es una **facultad común a todos los proyectos derivados de PResolver**. Se trata de una afirmación adoptada por decisión conceptual, **no de una generalidad validada empíricamente** ni de un contrato técnico adoptado por PResolver.
+- **Esquema:** semántica documentada → *encode* → representación/es intermedia/s (utilizables individual o conjuntamente) → *decode* → proyecciones especializadas por dominio. La conservación exacta, los límites y la semántica de encode/decode siguen sujetos a diseño y contraste.
+- **TDidacta:** documentación de intenciones, subdivisiones, situaciones y relaciones mediante Docs Standard; proyección a IR, idealmente una por intención, con situaciones aplicables; LLM pueden utilizar IR individual o combinada para exploraciones y realizaciones. La interpretación IA de fuentes T02 es un mecanismo diferente.
+- **Distribución conceptual propuesta:** orientación expresa compromiso de continuidad; fundamento define facultad; mecanismos realizan transformaciones especializadas; estructura define IR. Ubicación definitiva **pendiente de evaluación**. [Análisis conceptual](../foundations/semantic-projection.md).
+- **Estado y deadline:** T04 sigue en curso; permanecen sin completar las tres especificaciones comprometidas antes del 31-10-2026. No se modifican estados de otros tópicos ni se registra cierre de T04.
+
+
 ### Ampliación de T04 — decisión del fundador (2026-10-16)
 
 - **Estado:** En curso; el alcance recibió una decisión concreta que introduce **tres entregables de definición necesarios antes del deadline del 31-10-2026**. No se diseñan íntegramente en esta conversación y T04 **no queda cerrado**.
