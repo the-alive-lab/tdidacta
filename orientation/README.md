@@ -20,6 +20,10 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 **Español primero, no exclusivamente.** Las definiciones y documentación canónica se desarrollarán principalmente en español, con atención a su utilidad y accesibilidad en Latinoamérica. Podrán existir traducciones y colaboraciones en otros idiomas sin desplazar inadvertidamente la autoridad del contenido original.
 
+## Adaptación tecnológica propuesta
+
+[Orientación de continuidad semántica habilitada por tecnologías actuales](technology-enabled-semantic-continuity.md): propuesta motivada especialmente por los LLM; fundamenta la distinción entre **abstracción** y **proyección** sin imponer uso universal de IA. Su promoción general sigue pendiente.
+
 ## Continuidad
 
 [Foundations](../foundations/README.md) desarrolla las distinciones conceptuales sin convertir sus candidatos en orientaciones ya adoptadas. [Bootstrap](../bootstrap/README.md) conserva el origen histórico.
