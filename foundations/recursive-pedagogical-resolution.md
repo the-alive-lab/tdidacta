@@ -45,4 +45,4 @@ El modelo sirve para formular preguntas, comparar con artefactos de enseñanza e
 
 **No abrir una investigación duplicada** antes de revisar las líneas y estudios vigentes en [Research](https://github.com/vslices/research-space).
 
-**Relacionados:** [Necesidades e intenciones](pedagogical-needs-and-intentions.md) · [Explorar y realizar](exploration-and-realization.md) · [Espacios de posibilidades](possibility-spaces.md).
+**Relacionados:** [Necesidades e intenciones](pedagogical-needs-and-intentions.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Espacios de posibilidades](../mechanisms/possibility-spaces.md).
