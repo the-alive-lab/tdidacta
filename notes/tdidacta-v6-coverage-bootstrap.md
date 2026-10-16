@@ -64,7 +64,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
 | T05 | Revisión y corrección pedagógica | Cerrado | [Fundamento](../foundations/pedagogical-review-and-correction.md); tensión hacia T06; feedback diferido |
-| T06 | Autoridad y autorización de realizaciones | Pendiente | — |
+| T06 | Autoridad y autorización de realizaciones | En curso | [Propuesta T06](../foundations/pedagogical-authorization.md); resolver tensión de revisión proporcional heredada de T05 |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
 | T09 | Versionamiento de fuentes, intenciones y realizaciones | Pendiente | — |
@@ -139,6 +139,14 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### Inicio T06 — autorización situada y suficiencia de revisión (2026-10-16)
+
+- T06 **En curso**, no cerrado. [Propuesta](../foundations/pedagogical-authorization.md) distingue autorizar, revisar, corregir, publicar y poseer derechos.
+- **Tensión heredada de T05:** decidir suficiencia de revisión sin procedimiento universal ni revisión exhaustiva obligatoria, pero sin convertir autorización en aprobación nominal.
+- **Decisiones por resolver:** quién autoriza, qué objeto/situación/versión/alcance, relación con revisión y efectos de cambios materiales. No se adopta todavía la alternativa de autorización situada con revisión proporcional.
+- **Orden de trabajo acordado:** después de cierre conceptual de T06 y su feedback transversal, revisar carpetas de Relationships y Lifecycle a la luz de T01–T06.
+
 
 ### Cierre T05 y revisión transversal (2026-10-16)
 
