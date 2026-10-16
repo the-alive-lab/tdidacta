@@ -18,6 +18,8 @@ Una tensión explicita un problema de **satisfacer simultáneamente dos o más o
 
 - [Tensión entre continuidad semántica y carga humana](semantic-continuity-human-effort.md): preservar y reconstruir significado puede exigir un esfuerzo elevado; O2 es posible apoyo tecnológico, no polo de la tensión. **Candidata**, especialmente pertinente a F02; pendiente de contraste en sus mecanismos.
 
+- [Tensión O3/O6 — proporcionalidad de la inversión del esfuerzo](effort-inversion-proportionality.md): priorizar comprensión y documentación sin imponer carga desproporcionada. **Aplica a F03**; respuesta de mecanismos aún pendiente.
+
 ## Fronteras
 
 - **Orientations** define compromisos.
