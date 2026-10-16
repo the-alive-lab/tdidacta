@@ -4,7 +4,9 @@
 
 ## Definición candidata
 
-Un **espacio de posibilidades pedagógico** es una delimitación explícita de propósitos, condiciones, restricciones, límites y grados de libertad dentro de la cual pueden desarrollarse distintas **realizaciones** propuestas por quien enseña y **exploraciones** iniciadas por quien aprende.
+Un **espacio de posibilidades pedagógico** es el conjunto delimitado de posibilidades resultante de las condiciones, propósitos, restricciones y grados de libertad establecidos por una **intención pedagógica**. La intención expresa la respuesta de quien asume la responsabilidad de enseñar; el espacio resultante puede ser consultado o concretado por personas o por realizadores asistidos por IA.
+
+**Explorar** consiste en consultar o recorrer ese espacio para comprenderlo. **Realizar** consiste en concretar algo a partir de sus posibilidades, respetando sus límites. Las dos operaciones pueden corresponder tanto a quienes enseñan como a quienes aprenden; una realización también puede delimitar un nuevo espacio más específico.
 
 Su formulación intenta preservar orientación pedagógica **sin exigir una única experiencia ni suprimir la autonomía y curiosidad del aprendiz**.
 
@@ -32,4 +34,4 @@ Antes de proponer un estudio nuevo se debe comprobar la continuidad con la inves
 
 No se establece un mecanismo universal, formato obligatorio, sintaxis, contrato técnico de Platform ni fundamento estable. La viabilidad observada de una realización no implica superioridad pedagógica general.
 
-**Relacionados:** [Inventario de conceptos](concept-candidates.md) · [Criterios de madurez](scope-and-promotion.md).
+**Relacionados:** [Necesidades e intenciones](pedagogical-needs-and-intentions.md) · [Explorar y realizar](exploration-and-realization.md) · [Resolución recursiva](recursive-pedagogical-resolution.md) · [Criterios de madurez](scope-and-promotion.md).
