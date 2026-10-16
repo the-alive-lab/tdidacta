@@ -37,3 +37,7 @@ Los README actúan principalmente como puntos de entrada y mapas de navegación,
 - [Canon de TDidacta](../README.md).
 - [Bootstrap](../bootstrap/README.md).
 - [V6 aprobada](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
+
+## Revisión de orientaciones
+
+Este documento fija **reglas editoriales**, no representa por sí solo una capacidad pedagógica. Toda modificación sustantiva a [Orientation](../orientation/README.md) exige auditar la correspondencia de **todos los fundamentos e inventarios conceptuales** y documentar impactos, contradicciones y justificaciones. No se exige que las reglas editoriales se deriven de una orientación pedagógica.
