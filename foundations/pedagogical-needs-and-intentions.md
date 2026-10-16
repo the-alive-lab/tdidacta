@@ -66,3 +66,16 @@ No son ejes métricos obligatorios ni un inventario exhaustivo. La coherencia te
 - La responsabilidad de aprender no queda absorbida por quien formula la intención.
 
 **Relacionados:** [Espacios de posibilidades](../mechanisms/possibility-spaces.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
+
+## Trazabilidad hacia las orientaciones vigentes
+
+La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
+
+| Orientación | Relación con este fundamento |
+| --- | --- |
+| [Orientación principal](../orientation/README.md) | Fundar la enseñanza y exploración en necesidades y propósitos comprensibles. |
+| [Continuidad semántica](../orientation/semantic-continuity.md) | Reconocer motivos y límites a través de las escalas. |
+| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | No es requisito constitutivo; pueden utilizarse herramientas de apoyo. |
+| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Explicitar intenciones puede ampliar agencia, pero su costo debe evaluarse. |
+
+**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
