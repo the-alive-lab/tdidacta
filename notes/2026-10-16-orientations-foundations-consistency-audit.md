@@ -52,3 +52,13 @@ Se evalúa **justificación**, no deducción lógica exclusiva. Una orientación
 ## Fuentes verificadas
 
 [Orientation](../orientation/README.md) · [Continuidad](../orientation/semantic-continuity.md) · [Tecnologías](../orientation/technology-enabled-semantic-continuity.md) · [Carga y capacidad](../orientation/human-effort-and-agency.md) · [Foundations](../foundations/README.md) · los fundamentos individualizados en la matriz.
+
+## Decisión posterior del fundador y tratamiento aplicado (2026-10-16)
+
+- La **orientación principal es transversal a todos los fundamentos**; no es un elemento opcional en la matriz.
+- Se añadió una **tabla de cuatro filas de trazabilidad** a cada uno de los nueve fundamentos conceptuales individualizados: principal, continuidad, tecnologías, carga/capacidad. Las filas explican contribuciones concretas, sin presuponer dependencias iguales.
+- Se distinguieron los documentos especiales del índice: enseñanza/aprendizaje desarrolla orientación, inventario agrupa múltiples candidatos y alcance/promoción rige la edición; no son fundamentos unitarios a los que deba imponerse artificialmente la misma tabla.
+- **Regla de integridad vigente para esta etapa:** toda nueva orientación o cambio sustantivo de una existente dispara revisión de **todos** los fundamentos y entradas del inventario, incluidos los casos en que la revisión concluye sin cambios.
+- Se actualizó el índice de Foundations para reflejar T06 cerrado. Este tratamiento corrige trazabilidad, **no** determina que toda relación de orientación sea exhaustiva ni crea nuevas orientaciones, fundamentos o validaciones empíricas.
+
+**Estado de esta auditoría:** primera aplicación de trazabilidad documental ejecutada; siguen abiertas las preguntas de suficiencia explicativa de autoría y autoridad, sin promover una orientación adicional. No se avanzó todavía a Mechanics o Relationships.
