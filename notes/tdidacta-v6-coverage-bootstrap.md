@@ -63,7 +63,7 @@ Marcar el estado de cada ítem cuando exista un registro mínimo verificable. No
 | T02 | Interpretación asistida de fuentes educativas | Cerrado | [Delimitación aprobada](../foundations/assisted-source-interpretation.md): complementa interpretación desde cero; no requiere mecanismo técnico universal |
 | T03 | Diferenciación entre fuentes, inferencias de IA e incertidumbre | Cerrado | [Fundamento](../foundations/source-inference-uncertainty.md) y [clasificación de evidencia](../mechanisms/evidence-classification.md); validación de carga diferida |
 | T04 | Contextualización pedagógica humana | Cerrado | [Fundamento T04](../foundations/human-pedagogical-contextualization.md); pendientes independientes antes del 31-10-2026: [Docs Standard](../mechanisms/pedagogical-intent-documentation.md), [abstracción](../mechanisms/document-to-intermediate-projection.md), [IR Specification](../products/ir-specification/README.md) |
-| T05 | Revisión y corrección pedagógica | Revisado | [Fundamento candidato](../foundations/pedagogical-review-and-correction.md) y [mecanismo candidato](../mechanisms/pedagogical-review-and-correction.md); pendiente aprobación humana |
+| T05 | Revisión y corrección pedagógica | Revisado | [Fundamento](../foundations/pedagogical-review-and-correction.md), [revisión](../mechanisms/pedagogical-review-and-correction.md), [generación de feedback](../mechanisms/feedback-generation.md), [trazabilidad](../mechanisms/feedback-traceability.md); [apoyo](../mechanisms/pedagogical-review-assistance.md) diferido; cierre pendiente |
 | T06 | Autoridad y autorización de realizaciones | Pendiente | — |
 | T07 | Publicación de realizaciones pedagógicas | Pendiente | — |
 | T08 | Procedencia y trazabilidad pedagógica | Pendiente | — |
@@ -139,6 +139,15 @@ Para cada cierre, consignar: tópico origen, fecha, tabla de tópicos receptores
 **Procedimiento al retomar uno de estos tópicos:** consultar primero esta fila y sus fuentes de T01, verificar vigencia, y luego estudiar únicamente las brechas restantes. La evidencia de T01 puede reducir reconstrucción, pero no sustituye la evaluación propia del tópico.
 
 ## Bitácora de ejecución
+
+### T05 — ampliación de mecanismos y orientación humana (2026-10-16)
+
+- **Decisión del fundador:** conservar como **candidatos distinguibles** [revisión y corrección](../mechanisms/pedagogical-review-and-correction.md), [generación de feedback](../mechanisms/feedback-generation.md) y [trazabilidad de feedback](../mechanisms/feedback-traceability.md). El mecanismo de revisión posee delimitación suficiente para estado candidato; no significa implementación o validación.
+- **Trazabilidad:** mecanismo ya existente desde T01, **reutilizado y ampliado**, no duplicado. Puede diseñarse con automatización **parcial o completa**; tales vínculos y causalidad no quedan automáticamente confirmados. Su implementación avanzada se mantiene diferida conforme a T01.
+- **Mecanismo separado de apoyo a revisión:** [reservado](../mechanisms/pedagogical-review-assistance.md) para **después de publicación de PResolver**; no se suma como requisito para el 31-10-2026.
+- **Orientación propuesta:** [reducir carga humana y/o ampliar capacidad de acción](../orientation/human-effort-and-agency.md). Son metas **independientes, no necesariamente simultáneas**. Conecta preocupación de T03 con T18 y mecanismos de T05, sin presumir eficacia.
+- **Seguimiento:** T05 continúa **Revisado**, no cerrado. Pendiente decisión de cierre y, tras ella, retroalimentación transversal de los otros 27 tópicos incluidos T01–T04. No se modifican sus estados.
+
 
 ### T05 — Revisión y corrección pedagógica (2026-10-16)
 
