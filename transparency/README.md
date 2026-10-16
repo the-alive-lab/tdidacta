@@ -10,14 +10,24 @@ No presupone que deba existir un producto «Transparencia» ni una implementaci�
 
 ## Clasificación visible de recursos del servicio
 
-**Requisito de producto solicitado por el fundador (por especificar):** toda planificación, unidad, clase y actividad generada mediante el servicio de TDidacta debe acompañarse de una clasificación explícita y comprensible de su proceso de autoría/contribución, por transparencia.
+**Enfoque actual delimitado por el fundador (2026-10-16):** distinguir recursos elaborados completamente por humanos de aquellos cuya elaboración contó con asistencia o generación mediante IA; **no** clasificar todavía toda la complejidad de autoría y contribuciones.
 
-- La clasificación global del recurso **no reemplaza** las contribuciones diferenciadas por objeto o actor.
-- El [gradiente multidimensional](../mechanisms/contribution-gradient.md) informa la evaluación de aportes; no establece aún categorías finales, cálculos o umbrales.
-- Cuando se desconozca el aporte de sistemas inferenciales, el servicio debe poder mostrar **declarado/no verificado** o **desconocido**, en lugar de prometer trazabilidad inexistente.
-- Una etiqueta no debe implicar revisión humana, exactitud, calidad pedagógica, licenciamiento o aprendizaje demostrado.
+Se mantienen **únicamente cuatro denominaciones de trabajo**:
 
-**Pendiente:** diseñar terminología pública, alcance de obligación en exportaciones y reutilizaciones, qué evidencia acompaña la etiqueta y cómo corregirla.
+| Clasificación provisional | Sentido inicial |
+| --- | --- |
+| **Elaboración humana** | Recurso elaborado completamente por humanos, sin asistencia de IA en su elaboración. |
+| **Elaboración asistida** | Recurso elaborado por humanos con asistencia de IA. |
+| **Transformación asistida** | Recurso preexistente modificado o adaptado con asistencia de IA. |
+| **Generación supervisada** | Recurso generado mediante IA, sujeto a supervisión y autorización humana según el alcance de su uso. |
+
+Estos nombres **no constituyen una taxonomía definitiva**. Su posible solapamiento, criterios de asignación y relación con aportes individuales quedan expresamente sin resolver. No añadir categorías, subclases, etiquetas compuestas, puntuaciones o reglas de cálculo en esta etapa.
+
+**Intención de producto preservada:** planificaciones, unidades, clases y actividades generadas mediante el servicio de TDidacta deben exhibir su clasificación de manera transparente. La definición final y su implementación permanecen pendientes.
+
+**Condición para continuar la formalización de la clasificación:** completar primero la definición del [gradiente multidimensional de contribución](../mechanisms/contribution-gradient.md). Hasta entonces, no derivar etiquetas automáticamente ni fijar umbrales, prevalencias o criterios de acreditación. El gradiente puede permitir ampliaciones futuras, pero estas **no forman parte del enfoque actual**.
+
+La clasificación debe distinguirse del consentimiento, de los derechos sobre los materiales y de la autorización humana de conocimiento: una etiqueta no prueba esas condiciones.
 
 ## Atribución, identificación y anonimato
 
