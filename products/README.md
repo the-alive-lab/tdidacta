@@ -4,7 +4,9 @@
 
 TDidacta contempla provisionalmente la familia **Method, Design, Docs Standard, Framework y Platform**. Que esta división aparezca en otros flavors de PResolver no demuestra que sea correcta o estable para TDidacta.
 
-**Delimitación específica aprobada en T04:** TDidacta Docs Standard es responsable de documentar intenciones pedagógicas y sus **situaciones válidas** mediante el [mecanismo documental](../mechanisms/pedagogical-intent-documentation.md). Esto **no valida automáticamente** la factorización completa de productos de PResolver. La [proyección documental](../mechanisms/document-to-intermediate-projection.md) y la [representación intermedia](../structures/tdidacta-intermediate-representation.md) tienen responsabilidades diferenciadas, pendientes de especificación antes del 31-10-2026.
+**Delimitación específica aprobada en T04:** TDidacta Docs Standard es responsable de documentar intenciones pedagógicas y sus **situaciones válidas** mediante el [mecanismo documental](../mechanisms/pedagogical-intent-documentation.md). Esto **no valida automáticamente** la factorización completa de productos de PResolver. La [abstracción documental](../mechanisms/document-to-intermediate-projection.md) y [TDidacta IR Specification](ir-specification/README.md) tienen responsabilidades diferenciadas, pendientes de especificación antes del 31-10-2026.
+
+La superficie de producto [**TDidacta IR Specification**](ir-specification/README.md) es el destino propuesto para la especificación de la representación intermedia; no se deriva automáticamente de una obligación de copiar la organización de VSlices.
 
 También permanecen abiertas preguntas sobre:
 - propiedad y formulación de la intención pedagógica;
