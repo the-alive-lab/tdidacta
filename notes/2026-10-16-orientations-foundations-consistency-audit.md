@@ -145,3 +145,10 @@ Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo human
 - [F05 — Proyección semántica](../foundations/semantic-projection.md) reformulado como relación IR→exploraciones/realizaciones; exploración comprueba propiedades específicas del espacio de una intención; realización concreta elementos de alcance menor o igual, incluidos candidatos a intenciones posteriores. Apoyo al aprendizaje directo distinguido.
 - Clasificación aprobada: O1/O2 **orígenes**; O0/O3/O6 **condiciones**; O4/O5 **sin incidencia**. Tensiones O1/O3 y O3/O6 aplicables.
 - Se evitó repetir la explicación de trayectorias/intenciones candidatas en una sección adicional: figura una sola vez en Realización. Mecanismos y pruebas pendientes; auditoría de fundamentos siguientes abierta.
+
+## F06 reconciliado y cerrado (2026-10-16)
+
+- [F06 — Revisión y corrección pedagógica](../foundations/pedagogical-review-and-correction.md): definición reorganizada, objetos y resultados revisables, responsabilidad humana, revisión proporcional, **circunstancias para considerar revisión** (no disparadores automáticos), fronteras, nota específica y límites. Cierre conceptual aprobado por fundador; mecanismos y eficacia pendientes.
+- Clasificaciones F06 aprobadas: **O1 origen; O2 complemento; O0/O3/O4/O5/O6 condiciones**. O4 refiere a autorización humana de adoptar correcciones materiales, no a exigir autorización previa para cada inspección.
+- Tensiones aplicables: O1/O3 y O3/O6 existentes; [O4/O3](../tensions/human-authorization-review-burden.md) candidata registrada por decisión del fundador, transversal cuando O4 sea condición y O3 tenga incidencia material. No declaradas resueltas.
+- F01–F06 reconciliados; siguientes fundamentos aún abiertos. No se avanzó a mecanismos o relaciones.
