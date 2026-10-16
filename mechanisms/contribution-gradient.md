@@ -2,6 +2,10 @@
 
 **Estado:** candidate. Reformulación T01 (2026-10-16). No es algoritmo, métrica ni clasificación validada.
 
+## Estado de ejecución y aplazamiento
+
+**Propuesta de investigación diferida hasta después de la entrega formal de PResolver del 31-10-2026 (decisión del fundador, 2026-10-16).** Se conserva esta formulación candidata como antecedente, sin establecer un requisito de implementación, validación o formalización para la entrega. El alcance vigente de TDidacta está descrito en [Autoría pedagógica](../foundations/pedagogical-authorship.md). Privacidad y protección de datos no se aplazan por esta decisión.
+
 ## Problema y unidad de evaluación
 
 Una realización pedagógica puede depender de múltiples aportes en **fuentes, intenciones, decisiones, realizaciones y actividades compartidas**. El volumen textual no representa adecuadamente la influencia de cada aporte.
