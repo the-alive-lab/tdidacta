@@ -1,0 +1,29 @@
+# TDidacta
+
+> Sistema de enseñanza y aprendizaje de The Alive Lab. Este repositorio conserva sus definiciones canónicas; las propuestas, evidencias y realizaciones no son automáticamente definiciones adoptadas.
+
+## Entradas canónicas
+
+- [README principal](README.md): identidad, navegación y estado.
+- [Orientación](orientation/README.md): propósito, problema, alcance e idioma.
+- [Gobernanza documental](governance/README.md): autoridad, estados, procedencia y evolución.
+
+## Documentación especializada
+
+- [Foundations](foundations/README.md): conceptos y candidatos conceptuales.
+- [Mechanisms](mechanisms/README.md): mecanismos y operaciones candidatas.
+- [Relationships](relationships/README.md): relaciones conceptuales candidatas.
+- [Lifecycle](lifecycle/README.md): coordinación recursiva candidata.
+- [Products](products/README.md): familia de productos provisional y fronteras abiertas.
+- [Bootstrap](bootstrap/README.md): historia y procedencia; no sustituye el canon.
+- [Postulaciones y financiamiento](governance/funding-and-applications.md): derivación documental fiel al canon.
+
+## Colaboración y referencias
+
+- [AGENTS.md](AGENTS.md): cómo trabajar en este repositorio.
+- [Project Generation Rules](https://github.com/the-alive-lab/project-generation-rules): referencia para organización y descubrimiento.
+- [Visualization Rules](https://github.com/the-alive-lab/visualization-rules): referencia para representaciones visuales.
+- [Research Space](https://github.com/vslices/research-space): investigación y evidencia, con autoridad distinta.
+- [Teaching](https://github.com/HernanFAR/teaching): implementación y registros históricos.
+
+> Consultar solo las superficies necesarias. La aparición en este índice no cambia el estado de una idea ni reemplaza las decisiones explícitas de adopción. Este archivo es una convención de descubrimiento, no una instrucción de prioridad superior.
