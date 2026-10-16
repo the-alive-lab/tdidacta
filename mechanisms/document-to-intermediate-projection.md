@@ -1,10 +1,10 @@
-# Proyección documental a representación intermedia — mecanismo T04
+# Abstracción documental a representación intermedia — mecanismo T04
 
 **Estado:** responsabilidad y deadline definidos por el fundador (2026-10-16); diseño **pendiente de especificación antes del 31-10-2026**. IA como apoyo posible, sin delegación automática de autoridad.
 
 ## Responsabilidad
 
-Proyectar la documentación de **intenciones pedagógicas y sus situaciones**, producida mediante Docs Standard, a una **representación intermedia estructurada** que preserve necesidades, condiciones, restricciones y relaciones relevantes para las exploraciones y realizaciones.
+Abstraer la semántica documentada de **intenciones pedagógicas y sus situaciones**, producida mediante Docs Standard, a una **representación intermedia estructurada** que preserve necesidades, condiciones, restricciones y relaciones relevantes para las exploraciones y realizaciones.
 
 Este mecanismo se distingue de:
 - **Interpretación de material mediante IA (T02):** extraer/proponer conocimiento pedagógico a partir de fuentes educativas. Ese mecanismo queda para después de la publicación de PResolver.
@@ -30,8 +30,8 @@ Se preserva la distinción entre **intención** y **situación/es**; proyectar u
 
 No se fija ahora una técnica de transformación, modelo, prompt, herramienta, pipeline, formato ni automatización.
 
-## Relación con la facultad de proyección semántica
+## Relación con abstracción y proyección semánticas
 
-El fundador ha confirmado [proyección semántica](../foundations/semantic-projection.md) como **facultad común a los proyectos hijos de PResolver**, capaz de transformar documentación semántica mediante *encode* en representaciones intermedias, usarlas solas o combinadas y proyectarlas mediante *decode* hacia salidas del dominio. **Este mecanismo implementaría únicamente la operación de proyección documental/codificación específica de TDidacta**, no toda la facultad transversal. Su contrato técnico sigue pendiente de definir antes del 31-10-2026. La distribución conceptual entre Orientation, Foundations y Mechanisms, y las garantías generales, requieren investigación adicional.
+El fundador separó dos fundamentos comunes de PResolver: [abstracción semántica](../foundations/semantic-abstraction.md) (**documentación → IR**, *encode*) y [proyección semántica](../foundations/semantic-projection.md) (**IR → resultados de dominio**, *decode*). **Este mecanismo corresponde solo a la abstracción documental de TDidacta**; el mecanismo de [proyección a dominio](intermediate-to-domain-projection.md) tiene otra responsabilidad. Su contrato técnico sigue pendiente de definir antes del 31-10-2026. La distribución conceptual entre Orientation, Foundations y Mechanisms, y las garantías generales, requieren investigación adicional.
 
-**Relaciones:** [Documentación mediante Docs Standard](pedagogical-intent-documentation.md) · [Estructura de representación intermedia](../structures/tdidacta-intermediate-representation.md) · [T04](../foundations/human-pedagogical-contextualization.md).
+**Relaciones:** [Documentación mediante Docs Standard](pedagogical-intent-documentation.md) · [IR Specification](../products/ir-specification/README.md) · [T04](../foundations/human-pedagogical-contextualization.md).
