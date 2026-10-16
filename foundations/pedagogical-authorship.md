@@ -37,6 +37,14 @@ Son **casos analíticos**, no evidencia de uso validado.
 
 Cuando resulte material para comprender o revisar un trabajo, podría ser útil poder responder: **qué aportó quién o qué sistema, sobre qué fuente, en qué contexto y qué parte sigue siendo interpretación o propuesta**. La granularidad de ese registro debe ser proporcional; no se propone formulario, bitácora exhaustiva ni formato TDIR obligatorio.
 
+## Precisión del fundador — tipos de contribución y autorización
+
+Se reconocen como **conceptos candidatos de Foundations** cuatro formas de contribuir: **crear** (generar), **editar** (modificar un contenido), **mediar** (apoyar conceptualmente sin creación o edición inmediata) y **retroalimentar** (feedback de cualquier participante que, cuando origina un cambio trazable, merece reconocimiento). Son tipos de aporte, no escalas numéricas ni atribución legal automática.
+
+La **autorización humana** es otra distinción fundamental: una persona humana responsable y competente según contexto debe autorizar el conocimiento que TDidacta presenta como revisado o pedagógicamente apto, independientemente de su origen. Autorizar no equivale a crear, no garantiza verdad o aprendizaje y no obliga a aprobar previamente toda exploración provisional. La competencia y procedimiento específicos quedan abiertos (T05/T06).
+
+El [gradiente multidimensional](../mechanisms/contribution-gradient.md) y la [trazabilidad de feedback general](../mechanisms/feedback-traceability.md) desarrollan mecanismos candidatos. [Transparencia](../transparency/README.md) reúne obligaciones candidatas de clasificación de recursos del servicio, identificación pública, consentimiento y reutilización.
+
 ## Fronteras abiertas
 
 - ¿Qué aportes merecen reconocimiento de autoría frente a una contribución menor, edición o mediación?
