@@ -53,6 +53,8 @@ No existen aquí resultados de validación empírica, ni se presume extracción 
 - **VSlices (analogía, no adopción):** la separación entre autoridad semántica, uso y realización es útil; no se importan esquemas de ingeniería ni relaciones técnicas como norma pedagógica.
 - **Research / V6:** [maestro editorial de preservación](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md) documenta entradas manuales y asistidas, fuentes con derechos aclarados, extracción/organización candidata, omisiones visibles y supervisión humana. Es antecedente editorial, no validación experimental.
 
-## Decisiones pendientes para cierre
+## Desarrollo posterior a la publicación de PResolver
 
-Determinar si esta delimitación es suficiente para el alcance de entrega de PResolver del 31-10-2026; qué mínima información de origen y de distinción inferencial debe conservarse al usar IA; y si se necesita una realización técnica en la fecha de entrega. No convertir estos pendientes en obligación de roles institucionales, gradiente de contribución ni evaluación pedagógica general.
+**Decisión expresa del fundador (2026-10-16):** el **mecanismo detallado mediante el cual una IA interpreta una fuente educativa** queda pendiente de definir para una versión **posterior a la publicación de PResolver**. Esto incluye el procedimiento interno, controles, estructura técnica y criterios específicos de operación o evaluación del mecanismo, sin anticipar aquí su diseño. El recorrido conceptual de esta nota es orientativo y no constituye ese mecanismo implementado.
+
+**No altera el cierre de T02:** ya está aceptada la responsabilidad de interpretar fuentes mediante asistencia supervisada como complemento de la interpretación desde cero. Los desarrollos conceptuales propios de T03 (inferencias e incertidumbre), T08 (procedencia) y T25 (modalidades de inferencia) conservan sus límites y no se dan por resueltos ni se aplazan automáticamente por esta decisión.
