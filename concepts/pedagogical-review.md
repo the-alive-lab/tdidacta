@@ -4,11 +4,11 @@
 
 ## Definición acumulativa hasta F06 (propuesta)
 
-Examen crítico, situado y proporcional de elementos pedagógicos —incluidas intenciones, circunstancias, documentación, representaciones y realizaciones— para identificar errores, omisiones, contradicciones, insuficiencias, incertidumbres o desviaciones relevantes. Puede concluir en conservación razonada, solicitud de comprobación, propuesta de corrección, rechazo o cuestión abierta. Revisar no obliga a cambiar ni equivale a autorizar.
+Examen crítico, situado y proporcional de elementos pedagógicos —incluidas intenciones, circunstancias, documentación, representaciones y realizaciones— para identificar errores, omisiones, contradicciones, insuficiencias, incertidumbres o desviaciones relevantes. Puede concluir en conservación razonada, solicitud de comprobación, propuesta de corrección, rechazo o cuestión abierta. Revisar no obliga a cambiar ni equivale a autorizar. **La proporcionalidad es parte del propio concepto de revisión:** su profundidad, alcance y esfuerzo deben ajustarse a relevancia, incertidumbre, cambios, riesgos y consecuencias. No supone controles mínimos en toda situación: evita tanto exhaustividad injustificada como omitir verificaciones materialmente necesarias.
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte de F06:** establece el examen crítico y sus posibles decisiones, sin procedimiento universal.
+**Aporte de F06:** establece el examen crítico, sus posibles decisiones y el criterio integrado de proporcionalidad; distingue considerar una revisión de ejecutarla, sin procedimiento universal.
 
 | Orientación incidente | Relación propuesta | Incidencia por F06 |
 | --- | --- | --- |
@@ -24,4 +24,4 @@ Examen crítico, situado y proporcional de elementos pedagógicos —incluidas i
 
 ## Fronteras
 
-No implica garantía de calidad, detección exhaustiva ni aprobación formal. Relacionado con [corrección](pedagogical-correction.md).
+No implica garantía de calidad, detección exhaustiva ni aprobación formal. La proporcionalidad no constituye un concepto autónomo ni un checklist obligatorio. Relacionado con [corrección](pedagogical-correction.md).
