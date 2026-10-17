@@ -30,6 +30,18 @@ Para cada Fₙ:
 - **Investigación distinta de canon**: no inferir que IR supera a prosa o que la asistencia reduce esfuerzo sin evidencia. Reutilizar trabajos existentes, especialmente [PIR-STU-001](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/studies/stu-001-cross-realizer-semantic-conformance.md), antes de proponer otro estudio.
 - **Contexto y evolución**: una orientación nueva no reabre automáticamente todas las decisiones antiguas; sí exige verificar su incidencia. Conservar la procedencia T01–T06 cuando el texto actual se reorganice.
 
+## Formato de entrega para cada nuevo fundamento
+
+Antes de solicitar aprobación y avanzar al siguiente fundamento, presentar una revisión en este orden:
+
+1. **Enlaces:** vínculo directo al fundamento, a cada concepto propuesto o actualizado y a los índices pertinentes.
+2. **Orientaciones O0–O10 propuestas:** tabla por orientación con clasificación (Origen, Complemento, Condición, Incidencia marginal o Sin incidencia), relación con el fundamento y justificación específica. Diferenciar propuestas de clasificaciones ya reconciliadas.
+3. **Conceptos nuevos propuestos:** por cada concepto, vínculo, definición propuesta, aporte del fundamento y tabla individual de orientaciones que lo afectan mediante ese fundamento, explicando para cada una cómo y por qué. No copiar indiscriminadamente O→F.
+4. **Conceptos existentes actualizados:** por cada concepto, vínculo, cambio en su única definición canónica acumulativa, aporte de la nueva capa y tabla individual de orientaciones incidentes con su efecto y justificación. Preservar capas históricas.
+5. **Decisión pendiente:** resumen explícito de propuestas a aprobar, tensiones, incertidumbres y fronteras. No confundir propuesta con reconciliación.
+
+Presentar **conceptos nuevos y conceptos actualizados en apartados distintos**. Si alguno está vacío, indicarlo. Las tablas O→C deben corresponder a cada concepto, no a una matriz global que oculte diferencias. Este formato es obligatorio para futuras entregas y se aplica antes del cierre de cada fundamento.
+
 ## Inventario de avance — 2026-10-17
 
 «Reconciliado» se refiere a aprobación conceptual registrada, **no** implementación ni validación de eficacia. Los estados pueden ser parciales por fundamento, orientación o capa.
