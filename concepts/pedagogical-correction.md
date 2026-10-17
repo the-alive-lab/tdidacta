@@ -4,11 +4,11 @@
 
 ## Definición acumulativa hasta F06 (propuesta)
 
-Decisión de modificar o solicitar modificar un elemento pedagógico a partir de problemas relevantes identificados en revisión, con alcance proporcional a sus consecuencias. Puede ser localizada o requerir reconsideración de elementos dependientes. Puede contar con ejecución técnica asistida; adoptar cambios materiales debe respetar la autorización humana pertinente. No modifica silenciosamente la intención de origen.
+Decisión de modificar o solicitar modificar un elemento pedagógico a partir de problemas relevantes identificados en revisión, con alcance proporcional a sus consecuencias. Puede ser localizada o requerir reconsideración de elementos dependientes. Puede contar con ejecución técnica asistida; adoptar cambios materiales debe respetar la autorización humana pertinente. Si una intención deja de responder adecuadamente a la necesidad actual, la corrección ajusta lo pertinente y da lugar a **una nueva revisión de adecuación**, repetible mientras persistan discrepancias relevantes. No modifica silenciosamente la intención de origen ni exige corregirla si sigue respondiendo correctamente.
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte de F06:** separa el examen crítico de la intervención correctiva y preserva alcance, impacto y responsabilidad humana.
+**Aporte de F06:** conecta la intervención correctiva con la reevaluación iterativa de la adecuación entre necesidad e intención, y separa el examen crítico de la intervención correctiva y preserva alcance, impacto y responsabilidad humana.
 
 | Orientación incidente | Relación propuesta | Incidencia por F06 |
 | --- | --- | --- |
