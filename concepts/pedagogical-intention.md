@@ -1,6 +1,6 @@
 # Intención pedagógica
 
-**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aportes de F03 y F06 propuestos, pendientes de reconciliación. Las capas conservan su trazabilidad independiente.
+**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 pendiente de reconciliación y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
 
 ## Definición canónica acumulativa hasta F06
 
@@ -48,14 +48,14 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La documentación y revisión han de ser proporcionales. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Formular y documentar no equivale a autorizar. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Prioriza claridad de intención frente a producción repetitiva. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Los detalles de personas que informan la formulación deben minimizar datos personales. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las alternativas de aplicación deben considerar uso directo e indirecto cuando sean relevantes. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Los detalles de personas que informan la formulación deben minimizar datos personales. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las alternativas de aplicación deben considerar uso directo e indirecto cuando sean relevantes. |
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte propuesto de F06:** la intención debe poder reevaluarse ante cambios externos pertinentes en la necesidad vinculada o sus circunstancias, corrigiéndose iterativamente si deja de responder adecuadamente. No todo cambio requiere corregir y las realizaciones no la modifican silenciosamente.
+**Aporte de F06:** la intención debe poder reevaluarse ante cambios externos pertinentes en la necesidad vinculada o sus circunstancias, corrigiéndose iterativamente si deja de responder adecuadamente. No todo cambio requiere corregir y las realizaciones no la modifican silenciosamente.
 
-| Orientación incidente | Clasificación propuesta | Incidencia mediante F06 |
+| Orientación incidente | Clasificación reconciliada | Incidencia mediante F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | Contrastar pertinencia con necesidades educativas. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Examinar coherencia de motivos y restricciones. |
@@ -63,8 +63,8 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Cambios materiales requieren respetar autorización humana. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Reconocer aportes o feedback significativos que motivan revisiones. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Evitar revisar repetitivamente sin beneficio. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Revisar intenciones contextualizadas no autoriza recopilar datos personales superfluos. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Revisar restricciones de aplicabilidad ante barreras de acceso relevantes. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Revisar intenciones contextualizadas no autoriza recopilar datos personales superfluos. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Revisar restricciones de aplicabilidad ante barreras de acceso relevantes. |
 
 ## Fronteras y continuidad
 
