@@ -1,6 +1,6 @@
 # Espacio de posibilidades pedagógico
 
-**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C propuestas, pendientes de reconciliación humana. No altera el canon de F02.
+**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C reconciliadas por el fundador (2026-10-17). No altera el canon de F02.
 
 ## Definición canónica hasta F02
 
@@ -16,7 +16,7 @@ Las materias, el tiempo y las personas pueden informar la intención, **sin conv
 
 **Cómo afecta F02 al concepto:** Define la relación conceptual entre intención y espacio delimitado; no convierte la exploración o realización en procedimiento obligatorio.
 
-**Orientaciones que inciden en esta capa de F02 (evaluación O→C propuesta):**
+**Orientaciones que inciden en esta capa de F02 (reconciliadas):**
 
 | Orientación de F02 | Clasificación sobre este concepto | Justificación |
 | --- | --- | --- |
@@ -26,10 +26,11 @@ Las materias, el tiempo y las personas pueden informar la intención, **sin conv
 | [O3 — Carga y capacidad](../orientation/human-effort-and-agency.md) | **Condición** | La exploración excesiva puede elevar trabajo humano; la viabilidad debe ponderarse. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Incidencia marginal** | Autorización de una intención no aprueba automáticamente todos los resultados posibles. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Incidencia marginal** | La exploración asistida puede ahorrar producción repetitiva, sin definir el espacio. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Sin modificar la definición semántica del espacio, exige examinar si las capacidades que lo aprovechan pueden responder a restricciones severas de acceso, de forma directa o indirecta; por ejemplo, preparando materiales con TDidacta para luego imprimirlos y utilizarlos sin la plataforma. Esta posibilidad requiere contraste efectivo y no se presume garantizada. |
 
 Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la capa. La relación O→C no se hereda automáticamente de O→F.
 
-**Pendiente:** reconciliar O7–O10 con F02 para incorporar únicamente las que efectivamente incidan en el concepto *a través de F02*. No anticipar su clasificación; el estado de esta capa no equivale a aprobación humana de sus relaciones O→C.
+**Revisión O7–O10 cerrada:** se incluyen solamente las orientaciones con incidencia en este concepto a través de F02.
 
 **Capas futuras:** si otro fundamento afecta al mismo concepto, añadir una **capa independiente de ese fundamento y de sus orientaciones incidentes**. No mezclar las orientaciones de distintos fundamentos ni duplicar la definición canónica.
 
