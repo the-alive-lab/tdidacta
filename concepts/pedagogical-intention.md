@@ -1,6 +1,6 @@
 # Intención pedagógica
 
-**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 pendiente de reconciliación y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
+**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 reconciliado (2026-10-17) y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
 
 ## Definición canónica acumulativa hasta F06
 
@@ -40,7 +40,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 **Aporte de F03:** la intención es formulada e interpretada por responsabilidad humana en un contexto, con razones y restricciones documentadas proporcionalmente, pudiendo emplearse bajo circunstancias distintas sin redefinirse completamente.
 
-| Orientación incidente | Relación propuesta | Incidencia a través de F03 |
+| Orientación incidente | Relación reconciliada | Incidencia a través de F03 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Origen** | Orienta respuestas a problemas situados. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Sus motivos y restricciones relevantes han de ser reconstruibles. |
