@@ -1,6 +1,6 @@
 # Necesidad pedagógica
 
-**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aportes F03 y F06 propuestos, pendientes de reconciliación. Las capas conservan su trazabilidad independiente.
+**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 pendiente de reconciliación y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
 
 ## Definición canónica acumulativa hasta F06
 
@@ -45,7 +45,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 | [O1](../orientation/semantic-continuity.md) | **Condición** | Conserva razones relevantes de la necesidad al formular respuestas. |
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La explicitud requerida es proporcional al problema. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Prioriza comprender la necesidad antes de producir materiales. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las barreras de acceso pueden ser parte material del problema que se debe reconocer para responder adecuadamente. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las barreras de acceso pueden ser parte material del problema que se debe reconocer para responder adecuadamente. |
 
 ## Capa F06 — Revisión y corrección pedagógica
 
@@ -58,7 +58,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La reconsideración debe ser proporcional a la importancia del cambio. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Los cambios materiales posteriores en la intención respetan autoridad humana. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Evita reabrir trabajo sin cambios relevantes. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Cambios en acceso material o indirecto pueden alterar necesidades de aplicación. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Cambios en acceso material o indirecto pueden alterar necesidades de aplicación. |
 
 ## Fronteras y continuidad
 
