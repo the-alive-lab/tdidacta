@@ -1,117 +1,47 @@
 # F01 — Enseñanza y aprendizaje
 
-**Estado:** fundamento conceptual reconciliado con orientaciones por aprobación del fundador (2026-10-16). No es una teoría universal ni una validación de eficacia.
+**Estado:** fundamento conceptual reconciliado con O0–O10 por aprobación del fundador (2026-10-17). Reorganización editorial: las definiciones de sus conceptos están en Concepts. No constituye teoría universal ni validación de eficacia.
 
 ## 1. Origen y propósito
 
-TDidacta parte de comprender la enseñanza y el aprendizaje como experiencias que favorecen la exploración, la experimentación y el desarrollo de la comprensión.
+F01 nace de **O0 — Orientación principal** y establece **cómo interpreta TDidacta la problemática de enseñar y aprender**, antes de definir capacidades, tecnologías o procesos para abordarla.
 
-Este fundamento nace de la **orientación principal de TDidacta (O0)** y establece cómo interpretamos la problemática pedagógica que pretendemos abordar.
+Su responsabilidad no es prescribir una técnica didáctica ni definir un sistema informático, sino sostener una comprensión del problema en la que las experiencias educativas puedan favorecer la exploración, experimentación y comprensión, y no se reduzcan a la circulación de contenidos.
 
-Enseñar no equivale únicamente a transmitir o publicar contenidos; aprender no equivale únicamente a recibirlos.
+## 2. Responsabilidad y relaciones del fundamento
 
-Ambas actividades pueden ocurrir fuera de instituciones educativas, sin docentes profesionales presentes y mediante experiencias que no dependen necesariamente de medios digitales.
+- **Participación activa de ambas perspectivas:** enseñar y aprender no se reducen respectivamente a transmitir y recibir; las contribuciones de quienes participan pueden diferir sin imponer una jerarquía universal.
+- **Perspectivas no necesariamente separadas:** las funciones de enseñar y aprender pueden coincidir en una misma persona, como ocurre en experiencias autodidactas.
+- **Experiencias abiertas:** una orientación o intención previa puede favorecer la experiencia sin determinar exhaustivamente el recorrido o sus resultados.
+- **Interpretación semántica de la experiencia:** O1 condiciona que se consideren significados, razones y transformaciones relevantes al comprender una experiencia a través del tiempo, sin exigir registro exhaustivo ni suponer comprensión inmutable.
+- **Reconocimiento de aportes:** O5 complementa la lectura de experiencias al permitir reconocer contribuciones relevantes y su procedencia, sin asignar automáticamente autoría, responsabilidad total o autoridad.
+- **Diversidad de contextos:** las experiencias pueden darse dentro o fuera de instituciones, con distintos medios y condiciones y sin requerir necesariamente tecnología digital. O9 refuerza marginalmente esta consideración, pero las capacidades concretas de acceso pertenecen a responsabilidades posteriores.
 
-El fundamento no establece todavía cómo TDidacta resolverá esa problemática mediante tecnologías, mecanismos o procesos. Define la comprensión del problema sobre la que podrán desarrollarse otras capacidades.
+Estas relaciones son afirmaciones sobre **cómo comprendemos la problemática pedagógica**. La definición particular de los conceptos no se duplica aquí.
 
-## 2. Enseñanza y aprendizaje como experiencias participativas
+## 3. Conceptos definidos desde F01
 
-Quienes enseñan y quienes aprenden son participantes activos de la experiencia educativa, aunque sus perspectivas y responsabilidades no sean idénticas.
+| Concepto | Aporte de F01 | Definición canónica |
+| --- | --- | --- |
+| Enseñanza | Identifica la perspectiva activa de orientación y apoyo, sin reducirla a transmisión. | [Concepto](../concepts/teaching.md) |
+| Aprendizaje | Identifica la perspectiva activa de exploración y construcción de comprensión, sin equipararla a recepción pasiva. | [Concepto](../concepts/learning.md) |
+| Experiencia de enseñanza y aprendizaje | Articula ambas perspectivas, sus significados, aportes y diversidad de contextos. | [Concepto](../concepts/teaching-learning-experience.md) |
 
-**Desde la perspectiva de quien enseña**, una experiencia puede involucrar orientación, propuestas, apoyos y decisiones dirigidas a favorecer la comprensión.
+Cada entrada reúne su definición y una **capa F01** con la contribución de este fundamento y solo las orientaciones que inciden en ese aporte. Otros fundamentos podrán añadir capas sin duplicar la definición.
 
-**Desde la perspectiva de quien aprende**, puede involucrar exploración, cuestionamiento, reinterpretación, cambios de enfoque y construcción de comprensiones que no estaban completamente determinadas de antemano.
+## 4. Límites
 
-Estas perspectivas no necesariamente corresponden a personas distintas. En una experiencia autodidacta pueden coincidir.
+Este fundamento no establece una teoría universal del aprendizaje, una división obligatoria entre docentes y estudiantes, una trayectoria única, un medio digital requerido, un procedimiento de documentación ni garantía alguna de aprendizaje por orientar una experiencia.
 
-Una intención pedagógica previa puede orientar una experiencia sin agotar ni predeterminar todo lo que ocurra durante ella.
+Tampoco define generación, autorización, publicación o evaluación de resultados; reconocer aportes no supone conceder autoría, autoridad ni aprobación pedagógica. Estas responsabilidades requieren sus propios fundamentos y mecanismos.
 
-### Visualización de la participación activa
+## 5. Visualización conceptual y continuidad
 
-**Pregunta de lectura:** ¿cómo participan activamente quien enseña y quien aprende en una experiencia, sin reducir enseñar a transmitir ni aprender a recibir?
+La relación entre las perspectivas participativas y la experiencia se desarrolla en [Experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md). Las definiciones individuales se consultan en [Enseñanza](../concepts/teaching.md) y [Aprendizaje](../concepts/learning.md).
 
-```mermaid
-flowchart LR
-    E["Quien<br/>enseña"]
-    A["Quien<br/>aprende"]
-    X["Experiencia de<br/>enseñanza y<br/>aprendizaje"]
-    O["Orientar,<br/>proponer apoyos"]
-    P["Explorar,<br/>cuestionar y<br/>reinterpretar"]
+F01 conserva la **responsabilidad de interpretar el problema**; las entradas conceptuales conservan el vocabulario compartido y su trazabilidad por capas.
 
-    E -->|"puede orientar"| O
-    O -->|"contribuye a"| X
-    A -->|"puede explorar"| P
-    P -->|"transforma la<br/>experiencia"| X
-    X -.->|"puede informar"| E
-    X -.->|"puede informar"| A
-```
-
-**Cómo leerlo:** el grafo muestra dos perspectivas activas con contribuciones que no tienen por qué ser idénticas. Orientar y proponer apoyos no garantiza aprendizaje; explorar y reinterpretar no equivale a recibir pasivamente contenidos. Las conexiones de retorno muestran que la experiencia puede informar a ambos participantes.
-
-**Lectura textual equivalente:** una experiencia puede construirse mediante propuestas de orientación y apoyo, junto con las exploraciones, preguntas e interpretaciones de quien aprende. Lo que ocurre en ella puede motivar revisiones tanto de la enseñanza como del propio aprendizaje.
-
-**Límites del diagrama:** los nodos representan perspectivas, no necesariamente personas distintas; no impone docente profesional, institución, medios digitales ni secuencia fija. No garantiza aprendizaje ni introduce un modelo formal nuevo.
-
-## 3. Significado de las experiencias
-
-**Condición originada en O1 — Continuidad semántica.**
-
-Una experiencia de enseñanza y aprendizaje no se comprende únicamente por las actividades realizadas o los materiales utilizados, sino también por los significados que sus participantes construyen, reinterpretan o cuestionan.
-
-Las experiencias pueden transformar la comprensión de quienes participan y producir hallazgos que informen experiencias posteriores.
-
-Por ello, al interpretar una experiencia educativa, deben considerarse sus significados, razones y cambios de comprensión relevantes, sin reducirla a una secuencia de actividades ni asumir que toda interpretación permanece inmutable.
-
-La continuidad semántica condiciona así nuestra comprensión de la experiencia: su significado puede mantenerse, desarrollarse o reconstruirse a través del tiempo.
-
-Esta condición no implica que toda experiencia deba documentarse exhaustivamente, ni que preservar su significado garantice aprendizaje.
-
-## 4. Participación y reconocimiento de aportes
-
-**Complemento originado en O5 — Reconocimiento transparente y trazable de aportes.**
-
-La participación activa puede producir aportes significativos de quienes enseñan y de quienes aprenden.
-
-Estos aportes pueden manifestarse mediante propuestas, interpretaciones, preguntas, modificaciones, observaciones o retroalimentación.
-
-Una experiencia puede informar a cualquiera de sus participantes y motivar nuevas comprensiones o revisiones de lo que se enseña y aprende.
-
-Cuando un aporte es relevante para comprender cómo se construyó o transformó una experiencia, su contribución y procedencia deberían poder reconocerse de manera transparente y trazable.
-
-Reconocer un aporte no significa que todas las intervenciones tengan la misma responsabilidad, ni que participar convierta automáticamente a alguien en autor o responsable de la experiencia completa.
-
-Este complemento tampoco exige registrar cada intervención mínima o transformar toda experiencia en un procedimiento documental.
-
-## 5. Contexto y multiplicidad de experiencias
-
-Las experiencias de enseñanza y aprendizaje pueden ocurrir en diferentes entornos, medios y condiciones.
-
-Una misma necesidad pedagógica no exige necesariamente una única respuesta o realización.
-
-Las experiencias pueden diferir según las personas involucradas, sus circunstancias, los medios disponibles y las comprensiones que se desarrollen durante su transcurso.
-
-La adaptación contextual puede resultar pertinente sin que ello demuestre automáticamente eficacia pedagógica.
-
-## 6. Límites del fundamento
-
-Este fundamento no establece:
-
-- Un modelo formal universal del aprendizaje.
-- Una jerarquía obligatoria entre docentes y estudiantes.
-- La necesidad de que enseñar y aprender correspondan a personas distintas.
-- Una trayectoria educativa única o una secuencia temporal obligatoria.
-- La obligación de utilizar tecnologías digitales.
-- Un proceso universal de documentación de experiencias.
-- Que orientar una experiencia garantice aprendizaje.
-- Que reconocer una contribución implique autoría, autoridad o aprobación pedagógica.
-
-Tampoco define mecanismos de generación, autorización, publicación o evaluación de resultados. Estas responsabilidades deberán ser abordadas por los fundamentos y mecanismos correspondientes cuando estén justificadas por sus propias orientaciones.
-
-## Entradas conceptuales derivadas de F01
-
-La interpretación de este fundamento se expresa en tres entradas compartidas: [enseñanza](../concepts/teaching.md), [aprendizaje](../concepts/learning.md) y [experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md). Cada entrada conserva una **capa F01** que declara la contribución del fundamento y solo las orientaciones que inciden en ella; sus clasificaciones O→concepto son propuestas pendientes de reconciliación humana.
-
-## 7. Trazabilidad con las orientaciones
+## 6. Trazabilidad con las orientaciones
 
 | Orientación | Clasificación | Justificación |
 | --- | --- | --- |
@@ -127,7 +57,7 @@ La interpretación de este fundamento se expresa en tres entradas compartidas: [
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Refuerza la consideración de experiencias educativas en contextos diversos, pero sus condiciones materiales de acceso corresponden principalmente a capacidades y realizaciones posteriores. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La permanencia y disponibilidad operacional de recursos condiciona cómo TDidacta responde al problema, no cómo lo comprende. |
 
-## 8. Criterio de mantenimiento
+## 7. Criterio de mantenimiento
 
 Toda incorporación, eliminación o modificación sustantiva de una orientación requiere revisar esta tabla y comprobar si cambia la justificación o formulación del fundamento.
 
