@@ -31,6 +31,7 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 - [O7 — Privacidad por diseño y minimización de datos](privacy-by-design-and-data-minimization.md): minimizar datos personales por capacidad y consultar material público sin cuenta salvo restricción justificada.
 - [O8 — Externalización del reconocimiento de identidades personales](external-personal-identity-recognition.md): distinguir identidad personal externa, identidad operativa y relaciones contextuales sin externalizar necesariamente la autenticación.
 - [O9 — Accesibilidad contextual y alcance educativo](contextual-access-and-educational-reach.md): favorecer acceso directo bajo restricciones y acceso indirecto a experiencias educativas sin usar la plataforma.
+- [O10 — Continuidad e independencia de los recursos públicos](public-resource-continuity.md): conservar, consultar y utilizar recursos públicos incluso ante interrupciones prolongadas o cierre definitivo de TDidacta.
 
 **Decisión conceptual del fundador:** continuidad semántica y aprovechamiento tecnológico son orientaciones distintas y transversales a los hijos de PResolver; la orientación de carga y capacidad de acción se agrega para TDidacta, con generalización pendiente. **Su combinación motiva** los fundamentos de abstracción y proyección semánticas; no significa que sean fundamentos en sí mismas ni que sus formulaciones ya se hayan adoptado en el canon general de PResolver.
 
@@ -40,9 +41,9 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 ## Integridad de trazabilidad con Foundations
 
-La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las nueve orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
+La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las diez orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
 
-**Estado de propagación (2026-10-17):** las nuevas O7, O8 y O9 están adoptadas; **su revisión de incidencia en todos los fundamentos queda pendiente**, sin clasificaciones ni cambios automáticos. O8 quedó adoptada con distinción expresa entre identidad personal, operativa y relaciones contextuales.
+**Estado de propagación (2026-10-17):** las nuevas O7, O8, O9 y O10 están adoptadas; **su revisión de incidencia en todos los fundamentos queda pendiente**, sin clasificaciones ni cambios automáticos. O8 quedó adoptada con distinción expresa entre identidad personal, operativa y relaciones contextuales.
 
 **Regla vigente para esta etapa:** agregar, retirar o modificar sustantivamente cualquier orientación —incluida la principal— **obliga a revisar todos los fundamentos** y sus tablas de trazabilidad, identificando apoyo directo, contribución indirecta, ausencia de relación, insuficiencia o contradicción. No basta con añadir enlaces al nuevo documento. La revisión precede a considerar la propagación documental concluida; no impone modificar el contenido de todos los fundamentos ni promueve automáticamente nuevas abstracciones.
 
