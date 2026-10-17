@@ -42,7 +42,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** F04 reconciliado por aprobación del fundador (2026-10-17).
 
-## Entradas y capas propuestas de F05
+## Entradas y capas de F05 reconciliadas
 
 | Concepto | Contribución |
 | --- | --- |
@@ -52,7 +52,19 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Representación intermedia semántica](semantic-intermediate-representation.md) | Definición acumulativa y capa F05 |
 | [Espacio de posibilidades pedagógico](possibility-space.md) | Ampliación acumulativa y capa F05 |
 
-**Estado:** relaciones F05 con O7–O10 y nuevos aportes propuestos, pendientes de aprobación del fundador.
+**Estado:** F05 reconciliado por decisión del fundador (2026-10-17), incluidas relaciones O7–O10 y capas conceptuales.
+
+## Entradas y capas propuestas de F06
+
+| Concepto | Contribución |
+| --- | --- |
+| [Revisión pedagógica](pedagogical-review.md) | Definición y capa F06 |
+| [Corrección pedagógica](pedagogical-correction.md) | Definición y capa F06 |
+| [Proporcionalidad de revisión](proportional-pedagogical-review.md) | Concepto candidato: discutir si merece entrada autónoma |
+| [Intención pedagógica](pedagogical-intention.md) | Ampliación acumulativa y capa F06 |
+| [Realización pedagógica](pedagogical-realization.md) | Ampliación acumulativa y capa F06 |
+
+**Estado:** análisis F06 y orientaciones O7–O10 pendientes de reconciliación por el fundador.
 
 Cada entrada mantiene una **definición canónica acumulativa** y **una capa por fundamento que contribuya al concepto**. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
