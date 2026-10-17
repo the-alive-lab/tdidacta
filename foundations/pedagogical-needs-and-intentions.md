@@ -98,6 +98,10 @@ Los mecanismos que realicen este fundamento deberán explicar cómo responden a 
 
 **Relacionados:** [Espacios de posibilidades](../mechanisms/possibility-spaces.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
 
+## Entradas conceptuales derivadas de F02
+
+Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Sus evaluaciones O→concepto son propuestas, no actualizan la tabla O→F de este documento.
+
 ## 10. Trazabilidad con las orientaciones
 
 | Orientación | Clasificación | Justificación |
