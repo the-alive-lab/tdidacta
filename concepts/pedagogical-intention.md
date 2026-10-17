@@ -10,7 +10,7 @@ Puede expresarse mediante una planificación anual o semestral, unidad, clase o 
 
 La intención se **formula y documenta de forma situada**, mediante juicio humano, con razones, significados, decisiones, restricciones, incertidumbres y circunstancias pertinentes para sus destinatarios. Una misma intención puede aplicarse en circunstancias diferentes sin redefinirse íntegramente. La documentación debe permitir reconstruir lo relevante al cambiar escalas, versiones o realizaciones, de manera suficiente y proporcional, sin exigir exhaustividad ni sustituir el juicio humano mediante inferencias tecnológicas.
 
-Una intención formulada no queda automáticamente autorizada ni garantiza aprendizaje. Puede **revisarse y corregirse** ante cambios, contradicciones o insuficiencias; las exploraciones y realizaciones pueden informar esa revisión, pero no modifican silenciosamente su significado de origen. Adoptar modificaciones pedagógicas materiales debe respetar la autorización humana pertinente.
+Una intención formulada no queda automáticamente autorizada ni garantiza aprendizaje. Puede **revisarse y corregirse de manera iterativa** cuando cambios externos alteran la necesidad pedagógica o las circunstancias a las que responde. Se contrasta si continúa siendo adecuada; cuando no lo es, se corrige y vuelve a examinar su adecuación, hasta alcanzar una respuesta apropiada según el juicio y la evidencia disponibles. Si continúa respondiendo correctamente, puede conservarse. Las exploraciones y realizaciones pueden informar esa revisión, pero no modifican silenciosamente su significado de origen. Adoptar modificaciones pedagógicas materiales debe respetar la autorización humana pertinente.
 
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
@@ -53,7 +53,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte propuesto de F06:** la intención puede examinarse críticamente y corregirse cuando existan errores, insuficiencias o circunstancias cambiantes; las realizaciones no la modifican silenciosamente.
+**Aporte propuesto de F06:** la intención debe poder reevaluarse ante cambios externos pertinentes en la necesidad vinculada o sus circunstancias, corrigiéndose iterativamente si deja de responder adecuadamente. No todo cambio requiere corregir y las realizaciones no la modifican silenciosamente.
 
 | Orientación incidente | Clasificación propuesta | Incidencia mediante F06 |
 | --- | --- | --- |
