@@ -4,7 +4,7 @@
 
 ## Definición canónica acumulativa hasta F07 (propuesta)
 
-Conjunto identificable de significados, decisiones, condiciones, restricciones, circunstancias y usos de un elemento pedagógico que una persona con autoridad pertinente ha aceptado. El alcance puede ser situado: aprobar una intención no aprueba automáticamente sus realizaciones, otros contextos ni todo uso posible. Se diferencia del elemento autorizado y de la identidad de quien autoriza. **El alcance se refiere a una versión concreta e inmutable una vez consolidada**; la autorización de otra versión constituye otra decisión, aunque ambas versiones se relacionen como evolución de una misma intención.
+Conjunto identificable de significados, decisiones, condiciones, restricciones, circunstancias y usos de un elemento pedagógico que una persona con autoridad pertinente ha aceptado. El alcance puede ser situado: aprobar una intención no aprueba automáticamente sus realizaciones, otros contextos ni todo uso posible. Se diferencia del elemento autorizado y de la identidad de quien autoriza. **El alcance se refiere a una versión concreta e inmutable una vez consolidada**; la autorización de otra versión constituye otra decisión, aunque ambas versiones se relacionen como evolución de una misma intención. **La decisión y el alcance autorizados para una versión anterior se conservan íntegros**, incluso si la versión publicada vigente cambia.
 
 ## Capa F07 — Autorización de elementos pedagógicos
 
