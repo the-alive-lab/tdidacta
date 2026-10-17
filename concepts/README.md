@@ -61,6 +61,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Revisión pedagógica](pedagogical-review.md) | Definición y capa F06 |
 | [Corrección pedagógica](pedagogical-correction.md) | Definición y capa F06 |
 | [Autorización pedagógica](pedagogical-authorization.md) | Frontera F06 con la adopción de correcciones; definición constitutiva pendiente de F07 |
+| [Necesidad pedagógica](pedagogical-need.md) | Ampliación acumulativa y capa F06 por cambios externos |
 | [Intención pedagógica](pedagogical-intention.md) | Ampliación acumulativa y capa F06 |
 | [Realización pedagógica](pedagogical-realization.md) | Ampliación acumulativa y capa F06 |
 
