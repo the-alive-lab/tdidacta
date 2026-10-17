@@ -1,6 +1,12 @@
 # Necesidad pedagógica
 
-**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C reconciliadas por el fundador (2026-10-17). No altera el canon de F02.
+**Estado:** definición F02 reconciliada (2026-10-17), con extensión acumulativa F03 **propuesta y pendiente de aprobación**. Las capas de trazabilidad permanecen diferenciadas.
+
+## Definición acumulativa hasta F03 (propuesta)
+
+Una **necesidad pedagógica** expresa algo que requiere abordarse mediante enseñanza, aprendizaje o apoyo educativo. Puede proceder de una institución, del contexto, de quien aprende o de otros participantes y **no posee una escala fija**: puede motivar una actividad, clase, unidad, planificación amplia u otra respuesta sin imponer jerarquía.
+
+**F03 añade una exigencia de interpretación situada:** al contextualizar una respuesta, la necesidad se comprende y documenta con la procedencia, el alcance, las razones y las circunstancias relevantes para decidir cómo atenderla. Esto no significa registrar exhaustivamente a las personas o sus características, ni convierte la necesidad en una intención o en una realización.
 
 ## Definición canónica hasta F02
 
