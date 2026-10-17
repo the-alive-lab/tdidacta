@@ -223,3 +223,7 @@ Se agregaron [enseñanza](../concepts/teaching.md), [aprendizaje](../concepts/le
 ## F02 cerrado con O7–O10 y capas conceptuales (2026-10-17)
 
 Por decisión del fundador, [F02](../foundations/pedagogical-needs-and-intentions.md) queda **reconciliado y terminado** en esta revisión: O7 sin incidencia; O8 sin incidencia; O9 incidencia marginal; O10 sin incidencia. Se cerraron sus tres capas conceptuales: [necesidad](../concepts/pedagogical-need.md), [intención](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). En esta última, O9 es **Condición del aprovechamiento directo o indirecto**, no de la definición semántica del espacio. Un docente que genera e imprime material para uso sin plataforma ilustra el acceso indirecto, sin validar por ello su efectividad. Se conservan las definiciones existentes y no se avanzó a F03.
+
+## Separación editorial Foundation / Concepts en F02 (2026-10-17)
+
+Por indicación del fundador se reorganizó [F02](../foundations/pedagogical-needs-and-intentions.md) para conservar **solo la responsabilidad y relaciones del fundamento**, su tensión, fronteras, trazabilidad O→F y **una tabla de conceptos originados**. Las definiciones canónicas detalladas de [necesidad](../concepts/pedagogical-need.md), [intención](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md) residen en Concepts y mantienen las capas F02 con sus orientaciones incidentes. No se cambió el cierre O7–O10 ni se ejecutó revisión de F03.
