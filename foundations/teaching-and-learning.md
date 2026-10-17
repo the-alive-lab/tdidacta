@@ -107,6 +107,10 @@ Este fundamento no establece:
 
 Tampoco define mecanismos de generación, autorización, publicación o evaluación de resultados. Estas responsabilidades deberán ser abordadas por los fundamentos y mecanismos correspondientes cuando estén justificadas por sus propias orientaciones.
 
+## Entradas conceptuales derivadas de F01
+
+La interpretación de este fundamento se expresa en tres entradas compartidas: [enseñanza](../concepts/teaching.md), [aprendizaje](../concepts/learning.md) y [experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md). Cada entrada conserva una **capa F01** que declara la contribución del fundamento y solo las orientaciones que inciden en ella; sus clasificaciones O→concepto son propuestas pendientes de reconciliación humana.
+
 ## 7. Trazabilidad con las orientaciones
 
 | Orientación | Clasificación | Justificación |
