@@ -29,12 +29,11 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 | Revisión pedagógica | Responsabilidad de examen crítico, sin equivalencia con modificar o autorizar. | [Definición y capa F06](../concepts/pedagogical-review.md) |
 | Corrección pedagógica | Intervención pertinente sobre problemas detectados; decisiones materiales sujetas a autorización. | [Definición y capa F06](../concepts/pedagogical-correction.md) |
 | Autorización pedagógica | Distingue revisar y proponer correcciones de aprobar su adopción; F07 conserva su definición constitutiva. | [Concepto y capa F06](../concepts/pedagogical-authorization.md) |
+| Necesidad pedagógica | Reconocer cambios externos que alteran el problema y motivan reevaluar la respuesta. | [Capa F06](../concepts/pedagogical-need.md) |
 | Intención pedagógica | Reconsiderar su adecuación cuando cambian necesidades o circunstancias; revisar y corregir iterativamente sin modificación automática. | [Capa F06](../concepts/pedagogical-intention.md) |
 | Realización pedagógica | Puede ser examinada por conformidad y pertinencia y dar lugar a correcciones, sin autorización automática. | [Capa F06](../concepts/pedagogical-realization.md) |
 
 La **proporcionalidad pertenece a Revisión pedagógica**, no constituye una entrada conceptual autónoma. Las definiciones completas y acumulativas residen en Concepts; F06 establece relaciones y responsabilidades. Autorización pedagógica aparece por la frontera que F06 establece con la adopción de correcciones; su responsabilidad constitutiva sigue en F07.
-
-El ciclo también amplía el concepto [Necesidad pedagógica](../concepts/pedagogical-need.md): cambios externos pertinentes pueden alterar aquello que debe abordarse; F06 no crea una necesidad nueva por sí solo.
 
 ## 4. Condiciones, nuevas orientaciones y tensiones
 
