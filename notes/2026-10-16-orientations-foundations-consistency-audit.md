@@ -174,3 +174,9 @@ La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de 
 - [O9 — Accesibilidad contextual y alcance educativo](../orientation/contextual-access-and-educational-reach.md): accesibilidad tanto de **uso directo** en restricciones materiales/tecnológicas como **uso indirecto** de resultados sin plataforma; considera barreras funcionales y participación de intermediarios.
 - **Regla de propagación activada y pendiente:** revisar incidencia de ambas en todos los fundamentos (F01–F07 y restantes, incluidos conceptos candidatos), conservando decisión de origen, condición, complemento, incidencia marginal o sin incidencia sin inventar relaciones. No se considera auditoría O→F terminada por publicar las orientaciones. Las clasificaciones anteriores permanecen como decisiones históricas a ampliar.
 - **O8 — Externalización del reconocimiento de identidades:** candidata separada, sin documento canónico adoptado, pendiente de delimitar responsabilidades antes de su promoción.
+
+## O8 adoptada (2026-10-17)
+
+- [O8 — Externalización del reconocimiento de identidades personales](../orientation/external-personal-identity-recognition.md): el reconocimiento/certificación de identidad personal corresponde a autoridad externa cuando resulte necesario. TDidacta puede gestionar **identidades operativas**, autenticación y **relaciones contextuales** sin conocer la identidad personal.
+- Modelo conceptual acordado: identidad personal **0..N identidades operativas**; identidad operativa **0..N relaciones contextuales**. No exige mapa global ni propaga accesos automáticamente. Invitaciones a cursos pueden crear/vincular cuenta y acceso, sin certificar persona.
+- **Propagación O→F pendiente también para O8**, junto a O7 y O9. No clasificar fundamentos por defecto, no dar por concluida la auditoría ni reabrir sus decisiones aprobadas automáticamente.
