@@ -8,7 +8,9 @@ La **autorización pedagógica** es una decisión humana de aceptar un elemento 
 
 La aprobación puede preceder a las realizaciones; **autorizar una intención no autoriza automáticamente todos sus derivados ni todas las circunstancias**. La autorización no equivale a revisión, corrección, publicación, consentimiento ni garantía de calidad o aprendizaje.
 
-Cuando cambios externos alteran necesidades o circunstancias, la revisión y corrección de F06 pueden proponer modificaciones. Si estas afectan materialmente lo aprobado, es necesaria una **reconsideración del alcance y eventual reautorización** proporcional al impacto; lo no afectado puede conservar vigencia. Explorar opciones o proponer cambios no modifica silenciosamente la aprobación existente.
+Cuando cambios externos alteran necesidades o circunstancias, F06 puede justificar elaborar **una nueva versión** de la intención. Una versión autorizada y consolidada se entiende **inmutable**: sus contenidos, nombre y significado aprobado no se sobrescriben. La nueva versión puede contener cambios sustanciales e incluso un nombre distinto, manteniendo una relación explícita de continuidad con la anterior. **Autorizar la nueva versión es otra autorización pedagógica**, no «reautorizar» o mutar retroactivamente la anterior.
+
+Si existe una versión publicada, la incorporación de la corrección **reemplaza la versión ofrecida como vigente**, no el contenido histórico de la versión anterior. Publicar, conservar históricos y resolver accesibilidad son responsabilidades distintas de autorizar. Lo materialmente no afectado no exige nuevas decisiones.
 
 ## Capa F06 — Revisión y corrección pedagógica
 
@@ -24,7 +26,7 @@ Cuando cambios externos alteran necesidades o circunstancias, la revisión y cor
 
 ## Capa F07 — Autorización de elementos pedagógicos
 
-**Aporte de F07:** establece el alcance semántico, la vigencia, la estabilidad relativa, la autoridad humana y la reautorización por impacto como propiedades de la aceptación pedagógica.
+**Aporte de F07:** establece el alcance semántico, la vigencia, la inmutabilidad de versiones consolidadas, la autoridad humana y la autorización de nuevas versiones como propiedades de la aceptación pedagógica.
 
 | Orientación | Relación propuesta | Incidencia mediante F07 |
 | --- | --- | --- |
@@ -39,4 +41,4 @@ Cuando cambios externos alteran necesidades o circunstancias, la revisión y cor
 
 ## Fronteras
 
-La revisión y la corrección no equivalen a aprobación. La responsabilidad constitutiva, el alcance y la vigencia de la autorización pertenecen a [F07](../foundations/pedagogical-authorization.md), cuya capa propia deberá añadirse al revisar ese fundamento; no duplicar aquí sus definiciones.
+Revisar y corregir no equivale a aprobar; autorizar una nueva versión no equivale a publicar su reemplazo. La definición constitutiva corresponde a [F07](../foundations/pedagogical-authorization.md) y el versionamiento técnico permanece como [mecanismo candidato](../mechanisms/pedagogical-element-versioning.md).
