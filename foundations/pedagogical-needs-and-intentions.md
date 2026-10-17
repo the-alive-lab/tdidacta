@@ -1,6 +1,6 @@
 # F02 — Necesidades e intenciones pedagógicas
 
-**Estado:** fundamento conceptual reconciliado con las orientaciones por decisión del fundador (2026-10-16). La reconciliación no constituye validación empírica de eficacia.
+**Estado:** reconciliación conceptual O0–O10 y conceptos derivados cerrada por decisión del fundador (2026-10-17); sin validación empírica.
 
 ## 1. Origen y propósito
 
@@ -100,7 +100,7 @@ Los mecanismos que realicen este fundamento deberán explicar cómo responden a 
 
 ## Entradas conceptuales derivadas de F02
 
-Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Cada concepto mantiene una **capa F02** con el aporte de este fundamento y solo las orientaciones incidentes en ese aporte; otros fundamentos añadirán capas propias. Las evaluaciones O→concepto son propuestas, no actualizan la tabla O→F de este documento.
+Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Cada concepto mantiene una **capa F02** con el aporte de este fundamento y solo las orientaciones incidentes en ese aporte; otros fundamentos añadirán capas propias. Las capas O→concepto de F02 han sido reconciliadas por el fundador sin heredar automáticamente las relaciones O→F.
 
 ## 10. Trazabilidad con las orientaciones
 
@@ -113,6 +113,10 @@ Las definiciones de las secciones 2–4 se pueden consultar por separado, con **
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Complemento** | Exige distinguir la intención formulada de su eventual aprobación humana. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Complemento** | Permite reconocer contribuciones relevantes a la construcción y revisión de intenciones sin equipararlas a aprobación. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Incidencia marginal** | Priorizar comprender necesidades y formular intenciones antes de producir realizaciones puede favorecer el uso de estos conceptos, pero no determina su definición ni el espacio de posibilidades. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Sin incidencia** | Definir necesidades, intenciones y posibilidades no exige recopilar datos personales. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | No se necesita acreditar identidades personales ni gestionar cuentas para formular estos conceptos. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Las circunstancias de acceso pueden informar intenciones y posibilidades sin redefinir su relación semántica; la condición específica de aprovechamiento se registra en el concepto de espacio de posibilidades. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de recursos publicados pertenece a capacidades posteriores, no a la definición de estos conceptos. |
 
 ### Revisión de O6
 
