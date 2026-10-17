@@ -167,3 +167,10 @@ La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de 
 - Clasificación O→F adoptada: **O4 origen; O0/O1/O2 complementos; O3/O6 condiciones; O5 sin incidencia**.
 - Tensiones aplicables: [O1/O3/O4](../tensions/semantic-continuity-authorization-human-capacity.md) compuesta; [O3/O6](../tensions/effort-inversion-proportionality.md); interacción [O1/O3/O4/O6](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md) candidata, con autonomía por contrastar. Las binarias O1/O3 y O4/O3 no desaparecen.
 - F01–F07 reconciliados. F08 — Autoría pedagógica sigue abierto y no modificado.
+
+## Nuevas orientaciones O7 y O9 adoptadas (2026-10-17)
+
+- [O7 — Privacidad por diseño y minimización de datos](../orientation/privacy-by-design-and-data-minimization.md): minimización **de datos personales**, diferenciando capacidades; consulta de todo material educativo declarado público sin cuenta, salvo restricciones concretas y justificadas. No impone arquitectura de identidad.
+- [O9 — Accesibilidad contextual y alcance educativo](../orientation/contextual-access-and-educational-reach.md): accesibilidad tanto de **uso directo** en restricciones materiales/tecnológicas como **uso indirecto** de resultados sin plataforma; considera barreras funcionales y participación de intermediarios.
+- **Regla de propagación activada y pendiente:** revisar incidencia de ambas en todos los fundamentos (F01–F07 y restantes, incluidos conceptos candidatos), conservando decisión de origen, condición, complemento, incidencia marginal o sin incidencia sin inventar relaciones. No se considera auditoría O→F terminada por publicar las orientaciones. Las clasificaciones anteriores permanecen como decisiones históricas a ampliar.
+- **O8 — Externalización del reconocimiento de identidades:** candidata separada, sin documento canónico adoptado, pendiente de delimitar responsabilidades antes de su promoción.
