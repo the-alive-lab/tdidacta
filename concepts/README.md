@@ -60,11 +60,11 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | --- | --- |
 | [Revisión pedagógica](pedagogical-review.md) | Definición y capa F06 |
 | [Corrección pedagógica](pedagogical-correction.md) | Definición y capa F06 |
-| [Proporcionalidad de revisión](proportional-pedagogical-review.md) | Concepto candidato: discutir si merece entrada autónoma |
+| [Autorización pedagógica](pedagogical-authorization.md) | Frontera F06 con la adopción de correcciones; definición constitutiva pendiente de F07 |
 | [Intención pedagógica](pedagogical-intention.md) | Ampliación acumulativa y capa F06 |
 | [Realización pedagógica](pedagogical-realization.md) | Ampliación acumulativa y capa F06 |
 
-**Estado:** análisis F06 y orientaciones O7–O10 pendientes de reconciliación por el fundador.
+**Estado:** análisis F06 y orientaciones O7–O10 pendientes de reconciliación por el fundador. **Proporcionalidad de revisión se integró en Revisión pedagógica** por decisión del fundador; no constituye concepto separado.
 
 Cada entrada mantiene una **definición canónica acumulativa** y **una capa por fundamento que contribuya al concepto**. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
