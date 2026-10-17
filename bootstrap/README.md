@@ -4,6 +4,12 @@
 **Incorporación:** 2026-10-15.  
 **Fuente editorial aprobada:** [TDidacta V6, master de preservación integral](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-15-tdidacta-master-v6-preservation.md).
 
+## Continuación operativa — revisión de fundamentos y conceptos
+
+La revisión secuencial de **F01–F07** y el procedimiento unificado para **O0–O10 → Foundations → Concepts** se mantienen en [**Reconciliación de Foundations y Concepts**](foundations-concepts-review.md).
+
+Ese documento funciona como **handoff operativo e inventario de decisiones y pendientes**, no reemplaza las definiciones canónicas ni transforma el origen histórico conservado aquí en una norma universal. Distingue explícitamente la revisión ya realizada, los cierres comprobados, los pendientes puntuales de F01/F03 y la propuesta F08.
+
 ## Para qué existe
 
 Este espacio conserva por qué y cómo surgió el sistema hoy llamado **TDidacta**, sin reinterpretar los documentos tempranos como si ya expresaran su identidad presente. Su contenido ayuda a reconstruir decisiones y permite que los antecedentes desafíen definiciones actuales. La autoridad conceptual vigente corresponde al [README principal](../README.md) y a futuras definiciones explícitamente adoptadas, no a este archivo por antigüedad.
