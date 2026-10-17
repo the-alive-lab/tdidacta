@@ -1,6 +1,6 @@
 # F05 — Proyección semántica
 
-**Estado:** núcleo O0–O6 reconciliado por decisión del fundador (2026-10-16). Revisión O7–O10 y capas conceptuales **propuestas**, pendientes de decisión; validación entre flavors también pendiente.
+**Estado:** reconciliado O0–O10 y conceptos derivados por decisión del fundador (2026-10-17); validación operativa entre flavors pendiente.
 
 ## 1. Origen y responsabilidad
 
@@ -31,9 +31,9 @@ En TDidacta puede apoyar experiencias contextualizadas de quien aprende, sin pre
 
 Las definiciones acumulativas pertenecen a Concepts, no se duplican en F05.
 
-## 4. Orientaciones nuevas y tensiones
+## 4. Orientaciones nuevas reconciliadas y tensiones
 
-**Propuesta O7:** condición sobre uso y exposición de datos personales en proyecciones. **O8:** sin incidencia conceptual. **O9:** condición de aprovechamiento directo o indirecto de resultados; no exige un mismo medio para cada realización. **O10:** incidencia marginal sobre F05 como fundamento: las realizaciones publicadas deberán contemplar continuidad, pero conservarlas y distribuirlas no define la operación de proyectar.
+**O7:** condición sobre uso y exposición de datos personales en proyecciones. **O8:** sin incidencia conceptual. **O9:** condición de aprovechamiento directo o indirecto de resultados; no exige un mismo medio para cada realización. **O10:** incidencia marginal sobre F05 como fundamento: las realizaciones publicadas deberán contemplar continuidad, pero conservarlas y distribuirlas no define la operación de proyectar.
 
 Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md), que los mecanismos deben abordar sin asumir resolución.
 
@@ -52,10 +52,10 @@ F05 no exige una única IR, formato específico, reversibilidad, conformidad aut
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | Aprobar resultados es una responsabilidad externa a la identidad de la proyección. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Atribuir contribuciones corresponde a otras responsabilidades, principalmente documentales. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | La proyección debe favorecer concentración del trabajo humano en comprender y documentar, no en producir o administrar realizaciones repetitivas. |
-| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | El procesamiento y sus resultados no deben utilizar ni exponer datos personales innecesarios. |
-| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia propuesta** | Explorar y realizar a partir de IR no implica certificar identidad personal; acceso/autenticación son responsabilidades ajenas. |
-| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las capacidades de proyección deben poder apoyar resultados aprovechables directa o indirectamente, incluso para personas sin acceso a la plataforma, según las circunstancias. |
-| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal propuesta** | Algunas realizaciones pueden publicarse como recursos públicos preservables fuera del servicio, pero garantizar su conservación y distribución pertenece a mecanismos posteriores. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | El procesamiento y sus resultados no deben utilizar ni exponer datos personales innecesarios. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | Explorar y realizar a partir de IR no implica certificar identidad personal; acceso/autenticación son responsabilidades ajenas. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las capacidades de proyección deben poder apoyar resultados aprovechables directa o indirectamente, incluso para personas sin acceso a la plataforma, según las circunstancias. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Algunas realizaciones pueden publicarse como recursos públicos preservables fuera del servicio, pero garantizar su conservación y distribución pertenece a mecanismos posteriores. |
 
 ## 7. Mantenimiento
 
