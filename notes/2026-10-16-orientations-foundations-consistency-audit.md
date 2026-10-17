@@ -281,3 +281,7 @@ Por precisión del fundador, F06 **no modifica versiones consolidadas**: la corr
 ## F07 parcial y propuesta de F08 (2026-10-17)
 
 El fundador aprobó específicamente O7 (Condición) y O10 (Incidencia marginal) de F07; **no se da por reconciliado O8, O9 ni el cierre integral de F07**. Se preparó la propuesta de **F08 — Autoría pedagógica** mediante la superficie preexistente T01, con O5 como origen, conceptos de Autoría y Contribución, y análisis O7 Condición, O8 Condición, O9 Incidencia marginal, O10 Sin incidencia. La numeración F08 no estaba explícita en el repositorio, por lo que permanece propuesta hasta decisión del fundador. El documento previo T01 y su alcance MVP siguen disponibles en la historia de Git, sin promover automáticamente mecanismos o generalizaciones.
+
+## Corrección del alcance de aprobación F07 (2026-10-17)
+
+El fundador precisó que su aprobación abarcaba **todas las orientaciones O7–O10**, incluidas **O8 (Condición)** y **O9 (Incidencia marginal)**. Se corrigió el estado de F07 y se marcaron como reconciliadas las capas F07 de Autorización pedagógica y Alcance de autorización, manteniendo la regla de versiones consolidadas inmutables y autorizaciones previas intactas. La propuesta F08 continúa pendiente de revisión y adopción de numeración; su aprobación no se infiere de este cierre.
