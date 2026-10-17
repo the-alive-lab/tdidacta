@@ -277,3 +277,7 @@ El fundador corrigió el modelo conceptual F07: **la intención ya consolidada y
 ## Alineación transversal F06/F07 — versiones inmutables (2026-10-17)
 
 Por precisión del fundador, F06 **no modifica versiones consolidadas**: la corrección de una intención ya consolidada prepara, ajusta y revisa una **nueva versión candidata**. F07 autoriza tanto **intenciones nuevas** como **nuevas versiones de intenciones existentes**; cada decisión tiene su propio alcance. **El contenido y la autorización previos permanecen intactos**, aunque la publicación sustituya cuál versión se ofrece como vigente. Se actualizaron los fundamentos F06/F07 y las definiciones acumulativas de Intención, Corrección, Autorización y Alcance. No se alteraron clasificaciones O7–O10 de F07 ni se adelantó su reconciliación.
+
+## F07 parcial y propuesta de F08 (2026-10-17)
+
+El fundador aprobó específicamente O7 (Condición) y O10 (Incidencia marginal) de F07; **no se da por reconciliado O8, O9 ni el cierre integral de F07**. Se preparó la propuesta de **F08 — Autoría pedagógica** mediante la superficie preexistente T01, con O5 como origen, conceptos de Autoría y Contribución, y análisis O7 Condición, O8 Condición, O9 Incidencia marginal, O10 Sin incidencia. La numeración F08 no estaba explícita en el repositorio, por lo que permanece propuesta hasta decisión del fundador. El documento previo T01 y su alcance MVP siguen disponibles en la historia de Git, sin promover automáticamente mecanismos o generalizaciones.
