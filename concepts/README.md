@@ -2,6 +2,16 @@
 
 **Estado:** entradas iniciales trazables a definiciones ya existentes. No constituye un nuevo fundamento ni mecanismo.
 
+## Entradas derivadas de F01
+
+| Concepto | Definición canónica de origen |
+| --- | --- |
+| [Enseñanza](teaching.md) | [F01 — §§1–2](../foundations/teaching-and-learning.md) |
+| [Aprendizaje](learning.md) | [F01 — §§1–3](../foundations/teaching-and-learning.md) |
+| [Experiencia de enseñanza y aprendizaje](teaching-learning-experience.md) | [F01 — §§2–5](../foundations/teaching-and-learning.md) |
+
+Las entradas recogen los conceptos centrales de F01 sin convertir automáticamente participación activa, aportes y condiciones de contexto en conceptos autónomos: pueden examinarse cuando otros fundamentos los desarrollen.
+
 ## Entradas derivadas de F02
 
 | Concepto | Definición canónica de origen |
