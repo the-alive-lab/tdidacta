@@ -1,108 +1,64 @@
 # F02 — Necesidades e intenciones pedagógicas
 
-**Estado:** reconciliación conceptual O0–O10 y conceptos derivados cerrada por decisión del fundador (2026-10-17); sin validación empírica.
+**Estado:** fundamento reconciliado con O0–O10 y sus conceptos derivados, por decisión del fundador (2026-10-17). Reorganización editorial sin cambio de decisiones conceptuales ni validación empírica.
 
-## 1. Origen y propósito
+## 1. Origen y propósito del fundamento
 
-Este fundamento nace conjuntamente de **O0 — Orientación principal**, que determina la problemática pedagógica a atender, y **O1 — Continuidad semántica**, que fundamenta formular una respuesta cuyo significado, razones y restricciones puedan reconocerse y reconstruirse.
+F02 nace de **O0 — Orientación principal**, que justifica responder a problemas de enseñanza y aprendizaje, y **O1 — Continuidad semántica**, que justifica preservar y reconstruir el significado de las respuestas formuladas.
 
-TDidacta aborda necesidades de enseñanza, aprendizaje o apoyo educativo mediante la formulación de **intenciones pedagógicas**. La necesidad expresa el problema; la intención es una respuesta deliberada y semánticamente identificable. Formular una intención no demuestra por sí solo que la respuesta sea eficaz ni exige una realización tecnológica.
+Su responsabilidad es establecer la **relación conceptual mediante la cual TDidacta aborda una necesidad pedagógica a través de una intención deliberada que delimita posibilidades de exploración y realización**.
 
-## 2. Necesidad pedagógica
+Esta relación preserva la diferencia entre **problema, respuesta y posibilidades delimitadas**. No convierte la intención y el espacio en el mismo concepto, ni supone que formular una respuesta asegure su eficacia.
 
-Una **necesidad pedagógica** expresa algo que requiere ser abordado mediante enseñanza, aprendizaje o apoyo educativo. Puede proceder de una institución, del contexto, de quien aprende o de otros participantes.
+## 2. Responsabilidad y relaciones del fundamento
 
-No tiene escala fija: una necesidad puede atenderse con una actividad, clase, unidad, planificación amplia u otra respuesta. Su tamaño no determina una jerarquía obligatoria.
+- **Respuesta deliberada:** una necesidad puede motivar una intención pedagógica; la respuesta se justifica respecto de la necesidad y no se identifica con ella.
+- **Delimitación de posibilidades:** decisiones y restricciones de una intención delimitan posibilidades que pueden explorarse o realizarse, sin equivalencia semántica entre intención y espacio.
+- **Continuidad semántica:** razones, significados, relaciones y restricciones relevantes deben poder reconocerse cuando las respuestas cambien de escala, se relacionen o se realicen.
+- **Apertura y variabilidad:** no se impone una escala, jerarquía, secuencia única ni realización tecnológica obligatoria. Puede haber intenciones más específicas, dependencias y distintas respuestas plausibles.
+- **Circunstancias pertinentes:** materias, tiempo y personas son dimensiones **candidatas**, no tres ejes métricos obligatorios ni un inventario exhaustivo. Pueden informar las respuestas sin convertirse en entradas universales.
+- **Distinción entre formulación y decisiones posteriores:** formular, explorar, realizar, revisar y autorizar no son operaciones equivalentes. La formulación de una intención no la autoriza ni valida automáticamente sus realizaciones.
 
-## 3. Intención pedagógica
+F02 no prescribe un flujo ni un formato técnico del espacio de posibilidades.
 
-Una **intención pedagógica** es la respuesta deliberada que formula quien asume la responsabilidad de enseñar al interpretar, organizar y delimitar una necesidad. Puede expresar propósitos, condiciones, restricciones, conexiones y alternativas.
+## 3. Conceptos definidos desde F02
 
-Una planificación anual, semestral, unidad, clase o actividad puede expresar una intención pedagógica: son **escalas y funciones posibles del mismo concepto**, no tipos fundamentales distintos.
+Las **definiciones canónicas y sus fronteras** se mantienen en las entradas de Concepts. F02 establece su relación; no duplica sus definiciones.
 
-Una intención puede originar intenciones más específicas sin que toda necesidad requiera esa subdivisión. La continuidad semántica requiere que sus motivos, significados y restricciones relevantes puedan interpretarse y reconstruirse al cambiar escalas, versiones o realizaciones, sin imponer documentación exhaustiva.
+| Concepto | Aporte del fundamento | Entrada canónica |
+| --- | --- | --- |
+| Necesidad pedagógica | Identifica el problema que motiva una respuesta pedagógica. | [Concepto](../concepts/pedagogical-need.md) |
+| Intención pedagógica | Vincula el problema con una respuesta deliberada cuyo significado puede reconocerse. | [Concepto](../concepts/pedagogical-intention.md) |
+| Espacio de posibilidades pedagógico | Expresa la delimitación de alternativas a partir de decisiones y restricciones de la intención. | [Concepto](../concepts/possibility-space.md) |
 
-## 4. Relación con el espacio de posibilidades
+Cada entrada conserva una **capa F02**: qué aporta este fundamento al concepto y cómo inciden **solo las orientaciones pertinentes a esa contribución**. Otros fundamentos podrán incorporar capas propias sin duplicar la definición.
 
-La **intención** corresponde a la perspectiva de quien formula la respuesta pedagógica. Como consecuencia de sus decisiones y restricciones, **delimita un espacio de posibilidades** sobre el que personas o realizadores —incluidos LLM— pueden explorar o realizar.
+## 4. Condiciones, complementos y tensión aplicable
 
-No se afirma identidad semántica entre intención y espacio: se propone una **relación de delimitación**. Los humanos ya consideran y recorren posibilidades sin requerir formalizar esta abstracción.
+**O2 — Aprovechamiento tecnológico:** herramientas tecnológicas pueden apoyar la exploración y realización de posibilidades, pero no crean la relación conceptual ni son necesarias para su existencia.
 
-**Complemento O2 — Aprovechamiento tecnológico:** describir posibilidades mediante intenciones y restricciones ofrece una perspectiva útil para emplear herramientas generativas que exploren o produzcan alternativas. La tecnología puede hacer esta perspectiva más practicable, pero **no crea el espacio de posibilidades** ni es requisito para que exista una intención.
+**O3 — Carga y capacidad humana:** formular, seguir y revisar respuestas puede introducir esfuerzo considerable. La asistencia técnica podría atenuarlo, pero una proliferación de alternativas también puede aumentarlo.
 
-**Condición O3 — Carga y capacidad humana:** esta distribución puede permitir que las personas se concentren en delimitar, restringir, orientar y revisar, mientras las herramientas apoyan la exploración y producción. No se presupone que reduzca efectivamente el esfuerzo: revisar demasiadas alternativas también puede aumentar la carga.
+**O4 — Autorización humana:** una intención formulada no está automáticamente autorizada. **O5 — Reconocimiento de aportes:** se pueden reconocer contribuciones relevantes a la formulación sin confundirlas con autoridad.
 
-## 5. Mapa conceptual de necesidad, intención y espacio
+La [tensión O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) sigue siendo aplicable: reconstruir razones y restricciones puede imponer carga humana. O2 es una **vía candidata de atenuación**, no un polo adicional ni una solución validada.
 
-**Pregunta de lectura:** ¿cómo una necesidad da lugar a una respuesta pedagógica deliberada y cómo esa respuesta delimita posibilidades, sin convertir las dimensiones del problema en requisitos fijos?
+**O9 — Accesibilidad contextual** presenta incidencia marginal en F02 como fundamento; en cambio, dentro de su capa del concepto *Espacio de posibilidades* es una **Condición del aprovechamiento**: examinar que las capacidades basadas en ese concepto permitan responder a restricciones severas de acceso directa o indirectamente, sin redefinir semánticamente el espacio. El ejemplo de preparar material con TDidacta e imprimirlo para utilizarlo sin la plataforma ilustra una posibilidad, no una garantía.
 
-```mermaid
-flowchart LR
-    N["Necesidad<br/>pedagógica"]
-    I["Intención<br/>pedagógica"]
-    S["Espacio de<br/>posibilidades"]
-    M["Materias"]
-    T["Tiempo"]
-    P["Personas"]
+## 5. Fronteras
 
-    N -->|"motiva una<br/>respuesta"| I
-    I -->|"delimita"| S
-    M -.->|"puede informar"| I
-    T -.->|"puede informar"| I
-    P -.->|"puede informar"| I
-```
+- Una respuesta semánticamente coherente no demuestra aprendizaje.
+- No se impone una estructura de planificación o escala fija; pueden existir conexiones además de contención.
+- Quien formula una intención no absorbe la responsabilidad de quien aprende.
+- La delimitación conceptual no requiere implementar un espacio formal.
+- Autorizar una intención, aprobar realizaciones, publicar y evaluar resultados son responsabilidades distintas.
+- O7 y O8 no modifican la relación fundamental de F02; O10 concierne a la permanencia de recursos públicos derivados, no a la definición de problema, respuesta y delimitación.
 
-**Cómo leerlo:** una necesidad pedagógica puede motivar la formulación de una intención por quien asume la responsabilidad de enseñar. La intención **delimita**, pero no es idéntica al espacio de posibilidades resultante. Materias, tiempo y personas aparecen como **consideraciones candidatas** que pueden informar la formulación o revisión de esa intención; las conexiones discontinuas no las convierten en entradas obligatorias.
+**Superficies relacionadas:** [espacios de posibilidades](../mechanisms/possibility-spaces.md) · [exploración y realización](../mechanisms/exploration-and-realization.md) · [resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
 
-**Lectura textual equivalente:** ante una necesidad de enseñanza o aprendizaje, una persona responsable puede formular una intención con propósitos, condiciones y restricciones. Las decisiones de esa intención delimitan posibilidades para explorar o realizar. Según el contexto, pueden considerarse conocimientos y relaciones entre materias, trayectorias temporales y condiciones de quienes aprenden.
+## 6. Trazabilidad con las orientaciones
 
-**Límites:** este mapa no representa una secuencia operativa obligatoria, una jerarquía de escalas, tres ejes métricos ni un inventario exhaustivo. Tampoco afirma que formular una intención asegure el aprendizaje. Es una representación conceptual, no una realización operativa ni garantía de eficacia.
 
-## 6. Dimensiones del problema
-
-- **Materias:** conceptos, disciplinas, prerrequisitos y relaciones transversales.
-- **Tiempo:** orden, distribución, oportunidad y trayectorias plausibles.
-- **Personas:** conocimientos previos, necesidades y condiciones de individuos o grupos.
-
-Son dimensiones candidatas, no ejes métricos obligatorios ni un inventario exhaustivo. La coherencia temporal entre materias necesita contrastarse con las necesidades de personas reales.
-
-**Caso ilustrativo aportado por el fundador:** comprender el valor de MVVM para testing puede requerir conectar lo enseñado sobre separación de responsabilidades en Arquitectura de Software con otra materia, en una secuencia comprensible para el grupo.
-
-## 7. Complementos a la formulación
-
-**O4 — Autorización humana:** una intención formulada no queda automáticamente autorizada. La aprobación pedagógica es una decisión humana distinguible de la formulación, con reglas propias.
-
-**O5 — Reconocimiento de aportes:** la formulación o revisión de una intención puede incorporar contribuciones humanas e inferenciales relevantes. Reconocer su procedencia y participación no equivale a autorizar la intención ni a asignar automáticamente responsabilidad por ella.
-
-Ninguno de estos complementos sustituye la identidad conceptual de necesidad e intención.
-
-## 8. Tensión aplicable: O1 ↔ O3, atenuable mediante O2
-
-Este fundamento está afectado por la [tensión entre continuidad semántica y esfuerzo humano](../tensions/semantic-continuity-human-effort.md):
-
-- **O1** exige conservar y poder reconstruir significados, razones, conexiones y restricciones relevantes.
-- **O3** exige evitar que esa continuidad imponga cargas humanas desproporcionadas o reduzca la capacidad de acción.
-- **O2** puede **atenuar** la tensión mediante asistencia tecnológica a la formulación, reconstrucción, exploración y revisión; **no es uno de los polos** de la tensión.
-
-Los mecanismos que realicen este fundamento deberán explicar cómo responden a la tensión y cuáles son sus límites. La asistencia tecnológica es una **vía propuesta de atenuación**, no una demostración de que se haya reducido el esfuerzo o resuelto la tensión.
-
-## 9. Fronteras
-
-- La coherencia de una planificación no demuestra aprendizaje efectivo.
-- Una intención amplia puede relacionarse con otras por dependencias y conexiones, no solo por contención.
-- La organización no exige árbol único ni secuencia universal.
-- La responsabilidad de aprender no queda absorbida por quien formula la intención.
-- La intención delimita posibilidades, pero no requiere obligatoriamente tecnología ni un espacio formalmente implementado.
-- Una intención puede existir antes de ser autorizada y sin que cada contribución esté registrada exhaustivamente.
-- Ninguna realización generada queda validada por el solo hecho de respetar una formulación aparente de la intención.
-
-**Relacionados:** [Espacios de posibilidades](../mechanisms/possibility-spaces.md) · [Explorar y realizar](../mechanisms/exploration-and-realization.md) · [Resolución recursiva](../lifecycle/recursive-pedagogical-resolution.md).
-
-## Entradas conceptuales derivadas de F02
-
-Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Cada concepto mantiene una **capa F02** con el aporte de este fundamento y solo las orientaciones incidentes en ese aporte; otros fundamentos añadirán capas propias. Las capas O→concepto de F02 han sido reconciliadas por el fundador sin heredar automáticamente las relaciones O→F.
-
-## 10. Trazabilidad con las orientaciones
 
 | Orientación | Clasificación | Justificación |
 | --- | --- | --- |
@@ -122,7 +78,7 @@ Las definiciones de las secciones 2–4 se pueden consultar por separado, con **
 
 La incidencia de O6 es **marginal**: favorece concentrar atención en interpretar necesidades y formular intenciones, pero la inversión del esfuerzo se vuelve **condición material en F03**, donde se exige documentar suficientemente. La tensión O3/O6 no se activa automáticamente en F02 por esta relación marginal.
 
-## 11. Criterio de mantenimiento
+## 7. Criterio de mantenimiento
 
 Cuando cambien las orientaciones, revisar si cambian la justificación, condiciones, complementos o tensiones aplicables. Las tensiones pueden descubrirse progresivamente; su presencia no equivale a una solución implementada ni bloquea por sí sola la definición conceptual del fundamento.
 
