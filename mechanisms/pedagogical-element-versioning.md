@@ -6,13 +6,14 @@
 
 Permitir reconocer y conservar la evolución de **planificaciones, unidades, clases, actividades y cualquier elemento representable mediante intenciones pedagógicas**. Debe distinguir el elemento y alcance autorizado, su estado anterior, cambios posteriores y relaciones entre elementos dependientes.
 
-Una autorización estabiliza un alcance semántico como referencia de exploración; revisar o crear una nueva versión **no modifica silenciosamente** lo previamente autorizado ni autoriza automáticamente los elementos derivados.
+Una autorización se refiere a una **versión identificable y consolidada, inmutable en su contenido y significado autorizado**. Revisar o corregir no la muta: produce una nueva versión candidata, que puede cambiar incluso su nombre y contenidos, manteniendo trazabilidad respecto de la anterior. La nueva versión requiere su propia autorización antes del uso que la exija. Autorizar una versión no autoriza derivados automáticamente.
 
 ## Relación con la actualización
 
 - **Declaración de impacto:** interpretar el cambio de necesidad e identificar los elementos dependientes cuya vigencia debe evaluarse.
 - **Declaración de cambios o revisión de cambios:** adecuar los elementos afectados y dejar reconocible su evolución.
-- **Revisión y reautorización:** la persona titular de la cuenta decide qué queda listo para el uso posterior; la herramienta puede ayudar sin sustituir esa decisión.
+- **Revisión y nueva autorización:** la persona responsable decide qué nueva versión queda lista para uso posterior; la herramienta puede ayudar sin sustituir esa decisión.
+- **Reemplazo de publicación:** si una versión consolidada está publicada, cambiar la versión vigente significa reemplazar su referencia pública por otra autorizada, no sobrescribir la versión histórica. La política de disponibilidad de versiones anteriores queda por definir.
 
 ## Pendientes técnicos
 
