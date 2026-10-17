@@ -180,3 +180,9 @@ La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de 
 - [O8 — Externalización del reconocimiento de identidades personales](../orientation/external-personal-identity-recognition.md): el reconocimiento/certificación de identidad personal corresponde a autoridad externa cuando resulte necesario. TDidacta puede gestionar **identidades operativas**, autenticación y **relaciones contextuales** sin conocer la identidad personal.
 - Modelo conceptual acordado: identidad personal **0..N identidades operativas**; identidad operativa **0..N relaciones contextuales**. No exige mapa global ni propaga accesos automáticamente. Invitaciones a cursos pueden crear/vincular cuenta y acceso, sin certificar persona.
 - **Propagación O→F pendiente también para O8**, junto a O7 y O9. No clasificar fundamentos por defecto, no dar por concluida la auditoría ni reabrir sus decisiones aprobadas automáticamente.
+
+## O10 adoptada (2026-10-17)
+
+- [O10 — Continuidad e independencia de los recursos públicos](../orientation/public-resource-continuity.md): preservar, consultar y utilizar recursos educativos públicos **sin depender exclusivamente de la continuidad del servicio o de la existencia futura de TDidacta**; contempla interrupciones temporales, prolongadas y cierre definitivo, sin garantía de perpetuidad.
+- Distingue continuidad operacional, conservación de datos, acceso público, comprensibilidad pedagógica y utilizabilidad independiente. Respeta derechos, privacidad y retiros legítimos; no exige preservar funcionalidad interactiva completa.
+- **Revisión O→F pendiente:** agregar evaluación individual de O10 sobre todos los fundamentos, junto con O7–O9, sin asignar automáticamente relaciones, tensiones o cambios a fundamentos ya revisados.
