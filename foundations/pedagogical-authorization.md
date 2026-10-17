@@ -13,19 +13,19 @@ No confunde formular, revisar, corregir, autorizar ni publicar. La autorización
 - **Decisión situada:** aceptar un elemento para determinados usos no constituye aprobación universal de sus realizaciones, contextos o dependencias.
 - **Inmutabilidad de lo consolidado:** la versión autorizada constituye una referencia semántica que no se altera en su contenido; un cambio genera una nueva versión candidata, incluso si cambia contenido o nombre. La continuidad entre versiones es una relación explícita, no mutación del elemento aprobado.
 - **Continuidad con F06:** si cambian necesidades o circunstancias y una intención deja de responder adecuadamente, F06 guía la elaboración y revisión de una nueva versión. La versión antes autorizada no se reescribe por ese proceso.
-- **Nueva autorización de versión:** la nueva versión requiere su propia decisión de autorización para el alcance pertinente; no se «reautoriza» retroactivamente la versión anterior. Las autorizaciones de elementos no afectados conservan su alcance.
+- **Autorización de nuevas intenciones y versiones:** se autorizan tanto intenciones nuevas como nuevas versiones de intenciones existentes, cada una para su alcance pertinente. **Lo autorizado previamente permanece autorizado en su versión y alcance originales**: una autorización posterior no lo muta ni revoca automáticamente, aunque cambie qué versión se ofrece como vigente. La vigencia para un uso o circunstancia nuevos puede exigir otra decisión, sin alterar el hecho histórico de la autorización anterior.
 - **Autoridad humana contextual:** quien decide debe tener autoridad pertinente, no necesariamente haber creado o editado el elemento. La identidad personal verificada, la identidad operativa y la autoridad no son la misma propiedad.
-- **Publicación mediante reemplazo:** cuando existe una versión publicada y consolidada, publicar una corrección significa sustituir cuál versión se ofrece como vigente; la anterior sigue reconocible como versión histórica, no se edita en sitio. La conservación, disponibilidad y retiro de versiones pertenecen al mecanismo de publicación y sus políticas, no se resuelven aquí.
+- **Publicación mediante reemplazo:** cuando existe una versión publicada y consolidada, publicar una corrección significa sustituir cuál versión se ofrece como vigente; la anterior conserva íntegros su contenido y la autorización que recibió, sin editarse en sitio. La conservación, disponibilidad y retiro de versiones pertenecen al mecanismo de publicación y sus políticas, no se resuelven aquí.
 - **Proporcionalidad:** controles y evidencias deben permitir comprender qué se aprobó sin introducir sobrecarga de gestión innecesaria.
 
 ## 3. Conceptos originados o ampliados desde F07
 
 | Concepto | Aporte de F07 | Entrada |
 | --- | --- | --- |
-| Autorización pedagógica | Amplía la capa F06 con la decisión constitutiva, autoridad, alcance, estabilidad y vigencia. | [Definición acumulativa y capa F07](../concepts/pedagogical-authorization.md) |
+| Autorización pedagógica | Autorizar nuevas intenciones o versiones, conservando íntegros el contenido y la autorización de cada versión consolidada. | [Definición acumulativa y capa F07](../concepts/pedagogical-authorization.md) |
 | Alcance de autorización pedagógica | Delimita los significados, circunstancias y usos comprendidos en una aprobación. | [Definición y capa F07](../concepts/pedagogical-authorization-scope.md) |
 
-**Autorizar otra versión es otra instancia del mismo concepto de Autorización pedagógica**, no un concepto separado de «reautorización». La versión y su autorización anterior permanecen distinguibles.
+**Autorizar otra versión es otra instancia del mismo concepto de Autorización pedagógica**, no un concepto separado de «reautorización». La versión anterior y su autorización permanecen intactas, aunque dejen de ser la versión publicada vigente.
 
 Las definiciones viven en Concepts. Las responsabilidades técnicas de impacto, cambios y versionamiento no se convierten automáticamente en fundamentos o conceptos nuevos.
 
@@ -52,7 +52,7 @@ No establece formatos de prueba de autorización, esquema de identidad interno, 
 | [O0 — Principal](../orientation/README.md) | **Complemento** | Conecta la autorización con la finalidad pedagógica, sin originar la autoridad para aprobar. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Complemento** | El alcance aprobado aporta una referencia semántica reconocible para continuar y reconsiderar cambios. |
 | [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Tecnología puede simplificar gestión de autorizaciones, impactos y dependencias; no autoriza por sí misma. |
-| [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Autorización y reautorización introducen trabajo humano; debe considerarse su proporcionalidad. |
+| [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Autorizar intenciones y nuevas versiones introduce trabajo humano; debe considerarse su proporcionalidad. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Origen** | Justifica directamente decisiones de aprobación pedagógica bajo autoridad humana responsable. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Reconocer contribuciones y decidir quién autoriza son responsabilidades distintas. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Gestionar aprobaciones no debe desplazar desproporcionadamente la comprensión, formulación y documentación. |
