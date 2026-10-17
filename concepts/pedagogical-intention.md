@@ -1,6 +1,6 @@
 # Intención pedagógica
 
-**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C propuestas, pendientes de reconciliación humana. No altera el canon de F02.
+**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C reconciliadas por el fundador (2026-10-17). No altera el canon de F02.
 
 ## Definición canónica hasta F02
 
@@ -16,7 +16,7 @@ Una intención puede originar intenciones más específicas sin que toda necesid
 
 **Cómo afecta F02 al concepto:** Establece respuesta deliberada y diferenciación respecto de la necesidad, incluidas escalas y relación de delimitación de posibilidades.
 
-**Orientaciones que inciden en esta capa de F02 (evaluación O→C propuesta):**
+**Orientaciones que inciden en esta capa de F02 (reconciliadas):**
 
 | Orientación de F02 | Clasificación sobre este concepto | Justificación |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Una intención puede originar intenciones más específicas sin que toda necesid
 
 Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la capa. La relación O→C no se hereda automáticamente de O→F.
 
-**Pendiente:** reconciliar O7–O10 con F02 para incorporar únicamente las que efectivamente incidan en el concepto *a través de F02*. No anticipar su clasificación; el estado de esta capa no equivale a aprobación humana de sus relaciones O→C.
+**Revisión O7–O10 cerrada:** se incluyen solamente las orientaciones con incidencia en este concepto a través de F02.
 
 **Capas futuras:** si otro fundamento afecta al mismo concepto, añadir una **capa independiente de ese fundamento y de sus orientaciones incidentes**. No mezclar las orientaciones de distintos fundamentos ni duplicar la definición canónica.
 
