@@ -1,8 +1,8 @@
 # Corrección pedagógica
 
-**Estado:** definición acumulativa hasta F06 propuesta, pendiente de aprobación.
+**Estado:** definición y capa F06 reconciliadas por el fundador (2026-10-17).
 
-## Definición acumulativa hasta F06 (propuesta)
+## Definición canónica acumulativa hasta F06
 
 Decisión de modificar o solicitar modificar un elemento pedagógico a partir de problemas relevantes identificados en revisión, con alcance proporcional a sus consecuencias. Puede ser localizada o requerir reconsideración de elementos dependientes. Puede contar con ejecución técnica asistida; adoptar cambios materiales debe respetar la autorización humana pertinente. Si una intención deja de responder adecuadamente a la necesidad actual, la corrección ajusta lo pertinente y da lugar a **una nueva revisión de adecuación**, repetible mientras persistan discrepancias relevantes. No modifica silenciosamente la intención de origen ni exige corregirla si sigue respondiendo correctamente.
 
@@ -10,7 +10,7 @@ Decisión de modificar o solicitar modificar un elemento pedagógico a partir de
 
 **Aporte de F06:** conecta la intervención correctiva con la reevaluación iterativa de la adecuación entre necesidad e intención, y separa el examen crítico de la intervención correctiva y preserva alcance, impacto y responsabilidad humana.
 
-| Orientación incidente | Relación propuesta | Incidencia por F06 |
+| Orientación incidente | Relación reconciliada | Incidencia por F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | Corrige hacia pertinencia y propósito educativo. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Atiende desviaciones y mantiene significado pertinente. |
@@ -19,8 +19,8 @@ Decisión de modificar o solicitar modificar un elemento pedagógico a partir de
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | La adopción de decisiones materiales respeta autorización humana. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Reconoce contribuciones significativas a modificaciones. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Evita rehacer resultados o procesos innecesariamente. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Corregir o conservar versiones no justifica retener datos personales superfluos. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Puede corregir barreras concretas de uso sin imponer que todas las experiencias tengan el mismo medio. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Corregir o conservar versiones no justifica retener datos personales superfluos. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Puede corregir barreras concretas de uso sin imponer que todas las experiencias tengan el mismo medio. |
 
 ## Fronteras
 
