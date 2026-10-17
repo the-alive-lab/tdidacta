@@ -1,6 +1,6 @@
 # F03 — Contextualización pedagógica humana
 
-**Estado:** núcleo F03 reconciliado con O0–O6 por decisión del fundador (2026-10-16). Revisión O7–O10 y capas conceptuales **propuestas para deliberación**, no aprobadas. T04 permanece cerrado conceptualmente; compromisos documentales y técnicos del 31-10-2026 siguen independientes.
+**Estado:** F03 reconciliado con O0–O10 y sus capas conceptuales por aprobación expresa del fundador (2026-10-17). Las decisiones técnicas independientes conservan su estado.
 
 ## 1. Origen y propósito
 
@@ -57,10 +57,10 @@ La contextualización puede resultar errónea aunque se documente correctamente;
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Condición** | Preserva juicio humano sin equiparar formulación a autorización. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Incidencia marginal** | Contribuciones pueden mejorar contextualización, sin definir su responsabilidad central. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Priorizar comprensión/documentación por sobre producción repetitiva de realizaciones. |
-| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | La documentación contextual debe evitar recopilar o conservar datos personales innecesarios. |
-| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal propuesta** | Algunos contextos requieren acreditación externa; interpretar circunstancias no necesita certificar identidad personal por defecto. |
-| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | La contextualización debe reconocer barreras de acceso y aprovechamiento directo o indirecto cuando sean pertinentes, no presumir disponibilidad de la plataforma. |
-| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia propuesta** | La preservación de recursos publicados no es parte de interpretar y documentar necesidades, intenciones y circunstancias concretas. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | La documentación contextual debe evitar recopilar o conservar datos personales innecesarios. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal** | Algunos contextos requieren acreditación externa; interpretar circunstancias no necesita certificar identidad personal por defecto. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La contextualización debe reconocer barreras de acceso y aprovechamiento directo o indirecto cuando sean pertinentes, no presumir disponibilidad de la plataforma. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de recursos publicados no es parte de interpretar y documentar necesidades, intenciones y circunstancias concretas. |
 
 
 ## 7. Continuidad y mantenimiento
