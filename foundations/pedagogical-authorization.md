@@ -1,106 +1,112 @@
-# Autorización de elementos pedagógicos — T06
+# F07 — Autorización de elementos pedagógicos
 
-**Estado de seguimiento:** **T06 cerrado conceptualmente** por instrucción expresa del fundador (2026-10-16). No implica mecanismos técnicos implementados ni eficacia validada.
+**Estado:** fundamento conceptual reconciliado y cerrado por decisión del fundador (2026-10-17). No implica implementación de mecanismos ni eficacia demostrada.
 
-## Pregunta principal
+## 1. Definición
 
-¿Qué hace que un elemento pedagógico esté autorizado para su uso posterior, sin confundir autorización con revisión, corrección, autoría o publicación?
+La **autorización de elementos pedagógicos** es el fundamento que establece la responsabilidad humana de aceptar un elemento pedagógico para determinados usos y dentro de un alcance semántico reconocible.
 
-## Responsabilidad candidata
+Su propósito es permitir que decisiones pedagógicas aprobadas constituyan referencias estables para el trabajo posterior, sin impedir exploración de alternativas, revisión ni evolución de elementos autorizados.
 
-**Autorizar** es una decisión humana mediante la cual la persona responsable acepta un elemento pedagógico para un uso y alcance reconocibles, estableciendo una referencia semántica estable para el trabajo posterior. Puede ser situada: autorizar para una situación no la aprueba automáticamente para todas. Revisar, crear, corregir y autorizar son responsabilidades diferenciadas aunque puedan recaer en una misma persona (T01 y T05).
+Reconoce **elemento autorizado**, **alcance de autorización** (significado, condiciones y usos comprendidos) y **responsabilidad humana** (quién tiene autoridad para decidir).
 
-## Decisiones del fundador sobre alcance MVP y congelamiento (2026-10-16)
+Puede aplicarse a intenciones pedagógicas, elementos derivados y otros elementos del dominio. Autorizar uno no autoriza automáticamente otros relacionados ni todos sus usos y circunstancias. Formular, crear, revisar, corregir, autorizar y publicar son responsabilidades distintas aunque las desempeñe la misma persona.
 
-**Quién autoriza:** en el MVP, **la persona titular de la cuenta** (profesor particular) decide qué está listo y autoriza su utilización. La autorización colaborativa, institucional o multinivel se difiere como pregunta abierta hasta después del 31-10-2026. Agentes LLM y otras personas pueden proponer, pero no adquieren autoridad por hacerlo.
+## 2. Alcance semántico
 
-**Qué se autoriza:** **planificaciones, unidades, clases, actividades y todo elemento representable mediante intenciones pedagógicas**, no solo realizaciones terminadas. La persona puede decir «apruebo este elemento para su uso en el resto del flujo» respecto de una intención pedagógica, planificación en borrador, trayectoria de unidades propuesta por humano o LLM, clase, actividad u otra realización. Se puede autorizar una parte sin autorizar automáticamente todos sus descendientes.
+La autorización establece una referencia semántica reconocible: decisiones, restricciones, relaciones y condiciones aceptadas permanecen identificables en el trabajo posterior.
 
-**Qué significa congelar:** antes de la autorización, el espacio admite modificaciones de planificación; después, el **alcance semántico aprobado queda estable** para que personas o agentes exploren sus posibilidades sin modificar silenciosamente sus premisas. Congelar no es bloquear la exploración ni afirmar inmutabilidad técnica de archivos.
+Puede ser **situada**. Una autorización para una circunstancia no cubre automáticamente las demás. Autorizar una intención tampoco autoriza todas sus realizaciones.
 
-**Cómo cambia:** hallazgos durante exploración, cambios curriculares, omisiones o necesidades nuevas pueden conducir a revisión y corrección (T05) del elemento autorizado y a reconsiderar su autorización. No reemplazar silenciosamente la versión o alcance aprobado con la propuesta corregida; el modelo técnico de versiones y propagación se estudia en T09/T12.
+Debe distinguirse qué fue aceptado, qué queda abierto a exploración o modificación y qué requiere nueva decisión. No se exige formato universal ni alcance idéntico en todos los casos.
 
-**Motivo:** el trabajo de planificación nueva necesita volatilidad y libertad de modificación; una planificación existente y aprobada puede requerir mayor estabilidad y adaptaciones controladas.
+## 3. Estabilidad y exploración
 
-**Resolución T05→T06:** el alcance de revisión y reautorización corresponde al elemento afectado y sus dependencias, identificados manualmente por la persona titular de la cuenta en el MVP. Las especificaciones de detección, estados, permisos y versionamiento siguen abiertas.
+Antes de autorizar, la planificación puede modificarse. Después, el significado aprobado debe seguir identificable sin imponer inmutabilidad técnica o bloqueo de exploraciones.
 
-Estas decisiones **sustituyen la interpretación anterior** de autorización limitada a una realización final. Los casos colaborativos e institucionales no son requisito de MVP.
+Pueden explorarse posibilidades compatibles, generar derivados y alternativas, detectar problemas y proponer modificaciones **sin redefinir silenciosamente el alcance autorizado**.
 
-## Precisión: exploración previa a realizaciones y revisión por cambios documentales
+Una intención puede aprobarse antes de producir realizaciones. Las realizaciones posteriores no quedan aprobadas por extensión.
 
-**Decisión del fundador (2026-10-16):** una persona puede **autorizar y congelar una intención pedagógica antes de definir sus realizaciones**, precisamente para habilitar exploración y prueba-error de alternativas sin desestabilizar la intención aprobada. Una realización posterior no queda aprobada por extensión.
+## 4. Cambios y reconsideración
 
-Cuando **cambia una intención pedagógica autorizada**, deben **revisarse y autorizarse de nuevo los elementos dependientes afectados por ese cambio**. Se requiere examinar todas las dependencias pertinentes; esto no implica aprobar automáticamente cambios ni alterar elementos que no dependan de la intención modificada. La delimitación y detección de dependencias necesita un mecanismo específico, aún no implementado.
+Nuevas necesidades, cambios de circunstancias, errores o hallazgos pueden justificar modificar elementos autorizados.
 
-**Recorrido de cambio:**
-1. Un cambio externo afecta una necesidad pedagógica.
-2. La documentación vigente deja de reflejar plenamente el contexto o las intenciones pertinentes.
-3. Se actualiza la documentación para reflejar la necesidad y condiciones actuales.
-4. La abstracción vuelve a **generar las IR derivadas** desde la documentación actualizada; esto es una operación instrumental prevista como automatizable, no el principal problema de revisión.
-5. Se evalúa **si las exploraciones y realizaciones existentes siguen siendo válidas y coherentes** con el mundo semántico actualizado, identificando las dependencias pertinentes.
-6. Si la respuesta existente es insuficiente para cubrir la necesidad, se proponen cambios en la documentación y se repite la abstracción, hasta alcanzar una respuesta adecuada sometida a revisión y autorización.
+Un cambio material no debe sustituir silenciosamente lo aprobado. Según su impacto, corresponde revisar elementos y dependencias afectados, determinar vigencia de autorizaciones, corregir cuando sea necesario y reautorizar lo cuyo alcance cambió.
 
-La diferencia y el riesgo de **drift semántico** generan costo humano. Se propone un **mecanismo candidato independiente de apoyo para detectar dependencias y riesgos de drift**, sin sustituir revisión ni autorización humanas. Su diseño y alcance deben decidirse sin presumir eficacia o seguridad de la detección automatizada.
+Una modificación localizada no exige reautorizar elementos no afectados; una amplia puede alcanzar varias dependencias. Una diferencia documental o de IR tampoco invalida automáticamente todos los resultados derivados.
 
-**No se fijan aquí** formatos de diff, algoritmos, grados de transitividad, criterios técnicos ni procedimientos obligatorios de actualización; corresponden a especificaciones posteriores y al contraste con T08/T09/T12/T15.
+## 5. Responsabilidad humana
 
-## Dos declaraciones diferentes durante la actualización
+La decisión corresponde a una persona con autoridad pertinente al elemento y alcance. Otras personas o tecnología pueden crear, revisar, proponer o ejecutar cambios sin adquirir por ello esa autoridad.
 
-**Declaración de impacto:** **interpretar el cambio en la necesidad e identificar qué elementos y dependencias resultan afectados**; determinar si lo ya documentado, explorado y realizado **responde o no a la nueva necesidad**, indicando los efectos y riesgos de incoherencia. Un cambio documental pequeño puede dejar casi todas las realizaciones válidas, aunque exija comprobarlas; no se presume invalidación automática por diferencia de IR.
+La persona responsable necesita reconocer lo que acepta; no necesita haber creado personalmente cada elemento. Pueden existir esquemas individuales, colaborativos, institucionales o multinivel sin imponer uno universalmente.
 
-**Declaración de cambios (también «revisión de cambios»):** **tomar los elementos identificados como afectados y adecuarlos a la nueva necesidad**. Cuando la respuesta existente no es suficiente, determinar y aplicar ajustes a la documentación, intenciones, situaciones o realizaciones necesarios para responder correctamente. Cambios importantes pueden exigir nuevas unidades, intenciones subordinadas o realizaciones; la nueva documentación produce IR regenerada y vuelve a evaluarse el impacto.
+## 6. Fronteras
 
-**Frontera:** la declaración de impacto responde «¿qué afecta este cambio y sigue siendo válido?»; la declaración de cambios o revisión de cambios responde «¿cómo adecuamos lo afectado a la necesidad actual?». La primera no ejecuta los cambios, y la segunda no sustituye el análisis de impacto. Ambas pueden repetirse al actualizar documentación y regenerar IR.
+- **Contextualización:** formula y documenta necesidades, intenciones y circunstancias; autorización acepta determinados elementos y usos.
+- **Revisión/corrección:** examina o cambia elementos; no autoriza automáticamente.
+- **Abstracción:** documentación→IR; estructurar significado no lo autoriza.
+- **Proyección:** IR→exploraciones/realizaciones; generar resultados no implica aprobación.
+- **Análisis de impacto:** identifica afectados y vigencia; no constituye autorización.
+- **Gestión/declaración de cambios:** modifica lo pertinente; ejecutar cambios no los autoriza.
+- **Publicación:** disponibiliza elementos; autorizar no necesariamente publica.
+- **Conformidad, calidad, aprendizaje, derechos y consentimiento:** responsabilidades diferenciadas, no demostradas ni concedidas por autorización.
 
-Las declaraciones constituyen **responsabilidades conceptuales diferenciadas**, no necesariamente dos formularios, artefactos físicos o etapas rígidas. Puede haber iteración entre impacto y cambios. La comparación material es sobre **vigencia y coherencia de exploraciones y realizaciones con la necesidad y semántica actual**, no una exigencia de aprobar manualmente cada regeneración de IR.
+## 7. Límites
 
-## Criterio conceptual recibido de T05
+- No exige una autoridad personal única para todos los contextos ni jerarquía universal.
+- No exige autorización previa de toda exploración o propuesta.
+- No aprueba automáticamente derivados o circunstancias ajenas al alcance aprobado.
+- No impide revisar ni modificar elementos ni exige archivos inmutables.
+- No equipara autoría y autoridad ni sugerencias tecnológicas y aprobación humana.
+- No exige reautorizar elementos materialmente no afectados.
+- No impone versionamiento técnico universal ni garantiza conformidad, calidad o aprendizaje.
+- No concede automáticamente publicación, derechos de uso ni consentimiento.
 
-La obligación conceptual de revisar y corregir no implica necesariamente revisión exhaustiva de cada documento, intención, situación, IR o realización ni un procedimiento universal. Sin embargo, tampoco permite una aprobación sin juicio suficiente. **Criterio resuelto para el MVP:** se revisa y reautoriza el punto afectado y sus dependencias, determinado manualmente por la persona titular de la cuenta. La manera de detectar ese alcance con apoyo automático y verificar cobertura sigue pendiente, sin imponer una burocracia universal ni atribuir autoridad a un LLM.
+## 8. Nota de especialización — TDidacta
 
-## Alcance MVP confirmado y mecanismo de versionamiento
+La autorización puede aplicarse a intenciones, planificaciones, unidades, clases, actividades y realizaciones. Puede preceder a realizaciones para permitir exploración bajo premisas estables.
 
-En este MVP, la **persona titular de la cuenta** determina manualmente el impacto del cambio, revisa y vuelve a autorizar el punto afectado y sus dependencias. Se propone apoyo técnico para reducir ese esfuerzo, sin transferir la decisión de autorización.
+### Alcance de MVP
 
-El [versionamiento de elementos pedagógicos](../mechanisms/pedagogical-element-versioning.md) queda como **mecanismo candidato independiente** para planificaciones, unidades, clases, actividades y demás elementos expresables mediante intenciones. Su contrato técnico se examinará con T09 y T12.
+La **persona titular de la cuenta**, en escenario de profesor particular, autoriza elementos y determina manualmente cambios y dependencias que necesitan revisión y reautorización. Esto es **especialización operativa**, no principio universal. Colaboración institucional y autorización multinivel quedan diferidas.
 
-Toda autorización debe poder referirse a un **elemento y alcance semántico reconocibles**, asociables a la persona titular que autorizó; no se fija aún una estrategia técnica de identificadores, archivos o firmas.
+### Alcance del impacto
 
-## Fronteras
+Si cambia toda la planificación, se reconsidera lo afectado en su conjunto. Si cambia una unidad, se reconsidera esa unidad y dependencias pertinentes, sin extenderse indiscriminadamente a otras. La tecnología puede asistir la detección de dependencias y drift, sin presumir completitud ni reemplazar autoridad humana.
 
-Autorizar no implica publicación (T07), conformidad técnica verificada (T15), calidad educativa validada (T16), resultados de aprendizaje (T17), derechos de uso ni consentimiento (T22). Los cambios relevantes de la realización o situación pueden afectar el alcance de la autorización (T09/T12). La coordinación institucional (T21) no es universal.
+## 9. Responsabilidades operativas relacionadas
 
-## Pendientes de implementación o tratamiento posterior
+- **Declaración de impacto:** ¿qué afecta el cambio y qué permanece válido? Identifica elementos, dependencias y vigencia frente a la necesidad actual.
+- **Declaración o revisión de cambios:** ¿cómo adecuamos lo afectado? Determina y aplica cambios para responder a la necesidad.
+- **Versionamiento:** conserva referencias identificables entre elementos, cambios y alcances autorizados; [mecanismo candidato](../mechanisms/pedagogical-element-versioning.md).
+- **Asistencia tecnológica:** puede ayudar a detectar dependencias, riesgos y consecuencias, con eficacia pendiente de contraste.
 
-1. Autorización colaborativa, institucional y multinivel: después del 31-10-2026.
-2. Versionamiento técnico del elemento y del alcance autorizado: mecanismo candidato, continuidad T09.
-3. Asistencia para detectar impactos, dependencias y drift, con validación del esfuerzo humano: mecanismo candidato, continuidad T12/T15/T18.
-4. Relaciones y coordinación del ciclo de vida: checkpoint posterior al cierre y a la retroalimentación T06.
+Estas responsabilidades pueden iterar y no necesariamente implican formularios, artefactos separados o pasos rígidos. No definen por sí mismas la autorización.
 
-## Secuencia acordada
+## 10. Tensiones y relación entre ellas
 
-T06 cerrado por instrucción humana; realizar retroalimentación de los otros 27 tópicos y después checkpoint de Relationships y Lifecycle respecto de T01–T06.
+- **[O1/O3/O4 — continuidad, carga y autorización](../tensions/semantic-continuity-authorization-human-capacity.md):** tensión compuesta candidata aplicable; preservar significado de modificaciones y autoridad humana sin sobrecarga de análisis y reautorización. Integra aspectos de las binarias [O1/O3](../tensions/semantic-continuity-human-effort.md) y [O4/O3](../tensions/human-authorization-review-burden.md), sin eliminarlas.
+- **[O3/O6 — carga e inversión del esfuerzo](../tensions/effort-inversion-proportionality.md):** aplicable; administrar autorizaciones no debe desplazar desproporcionadamente la comprensión y documentación.
+- **[O1/O3/O4/O6 — interacción cuádruple](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md):** candidata específica para F07. Examinar si agrega dificultades conjuntas no cubiertas por las tensiones anteriores antes de promoverla a tensión autónoma.
 
-**Relacionados:** [T05](pedagogical-review-and-correction.md), [T04](human-pedagogical-contextualization.md), [T01](pedagogical-authorship.md).
+Los mecanismos deben responder a las tensiones materialmente aplicables y a sus límites, sin asumir que formularlas prueba su resolución.
 
-## Alcance de revisión y reautorización según impacto
+## 11. Trazabilidad con las orientaciones
 
-**Decisión del fundador:** revisar y reautorizar el punto afectado por un cambio de necesidad pedagógica y sus dependencias. Si el cambio afecta toda la planificación, se revisa y reautoriza toda ella; si afecta solo una unidad, se revisa y reautoriza esa unidad y sus dependencias, sin extender la revisión indiscriminadamente a otras unidades. Los cambios amplios suelen vincularse con intenciones de mayor alcance.
+| Orientación | Clasificación | Justificación |
+| --- | --- | --- |
+| [O0 — Principal](../orientation/README.md) | **Complemento** | Conecta la autorización con la finalidad pedagógica, sin originar la autoridad para aprobar. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Complemento** | El alcance aprobado aporta una referencia semántica reconocible para continuar y reconsiderar cambios. |
+| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Tecnología puede simplificar gestión de autorizaciones, impactos y dependencias; no autoriza por sí misma. |
+| [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Autorización y reautorización introducen trabajo humano; debe considerarse su proporcionalidad. |
+| [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Origen** | Justifica directamente decisiones de aprobación pedagógica bajo autoridad humana responsable. |
+| [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Reconocer contribuciones y decidir quién autoriza son responsabilidades distintas. |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Gestionar aprobaciones no debe desplazar desproporcionadamente la comprensión, formulación y documentación. |
 
-El procedimiento es manual en la actualidad y se aspira a automatizar su apoyo operativo, particularmente la detección de dependencias y riesgos de drift, sin transferir la autoridad humana al sistema. El criterio conceptual de suficiencia heredado de T05 queda precisado por el alcance del impacto; los algoritmos y garantías siguen pendientes.
+## 12. Continuidad
 
-## Trazabilidad hacia las orientaciones vigentes
+T06 fue cerrado conceptualmente el 2026-10-16. Esta reconciliación separa la definición general de las decisiones del MVP y de los mecanismos. Versionamiento, colaboración institucional, detección asistida de impacto y coordinación de ciclo de vida siguen pendientes.
 
-La orientación principal es **transversal** a este fundamento; las orientaciones complementarias se evalúan individualmente y no constituyen requisitos universales. Estas correspondencias son **explicaciones candidatas**, no pruebas de eficacia ni promoción conceptual.
-
-| Orientación | Relación con este fundamento |
-| --- | --- |
-| [Orientación principal](../orientation/README.md) | La enseñanza y aprendizaje explican por qué existen decisiones pedagógicas; **no** fundamentan por sí mismos quién debe autorizarlas. |
-| [Continuidad semántica](../orientation/semantic-continuity.md) | Estabilizar un alcance semántico revisable sin bloquear exploración. |
-| [Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | Puede apoyar identificación de cambios, nunca autoriza por sí sola. |
-| [Carga y capacidad](../orientation/human-effort-and-agency.md) | Reducir carga de reautorización es objetivo, no resultado demostrado. |
-
-| [Autorización humana](../orientation/human-pedagogical-authorization.md) | Es la orientación normativa directa: toda aprobación pedagógica reconocida corresponde a una persona responsable. |
-| [Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | La atribución de aportes no concede automáticamente autoridad de autorización. |
-
-**Regla de mantenimiento:** agregar o modificar una orientación exige revisar esta tabla junto con las de **todos los fundamentos**; una fila de baja relevancia debe explicarlo, no inventar una dependencia.
+**Mantenimiento:** revisar correspondencias y tensiones si cambian orientaciones, sin deducir eficacia del cierre conceptual.
