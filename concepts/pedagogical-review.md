@@ -1,8 +1,8 @@
 # Revisión pedagógica
 
-**Estado:** definición acumulativa hasta F06 propuesta, pendiente de aprobación.
+**Estado:** definición y capa F06 reconciliadas por el fundador (2026-10-17).
 
-## Definición acumulativa hasta F06 (propuesta)
+## Definición canónica acumulativa hasta F06
 
 Examen crítico, situado y proporcional de elementos pedagógicos —incluidas intenciones, circunstancias, documentación, representaciones y realizaciones— para identificar errores, omisiones, contradicciones, insuficiencias, incertidumbres o desviaciones relevantes. Puede concluir en conservación razonada, solicitud de comprobación, propuesta de corrección, rechazo o cuestión abierta. Ante cambios externos relevantes que puedan modificar una necesidad o sus circunstancias, la revisión contrasta **si la intención vinculada continúa respondiendo apropiadamente**. Puede reanudarse después de una corrección para comprobar la nueva adecuación: forma parte de un ciclo y no garantiza por sí misma que la respuesta final sea correcta. Revisar no obliga a cambiar ni equivale a autorizar. **La proporcionalidad es parte del propio concepto de revisión:** su profundidad, alcance y esfuerzo deben ajustarse a relevancia, incertidumbre, cambios, riesgos y consecuencias. No supone controles mínimos en toda situación: evita tanto exhaustividad injustificada como omitir verificaciones materialmente necesarias.
 
@@ -10,7 +10,7 @@ Examen crítico, situado y proporcional de elementos pedagógicos —incluidas i
 
 **Aporte de F06:** establece el examen crítico ante cambios relevantes de necesidades o circunstancias, su carácter iterativo y sus posibles decisiones y el criterio integrado de proporcionalidad; distingue considerar una revisión de ejecutarla, sin procedimiento universal.
 
-| Orientación incidente | Relación propuesta | Incidencia por F06 |
+| Orientación incidente | Relación reconciliada | Incidencia por F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | Examina pertinencia respecto de la necesidad pedagógica. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Examina continuidad y desviaciones de significado. |
@@ -19,8 +19,8 @@ Examen crítico, situado y proporcional de elementos pedagógicos —incluidas i
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Inspeccionar o recomendar no constituye autorización de cambios materiales. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Aportes y feedback relevantes deben poder reconocerse. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Evita revisión repetitiva desproporcionada. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Inspeccionar evidencia y materiales no justifica acceder ni retener datos personales innecesarios. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Examina accesibilidad efectiva y pertinencia en uso directo o indirecto cuando corresponda. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Inspeccionar evidencia y materiales no justifica acceder ni retener datos personales innecesarios. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Examina accesibilidad efectiva y pertinencia en uso directo o indirecto cuando corresponda. |
 
 ## Fronteras
 
