@@ -239,3 +239,7 @@ Se verificó que [F01](../foundations/teaching-and-learning.md) repetía definic
 ## Definiciones acumulativas F02 → F03 (2026-10-17)
 
 Se precisó la regla de evolución de Concepts: **añadir una capa F03 a un concepto preexistente también requiere actualizar su definición acumulativa**, no solo su trazabilidad. Se actualizaron [necesidad pedagógica](../concepts/pedagogical-need.md) e [intención pedagógica](../concepts/pedagogical-intention.md) con una sección de **definición acumulativa hasta F03 (propuesta)**, manteniendo por separado las definiciones F02 previamente reconciliadas para conservar su procedencia. El aporte F03 no se considera aprobado todavía; pendiente revisión del fundador junto a F03. No se avanzó a F04.
+
+## F04 — Análisis preparado, pendiente de revisión (2026-10-17)
+
+Se reorganizó [F04 — Abstracción semántica](../foundations/semantic-abstraction.md) como fundamento transversal, separando definiciones de los conceptos [abstracción](../concepts/semantic-abstraction.md), [representación intermedia](../concepts/semantic-intermediate-representation.md) y [composición](../concepts/semantic-representation-composition.md). Propuesta O7 **Condición**, O8 **Sin incidencia**, O9 **Incidencia marginal**, O10 **Sin incidencia**. Se preservan O0–O6, hipótesis no demostrada de utilidad de IR y tensiones existentes. Clasificaciones y nuevas entradas **pendientes de decisión del fundador**. No avanzar a F05–F07.
