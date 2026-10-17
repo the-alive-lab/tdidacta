@@ -67,14 +67,14 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** F06 y relaciones O7–O10 reconciliados por aprobación del fundador (2026-10-17). **Proporcionalidad de revisión se integró en Revisión pedagógica** por decisión del fundador; no constituye concepto separado.
 
-## Entradas y capas propuestas de F07
+## Entradas y capas de F07 reconciliadas
 
 | Concepto | Contribución |
 | --- | --- |
 | [Autorización pedagógica](pedagogical-authorization.md) | Ampliación de la capa F06 con definición y capa F07 |
 | [Alcance de autorización pedagógica](pedagogical-authorization-scope.md) | Definición y capa F07 |
 
-**Estado:** contribuciones F07 y relaciones O7–O10 propuestas, pendientes de reconciliación. Por decisión del fundador, autorizar una nueva versión se integra en **Autorización pedagógica**, no constituye un concepto de reautorización independiente. Las versiones consolidadas se tratan como inmutables; reemplazar la versión publicada corresponde a publicación.
+**Estado:** contribuciones F07 y relaciones O7–O10 reconciliadas por el fundador (2026-10-17). Por decisión del fundador, autorizar una nueva versión se integra en **Autorización pedagógica**, no constituye un concepto de reautorización independiente. Las versiones consolidadas se tratan como inmutables; reemplazar la versión publicada corresponde a publicación.
 
 ## Entradas propuestas de F08 — Autoría pedagógica
 
