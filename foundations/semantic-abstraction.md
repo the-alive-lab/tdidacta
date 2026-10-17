@@ -1,6 +1,6 @@
 # F04 — Abstracción semántica
 
-**Estado:** núcleo O0–O6 reconciliado (2026-10-16). Revisión O7–O10 y entradas conceptuales **propuestas, pendientes de aprobación**. El fundamento conserva alcance transversal a PResolver, con especialización pedagógica en TDidacta.
+**Estado:** reconciliado O0–O10 y conceptos derivados por aprobación del fundador (2026-10-17). El fundamento conserva alcance transversal a PResolver, con especialización pedagógica en TDidacta.
 
 ## 1. Origen y responsabilidad
 
@@ -38,7 +38,7 @@ Como antecedente complementario, la [síntesis sobre representación intermedia 
 
 Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md). La asistencia O2 podría atenuar esfuerzo, sin garantizar ahorro.
 
-**Nuevas orientaciones propuestas:** O7 condicionaría la minimización de datos personales durante abstracción y composición; O8 no modifica su frontera; O9 podría reforzar marginalmente preservación de circunstancias de acceso en el dominio pedagógico, no las capacidades de distribución; O10 no exige conservar recursos educativos como IR.
+**Incidencia de las orientaciones O7–O10 reconciliada:** O7 condiciona la minimización de datos personales durante abstracción y composición; O8 no modifica su frontera; O9 refuerza marginalmente preservación de circunstancias de acceso en el dominio pedagógico, no las capacidades de distribución; O10 no exige conservar recursos educativos como IR.
 
 ## 5. Fronteras
 
@@ -57,9 +57,9 @@ La definición documental corresponde a Docs Standard; esquemas de IR correspond
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | La autorización de documentación de entrada es una responsabilidad externa a la definición de abstracción. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Reconocimiento corresponde a otras responsabilidades, aunque pueda haber metadatos significativos que preservar desde O1. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Debe favorecer concentración humana en comprensión/documentación por sobre gestión o producción repetitiva de realizaciones. |
-| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Estructurar y combinar significado no justifica por sí mismo propagar, conservar ni inferir nuevos datos personales innecesarios. |
-| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia propuesta** | La abstracción no reconoce ni certifica identidades personales; conservar referencias semánticas justificadas no equivale a acreditarlas. |
-| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal propuesta** | En la especialización TDidacta puede ser útil preservar restricciones contextuales de acceso presentes en las fuentes; la utilizabilidad directa o indirecta corresponde a realizaciones y mecanismos posteriores. |
-| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia propuesta** | La preservación independiente de recursos publicados no define la transformación entre prosa e IR ni exige que todo recurso se almacene como IR. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Estructurar y combinar significado no justifica por sí mismo propagar, conservar ni inferir nuevos datos personales innecesarios. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | La abstracción no reconoce ni certifica identidades personales; conservar referencias semánticas justificadas no equivale a acreditarlas. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | En la especialización TDidacta puede ser útil preservar restricciones contextuales de acceso presentes en las fuentes; la utilizabilidad directa o indirecta corresponde a realizaciones y mecanismos posteriores. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación independiente de recursos publicados no define la transformación entre prosa e IR ni exige que todo recurso se almacene como IR. |
 
 **Mantenimiento:** revisar clasificaciones y tensiones cuando cambien las orientaciones; no confundir su relación conceptual con eficacia demostrada.
