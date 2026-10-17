@@ -10,7 +10,7 @@ Puede expresarse mediante una planificación anual o semestral, unidad, clase o 
 
 La intención se **formula y documenta de forma situada**, mediante juicio humano, con razones, significados, decisiones, restricciones, incertidumbres y circunstancias pertinentes para sus destinatarios. Una misma intención puede aplicarse en circunstancias diferentes sin redefinirse íntegramente. La documentación debe permitir reconstruir lo relevante al cambiar escalas, versiones o realizaciones, de manera suficiente y proporcional, sin exigir exhaustividad ni sustituir el juicio humano mediante inferencias tecnológicas.
 
-Una intención formulada no queda automáticamente autorizada ni garantiza aprendizaje. Puede **revisarse y corregirse de manera iterativa** cuando cambios externos alteran la necesidad pedagógica o las circunstancias a las que responde. Se contrasta si continúa siendo adecuada; cuando no lo es, se corrige y vuelve a examinar su adecuación, hasta alcanzar una respuesta apropiada según el juicio y la evidencia disponibles. Si continúa respondiendo correctamente, puede conservarse. Las exploraciones y realizaciones pueden informar esa revisión, pero no modifican silenciosamente su significado de origen. Adoptar modificaciones pedagógicas materiales debe respetar la autorización humana pertinente.
+Una intención formulada no queda automáticamente autorizada ni garantiza aprendizaje. Puede **revisarse y corregirse de manera iterativa** cuando cambios externos alteran la necesidad pedagógica o las circunstancias a las que responde. Se contrasta si continúa siendo adecuada; cuando no lo es, se prepara y corrige **una nueva versión candidata** y vuelve a examinarse su adecuación, hasta alcanzar una respuesta apropiada según el juicio y la evidencia disponibles. Si continúa respondiendo correctamente, puede conservarse. Las exploraciones y realizaciones pueden informar esa revisión, pero no modifican silenciosamente su significado de origen. Una intención ya consolidada y autorizada **no se modifica en su propia versión**. La nueva versión puede variar en contenido o nombre y requiere autorización propia para su uso correspondiente; la versión anterior y su autorización permanecen intactas.
 
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
@@ -53,7 +53,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte de F06:** la intención debe poder reevaluarse ante cambios externos pertinentes en la necesidad vinculada o sus circunstancias, corrigiéndose iterativamente si deja de responder adecuadamente. No todo cambio requiere corregir y las realizaciones no la modifican silenciosamente.
+**Aporte de F06:** la intención debe poder reevaluarse ante cambios externos pertinentes en la necesidad vinculada o sus circunstancias, generando y revisando una nueva versión candidata si deja de responder adecuadamente, sin mutar la versión anterior consolidada. No todo cambio requiere corregir y las realizaciones no la modifican silenciosamente.
 
 | Orientación incidente | Clasificación reconciliada | Incidencia mediante F06 |
 | --- | --- | --- |
