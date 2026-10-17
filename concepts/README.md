@@ -6,9 +6,9 @@
 
 | Concepto | Definición canónica de origen |
 | --- | --- |
-| [Enseñanza](teaching.md) | [F01 — §§1–2](../foundations/teaching-and-learning.md) |
-| [Aprendizaje](learning.md) | [F01 — §§1–3](../foundations/teaching-and-learning.md) |
-| [Experiencia de enseñanza y aprendizaje](teaching-learning-experience.md) | [F01 — §§2–5](../foundations/teaching-and-learning.md) |
+| [Enseñanza](teaching.md) | [F01 — tabla de conceptos](../foundations/teaching-and-learning.md) |
+| [Aprendizaje](learning.md) | [F01 — tabla de conceptos](../foundations/teaching-and-learning.md) |
+| [Experiencia de enseñanza y aprendizaje](teaching-learning-experience.md) | [F01 — tabla de conceptos](../foundations/teaching-and-learning.md) |
 
 Las entradas recogen los conceptos centrales de F01 sin convertir automáticamente participación activa, aportes y condiciones de contexto en conceptos autónomos: pueden examinarse cuando otros fundamentos los desarrollen.
 
