@@ -1,98 +1,48 @@
 # F04 — Abstracción semántica
 
-**Estado:** fundamento conceptual reconocido para la familia PResolver y reconciliado con las orientaciones en TDidacta (2026-10-16). Formalización general y validación operativa entre flavors pendientes.
+**Estado:** núcleo O0–O6 reconciliado (2026-10-16). Revisión O7–O10 y entradas conceptuales **propuestas, pendientes de aprobación**. El fundamento conserva alcance transversal a PResolver, con especialización pedagógica en TDidacta.
 
-## 1. Definición
+## 1. Origen y responsabilidad
 
-La **abstracción semántica** es el fundamento que establece la relación entre la documentación expresada en prosa y una representación intermedia estructurada de su significado.
+F04 surge de **O1 — Continuidad semántica** y **O2 — Aprovechamiento tecnológico**. Establece la responsabilidad de **relacionar significado documental en prosa con representaciones estructuradas aprovechables por tecnología**, manteniendo visibles restricciones, relaciones y posibles pérdidas o ambigüedades.
 
-Su propósito es permitir que el conocimiento, las decisiones, las relaciones y las restricciones expresadas documentalmente puedan representarse de una forma que facilite su utilización tecnológica posterior.
+La abstracción no supone traducción perfecta, equivalencia ni reversibilidad. Tampoco reemplaza necesariamente la documentación de origen. **O0** condiciona su especialización al dominio pedagógico de TDidacta, no la definición general de PResolver.
 
-La representación intermedia resultante puede utilizarse individualmente o en combinación con otras representaciones, tanto del mismo flavor como de otros miembros de la familia PResolver.
+## 2. Relaciones y condiciones del fundamento
 
-Esta capacidad de composición busca facilitar la exploración de posibilidades y la producción de realizaciones mediante tecnologías, sin exigir que cada operación posterior vuelva a interpretar íntegramente la documentación original.
+- **Fuente y resultado diferenciados:** una representación estructurada puede contener solo parte del significado de su documentación de origen.
+- **Continuidad verificable:** deben poder reconocerse significados y restricciones relevantes, así como ambigüedades y pérdidas significativas.
+- **Composición condicionada:** representaciones del mismo o de distintos flavors pueden combinarse únicamente cuando sus significados y relaciones sean compatibles para el objetivo concreto; la compatibilidad no se presume.
+- **Frontera de responsabilidad:** abstraer prepara significado para usos posteriores; **proyectar** para producir exploraciones o realizaciones pertenece a F05.
+- **Esfuerzo proporcionado:** crear, validar y mantener estructuras introduce costos que O3 y O6 exigen contrastar con sus beneficios reales.
 
-La abstracción semántica no define por sí misma cómo se generan exploraciones o realizaciones. Establece una representación del significado que puede ser utilizada para facilitar esas operaciones posteriores.
+En TDidacta, las fuentes pueden expresar necesidades, intenciones, circunstancias y relaciones pedagógicas. Docs Standard define su representación documental; [IR Specification](../products/ir-specification/README.md) define características técnicas de IR.
 
-## 2. Relación entre documentación y representación
+## 3. Conceptos originados desde F04
 
-La documentación en prosa permite expresar conocimiento, intenciones, contexto, decisiones y restricciones de manera comprensible para las personas.
+| Concepto | Aporte específico de F04 | Entrada |
+| --- | --- | --- |
+| Abstracción semántica | Relación entre significado documental y representación estructurada; preservación y pérdidas. | [Definición y capa F04](../concepts/semantic-abstraction.md) |
+| Representación intermedia semántica | Resultado conceptual estructurado que puede usarse individualmente o en combinación, sin imponer formato universal. | [Definición y capa F04](../concepts/semantic-intermediate-representation.md) |
+| Composición de representaciones semánticas | Posibilidad condicionada por compatibilidad y continuidad de significado. | [Definición y capa F04](../concepts/semantic-representation-composition.md) |
 
-La representación intermedia permite organizar parte de ese significado en una estructura que pueda ser interpretada y utilizada por sistemas tecnológicos.
+Se preservan las definiciones en Concepts y las fronteras frente a estructuras técnicas y mecanismos. No se presupone que cada concepto nuevo requiera un nuevo producto.
 
-La abstracción relaciona ambas expresiones sin asumir que sean idénticas ni que toda la riqueza de la documentación pueda convertirse automáticamente en una estructura formal.
+## 4. Hipótesis de utilidad y tensiones
 
-Para conservar la continuidad semántica, deben poder reconocerse las relaciones, restricciones y significados relevantes, así como las ambigüedades o pérdidas que puedan aparecer durante la transformación.
+**Hipótesis investigativa, no demostrada:** una IR podría ser más efectiva o eficiente que procesar prosa directamente en determinadas operaciones tecnológicas. La comparación debe incluir construcción, validación, mantenimiento y utilización; compactación no prueba superioridad.
 
-La representación intermedia no reemplaza necesariamente a la documentación de origen.
+Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md). La asistencia O2 podría atenuar esfuerzo pero no garantiza ahorro.
 
-## 3. Composición de representaciones
+**Nuevas orientaciones propuestas:** O7 condicionaría la minimización de datos personales durante abstracción y composición; O8 no modifica su frontera; O9 podría reforzar marginalmente preservación de circunstancias de acceso en el dominio pedagógico, no las capacidades de distribución; O10 no exige conservar recursos educativos como IR.
 
-Una representación intermedia puede expresar una parte delimitada del conocimiento documentado.
+## 5. Fronteras
 
-Varias representaciones pueden combinarse para abordar necesidades o situaciones que requieran considerar distintos elementos relacionados.
+F04 no impone formato universal, reversibilidad, transformación sin pérdidas, compatibilidad automática, conformidad semántica demostrada, autorización pedagógica ni algoritmo concreto de transformación. No produce por sí mismo exploraciones o realizaciones.
 
-Estas representaciones pueden proceder de un mismo flavor o de diferentes flavors de PResolver, siempre que sus significados y relaciones sean compatibles con la composición pretendida.
+La definición documental corresponde a Docs Standard; esquemas de IR corresponden a IR Specification; producción a partir de IR corresponde a [F05 — Proyección semántica](semantic-projection.md).
 
-La posibilidad de combinar representaciones no implica que todas sean universalmente compatibles ni que su combinación produzca automáticamente resultados coherentes.
-
-La compatibilidad y la preservación del significado deben poder examinarse.
-
-## 4. Relación con exploraciones y realizaciones
-
-La abstracción semántica facilita disponer de representaciones estructuradas que puedan utilizarse para explorar posibilidades y producir realizaciones mediante tecnologías.
-
-Esto permite separar dos responsabilidades:
-
-- **Abstracción semántica:** representar estructuradamente significado documentado.
-- **Proyección semántica:** utilizar representaciones intermedias para producir exploraciones o realizaciones.
-
-La abstracción no realiza por sí misma las exploraciones o realizaciones posteriores.
-
-Su finalidad es facilitar estas operaciones, incluyendo aquellas que requieran utilizar varias representaciones de manera conjunta.
-
-## 5. Límites
-
-La abstracción semántica:
-
-- No exige un formato universal de representación intermedia.
-- No presupone que toda la documentación pueda representarse sin pérdidas.
-- No requiere que la transformación sea reversible.
-- No garantiza la compatibilidad entre representaciones.
-- No demuestra que una representación obtenida sea semánticamente conforme.
-- No convierte automáticamente una representación en un elemento pedagógicamente autorizado.
-- No define cómo deben implementarse los mecanismos de transformación.
-- No ejecuta las operaciones posteriores de exploración o realización.
-
-La utilidad y eficacia de las representaciones deberán contrastarse en sus aplicaciones concretas.
-
-## 6. Hipótesis de utilidad — separada de la definición
-
-Se plantea la **hipótesis investigativa, no demostrada**, de que una representación intermedia estructurada puede ser **más efectiva y/o eficiente que la documentación en prosa** para determinadas operaciones tecnológicas. La prosa contiene explicaciones, redundancias y otros elementos expresivos útiles para comprensión humana que podrían no ser necesarios en igual medida para cada procesamiento tecnológico.
-
-- **Efectividad:** preservar y usar correctamente el significado relevante para las operaciones pretendidas.
-- **Eficiencia:** recursos y esfuerzos de obtener resultados, **incluyendo construcción, validación, mantenimiento y uso de la IR**.
-
-La compactación no prueba ninguna ventaja. La hipótesis debe contrastarse frente a procesar directamente la prosa y evaluarse en Research sin definir la identidad del fundamento por el resultado del contraste.
-
-## 7. Nota de especialización — TDidacta
-
-En TDidacta, la documentación de origen puede expresar necesidades, intenciones pedagógicas, subdivisiones, circunstancias de aplicación y relaciones entre intenciones.
-
-La abstracción semántica permite relacionar esa documentación con representaciones intermedias que faciliten exploraciones y realizaciones pedagógicas posteriores.
-
-La definición documental corresponde a TDidacta Docs Standard, mientras que las características concretas de la representación intermedia corresponden a su [IR Specification](../products/ir-specification/README.md).
-
-Esta nota describe la aplicación del fundamento al dominio pedagógico. No modifica su definición general ni incorpora responsabilidades de mecanismos particulares.
-
-## 8. Tensiones aplicables
-
-- **[O1 ↔ O3](../tensions/semantic-continuity-human-effort.md):** preservar significado al abstraer puede exigir trabajo de estructuración, revisión y mantenimiento. O2 puede aportar asistencia, sin garantizar ahorro.
-- **[O3 ↔ O6](../tensions/effort-inversion-proportionality.md):** crear o mantener IR puede desviar esfuerzo desde comprender hacia gestionar estructuras. La inversión debe ser proporcionada, sin dar por resuelta la tensión.
-
-Los mecanismos correspondientes deberán responder a ambas y mostrar sus límites. La hipótesis de mayor eficiencia de IR frente a prosa es una pregunta investigativa distinta, no una tercera tensión ya identificada.
-
-## 9. Trazabilidad con las orientaciones
+## 6. Trazabilidad O→F04
 
 | Orientación | Clasificación | Justificación |
 | --- | --- | --- |
@@ -103,5 +53,9 @@ Los mecanismos correspondientes deberán responder a ambas y mostrar sus límite
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | La autorización de documentación de entrada es una responsabilidad externa a la definición de abstracción. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Reconocimiento corresponde a otras responsabilidades, aunque pueda haber metadatos significativos que preservar desde O1. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Debe favorecer concentración humana en comprensión/documentación por sobre gestión o producción repetitiva de realizaciones. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Estructurar y combinar significado no justifica por sí mismo propagar, conservar ni inferir nuevos datos personales innecesarios. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia propuesta** | La abstracción no reconoce ni certifica identidades personales; conservar referencias semánticas justificadas no equivale a acreditarlas. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal propuesta** | En la especialización TDidacta puede ser útil preservar restricciones contextuales de acceso presentes en las fuentes; la utilizabilidad directa o indirecta corresponde a realizaciones y mecanismos posteriores. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia propuesta** | La preservación independiente de recursos publicados no define la transformación entre prosa e IR ni exige que todo recurso se almacene como IR. |
 
 **Mantenimiento:** revisar clasificaciones y tensiones cuando cambien las orientaciones; no confundir su relación conceptual con eficacia demostrada.
