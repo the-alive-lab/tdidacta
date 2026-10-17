@@ -1,6 +1,12 @@
 # Intención pedagógica
 
-**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C reconciliadas por el fundador (2026-10-17). No altera el canon de F02.
+**Estado:** definición F02 reconciliada (2026-10-17), con extensión acumulativa F03 **propuesta y pendiente de aprobación**. Las capas de trazabilidad permanecen diferenciadas.
+
+## Definición acumulativa hasta F03 (propuesta)
+
+Una **intención pedagógica** es una respuesta deliberada que formula quien asume la responsabilidad de enseñar al interpretar, organizar y delimitar una necesidad. Puede expresar propósitos, condiciones, restricciones, conexiones y alternativas; sus decisiones **delimitan un espacio de posibilidades** sin confundirse con él. Puede existir a distintas escalas y originar intenciones más específicas, sin una jerarquía obligatoria.
+
+**F03 incorpora su formulación situada y responsabilidad humana:** la intención se interpreta y documenta suficientemente, con razones, decisiones, restricciones, incertidumbres y circunstancias de aplicación pertinentes para sus destinatarios. Una misma intención puede aplicarse en circunstancias diversas sin redefinirse por completo. La documentación debe ser proporcional al alcance, permitir reconstruir el significado relevante y no equivale a autorización pedagógica ni garantiza aprendizaje. Las tecnologías pueden asistir sin sustituir el juicio humano.
 
 ## Definición canónica hasta F02
 
