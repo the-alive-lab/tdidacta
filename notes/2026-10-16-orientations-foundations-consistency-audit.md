@@ -269,3 +269,7 @@ Se sincronizaron la tabla de [F06](../foundations/pedagogical-review-and-correct
 ## F06 — Reconciliación por aprobación del fundador (2026-10-17)
 
 Se refleja la aprobación expresa de F06 y su revisión conceptual completa, incluyendo O7 Condición, O8 Sin incidencia, O9 Condición y O10 Incidencia marginal. Se sincronizaron el fundamento, el índice de Concepts y todas las capas F06 en Revisión, Corrección, Autorización, Necesidad, Intención y Realización. Las capas F03 aún pendientes y la propuesta F07 se mantienen en sus respectivos estados; no se declara validación empírica.
+
+## F07 — Versiones consolidadas inmutables y autorización por versión (2026-10-17)
+
+El fundador corrigió el modelo conceptual F07: **la intención ya consolidada y autorizada no muta**. Ante cambios de necesidad que exigen corrección, F06 motiva y revisa **una nueva versión** de la intención, incluso con nombre o contenido diferente; F07 **autoriza la nueva versión**, sin reautorizar retrospectivamente la anterior. Si existía una versión publicada, se **sustituye la versión ofrecida como vigente** sin sobrescribir el contenido histórico. La política de preservación de versiones previas y el mecanismo de publicación siguen separados y pendientes. Se absorbió «Reautorización pedagógica» dentro de «Autorización pedagógica», eliminando el concepto independiente, y se actualizaron F07, Concepts y el mecanismo candidato de versionamiento. O7–O10 de F07 permanecen en propuesta hasta reconciliación expresa.
