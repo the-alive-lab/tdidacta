@@ -22,6 +22,16 @@ Una tensión explicita un problema de **satisfacer simultáneamente dos o más o
 
 - [Tensión O4/O3 — autorización humana frente a carga y capacidad](human-authorization-review-burden.md): la aprobación humana introduce una decisión adicional; **candidata** y transversal a fundamentos donde O4 actúe como condición y O3 incida materialmente. Identificada durante F06; eficacia de respuestas pendiente.
 
+## Tensiones compuestas e interacciones candidatas
+
+- [O1/O3/O6 — continuidad, carga e inversión del esfuerzo](semantic-continuity-capacity-effort-inversion.md): interacción entre preservar significado, carga proporcional y dónde se invierte trabajo humano. **Candidata** en F03–F06; no elimina O1/O3 ni O3/O6.
+- [O1/O3/O4 — continuidad, carga y autorización](semantic-continuity-authorization-human-capacity.md): interacción entre significado y aprobación material sin sobrecarga. **Candidata** en F06–F07; no elimina O1/O3 ni O3/O4.
+- [O1/O3/O4/O6 — interacción cuádruple](semantic-continuity-authorization-capacity-effort-inversion.md): **candidata para F07**, por contraste; todavía no se afirma que constituya tensión autónoma de las dos compuestas anteriores.
+
+**Relación distinta de tensión:** una orientación puede ser **medio de respuesta o atenuación**, no un polo en conflicto. En particular, O2 puede apoyar el tratamiento de O1/O3 mediante tecnologías, sin convertirse en una supuesta tríada conflictiva O1/O2/O3. Evitar convertir esta observación en una taxonomía nueva sin revisión metodológica.
+
+La aplicabilidad debe comprobarse por las exigencias reales en cada fundamento y no por mera coaparición de etiquetas. Registrar una composición no significa duplicar evaluaciones ni afirmar resolución.
+
 ## Fronteras
 
 - **Orientations** define compromisos.
