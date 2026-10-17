@@ -1,18 +1,16 @@
 # Necesidad pedagógica
 
-**Estado:** definición F02 reconciliada (2026-10-17), con extensión acumulativa F03 **propuesta y pendiente de aprobación**. Las capas de trazabilidad permanecen diferenciadas.
+**Estado:** definición canónica acumulativa integrada hasta F03. F02 reconciliado; aporte F03 propuesto, pendiente de reconciliación. Las capas conservan su trazabilidad independiente.
 
-## Definición acumulativa hasta F03 (propuesta)
+## Definición canónica acumulativa hasta F03
 
-Una **necesidad pedagógica** expresa algo que requiere abordarse mediante enseñanza, aprendizaje o apoyo educativo. Puede proceder de una institución, del contexto, de quien aprende o de otros participantes y **no posee una escala fija**: puede motivar una actividad, clase, unidad, planificación amplia u otra respuesta sin imponer jerarquía.
+Una **necesidad pedagógica** expresa algo que requiere abordarse mediante enseñanza, aprendizaje o apoyo educativo. Puede proceder de una institución, del contexto, de quien aprende o de otros participantes.
 
-**F03 añade una exigencia de interpretación situada:** al contextualizar una respuesta, la necesidad se comprende y documenta con la procedencia, el alcance, las razones y las circunstancias relevantes para decidir cómo atenderla. Esto no significa registrar exhaustivamente a las personas o sus características, ni convierte la necesidad en una intención o en una realización.
+No tiene escala fija: puede motivar una actividad, clase, unidad, planificación amplia u otra respuesta sin imponer una jerarquía obligatoria.
 
-## Definición canónica hasta F02
+Cuando se contextualiza una respuesta pedagógica, la necesidad se **interpreta y documenta de manera situada**, haciendo comprensibles su procedencia, alcance, razones y circunstancias relevantes para decidir cómo atenderla. Este examen debe ser suficiente y proporcional al problema, sin exigir registrar exhaustivamente características o datos personales de los participantes.
 
-Una **necesidad pedagógica** expresa algo que requiere ser abordado mediante enseñanza, aprendizaje o apoyo educativo. Puede proceder de una institución, del contexto, de quien aprende o de otros participantes.
-
-No tiene escala fija: una necesidad puede atenderse con una actividad, clase, unidad, planificación amplia u otra respuesta. Su tamaño no determina una jerarquía obligatoria.
+La necesidad no se confunde con la intención formulada para responderle ni con las realizaciones que puedan derivarse de ella.
 
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
