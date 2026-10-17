@@ -2,10 +2,12 @@
 
 **Estado:** significado conceptual derivado de F04, reconciliado por el fundador (2026-10-17). No sustituye [IR Specification](../products/ir-specification/README.md) ni [estructura de TDidacta](../structures/tdidacta-intermediate-representation.md).
 
-## Definición acumulativa hasta F04
+## Definición acumulativa hasta F05 (propuesta)
 
 Representación estructurada de significado documental relevante —incluidas relaciones y restricciones— destinada a poder ser interpretada y utilizada posteriormente por tecnologías, individualmente o junto con otras representaciones. Puede expresar solo una parte delimitada de su fuente y conservar ambigüedades o pérdidas reconocibles. No equivale al documento original ni necesita un formato universal.
 
+
+**Ampliación F05 propuesta:** La representación también puede actuar como fuente de exploraciones y realizaciones tecnológicas conforme a su significado, sin constituirse por ello en una realización o aprobación.
 ## Capa F04 — Abstracción semántica
 
 **Aporte de F04:** caracteriza el resultado conceptual de abstraer significado, diferenciándolo de la fuente textual y del uso posterior mediante proyección.
@@ -18,6 +20,20 @@ Representación estructurada de significado documental relevante —incluidas re
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | El valor de utilizar IR debe contrastarse contra su costo integral de creación y mantenimiento. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Gestionar IR no debe desplazar desproporcionadamente la comprensión pedagógica. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | La representación no debe incluir datos personales sin justificación derivada del propósito de tratamiento. |
+
+## Capa F05 — Proyección semántica
+
+**Aporte propuesto de F05:** una representación intermedia no es solamente salida de abstracción (F04); también puede servir, por sí sola o junto con otras compatibles, como fuente estructurada de exploración y realización. Esto no supone que la IR incluya el resultado proyectado.
+
+| Orientación incidente | Clasificación propuesta | Incidencia a través de F05 |
+| --- | --- | --- |
+| [O0](../orientation/README.md) | **Condición** | En TDidacta se aprovecha para propósitos educativos. |
+| [O1](../orientation/semantic-continuity.md) | **Origen** | Los usos posteriores deben reconocer restricciones y significado representados. |
+| [O2](../orientation/technology-enabled-semantic-continuity.md) | **Origen** | Hace posible el aprovechamiento tecnológico de esa estructura. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición** | Su utilización debe evaluarse con costos de procesamiento y revisión. |
+| [O6](../orientation/effort-inversion.md) | **Condición** | Utilizar la IR no debe imponer administración humana excesiva. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición candidata** | Proyectar desde IR no autoriza divulgar datos personales innecesarios. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición candidata** | Su aprovechamiento puede sustentar realizaciones utilizables fuera de la plataforma. |
 
 ## Fronteras
 
