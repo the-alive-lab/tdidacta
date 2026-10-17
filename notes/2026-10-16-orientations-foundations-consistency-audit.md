@@ -209,3 +209,9 @@ La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de 
 ## Primeras entradas conceptuales de F02 (2026-10-17)
 
 Se crearon [tres entradas de conceptos](../concepts/README.md): [necesidad](../concepts/pedagogical-need.md), [intención](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md), **reutilizando exclusivamente el alcance de las definiciones canónicas de F02**. Cada entrada distingue F→C de O→C, con las clasificaciones O→C expresamente **propuestas y pendientes de aprobación**. No modifica la tabla O→F02 ni promueve candidatos de Mechanisms. El catálogo editorial de conceptos no altera el estatus de [concept-candidates](../foundations/concept-candidates.md). Queda pendiente deliberar F02 bajo O7–O10 y reconciliar cada clasificación de sus conceptos.
+
+## Precisión de trazabilidad conceptual por capas de fundamento (2026-10-17)
+
+**Corrección del fundador:** cada concepto contiene una definición canónica única y **N capas asociadas a fundamentos**, no una capa global de fundamentos más otra de todas las orientaciones. Cada capa declara **qué aporta ese fundamento** al concepto y **cómo inciden, dentro de ese aporte, únicamente las orientaciones pertinentes a dicho fundamento**. Si otro fundamento modifica o amplía el concepto, agregar una capa distinta de ese fundamento. Evitar proyectar O→F hacia O→C o sumar orientaciones sin incidencia como filas de relleno.
+
+Se corrigieron las tres entradas de [F02](../concepts/README.md) para reflejar la estructura. O7–O10 continúan pendientes de reconciliación en F02 y por tanto no se incorporan por anticipado a sus capas conceptuales. Las clasificaciones O→C existentes de O0–O6 son propuestas, aún no aprobadas.
