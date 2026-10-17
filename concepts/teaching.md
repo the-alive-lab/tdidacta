@@ -1,6 +1,6 @@
 # Enseñanza
 
-**Estado:** entrada conceptual basada exclusivamente en F01; relaciones O→concepto propuestas para reconciliación.
+**Estado:** definición y capa F01, incluidas relaciones O→concepto, reconciliadas por aprobación expresa del fundador (2026-10-17).
 
 ## Definición canónica hasta F01
 
@@ -16,7 +16,7 @@ Puede ocurrir fuera de instituciones educativas, sin docentes profesionales y si
 
 **Orientaciones incidentes en esta contribución:**
 
-| Orientación | Clasificación propuesta | Cómo incide |
+| Orientación | Clasificación reconciliada | Cómo incide |
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica interpretar la enseñanza en función de experiencias que favorecen exploración y comprensión. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Incidencia marginal** | Los significados y razones de la orientación pueden importar al interpretar una enseñanza concreta, sin redefinir la actividad en sí. |
