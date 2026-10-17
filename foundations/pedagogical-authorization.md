@@ -11,10 +11,11 @@ No confunde formular, revisar, corregir, autorizar ni publicar. La autorización
 ## 2. Relaciones del fundamento
 
 - **Decisión situada:** aceptar un elemento para determinados usos no constituye aprobación universal de sus realizaciones, contextos o dependencias.
-- **Estabilidad semántica sin inmovilidad:** el significado aprobado permanece identificable, aunque puedan formularse alternativas y propuestas de cambio.
-- **Continuidad con F06:** si cambios externos modifican necesidades o circunstancias, revisar la intención puede motivar correcciones. Lo autorizado conserva su alcance hasta que una decisión humana pertinente adopte los cambios materiales.
-- **Reautorización por impacto:** distinguir qué elementos y dependencias han cambiado materialmente; conservar vigencia de lo no afectado y reconsiderar solamente lo que cambia de alcance.
+- **Inmutabilidad de lo consolidado:** la versión autorizada constituye una referencia semántica que no se altera en su contenido; un cambio genera una nueva versión candidata, incluso si cambia contenido o nombre. La continuidad entre versiones es una relación explícita, no mutación del elemento aprobado.
+- **Continuidad con F06:** si cambian necesidades o circunstancias y una intención deja de responder adecuadamente, F06 guía la elaboración y revisión de una nueva versión. La versión antes autorizada no se reescribe por ese proceso.
+- **Nueva autorización de versión:** la nueva versión requiere su propia decisión de autorización para el alcance pertinente; no se «reautoriza» retroactivamente la versión anterior. Las autorizaciones de elementos no afectados conservan su alcance.
 - **Autoridad humana contextual:** quien decide debe tener autoridad pertinente, no necesariamente haber creado o editado el elemento. La identidad personal verificada, la identidad operativa y la autoridad no son la misma propiedad.
+- **Publicación mediante reemplazo:** cuando existe una versión publicada y consolidada, publicar una corrección significa sustituir cuál versión se ofrece como vigente; la anterior sigue reconocible como versión histórica, no se edita en sitio. La conservación, disponibilidad y retiro de versiones pertenecen al mecanismo de publicación y sus políticas, no se resuelven aquí.
 - **Proporcionalidad:** controles y evidencias deben permitir comprender qué se aprobó sin introducir sobrecarga de gestión innecesaria.
 
 ## 3. Conceptos originados o ampliados desde F07
@@ -23,7 +24,8 @@ No confunde formular, revisar, corregir, autorizar ni publicar. La autorización
 | --- | --- | --- |
 | Autorización pedagógica | Amplía la capa F06 con la decisión constitutiva, autoridad, alcance, estabilidad y vigencia. | [Definición acumulativa y capa F07](../concepts/pedagogical-authorization.md) |
 | Alcance de autorización pedagógica | Delimita los significados, circunstancias y usos comprendidos en una aprobación. | [Definición y capa F07](../concepts/pedagogical-authorization-scope.md) |
-| Reautorización pedagógica | Reconsidera decisiones cuando cambios materiales afectan lo previamente aceptado, sin aprobación global obligatoria. | [Definición y capa F07](../concepts/pedagogical-reauthorization.md) |
+
+**Autorizar otra versión es otra instancia del mismo concepto de Autorización pedagógica**, no un concepto separado de «reautorización». La versión y su autorización anterior permanecen distinguibles.
 
 Las definiciones viven en Concepts. Las responsabilidades técnicas de impacto, cambios y versionamiento no se convierten automáticamente en fundamentos o conceptos nuevos.
 
@@ -41,7 +43,7 @@ Persisten [O1/O3/O4](../tensions/semantic-continuity-authorization-human-capacit
 
 La autorización no equivale a revisión ni corrección (F06), abstracción (F04), proyección (F05), evaluación de calidad, consentimiento, derechos de uso, publicación o permanencia de recursos.
 
-No establece formatos de prueba de autorización, esquema de identidad interno, sistema de versionamiento o automatización del análisis de impacto. Véase [versionamiento candidato](../mechanisms/pedagogical-element-versioning.md) y [gobernanza](../governance/README.md).
+No establece formatos de prueba de autorización, esquema de identidad interno, sistema de versionamiento, conservación de versiones anteriores, ni automatización del análisis de impacto. Véase [versionamiento candidato](../mechanisms/pedagogical-element-versioning.md) y [gobernanza](../governance/README.md).
 
 ## 6. Trazabilidad O→F07
 
