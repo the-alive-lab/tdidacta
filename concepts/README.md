@@ -40,7 +40,19 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Representación intermedia semántica](semantic-intermediate-representation.md) | Significado estructurado, distinto de su especificación técnica |
 | [Composición de representaciones semánticas](semantic-representation-composition.md) | Combinación sujeta a compatibilidad verificable |
 
-**Estado:** aportes y orientaciones O7–O10 de F04 propuestos; no aprobados todavía.
+**Estado:** F04 reconciliado por aprobación del fundador (2026-10-17).
+
+## Entradas y capas propuestas de F05
+
+| Concepto | Contribución |
+| --- | --- |
+| [Proyección semántica](semantic-projection.md) | Definición y capa F05 |
+| [Exploración pedagógica](pedagogical-exploration.md) | Definición y capa F05 |
+| [Realización pedagógica](pedagogical-realization.md) | Definición y capa F05; término previamente candidato |
+| [Representación intermedia semántica](semantic-intermediate-representation.md) | Definición acumulativa y capa F05 |
+| [Espacio de posibilidades pedagógico](possibility-space.md) | Ampliación acumulativa y capa F05 |
+
+**Estado:** relaciones F05 con O7–O10 y nuevos aportes propuestos, pendientes de aprobación del fundador.
 
 Cada entrada mantiene una **definición canónica acumulativa** y **una capa por fundamento que contribuya al concepto**. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
