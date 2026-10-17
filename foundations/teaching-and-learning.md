@@ -118,6 +118,10 @@ Tampoco define mecanismos de generación, autorización, publicación o evaluaci
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | Comprender la enseñanza y el aprendizaje no exige establecer quién puede autorizar elementos pedagógicos. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Complemento** | Complementa la participación activa al exigir que los aportes relevantes producidos durante las experiencias puedan reconocerse y reconstruirse. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Sin incidencia** | F01 interpreta qué son las experiencias de enseñanza y aprendizaje, sin prescribir cómo distribuir esfuerzo entre comprender/documentar y producir realizaciones. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Sin incidencia** | La minimización de datos personales no determina cómo interpretamos la enseñanza y el aprendizaje. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | El reconocimiento de identidades personales, operativas y contextuales no constituye parte de esa interpretación pedagógica. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Refuerza la consideración de experiencias educativas en contextos diversos, pero sus condiciones materiales de acceso corresponden principalmente a capacidades y realizaciones posteriores. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La permanencia y disponibilidad operacional de recursos condiciona cómo TDidacta responde al problema, no cómo lo comprende. |
 
 ## 8. Criterio de mantenimiento
 
