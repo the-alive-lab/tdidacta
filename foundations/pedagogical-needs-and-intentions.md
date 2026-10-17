@@ -100,7 +100,7 @@ Los mecanismos que realicen este fundamento deberán explicar cómo responden a 
 
 ## Entradas conceptuales derivadas de F02
 
-Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Sus evaluaciones O→concepto son propuestas, no actualizan la tabla O→F de este documento.
+Las definiciones de las secciones 2–4 se pueden consultar por separado, con **trazabilidad de fundamento y de orientaciones diferenciadas**: [necesidad pedagógica](../concepts/pedagogical-need.md), [intención pedagógica](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md). Cada concepto mantiene una **capa F02** con el aporte de este fundamento y solo las orientaciones incidentes en ese aporte; otros fundamentos añadirán capas propias. Las evaluaciones O→concepto son propuestas, no actualizan la tabla O→F de este documento.
 
 ## 10. Trazabilidad con las orientaciones
 
