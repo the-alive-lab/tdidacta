@@ -1,6 +1,6 @@
 # F06 — Revisión y corrección pedagógica
 
-**Estado:** núcleo O0–O6 reconciliado por decisión del fundador (2026-10-16), incluida la distinción histórica T05. Relaciones O7–O10 y nuevas capas conceptuales **propuestas**, pendientes de aprobación. Sin validación empírica de mecanismos.
+**Estado:** F06 reconciliado con O0–O10 y sus aportes conceptuales por aprobación del fundador (2026-10-17). Mecanismos y eficacia operativa pendientes de validación.
 
 ## 1. Origen y responsabilidad
 
@@ -39,7 +39,7 @@ La **proporcionalidad pertenece a Revisión pedagógica**, no constituye una ent
 
 **O2 — Tecnología** complementa la revisión sin sustituir juicio humano. **O3 — Carga y capacidad** y **O6 — Inversión del esfuerzo** exigen que la revisión no se convierta en producción burocrática de controles. **O4 — Autorización** condiciona adopción de correcciones materiales; **O5 — Reconocimiento** condiciona reconocer feedback y aportes relevantes.
 
-**O7 (propuesta):** el examen no justifica acceder ni mantener información personal innecesaria. **O8:** la verificación de identidad personal no define revisión. **O9 (propuesta):** revisar pertinencia debe incluir las barreras de acceso y vías indirectas pertinentes. **O10 (marginal propuesta):** una revisión puede detectar dependencia indebida del servicio en un recurso público, pero preservarlo pertenece a responsabilidades distintas.
+**O7:** el examen no justifica acceder ni mantener información personal innecesaria. **O8:** la verificación de identidad personal no define revisión. **O9:** revisar pertinencia debe incluir las barreras de acceso y vías indirectas pertinentes. **O10 (incidencia marginal):** una revisión puede detectar dependencia indebida del servicio en un recurso público, pero preservarlo pertenece a responsabilidades distintas.
 
 Permanecen las tensiones [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md), [O3 ↔ O6](../tensions/effort-inversion-proportionality.md) y [O4 ↔ O3](../tensions/human-authorization-review-burden.md) (candidata). La proporcionalidad no demuestra su resolución.
 
@@ -62,12 +62,12 @@ El antecedente **T05** permanece cerrado conceptualmente; no se reinterpreta com
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Condición** | La adopción de correcciones materiales debe respetar aprobación humana, aun si la propuesta o ejecución fue asistida. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Condición** | El proceso debe poder reconocer contribuciones y feedback significativos. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | La revisión no debería desplazar desproporcionadamente trabajo humano desde comprensión y documentación a controles repetitivos. |
-| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Examinar y corregir elementos no justifica acceder, copiar o conservar datos personales innecesarios. |
-| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia propuesta** | Revisar y corregir no supone certificar identidades personales; reconocer personas responsables o autorizadas es responsabilidad distinta. |
-| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | La pertinencia de resultados requiere examinar barreras materiales y aprovechamiento directo o indirecto cuando afecten al uso educativo. |
-| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal propuesta** | Revisar un recurso público puede detectar que su significado o uso depende del servicio, pero preservar su continuidad no es la responsabilidad constitutiva de F06. |
+| [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Examinar y corregir elementos no justifica acceder, copiar o conservar datos personales innecesarios. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | Revisar y corregir no supone certificar identidades personales; reconocer personas responsables o autorizadas es responsabilidad distinta. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La pertinencia de resultados requiere examinar barreras materiales y aprovechamiento directo o indirecto cuando afecten al uso educativo. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Revisar un recurso público puede detectar que su significado o uso depende del servicio, pero preservar su continuidad no es la responsabilidad constitutiva de F06. |
 
 
 ## 7. Mantenimiento
 
-Conservar como propuestas las clasificaciones O7–O10 y las capas conceptuales nuevas hasta aprobación del fundador. Los mecanismos y resultados operativos requieren especificación y contraste.
+Las clasificaciones O7–O10 y capas conceptuales F06 quedaron reconciliadas por el fundador (2026-10-17). Los mecanismos y resultados operativos requieren especificación y contraste.
