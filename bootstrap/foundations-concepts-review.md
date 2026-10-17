@@ -36,16 +36,16 @@ Para cada Fₙ:
 
 | Fundamento | Documento | Estado frente a O7–O10 / conceptos | Próxima acción |
 | --- | --- | --- | --- |
-| **F01 — Enseñanza y aprendizaje** | [F01](../foundations/teaching-and-learning.md) | **Fundamento O0–O10 reconciliado**. Entradas conceptuales creadas; la [auditoría](../notes/2026-10-16-orientations-foundations-consistency-audit.md) deja constancia de que sus clasificaciones O→concepto no habían sido aprobadas explícitamente. | Solo verificar/cerrar capas conceptuales si corresponde |
+| **F01 — Enseñanza y aprendizaje** | [F01](../foundations/teaching-and-learning.md) | **Fundamento O0–O10 y tres capas conceptuales F01 reconciliados** (aprobación expresa 2026-10-17). | Completado |
 | **F02 — Necesidades e intenciones** | [F02](../foundations/pedagogical-needs-and-intentions.md) | **Fundamento O0–O10 y tres capas conceptuales F02 reconciliados**. | Completado para esta pasada |
-| **F03 — Contextualización humana** | [F03](../foundations/human-pedagogical-contextualization.md) | **Núcleo O0–O6 reconciliado; O7–O10 y capas F03 aún figuran como propuestas**, pese a haberse trabajado y utilizado en definiciones acumulativas. | Revisión/cierre explícito de las propuestas |
+| **F03 — Contextualización humana** | [F03](../foundations/human-pedagogical-contextualization.md) | **O0–O10 y cinco capas conceptuales F03 reconciliados** (aprobación expresa 2026-10-17). | Completado |
 | **F04 — Abstracción semántica** | [F04](../foundations/semantic-abstraction.md) | **O0–O10 y conceptos F04 reconciliados**. | Completado |
 | **F05 — Proyección semántica** | [F05](../foundations/semantic-projection.md) | **O0–O10 y conceptos/capas F05 reconciliados**. | Completado |
 | **F06 — Revisión y corrección** | [F06](../foundations/pedagogical-review-and-correction.md) | **O0–O10 y conceptos/capas F06 reconciliados**; integrado ciclo necesidad–revisión–nueva versión candidata. | Completado |
 | **F07 — Autorización** | [F07](../foundations/pedagogical-authorization.md) | **O0–O10 y conceptos/capas F07 reconciliados**, incluidas O8 y O9 por precisión expresa del fundador. | Completado |
 | **F08 — Autoría pedagógica** | [Propuesta F08](../foundations/pedagogical-authorship.md) | **Propuesta preparada** desde T01; numeración F08 y análisis O7–O10 aún no adoptados. | **Siguiente fundamento a revisar**, previa confirmación de su identificación |
 
-**Balance:** F01–F07 han sido recorridos; **seis fundamentos tienen reconciliación completa de O7–O10 (F01, F02, F04, F05, F06 y F07)**. F03 es el pendiente transversal verificable; F01 mantiene la salvedad de cierre conceptual por concepto. F08 todavía es propuesta. No presentar todo F01–F07 como cerrado sin esas salvedades.
+**Balance:** F01–F07 están reconciliados en O0–O10 y sus capas conceptuales, por aprobación expresa del fundador (2026-10-17). F08 continúa como propuesta y siguiente fundamento a revisar.
 
 ## Condición de salida de cada revisión
 
