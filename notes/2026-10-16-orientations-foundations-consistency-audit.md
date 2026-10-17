@@ -152,3 +152,11 @@ Primer caso candidato: [O1/O3 — continuidad semántica frente a esfuerzo human
 - Clasificaciones F06 aprobadas: **O1 origen; O2 complemento; O0/O3/O4/O5/O6 condiciones**. O4 refiere a autorización humana de adoptar correcciones materiales, no a exigir autorización previa para cada inspección.
 - Tensiones aplicables: O1/O3 y O3/O6 existentes; [O4/O3](../tensions/human-authorization-review-burden.md) candidata registrada por decisión del fundador, transversal cuando O4 sea condición y O3 tenga incidencia material. No declaradas resueltas.
 - F01–F06 reconciliados; siguientes fundamentos aún abiertos. No se avanzó a mecanismos o relaciones.
+
+## Tensiones compuestas formalizadas (2026-10-17)
+
+Por decisión del fundador se registran candidatas [O1/O3/O6](../tensions/semantic-continuity-capacity-effort-inversion.md) y [O1/O3/O4](../tensions/semantic-continuity-authorization-human-capacity.md). Las tensiones binarias preexistentes siguen vigentes; las compuestas permiten revisar una interacción conjunta y evitar evaluaciones artificialmente aisladas. Aplicabilidad candidata O1/O3/O6 en F03–F06, O1/O3/O4 en F06–F07; ello **no reabre automáticamente** los cierres de F01–F06.
+
+Se registra además como [interacción cuádruple candidata O1/O3/O4/O6](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md) para F07: verificar si agrega exigencias no cubiertas por las compuestas antes de promoverla a tensión autónoma. F07 continúa en reconciliación; aún no editar su fundamento.
+
+La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de relación entre orientaciones y soluciones: la posible asistencia de O2 no es un tercer polo de tensión ni eficacia demostrada. No introducir un nuevo tipo formal de artefacto sin estudio de estructuras existentes.
