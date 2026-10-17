@@ -20,7 +20,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Intención pedagógica](pedagogical-intention.md) | [F02 — tabla de conceptos](../foundations/pedagogical-needs-and-intentions.md) |
 | [Espacio de posibilidades pedagógico](possibility-space.md) | [F02 — tabla de conceptos](../foundations/pedagogical-needs-and-intentions.md) |
 
-## Entradas y capas propuestas de F03
+## Entradas y capas de F03 reconciliadas
 
 | Concepto | Contribución |
 | --- | --- |
@@ -30,7 +30,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Necesidad pedagógica](pedagogical-need.md) | Capa adicional F03 sobre concepto originado en F02 |
 | [Intención pedagógica](pedagogical-intention.md) | Capa adicional F03 sobre concepto originado en F02 |
 
-**Estado:** relaciones O7–O10 y capas F03 en propuesta, pendientes de aprobación. No se reclasifican retrospectivamente las capas F02.
+**Estado:** relaciones O7–O10 y capas F03 reconciliadas por aprobación expresa del fundador (2026-10-17). No se reclasifican retrospectivamente las capas F02.
 
 ## Entradas propuestas de F04
 
@@ -87,6 +87,6 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 Cada entrada mantiene **una única definición canónica acumulativa vigente hasta el último fundamento que la amplíe** y **una capa por fundamento que contribuya al concepto**. Agregar una capa exige integrar su aporte en esa única definición, sin crear títulos paralelos de «definición canónica F02» y «definición hasta F06»; la procedencia histórica permanece en las capas y en Git. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
-Las clasificaciones O→concepto son independientes de O→F. **Las capas de F02 están reconciliadas por el fundador**; las de F01 mantienen sus clasificaciones conceptuales según las decisiones y revisiones registradas. La definición propia de cada concepto se consulta aquí, mientras el fundamento explica sus responsabilidades y relaciones.
+Las clasificaciones O→concepto son independientes de O→F. **Las tres capas F01 se encuentran reconciliadas** por aprobación expresa del fundador (2026-10-17). **Las capas de F02 están reconciliadas por el fundador**; las de F01 mantienen sus clasificaciones conceptuales según las decisiones y revisiones registradas. La definición propia de cada concepto se consulta aquí, mientras el fundamento explica sus responsabilidades y relaciones.
 
 El [inventario de conceptos candidatos](../foundations/concept-candidates.md) sigue teniendo su estatus histórico y preguntas sin resolver. La ubicación editorial de estas entradas no decide si formalizar conceptos constituye un mecanismo.
