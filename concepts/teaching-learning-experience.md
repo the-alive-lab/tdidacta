@@ -1,6 +1,6 @@
 # Experiencia de enseñanza y aprendizaje
 
-**Estado:** entrada conceptual basada exclusivamente en F01; relaciones O→concepto propuestas para reconciliación.
+**Estado:** definición y capa F01, incluidas relaciones O→concepto, reconciliadas por aprobación expresa del fundador (2026-10-17).
 
 ## Definición canónica hasta F01
 
@@ -18,7 +18,7 @@ Pueden ocurrir en diferentes entornos, medios y condiciones; una misma necesidad
 
 **Orientaciones incidentes en esta contribución:**
 
-| Orientación | Clasificación propuesta | Cómo incide |
+| Orientación | Clasificación reconciliada | Cómo incide |
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Origen** | Fundamenta experiencias que favorezcan exploración, experimentación y comprensión con participación activa. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Condición** | Exige considerar significados y transformaciones relevantes al comprender una experiencia a través del tiempo. |
