@@ -1,8 +1,8 @@
 # Autorización pedagógica
 
-**Estado:** definición acumulativa de trabajo hasta F07; capa F06 reconciliada y contribución F07 pendiente de reconciliación O7–O10.
+**Estado:** definición acumulativa hasta F07 reconciliada; capas F06 y F07 aprobadas por el fundador (2026-10-17).
 
-## Definición canónica acumulativa hasta F07 (propuesta)
+## Definición canónica acumulativa hasta F07
 
 La **autorización pedagógica** es una decisión humana de aceptar **una nueva intención o una versión determinada de una intención existente**, u otro elemento pedagógico para determinados usos, significados y circunstancias, dentro de un **alcance semántico identificable**. Quien autoriza debe tener autoridad pertinente para esa decisión, sin necesitar ser quien creó, revisó o corrigió el elemento.
 
@@ -28,7 +28,7 @@ Si existe una versión publicada, la incorporación de la corrección **reemplaz
 
 **Aporte de F07:** establece el alcance semántico, la inmutabilidad de versiones consolidadas, la conservación de autorizaciones previas y la autorización de intenciones nuevas o versiones nuevas como propiedades de la aceptación pedagógica.
 
-| Orientación | Relación propuesta | Incidencia mediante F07 |
+| Orientación | Relación reconciliada | Incidencia mediante F07 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Complemento** | En TDidacta la decisión atiende finalidades pedagógicas. |
 | [O1](../orientation/semantic-continuity.md) | **Complemento** | Debe poder reconocerse qué significado está aprobado y qué cambió. |
