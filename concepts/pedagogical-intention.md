@@ -1,24 +1,16 @@
 # Intención pedagógica
 
-**Estado:** definición F02 reconciliada (2026-10-17), con extensión acumulativa F03 **propuesta y pendiente de aprobación**. Las capas de trazabilidad permanecen diferenciadas.
+**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aportes de F03 y F06 propuestos, pendientes de reconciliación. Las capas conservan su trazabilidad independiente.
 
-## Definición acumulativa hasta F03 (propuesta)
+## Definición canónica acumulativa hasta F06
 
-Una **intención pedagógica** es una respuesta deliberada que formula quien asume la responsabilidad de enseñar al interpretar, organizar y delimitar una necesidad. Puede expresar propósitos, condiciones, restricciones, conexiones y alternativas; sus decisiones **delimitan un espacio de posibilidades** sin confundirse con él. Puede existir a distintas escalas y originar intenciones más específicas, sin una jerarquía obligatoria.
+Una **intención pedagógica** es la respuesta deliberada que formula quien asume la responsabilidad de enseñar al interpretar, organizar y delimitar una necesidad. Puede expresar propósitos, condiciones, restricciones, conexiones y alternativas. Sus decisiones **delimitan un espacio de posibilidades**, sin confundirse con él.
 
-**F03 incorpora su formulación situada y responsabilidad humana:** la intención se interpreta y documenta suficientemente, con razones, decisiones, restricciones, incertidumbres y circunstancias de aplicación pertinentes para sus destinatarios. Una misma intención puede aplicarse en circunstancias diversas sin redefinirse por completo. La documentación debe ser proporcional al alcance, permitir reconstruir el significado relevante y no equivale a autorización pedagógica ni garantiza aprendizaje. Las tecnologías pueden asistir sin sustituir el juicio humano.
+Puede expresarse mediante una planificación anual o semestral, unidad, clase o actividad: son escalas y funciones posibles del mismo concepto, no categorías fundamentales distintas. Puede originar intenciones más específicas sin que exista una jerarquía obligatoria.
 
-## Definición canónica hasta F02
+La intención se **formula y documenta de forma situada**, mediante juicio humano, con razones, significados, decisiones, restricciones, incertidumbres y circunstancias pertinentes para sus destinatarios. Una misma intención puede aplicarse en circunstancias diferentes sin redefinirse íntegramente. La documentación debe permitir reconstruir lo relevante al cambiar escalas, versiones o realizaciones, de manera suficiente y proporcional, sin exigir exhaustividad ni sustituir el juicio humano mediante inferencias tecnológicas.
 
-Una **intención pedagógica** es la respuesta deliberada que formula quien asume la responsabilidad de enseñar al interpretar, organizar y delimitar una necesidad. Puede expresar propósitos, condiciones, restricciones, conexiones y alternativas.
-
-Una planificación anual, semestral, unidad, clase o actividad puede expresar una intención pedagógica: son **escalas y funciones posibles del mismo concepto**, no tipos fundamentales distintos.
-
-Una intención puede originar intenciones más específicas sin que toda necesidad requiera esa subdivisión. La continuidad semántica requiere que sus motivos, significados y restricciones relevantes puedan interpretarse y reconstruirse al cambiar escalas, versiones o realizaciones, sin imponer documentación exhaustiva.
-
-## Ampliación acumulativa hasta F06 (propuesta)
-
-F06 añade que la intención, aun ya formulada y documentada, puede someterse a revisión crítica y correcciones justificadas frente a cambios, contradicciones o insuficiencias, sin ser reescrita automáticamente por exploraciones o realizaciones; la adopción de cambios materiales respeta la autorización humana pertinente.
+Una intención formulada no queda automáticamente autorizada ni garantiza aprendizaje. Puede **revisarse y corregirse** ante cambios, contradicciones o insuficiencias; las exploraciones y realizaciones pueden informar esa revisión, pero no modifican silenciosamente su significado de origen. Adoptar modificaciones pedagógicas materiales debe respetar la autorización humana pertinente.
 
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
