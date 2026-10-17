@@ -34,6 +34,21 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 **Capas futuras:** si otro fundamento afecta al mismo concepto, añadir una **capa independiente de ese fundamento y de sus orientaciones incidentes**. No mezclar las orientaciones de distintos fundamentos ni duplicar la definición canónica.
 
+## Capa F03 — Contextualización pedagógica humana
+
+**Aporte de F03:** la intención es formulada e interpretada por responsabilidad humana en un contexto, con razones y restricciones documentadas proporcionalmente, pudiendo emplearse bajo circunstancias distintas sin redefinirse completamente.
+
+| Orientación incidente | Relación propuesta | Incidencia a través de F03 |
+| --- | --- | --- |
+| [O0](../orientation/README.md) | **Origen** | Orienta respuestas a problemas situados. |
+| [O1](../orientation/semantic-continuity.md) | **Origen** | Sus motivos y restricciones relevantes han de ser reconstruibles. |
+| [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Permite asistencia al formular sin autoridad inferencial automática. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición** | La documentación y revisión han de ser proporcionales. |
+| [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Formular y documentar no equivale a autorizar. |
+| [O6](../orientation/effort-inversion.md) | **Condición** | Prioriza claridad de intención frente a producción repetitiva. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Los detalles de personas que informan la formulación deben minimizar datos personales. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las alternativas de aplicación deben considerar uso directo e indirecto cuando sean relevantes. |
+
 ## Fronteras y continuidad
 
 Formular no equivale a autorizar o realizar; no garantiza aprendizaje. Una intención [delimita](possibility-space.md) posibilidades, pero no es idéntica a su espacio. El [inventario de candidatos](../foundations/concept-candidates.md) contiene un significado histórico de trabajo: la definición vigente de F02 prevalece dentro de su alcance.
