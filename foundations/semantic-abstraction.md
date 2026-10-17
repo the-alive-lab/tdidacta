@@ -28,11 +28,15 @@ En TDidacta, las fuentes pueden expresar necesidades, intenciones, circunstancia
 
 Se preservan las definiciones en Concepts y las fronteras frente a estructuras técnicas y mecanismos. No se presupone que cada concepto nuevo requiera un nuevo producto.
 
-## 4. Hipótesis de utilidad y tensiones
+## 4. Investigación relacionada y tensiones
 
-**Hipótesis investigativa, no demostrada:** una IR podría ser más efectiva o eficiente que procesar prosa directamente en determinadas operaciones tecnológicas. La comparación debe incluir construcción, validación, mantenimiento y utilización; compactación no prueba superioridad.
+La comparación entre **representaciones estructuradas y prosa con información equivalente** ya forma parte de [PIR-STU-001 — Cross-realizer semantic conformance](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/studies/stu-001-cross-realizer-semantic-conformance.md), que admite resultados favorables a la prosa y no presupone superioridad de la estructura.
 
-Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md). La asistencia O2 podría atenuar esfuerzo pero no garantiza ahorro.
+Como antecedente complementario, la [síntesis sobre representación intermedia y carga burocrática](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/learning-tools-competition-2027/notes/2026-10-13-pre-block-8-improvement-report-v1.md) exige considerar el costo de obtener y mantener la representación, y contempla que la prosa enriquecida apoyada por LLM sea una alternativa mejor.
+
+**Alcance de la referencia:** estos artefactos cubren aspectos de conformidad semántica, comparación de estructura/prosa y esfuerzo; no demuestran una ventaja general de efectividad o eficiencia de IR. F04 no mantiene una hipótesis paralela independiente. Si tras el bootstrap se identifica una dimensión no cubierta por esas investigaciones —especialmente costo integral entre flavors—, deberá evaluarse como posible brecha en Research antes de abrir trabajo nuevo.
+
+Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md). La asistencia O2 podría atenuar esfuerzo, sin garantizar ahorro.
 
 **Nuevas orientaciones propuestas:** O7 condicionaría la minimización de datos personales durante abstracción y composición; O8 no modifica su frontera; O9 podría reforzar marginalmente preservación de circunstancias de acceso en el dominio pedagógico, no las capacidades de distribución; O10 no exige conservar recursos educativos como IR.
 
