@@ -1,6 +1,6 @@
 # F07 — Autorización de elementos pedagógicos
 
-**Estado:** núcleo O0–O6 reconciliado por decisión del fundador (2026-10-17). O7 y O10 reconciliadas por aprobación del fundador (2026-10-17); O8 y O9 pendientes de reconciliación. Capas conceptuales F07 conservan carácter propuesto hasta cierre explícito. No implica implementación ni eficacia demostrada.
+**Estado:** F07 reconciliado con O0–O10 y conceptos asociados por aprobación del fundador (2026-10-17), incorporando versiones consolidadas inmutables y autorización de nuevas versiones. Mecanismos y eficacia operativa pendientes.
 
 ## 1. Origen y responsabilidad
 
@@ -35,7 +35,7 @@ Las definiciones viven en Concepts. Las responsabilidades técnicas de impacto, 
 
 En el MVP de TDidacta la persona titular de una cuenta autoriza en el escenario de profesor particular y evalúa manualmente impactos. Esto es **decisión operativa situada**, no exigencia conceptual de cuenta propia, titular único ni jerarquía universal.
 
-**O7 (reconciliada):** privacidad de datos personales en evidencia de decisiones. **O8 (propuesta):** cuando se necesita identidad personal verificada, distinguir reconocimiento externo de titularidad, cuenta y autoridad. **O9 (marginal propuesta):** el alcance puede reconocer usos educativos directos e indirectos. **O10 (incidencia marginal reconciliada):** aprobar recursos públicos no asegura su preservación ni disponibilidad independiente.
+**O7:** privacidad de datos personales en evidencia de decisiones. **O8:** cuando se necesita identidad personal verificada, distinguir reconocimiento externo de titularidad, cuenta y autoridad. **O9 (incidencia marginal):** el alcance puede reconocer usos educativos directos e indirectos. **O10 (incidencia marginal):** aprobar recursos públicos no asegura su preservación ni disponibilidad independiente.
 
 Persisten [O1/O3/O4](../tensions/semantic-continuity-authorization-human-capacity.md), [O3/O6](../tensions/effort-inversion-proportionality.md) y la interacción [O1/O3/O4/O6](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md), esta última candidata. No se presumen resueltas.
 
@@ -57,11 +57,11 @@ No establece formatos de prueba de autorización, esquema de identidad interno, 
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Sin incidencia** | Reconocer contribuciones y decidir quién autoriza son responsabilidades distintas. |
 | [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | **Condición** | Gestionar aprobaciones no debe desplazar desproporcionadamente la comprensión, formulación y documentación. |
 | [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Acreditar autoría de decisiones o conservar evidencia no exige publicar o retener datos personales innecesarios. |
-| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Condición propuesta** | Cuando sea necesario vincular una autorización con identidad personal verificada, esa identificación se reconoce externamente; la autoridad contextual se determina por separado. |
-| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal propuesta** | Una autorización puede estar situada para resultados de uso directo o indirecto; garantizar accesibilidad pertenece a contextualización y realizaciones, no a la aprobación misma. |
+| [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Condición** | Cuando sea necesario vincular una autorización con identidad personal verificada, esa identificación se reconoce externamente; la autoridad contextual se determina por separado. |
+| [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Una autorización puede estar situada para resultados de uso directo o indirecto; garantizar accesibilidad pertenece a contextualización y realizaciones, no a la aprobación misma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Autorizar un elemento publicable no equivale a preservar su disponibilidad posterior; la continuidad se debe atender por capacidades de publicación y distribución. |
 
 
 ## 7. Mantenimiento
 
-O7 y O10 están reconciliadas; O8, O9 y el cierre integral de capas F07 permanecen pendientes. El cierre anterior de T06 no significa que se hayan validado mecanismos o resultados.
+O7–O10 y las capas conceptuales F07 están reconciliadas por el fundador. El cierre anterior de T06 no significa que se hayan validado mecanismos o resultados.
