@@ -186,3 +186,22 @@ La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de 
 - [O10 — Continuidad e independencia de los recursos públicos](../orientation/public-resource-continuity.md): preservar, consultar y utilizar recursos educativos públicos **sin depender exclusivamente de la continuidad del servicio o de la existencia futura de TDidacta**; contempla interrupciones temporales, prolongadas y cierre definitivo, sin garantía de perpetuidad.
 - Distingue continuidad operacional, conservación de datos, acceso público, comprensibilidad pedagógica y utilizabilidad independiente. Respeta derechos, privacidad y retiros legítimos; no exige preservar funcionalidad interactiva completa.
 - **Revisión O→F pendiente:** agregar evaluación individual de O10 sobre todos los fundamentos, junto con O7–O9, sin asignar automáticamente relaciones, tensiones o cambios a fundamentos ya revisados.
+
+## Ampliación aprobada del alcance de la auditoría: conceptos por fundamento (2026-10-17)
+
+**Decisión del fundador:** además de examinar la incidencia O7–O10 en los fundamentos ya reconciliados, evaluar **los conceptos originados por cada fundamento** y mantener definiciones consultables para construir un vocabulario común de TDidacta.
+
+**Motivación:** la clasificación O→F no basta como sustituto de O→concepto: un fundamento puede originar **N conceptos**, y las mismas orientaciones pueden incidir de formas distintas sobre cada uno. Evitar proyectar automáticamente una relación de un fundamento sobre todos sus conceptos.
+
+**Trabajo acordado para continuar F02 y siguientes:**
+
+1. Identificar conceptos ya expresados en la definición del fundamento y en el [inventario de candidatos](../foundations/concept-candidates.md), distinguiendo términos, conceptos establecidos, candidatos, y responsabilidades de mecanismos. **Reutilizar la definición canónica** cuando exista.
+2. Proponer para cada concepto una **entrada identificable y consultable** con definición, fronteras, relaciones, fundamento(s) originador(es) y trazabilidad individual a las orientaciones relevantes, incluida la justificación de no incidencia cuando corresponda.
+3. Contrastar si O7–O10 afectan al **fundamento mismo** y por separado a cada concepto; admitir diferencias de clasificación fundamentadas, sin derivar mecánicamente O→concepto de O→F.
+4. Detectar nuevos conceptos que las orientaciones hacen necesarios, diferenciando vocabulario transversal, nociones ya implícitas y conceptos nuevos aún candidatos. **No promover automáticamente** ninguna noción por aparecer durante la auditoría.
+5. Preservar trazabilidad muchos-a-muchos si un concepto procede de varios fundamentos, sin copias divergentes de una definición.
+6. Reconciliar un fundamento por vez con decisión humana antes de cambiar su definición o dar por cerrada su revisión.
+
+**Continuidad con estructuras existentes:** el repositorio ya tiene `foundations/concept-candidates.md` y definiciones distribuidas en Foundations y Mechanisms. Su función editorial o de formalización operable seguía abierta; esta ampliación no decide automáticamente si mover ese inventario, crear un tipo de artefacto o llamar «Concept» a un mecanismo. **Antes de crear directorios, formatos o reglas canónicas nuevas, revisar equivalentes existentes y acordar la frontera de responsabilidad.**
+
+**Estado:** F01 ya incorpora las filas O7–O10 de trazabilidad a nivel de fundamento; su inventario conceptual aún no ha sido reconciliado con esta regla nueva. F02 es el siguiente fundamento a deliberar y no está aprobado frente a O7–O10. La ampliación se registra como tarea, no como ejecución ni adopción anticipada de definiciones.
