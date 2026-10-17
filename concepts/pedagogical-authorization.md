@@ -1,6 +1,6 @@
 # Autorización pedagógica
 
-**Estado:** definición acumulativa de trabajo hasta F07; capa F06 propuesta y contribución F07 pendiente de reconciliación O7–O10.
+**Estado:** definición acumulativa de trabajo hasta F07; capa F06 reconciliada y contribución F07 pendiente de reconciliación O7–O10.
 
 ## Definición canónica acumulativa hasta F07 (propuesta)
 
@@ -14,7 +14,7 @@ Cuando cambios externos alteran necesidades o circunstancias, la revisión y cor
 
 **Aporte de F06:** establece la frontera entre examen crítico, corrección propuesta y aprobación humana de la adopción de cambios materiales; no define por sí mismo el régimen de autorización.
 
-| Orientación incidente | Relación propuesta | Incidencia a través de F06 |
+| Orientación incidente | Relación reconciliada | Incidencia a través de F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | La adopción de cambios materiales debe mantener pertinencia pedagógica. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | El alcance y significado modificados deben poder distinguirse de lo previamente aprobado. |
@@ -34,8 +34,8 @@ Cuando cambios externos alteran necesidades o circunstancias, la revisión y cor
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La gestión de decisiones y cambios debe ser proporcional. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Origen** | Justifica la aprobación bajo responsabilidad humana. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Evita burocracia de autorización que desplace comprensión y formulación. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Acreditar una decisión no exige publicar ni conservar datos personales superfluos. |
-| [O8](../orientation/external-personal-identity-recognition.md) | **Condición propuesta** | Cuando se requiera acreditar identidad personal de quien decide, debe distinguirse la autoridad contextual del reconocimiento de identidad externa. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Acreditar una decisión no exige publicar ni conservar datos personales superfluos. |
+| [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Cuando se requiera acreditar identidad personal de quien decide, debe distinguirse la autoridad contextual del reconocimiento de identidad externa. |
 
 ## Fronteras
 
