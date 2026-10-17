@@ -160,3 +160,10 @@ Por decisión del fundador se registran candidatas [O1/O3/O6](../tensions/semant
 Se registra además como [interacción cuádruple candidata O1/O3/O4/O6](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md) para F07: verificar si agrega exigencias no cubiertas por las compuestas antes de promoverla a tensión autónoma. F07 continúa en reconciliación; aún no editar su fundamento.
 
 La idea **O1/O3 tensionan; O2 puede atenuar o resolver** es un tipo distinto de relación entre orientaciones y soluciones: la posible asistencia de O2 no es un tercer polo de tensión ni eficacia demostrada. No introducir un nuevo tipo formal de artefacto sin estudio de estructuras existentes.
+
+## F07 reconciliado y cerrado (2026-10-17)
+
+- [F07 — Autorización de elementos pedagógicos](../foundations/pedagogical-authorization.md) reorganizado: definición, alcance, estabilidad y exploración, cambios, responsabilidad humana, límites, nota de MVP y fronteras operativas. Cerrado conceptualmente por aprobación del fundador.
+- Clasificación O→F adoptada: **O4 origen; O0/O1/O2 complementos; O3/O6 condiciones; O5 sin incidencia**.
+- Tensiones aplicables: [O1/O3/O4](../tensions/semantic-continuity-authorization-human-capacity.md) compuesta; [O3/O6](../tensions/effort-inversion-proportionality.md); interacción [O1/O3/O4/O6](../tensions/semantic-continuity-authorization-capacity-effort-inversion.md) candidata, con autonomía por contrastar. Las binarias O1/O3 y O4/O3 no desaparecen.
+- F01–F07 reconciliados. F08 — Autoría pedagógica sigue abierto y no modificado.
