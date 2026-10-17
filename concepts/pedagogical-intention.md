@@ -16,6 +16,10 @@ Una planificación anual, semestral, unidad, clase o actividad puede expresar un
 
 Una intención puede originar intenciones más específicas sin que toda necesidad requiera esa subdivisión. La continuidad semántica requiere que sus motivos, significados y restricciones relevantes puedan interpretarse y reconstruirse al cambiar escalas, versiones o realizaciones, sin imponer documentación exhaustiva.
 
+## Ampliación acumulativa hasta F06 (propuesta)
+
+F06 añade que la intención, aun ya formulada y documentada, puede someterse a revisión crítica y correcciones justificadas frente a cambios, contradicciones o insuficiencias, sin ser reescrita automáticamente por exploraciones o realizaciones; la adopción de cambios materiales respeta la autorización humana pertinente.
+
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
 **Fundamento:** [F02 — Necesidades e intenciones pedagógicas](../foundations/pedagogical-needs-and-intentions.md).
@@ -54,6 +58,21 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 | [O6](../orientation/effort-inversion.md) | **Condición** | Prioriza claridad de intención frente a producción repetitiva. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Los detalles de personas que informan la formulación deben minimizar datos personales. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las alternativas de aplicación deben considerar uso directo e indirecto cuando sean relevantes. |
+
+## Capa F06 — Revisión y corrección pedagógica
+
+**Aporte propuesto de F06:** la intención puede examinarse críticamente y corregirse cuando existan errores, insuficiencias o circunstancias cambiantes; las realizaciones no la modifican silenciosamente.
+
+| Orientación incidente | Clasificación propuesta | Incidencia mediante F06 |
+| --- | --- | --- |
+| [O0](../orientation/README.md) | **Condición** | Contrastar pertinencia con necesidades educativas. |
+| [O1](../orientation/semantic-continuity.md) | **Origen** | Examinar coherencia de motivos y restricciones. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición** | Revisión proporcional a consecuencias. |
+| [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Cambios materiales requieren respetar autorización humana. |
+| [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Reconocer aportes o feedback significativos que motivan revisiones. |
+| [O6](../orientation/effort-inversion.md) | **Condición** | Evitar revisar repetitivamente sin beneficio. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Revisar intenciones contextualizadas no autoriza recopilar datos personales superfluos. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Revisar restricciones de aplicabilidad ante barreras de acceso relevantes. |
 
 ## Fronteras y continuidad
 
