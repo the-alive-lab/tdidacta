@@ -10,13 +10,13 @@
 | [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
 | [Abstracción semántica](semantic-abstraction.md) | Documentación semántica a IR (encode) | Concepto transversal confirmado por fundador; formalización pendiente |
 | [Proyección semántica](semantic-projection.md) | IR individual/combinada a resultados de dominio (decode) | Concepto transversal confirmado por fundador; formalización pendiente |
-| [Autorización de elementos pedagógicos](pedagogical-authorization.md) | Autorización por titular de cuenta del MVP; estabilización semántica y reautorización por impacto | T06 cerrado conceptualmente; mecanismos pendientes |
+| [Autorización de elementos pedagógicos](pedagogical-authorization.md) | Autorización por titular de cuenta del MVP; estabilidad de versiones inmutables y autorización de nuevas intenciones o versiones | T06 cerrado conceptualmente; mecanismos pendientes |
 | [Revisión y corrección pedagógica](pedagogical-review-and-correction.md) | Evaluación y corrección humana proporcional, separada de autorización | Candidato T05 |
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
 | [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Lectura asistida de fuentes con responsabilidad humana y separación de inferencias | Candidato |
-| [Autoría pedagógica](pedagogical-authorship.md) | Participación, tipos de contribución y autorización humana, sin roles universales | Candidato |
+| [Autoría pedagógica](pedagogical-authorship.md) | Propuesta F08: reconocimiento de aportes diferenciado de autorización, identidad y derechos | Propuesta F08 pendiente de reconciliación |
 | [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
 
