@@ -1,12 +1,12 @@
 # Realización pedagógica
 
-**Estado:** aporte F05 reconciliado por el fundador (2026-10-17); se preservan los estados previos de F02 y F04 cuando corresponda.
+**Estado:** capas F05 y F06 reconciliadas por el fundador (2026-10-17).
 
 ## Definición acumulativa hasta F05
 
 Concreción de elementos educativos a partir de una intención pedagógica representada, respetando un **alcance pedagógico no superior** al de la intención pertinente. El alcance no equivale necesariamente a extensión, duración o cantidad de elementos. No es necesario concretar todo el alcance de una vez. Una realización puede constituir una intención candidata posterior, pero no queda automáticamente aceptada, autorizada ni validada.
 
-## Ampliación acumulativa hasta F06 (propuesta)
+## Ampliación acumulativa hasta F06
 
 F06 añade que una realización debe poder revisarse en función de su pertinencia, correspondencia semántica y circunstancias, y corregirse proporcionalmente cuando corresponda. La revisión o corrección no demuestra por sí sola calidad pedagógica, aprendizaje ni autorización.
 
@@ -27,9 +27,9 @@ F06 añade que una realización debe poder revisarse en función de su pertinenc
 
 ## Capa F06 — Revisión y corrección pedagógica
 
-**Aporte propuesto de F06:** una realización candidata puede contrastarse con intención, circunstancias, significado y restricciones y recibir correcciones proporcionales; ello no acredita automáticamente calidad, aprendizaje ni autorización.
+**Aporte de F06:** una realización candidata puede contrastarse con intención, circunstancias, significado y restricciones y recibir correcciones proporcionales; ello no acredita automáticamente calidad, aprendizaje ni autorización.
 
-| Orientación incidente | Clasificación propuesta | Incidencia mediante F06 |
+| Orientación incidente | Clasificación reconciliada | Incidencia mediante F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | Examinar pertinencia pedagógica. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Detectar desviaciones respecto del significado de origen. |
@@ -38,8 +38,8 @@ F06 añade que una realización debe poder revisarse en función de su pertinenc
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Corrección material no implica autorización automática. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Reconocer feedback y aportes que informan correcciones. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | No trasladar toda la carga a selección y edición repetitivas. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Corregir no justifica conservar datos personales innecesarios. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Examinar si el resultado sirve efectivamente en modalidades directas o indirectas pertinentes. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Corregir no justifica conservar datos personales innecesarios. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Examinar si el resultado sirve efectivamente en modalidades directas o indirectas pertinentes. |
 
 ## Fronteras
 
