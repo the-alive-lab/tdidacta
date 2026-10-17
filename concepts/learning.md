@@ -19,7 +19,7 @@ El **aprendizaje** se comprende desde la participación activa de quien aprende:
 | Orientación | Clasificación propuesta | Cómo incide |
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica la exploración, experimentación y construcción de comprensión como fines de las experiencias educativas. |
-| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Condición** | Permite interpretar cambios de comprensión, reinterpretaciones y significados entre experiencias sin exigir un registro exhaustivo. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Incidencia marginal** | Ayuda a interpretar cambios de comprensión y reinterpretaciones, sin determinar por sí misma qué es aprender. |
 
 Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La clasificación O→concepto es **propuesta**, no se hereda automáticamente de O→F.
 
