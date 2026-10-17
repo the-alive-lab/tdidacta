@@ -227,3 +227,7 @@ Por decisión del fundador, [F02](../foundations/pedagogical-needs-and-intention
 ## Separación editorial Foundation / Concepts en F02 (2026-10-17)
 
 Por indicación del fundador se reorganizó [F02](../foundations/pedagogical-needs-and-intentions.md) para conservar **solo la responsabilidad y relaciones del fundamento**, su tensión, fronteras, trazabilidad O→F y **una tabla de conceptos originados**. Las definiciones canónicas detalladas de [necesidad](../concepts/pedagogical-need.md), [intención](../concepts/pedagogical-intention.md) y [espacio de posibilidades](../concepts/possibility-space.md) residen en Concepts y mantienen las capas F02 con sus orientaciones incidentes. No se cambió el cierre O7–O10 ni se ejecutó revisión de F03.
+
+## Separación editorial Foundation / Concepts en F01 (2026-10-17)
+
+Se verificó que [F01](../foundations/teaching-and-learning.md) repetía definiciones ya presentes en tres entradas conceptuales. Por petición del fundador se reorganizó para centrarse en origen, responsabilidad, relaciones, límites y trazabilidad O→F; ahora incluye una **tabla de conceptos** que remite a las entradas canónicas de [enseñanza](../concepts/teaching.md), [aprendizaje](../concepts/learning.md) y [experiencia educativa](../concepts/teaching-learning-experience.md). No se alteraron las clasificaciones O0–O10, las definiciones de Concepts ni su estatus de reconciliación. La reorganización es editorial, no una nueva adopción metodológica.
