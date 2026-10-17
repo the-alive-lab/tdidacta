@@ -6,6 +6,8 @@
 
 F06 surge de **O1 — Continuidad semántica**, condicionada por **O0 — Pertinencia pedagógica**, para establecer la responsabilidad de **examinar críticamente elementos y atender problemas materiales identificados en su relación con intenciones y circunstancias**.
 
+Una razón central para activar esta responsabilidad son **cambios externos** —en condiciones, destinatarios, conocimientos, recursos o necesidades— que pueden alterar la necesidad pedagógica o su contexto. Aunque una intención haya respondido adecuadamente antes, corresponde **considerar si todavía responde a la necesidad actual**. Si la respuesta es insuficiente, se justifica corregir y volver a examinar su adecuación: es un **ciclo de revisión y corrección**, no un evento único ni una corrección automática. La relevancia del cambio determina proporcionalmente si debe ejecutarse una revisión.
+
 No equipara revisar con modificar, autorizar o publicar. Tampoco exige un procedimiento único de revisión para cada elemento.
 
 ## 2. Relaciones del fundamento
@@ -14,6 +16,7 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 - **Ámbito variable:** puede examinar necesidades, intenciones, circunstancias, documentación, IR, exploraciones, realizaciones, inferencias y evidencia, sin obligar a revisar exhaustivamente todo objeto.
 - **Continuidad contrastable:** contrastar significado, restricciones y decisiones, incluidas posibles pérdidas desde abstracción (F04) y desviaciones desde proyección (F05).
 - **Juicio humano:** una asistencia tecnológica puede señalar problemas o ejecutar ediciones supervisadas, sin constituir por sí misma evidencia, aprobación ni autoridad.
+- **Ciclo frente a cambios externos:** identificar qué cambió en la necesidad o las circunstancias, contrastar si la intención vinculada aún responde apropiadamente, corregir cuando no lo haga y volver a revisar su adecuación. La revisión puede concluir que no se requieren cambios; no existe obligación de corregir toda variación externa.
 - **Cambios y consecuencias:** una corrección localizada puede bastar; un cambio material puede requerir revisar dependencias e intenciones relacionadas, sin reescritura silenciosa de la fuente.
 - **Profundidad proporcional:** determinar cuándo considerar y ejecutar controles según relevancia, riesgo, incertidumbre y consecuencias. No impone listas universales ni aprobación individual de toda sugerencia.
 - **Autorización diferenciada:** adoptar correcciones pedagógicas materiales debe respetar la autoridad humana pertinente, aunque revisar o proponer no exija necesariamente una autorización separada.
@@ -26,10 +29,12 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 | Revisión pedagógica | Responsabilidad de examen crítico, sin equivalencia con modificar o autorizar. | [Definición y capa F06](../concepts/pedagogical-review.md) |
 | Corrección pedagógica | Intervención pertinente sobre problemas detectados; decisiones materiales sujetas a autorización. | [Definición y capa F06](../concepts/pedagogical-correction.md) |
 | Autorización pedagógica | Distingue revisar y proponer correcciones de aprobar su adopción; F07 conserva su definición constitutiva. | [Concepto y capa F06](../concepts/pedagogical-authorization.md) |
-| Intención pedagógica | La revisión puede detectar motivos para revisarla o corregirla, sin modificación automática desde una realización. | [Capa F06](../concepts/pedagogical-intention.md) |
+| Intención pedagógica | Reconsiderar su adecuación cuando cambian necesidades o circunstancias; revisar y corregir iterativamente sin modificación automática. | [Capa F06](../concepts/pedagogical-intention.md) |
 | Realización pedagógica | Puede ser examinada por conformidad y pertinencia y dar lugar a correcciones, sin autorización automática. | [Capa F06](../concepts/pedagogical-realization.md) |
 
 La **proporcionalidad pertenece a Revisión pedagógica**, no constituye una entrada conceptual autónoma. Las definiciones completas y acumulativas residen en Concepts; F06 establece relaciones y responsabilidades. Autorización pedagógica aparece por la frontera que F06 establece con la adopción de correcciones; su responsabilidad constitutiva sigue en F07.
+
+El ciclo también amplía el concepto [Necesidad pedagógica](../concepts/pedagogical-need.md): cambios externos pertinentes pueden alterar aquello que debe abordarse; F06 no crea una necesidad nueva por sí solo.
 
 ## 4. Condiciones, nuevas orientaciones y tensiones
 
