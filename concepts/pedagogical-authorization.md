@@ -1,10 +1,14 @@
 # Autorización pedagógica
 
-**Estado:** concepto identificado desde F06 en relación con revisión/corrección; su responsabilidad constitutiva corresponde a F07, todavía no revisado con O7–O10 en este ciclo. **Capa F06 propuesta**.
+**Estado:** definición acumulativa de trabajo hasta F07; capa F06 propuesta y contribución F07 pendiente de reconciliación O7–O10.
 
-## Definición acumulativa hasta F06 (provisional)
+## Definición canónica acumulativa hasta F07 (propuesta)
 
-Decisión humana de aceptar un elemento pedagógico para ciertos usos y condiciones, distinta de formularlo, revisarlo, corregirlo o publicarlo. F06 añade que **revisar o proponer una corrección no otorga autorización** y que la adopción de modificaciones pedagógicas materiales debe respetar a la persona con autoridad pertinente. La definición de alcance, vigencia y reautorización se desarrollará al revisar F07, sin anticipar aquí su reconciliación.
+La **autorización pedagógica** es una decisión humana de aceptar un elemento pedagógico para determinados usos, significados y circunstancias, dentro de un **alcance semántico identificable**. Quien autoriza debe tener autoridad pertinente para esa decisión, sin necesitar ser quien creó, revisó o corrigió el elemento.
+
+La aprobación puede preceder a las realizaciones; **autorizar una intención no autoriza automáticamente todos sus derivados ni todas las circunstancias**. La autorización no equivale a revisión, corrección, publicación, consentimiento ni garantía de calidad o aprendizaje.
+
+Cuando cambios externos alteran necesidades o circunstancias, la revisión y corrección de F06 pueden proponer modificaciones. Si estas afectan materialmente lo aprobado, es necesaria una **reconsideración del alcance y eventual reautorización** proporcional al impacto; lo no afectado puede conservar vigencia. Explorar opciones o proponer cambios no modifica silenciosamente la aprobación existente.
 
 ## Capa F06 — Revisión y corrección pedagógica
 
@@ -17,6 +21,21 @@ Decisión humana de aceptar un elemento pedagógico para ciertos usos y condicio
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | No debe imponerse aprobación independiente para cada inspección o propuesta. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Adoptar cambios pedagógicos materiales debe respetar autoridad humana pertinente. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Los controles de autorización asociados a correcciones no deben producir carga repetitiva desproporcionada. |
+
+## Capa F07 — Autorización de elementos pedagógicos
+
+**Aporte de F07:** establece el alcance semántico, la vigencia, la estabilidad relativa, la autoridad humana y la reautorización por impacto como propiedades de la aceptación pedagógica.
+
+| Orientación | Relación propuesta | Incidencia mediante F07 |
+| --- | --- | --- |
+| [O0](../orientation/README.md) | **Complemento** | En TDidacta la decisión atiende finalidades pedagógicas. |
+| [O1](../orientation/semantic-continuity.md) | **Complemento** | Debe poder reconocerse qué significado está aprobado y qué cambió. |
+| [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | La asistencia tecnológica puede identificar impactos sin reemplazar autoridad. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición** | La gestión de decisiones y cambios debe ser proporcional. |
+| [O4](../orientation/human-pedagogical-authorization.md) | **Origen** | Justifica la aprobación bajo responsabilidad humana. |
+| [O6](../orientation/effort-inversion.md) | **Condición** | Evita burocracia de autorización que desplace comprensión y formulación. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición propuesta** | Acreditar una decisión no exige publicar ni conservar datos personales superfluos. |
+| [O8](../orientation/external-personal-identity-recognition.md) | **Condición propuesta** | Cuando se requiera acreditar identidad personal de quien decide, debe distinguirse la autoridad contextual del reconocimiento de identidad externa. |
 
 ## Fronteras
 
