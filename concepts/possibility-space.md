@@ -1,6 +1,6 @@
 # Espacio de posibilidades pedagógico
 
-**Estado:** definición vigente derivada de F02 (2026-10-17); capa F02 y relaciones O→C reconciliadas por el fundador (2026-10-17). No altera el canon de F02.
+**Estado:** aporte F05 reconciliado por el fundador (2026-10-17); se preservan los estados previos de F02 y F04 cuando corresponda.
 
 ## Definición canónica hasta F02
 
@@ -10,7 +10,7 @@ La **intención pedagógica**, como consecuencia de sus decisiones y restriccion
 
 Las materias, el tiempo y las personas pueden informar la intención, **sin convertirse en tres ejes obligatorios** del espacio.
 
-## Ampliación acumulativa hasta F05 (propuesta)
+## Ampliación acumulativa hasta F05
 
 F05 añade que las posibilidades delimitadas pueden examinarse mediante exploraciones específicas y materializarse parcialmente mediante realizaciones a partir de IR compatibles, sin alterar automáticamente la intención original.
 
@@ -40,17 +40,17 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 ## Capa F05 — Proyección semántica
 
-**Aporte propuesto de F05:** el espacio delimitado por una intención puede examinarse mediante exploraciones específicas y concretarse parcialmente en realizaciones a partir de una o más IR compatibles; esas operaciones no cambian por sí mismas el espacio ni la intención.
+**Aporte de F05:** el espacio delimitado por una intención puede examinarse mediante exploraciones específicas y concretarse parcialmente en realizaciones a partir de una o más IR compatibles; esas operaciones no cambian por sí mismas el espacio ni la intención.
 
-| Orientación incidente | Clasificación propuesta | Incidencia a través de F05 |
+| Orientación incidente | Clasificación reconciliada | Incidencia a través de F05 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | La exploración debe mantener pertinencia educativa. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Examinar posibilidades requiere preservar restricciones pertinentes. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Origen** | Permite usar tecnologías para explorar o concretar posibilidades. |
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | El número de alternativas no debe sustituir la utilidad humana real. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Debe favorecer comprensión antes que selección interminable de resultados. |
-| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición candidata** | Explorar alternativas no justifica exponer datos personales innecesarios. |
-| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición candidata** | Las posibilidades proyectadas deben examinar formas de uso directo o indirecto según las circunstancias. |
+| [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Explorar alternativas no justifica exponer datos personales innecesarios. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las posibilidades proyectadas deben examinar formas de uso directo o indirecto según las circunstancias. |
 
 ## Fronteras y continuidad
 
