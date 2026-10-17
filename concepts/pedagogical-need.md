@@ -1,6 +1,6 @@
 # Necesidad pedagógica
 
-**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 pendiente de reconciliación y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
+**Estado:** definición canónica acumulativa integrada hasta F06. F02 reconciliado; aporte F03 reconciliado (2026-10-17) y aporte F06 reconciliado (2026-10-17). Las capas conservan su trazabilidad independiente.
 
 ## Definición canónica acumulativa hasta F06
 
@@ -39,7 +39,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 **Aporte de F03:** la necesidad debe ser interpretada y documentada en la contextualización, incluyendo su procedencia y alcance pertinentes; esto no reemplaza su definición originada en F02.
 
-| Orientación incidente | Relación propuesta | Incidencia a través de F03 |
+| Orientación incidente | Relación reconciliada | Incidencia a través de F03 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Origen** | Exige interpretar problemas situados, no solo declararlos. |
 | [O1](../orientation/semantic-continuity.md) | **Condición** | Conserva razones relevantes de la necesidad al formular respuestas. |
