@@ -6,7 +6,7 @@
 
 F06 surge de **O1 — Continuidad semántica**, condicionada por **O0 — Pertinencia pedagógica**, para establecer la responsabilidad de **examinar críticamente elementos y atender problemas materiales identificados en su relación con intenciones y circunstancias**.
 
-Una razón central para activar esta responsabilidad son **cambios externos** —en condiciones, destinatarios, conocimientos, recursos o necesidades— que pueden alterar la necesidad pedagógica o su contexto. Aunque una intención haya respondido adecuadamente antes, corresponde **considerar si todavía responde a la necesidad actual**. Si la respuesta es insuficiente, se justifica corregir y volver a examinar su adecuación: es un **ciclo de revisión y corrección**, no un evento único ni una corrección automática. La relevancia del cambio determina proporcionalmente si debe ejecutarse una revisión.
+Una razón central para activar esta responsabilidad son **cambios externos** —en condiciones, destinatarios, conocimientos, recursos o necesidades— que pueden alterar la necesidad pedagógica o su contexto. Aunque una intención haya respondido adecuadamente antes, corresponde **considerar si todavía responde a la necesidad actual**. Si la respuesta es insuficiente, se justifica preparar una **nueva versión candidata** de la intención, corregirla y volver a examinar su adecuación: es un **ciclo de revisión y corrección**, no un evento único ni una corrección automática. La relevancia del cambio determina proporcionalmente si debe ejecutarse una revisión.
 
 No equipara revisar con modificar, autorizar o publicar. Tampoco exige un procedimiento único de revisión para cada elemento.
 
@@ -17,9 +17,9 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 - **Continuidad contrastable:** contrastar significado, restricciones y decisiones, incluidas posibles pérdidas desde abstracción (F04) y desviaciones desde proyección (F05).
 - **Juicio humano:** una asistencia tecnológica puede señalar problemas o ejecutar ediciones supervisadas, sin constituir por sí misma evidencia, aprobación ni autoridad.
 - **Ciclo frente a cambios externos:** identificar qué cambió en la necesidad o las circunstancias, contrastar si la intención vinculada aún responde apropiadamente, corregir cuando no lo haga y volver a revisar su adecuación. La revisión puede concluir que no se requieren cambios; no existe obligación de corregir toda variación externa.
-- **Cambios y consecuencias:** una corrección localizada puede bastar; un cambio material puede requerir revisar dependencias e intenciones relacionadas, sin reescritura silenciosa de la fuente.
+- **Corrección sin mutación de versiones consolidadas:** toda corrección de una intención ya consolidada se expresa como **nueva versión candidata** de esa intención, con continuidad rastreable incluso si cambian el nombre o los contenidos. La versión consolidada anterior no se edita. Una corrección localizada puede bastar dentro de la versión candidata; un cambio material puede exigir revisar dependencias.
 - **Profundidad proporcional:** determinar cuándo considerar y ejecutar controles según relevancia, riesgo, incertidumbre y consecuencias. No impone listas universales ni aprobación individual de toda sugerencia.
-- **Autorización diferenciada:** adoptar correcciones pedagógicas materiales debe respetar la autoridad humana pertinente, aunque revisar o proponer no exija necesariamente una autorización separada.
+- **Autorización diferenciada:** F06 prepara y revisa versiones candidatas; **F07 autoriza nuevas intenciones o nuevas versiones**. Una versión previamente autorizada conserva su contenido y autorización originales. Revisar o proponer no exige aprobación separada de cada paso.
 - **Reconocimiento de aportes:** feedback y contribuciones significativas deben resultar reconocibles sin confundir procedencia con autoridad.
 
 ## 3. Conceptos originados o ampliados desde F06
@@ -27,10 +27,10 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 | Concepto | Aporte de F06 | Entrada |
 | --- | --- | --- |
 | Revisión pedagógica | Responsabilidad de examen crítico, sin equivalencia con modificar o autorizar. | [Definición y capa F06](../concepts/pedagogical-review.md) |
-| Corrección pedagógica | Intervención pertinente sobre problemas detectados; decisiones materiales sujetas a autorización. | [Definición y capa F06](../concepts/pedagogical-correction.md) |
+| Corrección pedagógica | Intervención sobre una versión candidata, sin alterar una versión consolidada; nueva versión sujeta a su propia autorización. | [Definición y capa F06](../concepts/pedagogical-correction.md) |
 | Autorización pedagógica | Distingue revisar y proponer correcciones de aprobar su adopción; F07 conserva su definición constitutiva. | [Concepto y capa F06](../concepts/pedagogical-authorization.md) |
 | Necesidad pedagógica | Reconocer cambios externos que alteran el problema y motivan reevaluar la respuesta. | [Capa F06](../concepts/pedagogical-need.md) |
-| Intención pedagógica | Reconsiderar su adecuación cuando cambian necesidades o circunstancias; revisar y corregir iterativamente sin modificación automática. | [Capa F06](../concepts/pedagogical-intention.md) |
+| Intención pedagógica | Reconsiderar su adecuación; cuando se corrige una intención consolidada, generar y revisar una nueva versión sin alterar la anterior. | [Capa F06](../concepts/pedagogical-intention.md) |
 | Realización pedagógica | Puede ser examinada por conformidad y pertinencia y dar lugar a correcciones, sin autorización automática. | [Capa F06](../concepts/pedagogical-realization.md) |
 
 La **proporcionalidad pertenece a Revisión pedagógica**, no constituye una entrada conceptual autónoma. Las definiciones completas y acumulativas residen en Concepts; F06 establece relaciones y responsabilidades. Autorización pedagógica aparece por la frontera que F06 establece con la adopción de correcciones; su responsabilidad constitutiva sigue en F07.
