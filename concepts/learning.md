@@ -1,6 +1,6 @@
 # Aprendizaje
 
-**Estado:** entrada conceptual basada exclusivamente en F01; relaciones O→concepto propuestas para reconciliación.
+**Estado:** definición y capa F01, incluidas relaciones O→concepto, reconciliadas por aprobación expresa del fundador (2026-10-17).
 
 ## Definición canónica hasta F01
 
@@ -16,7 +16,7 @@ El **aprendizaje** se comprende desde la participación activa de quien aprende:
 
 **Orientaciones incidentes en esta contribución:**
 
-| Orientación | Clasificación propuesta | Cómo incide |
+| Orientación | Clasificación reconciliada | Cómo incide |
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica la exploración, experimentación y construcción de comprensión como fines de las experiencias educativas. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Incidencia marginal** | Ayuda a interpretar cambios de comprensión y reinterpretaciones, sin determinar por sí misma qué es aprender. |
