@@ -29,6 +29,18 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 **Capas futuras:** si otro fundamento afecta al mismo concepto, añadir una **capa independiente de ese fundamento y de sus orientaciones incidentes**. No mezclar las orientaciones de distintos fundamentos ni duplicar la definición canónica.
 
+## Capa F03 — Contextualización pedagógica humana
+
+**Aporte de F03:** la necesidad debe ser interpretada y documentada en la contextualización, incluyendo su procedencia y alcance pertinentes; esto no reemplaza su definición originada en F02.
+
+| Orientación incidente | Relación propuesta | Incidencia a través de F03 |
+| --- | --- | --- |
+| [O0](../orientation/README.md) | **Origen** | Exige interpretar problemas situados, no solo declararlos. |
+| [O1](../orientation/semantic-continuity.md) | **Condición** | Conserva razones relevantes de la necesidad al formular respuestas. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición** | La explicitud requerida es proporcional al problema. |
+| [O6](../orientation/effort-inversion.md) | **Condición** | Prioriza comprender la necesidad antes de producir materiales. |
+| [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición propuesta** | Las barreras de acceso pueden ser parte material del problema que se debe reconocer para responder adecuadamente. |
+
 ## Fronteras y continuidad
 
 Una necesidad no es la intención con que se responde ni el resultado que se realiza. Véase [Intención pedagógica](pedagogical-intention.md).
