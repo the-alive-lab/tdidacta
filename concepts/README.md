@@ -76,6 +76,15 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** contribuciones F07 y relaciones O7–O10 propuestas, pendientes de reconciliación. Por decisión del fundador, autorizar una nueva versión se integra en **Autorización pedagógica**, no constituye un concepto de reautorización independiente. Las versiones consolidadas se tratan como inmutables; reemplazar la versión publicada corresponde a publicación.
 
+## Entradas propuestas de F08 — Autoría pedagógica
+
+| Concepto | Aporte |
+| --- | --- |
+| [Autoría pedagógica](pedagogical-authorship.md) | Participación reconocible y separación de autoridad, titularidad e identidad |
+| [Contribución pedagógica](pedagogical-contribution.md) | Crear, editar, mediar y retroalimentar, sin atribución automática de coautoría |
+
+**Estado:** identificación F08 y clasificaciones O7–O10 propuestas; pendiente de reconciliación por el fundador.
+
 Cada entrada mantiene **una única definición canónica acumulativa vigente hasta el último fundamento que la amplíe** y **una capa por fundamento que contribuya al concepto**. Agregar una capa exige integrar su aporte en esa única definición, sin crear títulos paralelos de «definición canónica F02» y «definición hasta F06»; la procedencia histórica permanece en las capas y en Git. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
 Las clasificaciones O→concepto son independientes de O→F. **Las capas de F02 están reconciliadas por el fundador**; las de F01 mantienen sus clasificaciones conceptuales según las decisiones y revisiones registradas. La definición propia de cada concepto se consulta aquí, mientras el fundamento explica sus responsabilidades y relaciones.
