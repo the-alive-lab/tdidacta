@@ -4,11 +4,11 @@
 
 ## Definición canónica acumulativa hasta F07 (propuesta)
 
-La **autorización pedagógica** es una decisión humana de aceptar un elemento pedagógico para determinados usos, significados y circunstancias, dentro de un **alcance semántico identificable**. Quien autoriza debe tener autoridad pertinente para esa decisión, sin necesitar ser quien creó, revisó o corrigió el elemento.
+La **autorización pedagógica** es una decisión humana de aceptar **una nueva intención o una versión determinada de una intención existente**, u otro elemento pedagógico para determinados usos, significados y circunstancias, dentro de un **alcance semántico identificable**. Quien autoriza debe tener autoridad pertinente para esa decisión, sin necesitar ser quien creó, revisó o corrigió el elemento.
 
 La aprobación puede preceder a las realizaciones; **autorizar una intención no autoriza automáticamente todos sus derivados ni todas las circunstancias**. La autorización no equivale a revisión, corrección, publicación, consentimiento ni garantía de calidad o aprendizaje.
 
-Cuando cambios externos alteran necesidades o circunstancias, F06 puede justificar elaborar **una nueva versión** de la intención. Una versión autorizada y consolidada se entiende **inmutable**: sus contenidos, nombre y significado aprobado no se sobrescriben. La nueva versión puede contener cambios sustanciales e incluso un nombre distinto, manteniendo una relación explícita de continuidad con la anterior. **Autorizar la nueva versión es otra autorización pedagógica**, no «reautorizar» o mutar retroactivamente la anterior.
+Cuando cambios externos alteran necesidades o circunstancias, F06 puede justificar elaborar **una nueva versión** de la intención. Una versión autorizada y consolidada se entiende **inmutable**: sus contenidos, nombre y significado aprobado no se sobrescriben. La nueva versión puede contener cambios sustanciales e incluso un nombre distinto, manteniendo una relación explícita de continuidad con la anterior. **Autorizar la nueva versión es otra autorización pedagógica**, no «reautorizar» o mutar retroactivamente la anterior. **La autorización previa permanece válida respecto de la versión y el alcance que originalmente aceptó**; ofrecer otra versión como vigente no revoca esa decisión histórica.
 
 Si existe una versión publicada, la incorporación de la corrección **reemplaza la versión ofrecida como vigente**, no el contenido histórico de la versión anterior. Publicar, conservar históricos y resolver accesibilidad son responsabilidades distintas de autorizar. Lo materialmente no afectado no exige nuevas decisiones.
 
@@ -26,7 +26,7 @@ Si existe una versión publicada, la incorporación de la corrección **reemplaz
 
 ## Capa F07 — Autorización de elementos pedagógicos
 
-**Aporte de F07:** establece el alcance semántico, la vigencia, la inmutabilidad de versiones consolidadas, la autoridad humana y la autorización de nuevas versiones como propiedades de la aceptación pedagógica.
+**Aporte de F07:** establece el alcance semántico, la inmutabilidad de versiones consolidadas, la conservación de autorizaciones previas y la autorización de intenciones nuevas o versiones nuevas como propiedades de la aceptación pedagógica.
 
 | Orientación | Relación propuesta | Incidencia mediante F07 |
 | --- | --- | --- |
