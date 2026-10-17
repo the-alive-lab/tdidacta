@@ -54,7 +54,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** F05 reconciliado por decisión del fundador (2026-10-17), incluidas relaciones O7–O10 y capas conceptuales.
 
-## Entradas y capas propuestas de F06
+## Entradas y capas de F06 reconciliadas
 
 | Concepto | Contribución |
 | --- | --- |
@@ -65,7 +65,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Intención pedagógica](pedagogical-intention.md) | Ampliación acumulativa y capa F06 |
 | [Realización pedagógica](pedagogical-realization.md) | Ampliación acumulativa y capa F06 |
 
-**Estado:** análisis F06 y orientaciones O7–O10 pendientes de reconciliación por el fundador. **Proporcionalidad de revisión se integró en Revisión pedagógica** por decisión del fundador; no constituye concepto separado.
+**Estado:** F06 y relaciones O7–O10 reconciliados por aprobación del fundador (2026-10-17). **Proporcionalidad de revisión se integró en Revisión pedagógica** por decisión del fundador; no constituye concepto separado.
 
 ## Entradas y capas propuestas de F07
 
