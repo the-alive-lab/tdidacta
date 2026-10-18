@@ -18,6 +18,17 @@ A diferencia de F02, que establece relaciones semánticas entre necesidad, inten
 
 Materias, tiempo, personas, medios y limitaciones son **consideraciones candidatas según pertinencia**, no entradas fijas. La ausencia de tecnología no debe confundirse automáticamente con ausencia de posibilidades educativas.
 
+## Vías de interpretación de fuentes externas de necesidad educativa
+
+Cuando una necesidad educativa procede de una [fuente externa de necesidad educativa](../concepts/educational-source.md), F03 contempla **dos vías igualmente admisibles para extraer e interpretar su contenido pertinente**:
+
+- **Vía directa:** la persona responsable examina e interpreta la fuente por sí misma.
+- **Vía asistida por herramientas:** la persona responsable puede servirse de asistencia para extraer y examinar contenido, manteniendo bajo su responsabilidad el juicio, la contextualización y las decisiones pedagógicas.
+
+Ninguna vía es requisito de la otra ni recibe autoridad por el solo modo de extracción. Las herramientas **no se especifican aquí, ni se prescribe cómo usarlas**. Ambas vías pueden ayudar a identificar información relevante, límites, ambigüedades y necesidades de aclaración; extraer contenido **no equivale a validar su veracidad, aprobar una intención ni adquirir derechos de uso**. La asistencia es una modalidad de F03, **no un fundamento independiente**. El [registro de candidatura no admitida](denied/assisted-source-interpretation.md) preserva el análisis previo; la decisión histórica T02 de aplazar detalles técnicos continúa vigente.
+
+F03 no obliga a partir de una fuente externa: una persona puede identificar y formular directamente una necesidad educativa. Si se emplea una fuente externa, sus aportes y condiciones relevantes deben distinguirse de las interpretaciones posteriores.
+
 ## 3. Conceptos definidos o ampliados desde F03
 
 | Concepto | Aporte específico de F03 | Entrada |
@@ -27,12 +38,13 @@ Materias, tiempo, personas, medios y limitaciones son **consideraciones candidat
 | **Documentación suficiente y proporcional** | Criterio de suficiencia semántica proporcional al alcance. | [Definición y capa F03](../concepts/sufficient-proportional-documentation.md) |
 | **Necesidad pedagógica** | Aporta interpretación, procedencia y explicitud contextual a un concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-need.md) |
 | **Intención pedagógica** | Aporta formulación situada, juicio humano y claridad documental al concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-intention.md) |
+| **Fuente externa de necesidad educativa** | Reconoce contenido externo susceptible de interpretación directa o asistida como insumo, sin hacerlo requisito universal. | [Definición y capa F03](../concepts/educational-source.md) |
 
 Cada entrada contiene la **capa del fundamento** con su aporte y solo las orientaciones incidentes. La definición acumulativa de conceptos ya originados en F02 no se reemplaza por una copia aquí.
 
 ## 4. Condiciones y tensiones
 
-**O3 — Carga y capacidad humana** requiere proporcionalidad. **O6 — Inversión del esfuerzo** prioriza comprender y documentar antes que producir repetidamente realizaciones. **O2 — Tecnología** podría asistir esa labor sin eficacia demostrada. **O4 — Autorización humana** obliga a distinguir contextualizar de aprobar. **O5** tiene incidencia marginal en aportes relevantes, sin convertir gestión de atribuciones en responsabilidad central.
+**O3 — Carga y capacidad humana** requiere proporcionalidad. **O6 — Inversión del esfuerzo** prioriza comprender y documentar antes que producir repetidamente realizaciones. **O2 — Tecnología** habilita la vía asistida como alternativa a la interpretación directa, sin eficacia demostrada. **O4 — Autorización humana** obliga a distinguir contextualizar de aprobar. **O5** tiene incidencia marginal en aportes relevantes, sin convertir gestión de atribuciones en responsabilidad central.
 
 Persisten las tensiones [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔ O6](../tensions/effort-inversion-proportionality.md). Los mecanismos deben explicar cómo responden sin presuponer que están resueltas.
 
@@ -44,7 +56,7 @@ F03 no define formatos documentales, IR, operaciones de encode/decode, lifecycle
 
 La contextualización puede resultar errónea aunque se documente correctamente; su validación pedagógica y operativa es una cuestión diferente.
 
-**T04** está cerrado conceptualmente. Los diseños y entregables comprometidos antes del **31-10-2026** no se consideran implementados. Las clasificaciones O7–O10 y contribuciones conceptuales propuestas en esta revisión requieren aprobación del fundador.
+**T04** está cerrado conceptualmente. Los diseños y entregables comprometidos antes del **31-10-2026** no se consideran implementados. Las relaciones O7–O10 ya fueron reconciliadas; las dos vías de interpretación y la fuente externa se incorporan por decisión posterior del fundador (2026-10-18), sin especificación técnica.
 
 ## 6. Trazabilidad O→F03
 
@@ -52,7 +64,7 @@ La contextualización puede resultar errónea aunque se documente correctamente;
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica contextualizar para necesidades y destinatarios concretos. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Origen** | Fundamenta documentación suficiente para preservar y reconstruir significado. |
-| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Puede asistir documentación y atenuar la carga humana. |
+| [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Permite la vía asistida de interpretación y extracción, sin imponer tecnología ni prometer ahorro. |
 | [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Exige esfuerzo proporcional al alcance y beneficio. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Condición** | Preserva juicio humano sin equiparar formulación a autorización. |
 | [O5 — Reconocimiento de aportes](../orientation/transparent-contribution-recognition.md) | **Incidencia marginal** | Contribuciones pueden mejorar contextualización, sin definir su responsabilidad central. |
