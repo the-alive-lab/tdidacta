@@ -18,16 +18,16 @@ A diferencia de F02, que establece relaciones semánticas entre necesidad, inten
 
 Materias, tiempo, personas, medios y limitaciones son **consideraciones candidatas según pertinencia**, no entradas fijas. La ausencia de tecnología no debe confundirse automáticamente con ausencia de posibilidades educativas.
 
-## Vías de interpretación de fuentes externas de necesidad educativa
+## Documentos de referencia pedagógica y vías de traducción documental
 
-Cuando una necesidad educativa procede de una [fuente externa de necesidad educativa](../concepts/educational-source.md), F03 contempla **dos vías igualmente admisibles para extraer e interpretar su contenido pertinente**:
+F03 contextualiza una **necesidad pedagógica** y la expresa mediante documentación conforme a **TDidacta Docs Standard**. Una persona puede utilizar un [documento de referencia pedagógica](../concepts/educational-source.md) preexistente —por ejemplo, una malla curricular o programa de estudios del MINEDUC, una planificación docente o una guía educativa— como apoyo para elaborar esa documentación. **El documento no constituye la necesidad misma** y no es un insumo obligatorio.
 
-- **Vía directa:** la persona responsable examina e interpreta la fuente por sí misma.
-- **Vía asistida por herramientas:** la persona responsable puede servirse de asistencia para extraer y examinar contenido, manteniendo bajo su responsabilidad el juicio, la contextualización y las decisiones pedagógicas.
+Cuando se utiliza un archivo de referencia, existen dos vías:
 
-Ninguna vía es requisito de la otra ni recibe autoridad por el solo modo de extracción. Las herramientas **no se especifican aquí, ni se prescribe cómo usarlas**. Ambas vías pueden ayudar a identificar información relevante, límites, ambigüedades y necesidades de aclaración; extraer contenido **no equivale a validar su veracidad, aprobar una intención ni adquirir derechos de uso**. La asistencia es una modalidad de F03, **no un fundamento independiente**. El [registro de candidatura no admitida](denied/assisted-source-interpretation.md) preserva el análisis previo; la decisión histórica T02 de aplazar detalles técnicos continúa vigente.
+- **Vía directa:** la persona toma el archivo y traduce su contenido pertinente a documentación conforme a TDidacta Docs Standard.
+- **Vía asistida:** la persona entrega el archivo a una tecnología que propone esa traducción a documentación conforme a TDidacta Docs Standard; el juicio, la revisión y las decisiones pedagógicas continúan siendo responsabilidad humana.
 
-F03 no obliga a partir de una fuente externa: una persona puede identificar y formular directamente una necesidad educativa. Si se emplea una fuente externa, sus aportes y condiciones relevantes deben distinguirse de las interpretaciones posteriores.
+En ambos casos, **el archivo original queda como referencia**, distinguible de la documentación resultante. Traducir no exige reproducir literalmente todo el material, adoptar sin revisión sus decisiones ni atribuir a la fuente inferencias que no contiene. El fundamento **no define cuáles herramientas se emplean ni cómo se utilizan**. La asistencia constituye una modalidad de F03, no un fundamento adicional; véase la [candidatura no admitida](denied/assisted-source-interpretation.md).
 
 ## 3. Conceptos definidos o ampliados desde F03
 
@@ -38,7 +38,7 @@ F03 no obliga a partir de una fuente externa: una persona puede identificar y fo
 | **Documentación suficiente y proporcional** | Criterio de suficiencia semántica proporcional al alcance. | [Definición y capa F03](../concepts/sufficient-proportional-documentation.md) |
 | **Necesidad pedagógica** | Aporta interpretación, procedencia y explicitud contextual a un concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-need.md) |
 | **Intención pedagógica** | Aporta formulación situada, juicio humano y claridad documental al concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-intention.md) |
-| **Fuente externa de necesidad educativa** | Reconoce contenido externo susceptible de interpretación directa o asistida como insumo, sin hacerlo requisito universal. | [Definición y capa F03](../concepts/educational-source.md) |
+| **Documento de referencia pedagógica** | Material pedagógico preexistente que puede servir de referencia al traducir contenido pertinente a TDidacta Docs Standard, por vía directa o asistida. | [Definición, ejemplos y capa F03](../concepts/educational-source.md) |
 
 Cada entrada contiene la **capa del fundamento** con su aporte y solo las orientaciones incidentes. La definición acumulativa de conceptos ya originados en F02 no se reemplaza por una copia aquí.
 
@@ -56,7 +56,7 @@ F03 no define formatos documentales, IR, operaciones de encode/decode, lifecycle
 
 La contextualización puede resultar errónea aunque se documente correctamente; su validación pedagógica y operativa es una cuestión diferente.
 
-**T04** está cerrado conceptualmente. Los diseños y entregables comprometidos antes del **31-10-2026** no se consideran implementados. Las relaciones O7–O10 ya fueron reconciliadas; las dos vías de interpretación y la fuente externa se incorporan por decisión posterior del fundador (2026-10-18), sin especificación técnica.
+**T04** está cerrado conceptualmente. Los diseños y entregables comprometidos antes del **31-10-2026** no se consideran implementados. Las relaciones O7–O10 ya fueron reconciliadas; las dos vías de traducción documental y el documento de referencia pedagógica se incorporan por decisión posterior del fundador (2026-10-18), sin especificación técnica.
 
 ## 6. Trazabilidad O→F03
 
