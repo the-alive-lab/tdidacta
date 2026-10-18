@@ -106,6 +106,21 @@ Una exploración puede salir del alcance delimitado por la intención. La relaci
 
 **Comparación entre flavors:** ver la [nota externa de correspondencias con VSlices](../notes/external/2026-10-16-vslices-conceptual-correspondences.md). Su generalización exige contrastar fuentes canónicas y operaciones reales; no basta con analogías.
 
+## Recurrencia como relación entre fundamentos — precisión 2026-10-18
+
+La resolución recursiva **no es una responsabilidad fundacional autónoma ni una modalidad constitutiva de F02**. Describe **relaciones posibles entre aplicaciones de responsabilidades ya definidas**. En particular:
+
+| Origen conceptual | Vínculo posible | Destino conceptual | Límite |
+| --- | --- | --- | --- |
+| F05 — Exploración o realización | Un hallazgo o resultado **puede revelar** una nueva necesidad | F02 — Necesidad e intención nuevas | No requiere subdivisión ni interpretar toda observación como necesidad |
+| F05 — Resultado u observación | **Puede motivar** reevaluar la adecuación de una respuesta existente | F06 — Revisión y corrección | Revisar no significa corregir automáticamente |
+| F06 — Revisión de una intención | **Puede determinar** que corresponda otra versión candidata | F07 — Nueva autorización para versión y alcance | La versión previamente consolidada permanece intacta |
+| F02 — Nueva intención | **Puede delimitar** otras posibilidades que más adelante se exploran o realizan | F05 — Exploración o realización | La relación no exige recorrer un orden ni publicar |
+
+La recurrencia aparece cuando estas relaciones vuelven a darse en otras necesidades, escalas o situaciones; **no implica un ciclo único, árbol obligatorio ni cardinalidad predeterminada**. Una nueva necesidad puede ser más específica, equivalente, transversal o más amplia. También puede no aparecer ninguna necesidad posterior.
+
+**Distinción de superficies:** [F02](../foundations/pedagogical-needs-and-intentions.md) explica cómo abordar una necesidad interpretada desde el problema educativo de F01; este documento describe **cómo se conectan varias responsabilidades**; [Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) puede coordinar tales conexiones sin volverlas pasos forzosos. La [candidatura rechazada](../foundations/denied/recursive-pedagogical-resolution.md) conserva su reconocimiento histórico como fundamento y las razones de no promoción. Las relaciones siguen siendo un mapa conceptual, no especificación de mecanismo ni adopción de Lifecycle.
+
 ## Conexión con Lifecycle
 
 Un ciclo de trabajo puede **coordinar** estas relaciones para abordar necesidades, pero no debe confundirse con ellas. En particular:
