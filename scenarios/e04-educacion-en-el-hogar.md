@@ -41,7 +41,7 @@ La experiencia educativa se organiza principalmente en un entorno familiar o dom
 
 ## Límites y cuestiones abiertas
 
-- ¿Dónde terminan decisiones pedagógicas del familiar y dónde comienzan obligaciones o facultades legales sobre menores? Depende de jurisdicción y contexto; **no decidir por presunción**.
-- ¿Cómo apoyar necesidades educativas y progresos sin transformarlos en certificados oficiales ni garantizar calidad o cumplimiento curricular?
+- **Complejidad regulatoria reconocida:** la frontera entre decisiones pedagógicas familiares, representación legal, privacidad y obligaciones de protección de menores varía por país y contexto. Se considera una de las áreas de implementación más delicadas; **no adoptar flujos legales universales ni asumir cumplimiento multinacional**. Resolver mediante análisis jurídico y de diseño por jurisdicción antes de activar capacidades afectadas.
+- ¿Cómo apoyar necesidades educativas y progresos sin transformarlos en certificados oficiales ni garantizar calidad o cumplimiento curricular? **Pendiente para trabajo posterior**; distinguir evidencia formativa de títulos y certificados oficiales sin prometer que TDidacta los otorgará.
 - Validación chilena mediante exámenes libres se cita solo como **ejemplo contextual**, no como requisito universal: [Ayuda Mineduc](https://www.ayudamineduc.cl/ficha/examenes-libres-menores-de-18-anos-11).
 - No se prescriben interfaces familiares, perfiles infantiles, control parental, currículos, verificaciones, ni calendario de implementación.
