@@ -23,6 +23,10 @@ No equipara revisar con modificar, autorizar o publicar. Tampoco exige un proced
 - **Examen de afirmaciones y límites:** cuando sean materiales para la necesidad y el contexto, examinar si lo presentado como procedente de una fuente está efectivamente respaldado, y si inferencias, incertidumbres, ambigüedades, omisiones o conflictos requieren comprobarse, explicitarse o corregirse. La revisión puede mantener una cuestión abierta sin afirmar certeza ficticia; **no hay obligación de verificar exhaustivamente cada frase ni de bloquear todo elemento incierto**. Véase [T03 archivado](denied/source-inference-uncertainty.md).
 - **Reconocimiento de aportes:** feedback y contribuciones significativas deben resultar reconocibles sin confundir procedencia con autoridad.
 
+## Modalidades — contraste conceptual y operacional
+
+Directa: una persona examina elementos y prepara correcciones pertinentes. Asistida: herramientas señalan problemas o proponen correcciones para examen humano. Una intención consolidada solo se modifica mediante nueva versión candidata; no se presupone capacidad técnica de detección ni autorización automática.
+
 ## 3. Conceptos originados o ampliados desde F06
 
 | Concepto | Aporte de F06 | Entrada |
