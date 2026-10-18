@@ -33,7 +33,7 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 
 | Concepto | Relación con F10 | Estado |
 | --- | --- | --- |
-| [Escenario pedagógico](../concepts/application-circumstances.md) (antes «Circunstancias de aplicación pedagógica») | Concepto existente renombrado y definición acumulativa actualizada, con procedencia F03 preservada | Nombre y estructura aprobados; tabla O→C de F10 pendiente |
+| [Escenario pedagógico](../concepts/application-circumstances.md) (antes «Circunstancias de aplicación pedagógica») | Concepto existente renombrado y definición acumulativa actualizada, con procedencia F03 preservada | Nombre, estructura y tabla O→C F10 reconciliados |
 | Escenario pedagógico base | Tipo del concepto Escenario pedagógico, definido por quien enseña con circunstancias de referencia | Aprobado como tipo, sin concepto/archivo separado |
 | Escenario pedagógico especializado | Tipo del mismo concepto, obtenido al particularizar uno base durante el uso del aprendiz | Aprobado como tipo, sin concepto/archivo separado |
 | [Intención pedagógica](../concepts/pedagogical-intention.md) | Referencia que no debe cambiarse silenciosamente al especializar | No se requiere capa F10; relación entre fundamentos |
@@ -60,6 +60,6 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 ## 6. Puntos por reconciliar
 
 1. **Aprobado y aplicado:** nombre «Escenario pedagógico», concepto único con tipos base y especializado, conservando la capa F03 y su semántica.
-2. **Pendiente:** revisar O→C de la capa F10 de Escenario pedagógico.
+2. **Reconciliado:** capa O→C de Escenario pedagógico aprobada expresamente (2026-10-18): O3 Condición, O6 Incidencia marginal y O10 Sin incidencia. La clasificación O→F10 sigue pendiente.
 3. **Resuelto:** la relación con F09 no origina una capa adicional en Autonomía del aprendiz.
 4. Revisar las demás ampliaciones solo si aportan semántica propia, y validar O→F10, límites y tensiones antes de reconciliar todo F10.
