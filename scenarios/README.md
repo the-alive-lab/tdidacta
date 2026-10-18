@@ -41,6 +41,13 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Fundamentos a contrastar:** [F01](../foundations/teaching-and-learning.md), [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md), [F09](../foundations/learner-autonomy.md), O3/O6. **Pregunta abierta:** ¿cómo habilitar juicio sobre utilidad de estrategias personales sin que TDidacta declare diagnósticos, estilos de aprendizaje fijos o eficacia no verificada?
 
+### Modalidades de autodidacta: independiente y acompañado
+
+- **Autodidacta independiente (standalone):** la persona organiza y evalúa por sí misma sus experiencias, aunque pueda usar materiales o asistencia tecnológica. No presupone aislamiento obligatorio ni ausencia absoluta de orientación externa.
+- **Autodidacta acompañado:** la persona mantiene el control de su aprendizaje mientras recurre voluntariamente a pares, comunidades de estudio, mentorías o colaboradores. El acompañamiento no convierte automáticamente la situación en una institución ni transfiere la autoridad de sus decisiones a terceros.
+
+**Contraste:** examinar cómo se coordinan contribuciones, feedback y continuidad compartida sin imponer jerarquía pedagógica formal. La presencia de una comunidad no convierte el aprendizaje autodidacta en un escenario canónico diferente.
+
 ## E03 — Educación institucional
 
 **Condiciones:** existe organización que coordina programas, docentes, aprendices, equipos de apoyo, autorizaciones y continuidad institucional. Pueden intervenir múltiples niveles de autoridad; no debe suponerse que todo establecimiento tiene la misma estructura ni que lo administrativo determina la intención pedagógica.
@@ -78,12 +85,27 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Contexto externo chileno, no requisito universal:** la validación por exámenes libres corresponde al Ministerio de Educación y entidades examinadoras designadas; la inscripción de menores es responsabilidad de padre/madre/tutor legal y no puede hacerla una institución privada de homeschooling. Fuente oficial: [Ayuda Mineduc](https://www.ayudamineduc.cl/ficha/examenes-libres-menores-de-18-anos-11). UNESCO reconoce diversidad de condiciones del homeschooling: [actores no estatales](https://www.unesco.org/en/right-education/non-state-actors). No se adopta flujo legal, certificación ni alcance territorial universal.
 
+## E05 — Aprendizaje orientado a metas (escenario candidato transversal)
+
+**Condiciones:** una meta de aprendizaje se define **externamente a TDidacta**, por la persona, su entorno u otra organización: preparar una certificación, adquirir capacidad en un tema, superar una brecha concreta, realizar una tarea o desarrollar una competencia. «Externa» significa que **TDidacta no establece la meta como autoridad originaria**, no que necesariamente la imponga una institución distinta del aprendiz.
+
+**Cobertura pretendida:**
+- Recibir o interpretar una meta externa y permitir que las personas formulen necesidades e intenciones pedagógicas relacionadas con ella, **sin confundir meta con intención pedagógica**.
+- Facilitar exploración, recursos, práctica y revisión hacia la meta, sin apropiarse de su definición ni garantizar que se alcanzará.
+- Diferenciar autoevaluación y evidencia de progreso de una **certificación o evaluación oficial externa**; la plataforma no concede por sí misma credenciales externas.
+- Admitir modificaciones de la meta externa y reconsiderar las intenciones vinculadas sin alterar versiones anteriormente autorizadas.
+- Mantener continuidad de múltiples metas, incluidas las simultáneas o compatibles con enseñanza particular, autodidacta, hogar e institución.
+
+**Actores observables:** persona que persigue la meta, quien la fija (puede ser la misma persona), eventuales acompañantes y entidades externas que evalúan o certifican. No formaliza Roles ni permisos.
+
+**Fundamentos a contrastar:** [F02](../foundations/pedagogical-needs-and-intentions.md), [F03](../foundations/human-pedagogical-contextualization.md), [F06](../foundations/pedagogical-review-and-correction.md), [F09](../foundations/learner-autonomy.md), O1/O3/O9. **Pregunta abierta:** ¿cómo vincular una meta externa a necesidad e intención sin convertir la meta en un concepto interno adicional ni desplazar su autoridad? **Clasificación candidata:** escenario transversal que puede cruzarse con E01–E04; no es sinónimo de capacitación laboral.
+
 ## Variantes transversales para evaluar, no escenarios independientes adoptados
 
-1. **Grupal/comunitario no institucional**: grupos de estudio, mentorías y comunidades de práctica pueden combinar coordinación compartida, aportes múltiples y ausencia de jerarquía formal.
-2. **Formación laboral/adulta**: capacitación profesional, reconversión y formación en organizaciones (o por un mentor), con requisitos externos y necesidades de certificación distintas.
-3. **Acceso indirecto/desconectado**: aprendizaje con materiales impresos, de terceros o sin conexión sostenida. Es una condición **transversal** a E01–E04, no necesariamente escenario de alto nivel.
-4. **Trayectoria híbrida**: una persona combina centro educativo, tutor particular, estudio autónomo y apoyos familiares. Verifica continuidad sin unificación forzada de permisos y contextos.
+1. **Acceso indirecto/desconectado**: aprendizaje con materiales impresos, de terceros o sin conexión sostenida. Es una condición **transversal** a E01–E05, no necesariamente escenario de alto nivel.
+2. **Trayectoria híbrida**: una persona combina centro educativo, tutor particular, estudio autónomo y apoyos familiares, y puede perseguir metas externas. Verifica continuidad sin unificación forzada de permisos y contextos.
+
+El aprendizaje comunitario/grupal no institucional queda como **modalidad acompañada de E02**, y la formación laboral es un **ejemplo posible de E05**, no un escenario universal distinto.
 
 No introducir escenarios separados por cada tecnología, medio, condición médica, identidad, tamaño de grupo o tipo de archivo: esos son factores de contexto o variaciones a contrastar, salvo que aparezca una diferencia real de responsabilidades.
 
@@ -98,6 +120,7 @@ No introducir escenarios separados por cada tecnología, medio, condición médi
 | Agencia/autocomprobación | F05/F06/F09/O3 | ¿Qué justifica apoyo a aprender cómo evaluar estrategias propias sin prometer «estilos de aprendizaje» fijos? |
 | Institución y hogar | F02/F07/F08/O7–O10 | ¿Qué responsabilidades o fundamentos faltan para coordinación multinivel y protección de menores? |
 | Acceso asincrónico e indirecto | O9/O10/F09 | ¿Qué grado de disponibilidad independiente es necesario sin prometer plataforma 24/7? |
+| Metas definidas fuera de TDidacta | F02/F03/F06/F09 | ¿Cómo preservar la autoridad externa sobre la meta, distinguirla de la intención pedagógica y reconocer evaluación/certificación ajena? |
 
 ## Proceso de promoción y planificación
 
