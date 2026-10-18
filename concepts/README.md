@@ -105,14 +105,13 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 No se crearon conceptos separados para los dos tipos, ni capas nuevas en intención, exploración o realización por simple relación.
 
-## Continuidad F03 — documentos de referencia y modalidad asistida
+## Continuidad F03 — documentos de referencia
 
 | Concepto | Aporte |
 | --- | --- |
 | [Documento de referencia pedagógica](educational-source.md) | Archivo con contenido pedagógico preexistente (p. ej., malla MINEDUC), traducible a TDidacta Docs Standard directamente o con asistencia; original conservado como referencia |
-| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Registro de modalidad opcional, sin Foundation independiente ni capa F09 |
 
-**Estado:** por decisión del fundador (2026-10-18), no se crea un fundamento autónomo. La [candidatura fue archivada](../foundations/denied/assisted-source-interpretation.md). El documento de referencia pedagógica se delimita con ejemplos bajo F03; el mecanismo técnico T02 sigue diferido.
+**Frontera:** la interpretación asistida no constituye un concepto propio. F03 establece la vía de asistencia; su explicación operativa corresponde al [mecanismo candidato T02](../mechanisms/assisted-material-interpretation.md), aún diferido. La [candidatura histórica no admitida](../foundations/denied/assisted-source-interpretation.md) y el historial Git conservan su procedencia.
 
 Cada entrada mantiene **una única definición canónica acumulativa vigente hasta el último fundamento que la amplíe** y **una capa por fundamento que contribuya al concepto**. Agregar una capa exige integrar su aporte en esa única definición, sin crear títulos paralelos de «definición canónica F02» y «definición hasta F06»; la procedencia histórica permanece en las capas y en Git. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
