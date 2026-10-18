@@ -1,4 +1,4 @@
-# Continuidad semántica — orientación de TDidacta
+# O1 — Continuidad semántica
 
 **Estado (2026-10-16):** orientación transversal **confirmada conceptualmente por el fundador** para los proyectos derivados de PResolver. La redacción aquí está especializada para TDidacta; adopción documental en el canon de PResolver pendiente.
 
