@@ -329,3 +329,9 @@ El fundador aprobó explícitamente un concepto canónico **Escenario pedagógic
 ## F10 — Aprobación O→C de Escenario pedagógico (2026-10-18)
 
 El fundador aprobó expresamente la clasificación propuesta O→C mediante F10 para el concepto único **Escenario pedagógico**, con dos tipos base y especializado. Quedan reconciliados O0 Origen; O1 Condición; O2 Complemento; **O3 Condición** (distinta del Origen propuesto O→F10); O4 Condición; **O6 Incidencia marginal**; O7 Condición; O9 Condición. O5, O8 y **O10 Sin incidencia** mediante F10. La capa F03 no se alteró, incluida su O8 Incidencia marginal. La tabla O→F10 continúa pendiente de aprobación y no se confunde con esta decisión; la relación con Autonomía del aprendiz no genera capa F10 adicional.
+
+## F10 — Cierre conceptual expreso y condición investigativa (2026-10-18)
+
+El fundador aclaró que su revisión se concentró en las clasificaciones que requerían cambios, y **aprobó también todas las demás O→F10**. F10 queda reconciliado integralmente: O6 **Origen** (inversión del esfuerzo hacia comprensión y diseño de escenarios base), O10 **Sin incidencia** (conservación de recursos públicos fuera de la responsabilidad de adaptación), y O0–O5, O7–O9 según las clasificaciones anteriormente propuestas. Se conserva sin cambios la capa reconciliada O→C de Escenario pedagógico: O3 Condición, O6 Incidencia marginal y O10 Sin incidencia. No se crean capas F10 en Autonomía del aprendiz, Exploración ni Realización por simples relaciones.
+
+La verificación de `vslices/research-space` identificó continuidad cercana en ECIC y un estudio PIR sobre conformidad semántica, pero no una demostración completada del beneficio O3/F10. Se registra en [bootstrap](../bootstrap/foundations-concepts-review.md) la condición de trazar un estudio pertinente o una necesidad investigativa vinculada a ECIC **antes del cierre global del bootstrap**. Esto no bloquea la aprobación conceptual de F10 ni supone eficacia demostrada.
