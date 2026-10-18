@@ -1,10 +1,10 @@
 # Resolución recursiva de necesidades pedagógicas — candidatura no promovida
 
-**Decisión del fundador (2026-10-18):** no promover como F09 ni mantener como Foundation independiente. La recurrencia pertenece principalmente a **F02 — Necesidades e intenciones pedagógicas**, como parte de la manera en que TDidacta aborda la interpretación del problema educativo planteado por **F01**. La coordinación de recorridos posibles permanece en Lifecycle. **F09 no queda asignado**.
+**Decisión del fundador (2026-10-18):** no promover como F09 ni mantener como Foundation independiente. La recurrencia pertenece a **Relationships**, como posible relación entre las aplicaciones de F02, F05 y F06, entre otras responsabilidades, **no al contenido constitutivo de F02**. F02 mantiene cómo abordar necesidades interpretadas desde el problema educativo planteado por F01. La coordinación de recorridos posibles permanece en Lifecycle. Esta precisión posterior corrige la ubicación editorial inicial sin borrar la decisión de no promoción. **F09 no queda asignado**.
 
 **Alcance de la reclasificación:** el documento recibió previamente reconocimiento conceptual como fundamento el 2026-10-16. Ese hecho histórico se conserva; la decisión posterior cambia su ubicación canónica, no borra la aprobación histórica ni invalida la posibilidad de recurrencia. F06 conserva la revisión y corrección de respuestas existentes, sin reducir toda nueva necesidad a una corrección.
 
-**Motivo de no promoción:** repetir el vínculo necesidad–intención en otra escala o ante una necesidad emergente no crea una autoridad distinta de F02. No se requiere una cadena obligatoria, descomposición jerárquica, ciclo impuesto ni mecanismo independiente. La descripción operativa posible continúa en [Lifecycle](../../lifecycle/recursive-pedagogical-resolution.md).
+**Motivo de no promoción:** reaplicar el vínculo necesidad–intención a partir de resultados, hallazgos o correcciones describe relaciones entre fundamentos, no una autoridad distinta. No se requiere una cadena obligatoria, descomposición jerárquica, ciclo impuesto ni mecanismo independiente. La descripción operativa posible continúa en [Lifecycle](../../lifecycle/recursive-pedagogical-resolution.md).
 
 ---
 
