@@ -63,6 +63,8 @@ Presentar **conceptos nuevos y conceptos actualizados en apartados distintos**. 
 
 **Próximo candidato a examinar (sin adopción):** [Fuentes, inferencias de IA e incertidumbre — T03](../foundations/source-inference-uncertainty.md). Contrastar su responsabilidad con F03 y F08 antes de asignarle F09.
 
+**Candidatura adicional rechazada y archivada (2026-10-18):** [Fuentes, inferencias e incertidumbre — T03](../foundations/denied/source-inference-uncertainty.md). La atribución y distinción de procedencia corresponde a F08; el examen de afirmaciones, incertidumbres, omisiones y conflictos materiales corresponde a F06; su consideración al autorizar una versión y alcance corresponde a F07. El mecanismo de publicación y clasificación de evidencia queda independiente, sin presuponer bloqueos universales ni eficacia verificada. **La numeración F09 sigue libre.**
+
 **Balance:** F01–F08 están reconciliados en O0–O10 y las capas conceptuales abordadas. F08 fue aprobado el 2026-10-18; no se infiere con ello la eficacia de mecanismos de atribución.
 
 ## Condición de salida de cada revisión
