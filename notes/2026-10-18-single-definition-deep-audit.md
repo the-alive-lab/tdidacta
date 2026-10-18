@@ -43,3 +43,17 @@ El orden sugerido sigue las dependencias y reduce el riesgo de repetir decisione
 ## Continuidad
 
 **No se ha certificado exhaustividad de la estructura documental**: este barrido abarca los archivos canónicos indexados y controles semánticos/editoriales dirigidos; no ejecutó una validación automatizada de todos los enlaces ni una auditoría de todo `Mechanisms`. La reconstrucción V6 T01–T28, la auditoría Foundations→Mechanisms y la validación investigativa O3/F10 continúan respectivamente futura, pospuesta y pendiente.
+
+## Resolución posterior y priorización del fundador (2026-10-18)
+
+**S1 — Diferido:** examinar en la definición de la futura superficie de **responsables/responsabilidades**, sin reescribir por ahora F01/F02/F09.
+
+**S2 — Resuelto por aclaración explícita:** el fundador rechazó el término normativo «reautorización». Intenciones/versions autorizadas permanecen inmutables y autorizadas para su alcance; corregir exige nueva versión candidata (p. ej., v1.1), revisión y autorización nueva, sin tocar autorización histórica de v1.0, aunque v1.0 quede desactualizada. Se actualizó [O4](../orientation/human-pedagogical-authorization.md) para eliminar su enunciado contradictorio; [F07](../foundations/pedagogical-authorization.md) y [Autorización pedagógica](../concepts/pedagogical-authorization.md) ya sostenían esa semántica y no se modificaron.
+
+**S3 — No resuelto:** [Interpretación asistida de fuentes](../concepts/assisted-source-interpretation.md) conserva expresamente su estado de registro de modalidad con **candidatura F09 no admitida como fundamento**. El fundador solicita primero consultar el documento para decidir si su ubicación en Concepts es meramente histórica. No se mueve, renombra ni promueve.
+
+**S4 — Contraste de frontera concluido sin cambio semántico:** [F04](../foundations/semantic-abstraction.md) explica por qué TDidacta debe poder abstraer significado desde documentación; [F05](../foundations/semantic-projection.md) explica por qué debe poder aprovechar representaciones para exploración/realización. [Abstracción](../concepts/semantic-abstraction.md), [Proyección](../concepts/semantic-projection.md), [IR](../concepts/semantic-intermediate-representation.md) y [Realización](../concepts/pedagogical-realization.md) contienen definiciones acumulativas y capas propias. Las síntesis F04/F05 explican condiciones e implicaciones fundacionales y remiten a Concepts; no constituyen, por sí solas, definiciones normativas alternativas. **No se justifica una reducción que pudiera borrar justificación fundacional.** Queda fuera de alcance revisar límites técnicos de Mechanisms, auditoría pospuesta. Resultado de S4: **sin cambio necesario** en Foundations/Concepts.
+
+**S5 — Distinción aceptada:** la superficie candidata *Escenarios* refiere al **contexto/circunstancias del responsable** y su aparición situada; el [concepto Escenario pedagógico](../concepts/application-circumstances.md) refiere a aplicar una intención pedagógica bajo circunstancias base/especializadas. Se aclaró el [README](../README.md); F10 y su concepto reconciliado permanecen intactos.
+
+**Inventario después de esta revisión:** S2 resuelto; S4 contrastado y cerrado sin cambios; S5 aclarado documentalmente; S1 diferido a superficie de responsables y S3 a evaluación de su registro histórico. No se modifica el alcance pendiente de O3/F10 ni se inicia T01–T28.
