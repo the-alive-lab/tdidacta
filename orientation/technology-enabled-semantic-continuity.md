@@ -1,4 +1,4 @@
-# Aprovechamiento de tecnologías — orientación de TDidacta
+# O2 — Aprovechamiento de tecnologías
 
 **Estado (2026-10-16):** orientación diferenciada por decisión conceptual expresa del fundador. Su formulación general en el canon de PResolver aún está pendiente.
 
