@@ -19,6 +19,17 @@ O0 complementa esta finalidad al reconocer participación activa de quien enseñ
 - **Atribución del material y de las elaboraciones:** al utilizar material de referencia, procurar que una afirmación atribuida a una fuente sea distinguible de interpretaciones, síntesis, hipótesis e inferencias humanas o tecnológicas añadidas. **Declarar autoría humana o tecnológica no certifica la veracidad ni el respaldo de cada afirmación**. La distinción se hace proporcionalmente cuando importa para comprender y revisar; no obliga a auditar la producción ni clasificar cada frase. Véase [T03 no admitido como fundamento](denied/source-inference-uncertainty.md).
 - **Derechos y privacidad:** el reconocimiento no concede licencia, permiso de reutilización, consentimiento o derecho de publicar identidad personal.
 
+## Vías de establecimiento de autoría y contribuciones
+
+La atribución de autoría y aportes materiales puede establecerse de dos maneras, **sin cambiar su fundamento de confianza en la declaración de la persona responsable**:
+
+- **Vía directa:** la persona responsable identifica y declara directamente a quienes contribuyeron —personas o sistemas— y los aportes relevantes que reconoce.
+- **Vía asistida:** una herramienta ayuda a preparar una **propuesta de atribución** a partir de la información disponible o aportada por la persona responsable. Esta examina, corrige o confirma lo que declarará; la salida de la herramienta no se transforma por sí sola en atribución aceptada.
+
+Las vías son alternativas y combinables, no grados de fiabilidad o requisitos sucesivos. No se prescribe qué herramienta se utiliza, cómo funciona ni un formato obligatorio. **La asistencia no equivale a detectar, auditar o certificar automáticamente la procedencia real**. La declaración reconocida conserva su naturaleza declarativa; si se detecta una discrepancia relevante puede corregirse sin vigilancia universal.
+
+Esto se refiere al **establecimiento de atribución**, no a acreditar la verdad de cada afirmación, revisar su calidad (F06), autorizar una versión (F07) ni decidir su publicación.
+
 ## 3. Conceptos derivados de F08
 
 | Concepto | Aporte F08 | Entrada |
@@ -41,7 +52,7 @@ O3 y O6 limitan la carga de atribución; O4 preserva la diferencia entre procede
 
 ## 6. Fronteras
 
-F08 no define derechos de autor, permisos, consentimiento, distribución de regalías, evaluación automatizada de participación ni jerarquía obligatoria de roles. Para el estado operativo actual, la clasificación manual por declaración del responsable es la vía acordada para atribuir autoría humana o tecnológica; no es certificación independiente ni impone auditar. No se generaliza automáticamente como mecanismo universal.
+F08 no define derechos de autor, permisos, consentimiento, distribución de regalías, evaluación automatizada de participación ni jerarquía obligatoria de roles. La declaración de la persona responsable sigue siendo la base de atribución humana o tecnológica, tanto si se prepara directamente como con apoyo de herramientas. Ninguna modalidad constituye certificación independiente ni impone auditar. No se generaliza automáticamente como mecanismo universal.
 
 ## 7. Trazabilidad O→F08
 
