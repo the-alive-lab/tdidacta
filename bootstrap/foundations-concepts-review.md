@@ -82,6 +82,10 @@ Presentar **conceptos nuevos y conceptos actualizados en apartados distintos**. 
 
 **Balance:** F01–F08 están reconciliados en O0–O10 y las capas conceptuales abordadas. F08 fue aprobado el 2026-10-18; no se infiere con ello la eficacia de mecanismos de atribución.
 
+## F09 — Autonomía del aprendiz (2026-10-18)
+
+El fundador indicó crear [F09 — Autonomía del aprendiz](../foundations/learner-autonomy.md) y el [concepto nuevo](../concepts/learner-autonomy.md). F09 afirma que el aprendiz puede orientar su propia experiencia más allá de las trayectorias propuestas por docentes. La **exploración pedagógica es una capacidad general** de F05, mientras **diseño y autonomía son usos** de ella. Se amplían con capa F09 [Aprendizaje](../concepts/learning.md), [Experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md) y [Exploración pedagógica](../concepts/pedagogical-exploration.md), manteniendo las capas anteriores. Por precisión expresa del fundador, **O5 — Sin incidencia para F09**; no confundir trazabilidad de feedback con autonomía. Las relaciones O0–O10 y capas O→C son propuestas documentadas para revisión posterior, no aprobación tácita. Las vías directa y asistida mantienen la responsabilidad del aprendiz y no presuponen viabilidad tecnológica.
+
 ## Condición de salida de cada revisión
 
 Un fundamento está listo para cierre cuando (a) su origen y O0–O10 están clasificados y justificados; (b) el inventario de conceptos y las definiciones acumulativas están sincronizados; (c) cada concepto afectado tiene capa de fundamento con orientaciones incidentes justificadas; (d) el fundamento explica responsabilidades sin repetir definiciones; (e) índices, tensiones, enlaces y procedencia están sincronizados; y (f) el fundador aprueba expresamente las decisiones correspondientes.
