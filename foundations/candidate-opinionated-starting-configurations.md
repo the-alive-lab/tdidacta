@@ -1,6 +1,6 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O4–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O5–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -34,7 +34,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 | [O1](../orientation/semantic-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | Poder modificar una configuración inicial no exige por sí mismo continuidad semántica del conocimiento pedagógico. La trazabilidad o auditoría de cambios de configuración es otra preocupación, que no se deriva automáticamente de O1. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento — reconciliado 2026-10-18** | Tecnología puede proponer/aplicar configuraciones, sin suplantar juicio ni determinar la estructura fundacional. |
 | [O3](../orientation/human-effort-and-agency.md) | **Origen — reconciliado 2026-10-18** | Disminuir configuración humana inicial innecesaria y ampliar la capacidad de comenzar. |
-| [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Los valores por defecto no autorizan intenciones o versiones pedagógicas automáticamente. |
+| [O4](../orientation/human-pedagogical-authorization.md) | **Incidencia marginal — reconciliado 2026-10-18** | Una configuración inicial puede incluir facultades relacionadas con la autorización, pero aplicarla no equivale a aprobar decisiones pedagógicas futuras. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Sin incidencia o condición (por deliberar)** | La plantilla no debe atribuir aportes engañosamente, pero autoría no origina este fundamento. |
 | [O6](../orientation/effort-inversion.md) | **Origen** | Evitar preparación estructural repetitiva y favorecer esfuerzo en necesidades e intenciones. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Opciones iniciales no deben imponer identificación o recolección de datos innecesaria. |
