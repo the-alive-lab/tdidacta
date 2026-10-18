@@ -16,6 +16,7 @@ O0 complementa esta finalidad al reconocer participación activa de quien enseñ
 - **Versión y aportes:** una versión consolidada permanece intacta; las contribuciones posteriores motivan versiones candidatas y pueden ser reconocidas por lo que aportaron, sin alterar autoría o autorización de la versión histórica.
 - **Proporcionalidad:** reconocer aportes materiales no exige registro exhaustivo de cada operación, formularios universales ni verificación automática. La atribución sigue siendo corregible si se conoce una discrepancia relevante, sin promover vigilancia sistemática.
 - **Responsabilidad situada:** una misma persona puede crear, editar, autorizar y publicar, pero las responsabilidades siguen diferenciadas.
+- **Atribución del material y de las elaboraciones:** al utilizar material de referencia, procurar que una afirmación atribuida a una fuente sea distinguible de interpretaciones, síntesis, hipótesis e inferencias humanas o tecnológicas añadidas. **Declarar autoría humana o tecnológica no certifica la veracidad ni el respaldo de cada afirmación**. La distinción se hace proporcionalmente cuando importa para comprender y revisar; no obliga a auditar la producción ni clasificar cada frase. Véase [T03 no admitido como fundamento](denied/source-inference-uncertainty.md).
 - **Derechos y privacidad:** el reconocimiento no concede licencia, permiso de reutilización, consentimiento o derecho de publicar identidad personal.
 
 ## 3. Conceptos derivados de F08
