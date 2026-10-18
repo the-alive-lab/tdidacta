@@ -6,4 +6,6 @@ Esta carpeta conserva propuestas de fundamentos que fueron evaluadas y **no prom
 | --- | --- | --- |
 | [Interpretación asistida de fuentes educativas](assisted-source-interpretation.md) | Es una modalidad instrumental de interpretar contenido de fuentes externas, no una responsabilidad fundacional separada. No se justifica duplicar F03. Decisión del fundador: 2026-10-18. | [F03 — Contextualización pedagógica humana](../human-pedagogical-contextualization.md), con vía directa y vía asistida, sin prescripción tecnológica |
 
-La decisión preserva el antecedente T02 y el aplazamiento del diseño técnico detallado para después de publicar PResolver. La numeración no utilizada queda disponible para posteriores candidatos.
+| [Fuentes, inferencias de IA e incertidumbre](source-inference-uncertainty.md) | La legibilidad de procedencia, revisión y autorización no requiere otro fundamento independiente. Decisión del fundador: 2026-10-18. | [F08 — Autoría](../pedagogical-authorship.md), [F06 — Revisión](../pedagogical-review-and-correction.md), [F07 — Autorización](../pedagogical-authorization.md); controles de publicación separados |
+
+El registro preserva los antecedentes T02 y T03. La decisión sobre T02 preserva y el aplazamiento del diseño técnico detallado para después de publicar PResolver. La numeración no utilizada queda disponible para posteriores candidatos.
