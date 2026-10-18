@@ -1,4 +1,4 @@
-# Orientación de TDidacta
+# O0 — Orientación principal de TDidacta
 
 **Estado:** orientación vigente, extraída del README principal sin modificar su autoridad.
 
@@ -22,11 +22,11 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 ## Orientaciones complementarias
 
-- [Autorización humana](human-pedagogical-authorization.md): conocimiento pedagógico autorizado mediante juicio de una persona responsable, distinto de producción y publicación.
-- [Reconocimiento transparente y trazable de aportes](transparent-contribution-recognition.md): reconocer origen y contribuciones relevantes sin confundir atribución con autoridad.
-- [Continuidad semántica](semantic-continuity.md): preservar, reconstruir y desarrollar significado, razones, restricciones y relaciones a través de transformaciones y realizaciones.
-- [Reducción de carga humana y ampliación de capacidad de acción](human-effort-and-agency.md): dos beneficios distintos, alcanzables separadamente; orientación propuesta a partir de T03/T05.
-- [Aprovechamiento de tecnologías](technology-enabled-semantic-continuity.md): adaptar deliberadamente el trabajo a capacidades tecnológicas útiles, especialmente las habilitadas por LLM, sin convertir una tecnología en requisito universal.
+- [O4 — Autorización humana](human-pedagogical-authorization.md): conocimiento pedagógico autorizado mediante juicio de una persona responsable, distinto de producción y publicación.
+- [O5 — Reconocimiento transparente y trazable de aportes](transparent-contribution-recognition.md): reconocer origen y contribuciones relevantes sin confundir atribución con autoridad.
+- [O1 — Continuidad semántica](semantic-continuity.md): preservar, reconstruir y desarrollar significado, razones, restricciones y relaciones a través de transformaciones y realizaciones.
+- [O3 — Reducción de carga humana y ampliación de capacidad de acción](human-effort-and-agency.md): dos beneficios distintos, alcanzables separadamente; orientación propuesta a partir de T03/T05.
+- [O2 — Aprovechamiento de tecnologías](technology-enabled-semantic-continuity.md): adaptar deliberadamente el trabajo a capacidades tecnológicas útiles, especialmente las habilitadas por LLM, sin convertir una tecnología en requisito universal.
 - [O6 — Inversión del esfuerzo](effort-inversion.md): concentrar el esfuerzo humano en comprender, formular y documentar suficientemente, en vez de producir realizaciones repetitivas.
 - [O7 — Privacidad por diseño y minimización de datos](privacy-by-design-and-data-minimization.md): minimizar datos personales por capacidad y consultar material público sin cuenta salvo restricción justificada.
 - [O8 — Externalización del reconocimiento de identidades personales](external-personal-identity-recognition.md): distinguir identidad personal externa, identidad operativa y relaciones contextuales sin externalizar necesariamente la autenticación.
