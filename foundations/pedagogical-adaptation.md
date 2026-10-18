@@ -36,7 +36,7 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 | [Escenario pedagógico](../concepts/application-circumstances.md) (antes «Circunstancias de aplicación pedagógica») | Concepto existente renombrado y definición acumulativa actualizada, con procedencia F03 preservada | Nombre y estructura aprobados; tabla O→C de F10 pendiente |
 | Escenario pedagógico base | Tipo del concepto Escenario pedagógico, definido por quien enseña con circunstancias de referencia | Aprobado como tipo, sin concepto/archivo separado |
 | Escenario pedagógico especializado | Tipo del mismo concepto, obtenido al particularizar uno base durante el uso del aprendiz | Aprobado como tipo, sin concepto/archivo separado |
-| [Intención pedagógica](../concepts/pedagogical-intention.md) | Referencia que no debe cambiarse silenciosamente al especializar | Examinar aporte de capa F10 |
+| [Intención pedagógica](../concepts/pedagogical-intention.md) | Referencia que no debe cambiarse silenciosamente al especializar | No se requiere capa F10; relación entre fundamentos |
 | [Autonomía del aprendiz](../concepts/learner-autonomy.md) | Uso autónomo de la especialización, sin equiparar ambas responsabilidades | Examinar aporte de capa F10 |
 | [Exploración pedagógica](../concepts/pedagogical-exploration.md) | Capacidad general utilizable al explorar especializaciones | Examinar si nueva capa sería redundante |
 | [Realización pedagógica](../concepts/pedagogical-realization.md) | Resultado posible, pero no necesario, del uso de un escenario especializado | Examinar si nueva capa sería redundante |
@@ -61,5 +61,5 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 
 1. **Aprobado y aplicado:** nombre «Escenario pedagógico», concepto único con tipos base y especializado, conservando la capa F03 y su semántica.
 2. **Pendiente:** revisar O→C de la capa F10 de Escenario pedagógico.
-3. **Pendiente:** revisar posible ampliación de Autonomía del aprendiz; no se añadió capa F10.
+3. **Resuelto:** la relación con F09 no origina una capa adicional en Autonomía del aprendiz.
 4. Revisar las demás ampliaciones solo si aportan semántica propia, y validar O→F10, límites y tensiones antes de reconciliar todo F10.
