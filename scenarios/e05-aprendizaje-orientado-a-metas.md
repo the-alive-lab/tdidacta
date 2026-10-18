@@ -26,25 +26,25 @@ Estos actores no son Roles ni asignaciones de autoridad pedagógica.
 
 ## Necesidades de cobertura
 
-1. Reconocer metas declaradas y su procedencia sin confundirlas con necesidades, intenciones o decisiones propias de TDidacta.
+1. Interpretar la meta declarada fuera de TDidacta como **origen contextual posible de una necesidad pedagógica**, preservando su procedencia sin exigir un concepto separado de «meta externa».
 2. Facilitar formulación situada de necesidades e intenciones pedagógicas que ayuden a avanzar, sin decidir por la persona qué meta perseguir.
 3. Ofrecer exploración, práctica, recursos y revisión pertinentes, sin afirmar que una realización garantiza alcanzar la meta.
 4. Permitir revisar la vinculación entre meta, necesidad e intención cuando cambia la meta o su contexto, conservando versiones autorizadas anteriores.
-5. Distinguir evidencias de aprendizaje o progreso de aprobación de exámenes, certificaciones y decisiones externas.
+5. Ayudar al aprendiz a **comprobar su comprensión mediante exploraciones específicas** pertinentes a lo que intenta aprender, sin convertirlo en certificación ni presuponer aprendizaje demostrado.
 6. Permitir múltiples metas simultáneas sin imponer una trayectoria única ni una estructura técnica específica de seguimiento.
 
 ## Contraste con Foundations / Orientation
 
-- [F02](../foundations/pedagogical-needs-and-intentions.md): formula respuestas a necesidades; **no define autoridad sobre metas externas**.
+- [F02](../foundations/pedagogical-needs-and-intentions.md): cobertura suficiente para interpretar la meta externa como posible origen de una necesidad y formular una intención; no transfiere autoridad sobre la meta.
 - [F03](../foundations/human-pedagogical-contextualization.md): interpreta circunstancias y referencias pertinentes.
 - [F05](../foundations/semantic-projection.md) y [F06](../foundations/pedagogical-review-and-correction.md): explorar, realizar, revisar y corregir según significado pertinente.
 - [F07](../foundations/pedagogical-authorization.md): autoriza versiones y alcances pedagógicos, no la validez de una meta externa.
-- [F09](../foundations/learner-autonomy.md): permite reorientar experiencias hacia intereses y dudas propios.
+- [F09](../foundations/learner-autonomy.md): permite orientar la experiencia y, junto con F05, utilizar exploraciones específicas para autocomprobar comprensión, sin garantizar aprendizaje o certificación.
 - [O1](../orientation/semantic-continuity.md), [O3](../orientation/human-effort-and-agency.md) y [O9](../orientation/contextual-access-and-educational-reach.md): continuidad, esfuerzo y acceso contextual.
 
 ## Cuestiones abiertas / límites
 
-- ¿La relación meta externa → necesidad pedagógica → intención ya está suficientemente expresada en F02/F03, o requiere aclaración fundacional? **No crear por inercia un concepto de «meta externa».**
-- ¿En qué circunstancias TDidacta puede comparar progreso con criterios definidos externamente sin apropiarse de la evaluación? Distinguir autocomprobación de certificación.
+- **Relación resuelta conceptualmente para E05:** una meta externa puede motivar una necesidad pedagógica; F02/F03 se consideran suficientes. No crear un concepto separado de «meta externa» por esta relación.
+- **Autocomprobación delimitada:** exploraciones específicas pueden ayudar a que la persona examine qué sabe o comprende desde su autonomía (F05/F09). TDidacta no certifica, no sustituye evaluaciones oficiales ni garantiza comprensión; criterios e implementación quedan pendientes.
 - E05 **no es exclusivo de formación laboral**: abarca certificaciones, habilidades y objetivos personales diversos.
 - No se adoptan rutas obligatorias, perfiles de competencia, sistemas de badges, métricas de progreso ni integraciones con certificadores.
