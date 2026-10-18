@@ -25,7 +25,7 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | Concepto | Contribución |
 | --- | --- |
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Concepto originado desde F03 |
-| [Circunstancias de aplicación pedagógica](application-circumstances.md) | Concepto originado desde F03 |
+| [Escenario pedagógico](application-circumstances.md) | Concepto originado como «Circunstancias de aplicación pedagógica» desde F03; denominación y estructura ampliadas por F10 |
 | [Documentación suficiente y proporcional](sufficient-proportional-documentation.md) | Concepto originado desde F03 |
 | [Necesidad pedagógica](pedagogical-need.md) | Capa adicional F03 sobre concepto originado en F02 |
 | [Intención pedagógica](pedagogical-intention.md) | Capa adicional F03 sobre concepto originado en F02 |
@@ -95,6 +95,15 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 | [Exploración pedagógica](pedagogical-exploration.md) | Capa F09: exploración es capacidad general; diseño y autonomía son usos |
 
 **Estado:** creación del fundamento y del concepto autorizada por el fundador. Clasificaciones O0–O10 y relaciones O→C reconciliadas por aprobación expresa (2026-10-18), **O5 sin incidencia en F09**; capas históricas intactas.
+
+## F10 — Adaptación pedagógica (estructura aprobada; O→C en revisión)
+
+| Concepto | Contribución y estado |
+| --- | --- |
+| [Escenario pedagógico](application-circumstances.md) | Concepto único con **dos tipos aprobados**, **base** (formulado por quien enseña) y **especializado** (particularizado durante su uso por quien aprende). Se conserva íntegra la capa F03; orientaciones de capa F10 aún propuestas. |
+| [Autonomía del aprendiz](learner-autonomy.md) | Posible ampliación por F10 **pendiente de revisión O→C**; no se creó capa. |
+
+No se crearon conceptos separados para los dos tipos, ni capas nuevas en intención, exploración o realización por simple relación.
 
 ## Continuidad F03 — documentos de referencia y modalidad asistida
 
