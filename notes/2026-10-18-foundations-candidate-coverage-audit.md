@@ -73,3 +73,20 @@ El fundador decidió **mantener sin cambios** [Enseñanza](../concepts/teaching.
 5. ¿Una superficie nueva tendría semántica y referencias propias, o duplicaría las definiciones reconciliadas?
 
 **Siguiente checkpoint:** analizar la necesidad y el límite de una superficie Responsibilities antes de la reconstrucción T01–T28; presentar alternativas **mantener responsabilidades distribuidas**, **índice transversal** y **superficie autónoma** para decisión expresa del fundador. No ejecutar todavía Foundations→Mechanisms ni resolver la investigación O3/F10, que permanece pendiente.
+
+## Precisión adicional — escenarios como prueba de suficiencia (2026-10-18)
+
+El fundador solicitó incorporar a la propuesta de superficies la siguiente relación: **los Escenarios no solo contextualizan la aparición de Roles; también permiten contrastar la suficiencia de los Fundamentos** frente a lo que se busca lograr en Orientación.
+
+Lectura candidata:
+
+- **Orientación:** qué buscamos.
+- **Escenarios:** qué situaciones necesitamos cubrir para cumplirlo; ofrecen casos contra los cuales examinar cobertura y límites de Fundamentos, sin contener definiciones de Roles.
+- **Fundamentos:** qué debe hacer TDidacta para cumplir lo buscado; nacen de Orientación y se contrastan con Escenarios; referencian conceptos y responsabilidades sin duplicarlos.
+- **Conceptos:** cómo explicamos lo que hacemos.
+- **Responsabilidades:** qué compromisos deben cumplirse.
+- **Roles:** qué función emerge en cierta circunstancia y qué responsabilidades asume; deriva de Responsabilidades y Escenarios.
+
+**Regla de contraste:** un escenario puede revelar una omisión, tensión o insuficiencia de cobertura de un fundamento; ese hallazgo motiva revisión trazable, **no crea ni modifica automáticamente un Foundation**. Distinguir esta superficie candidata de [Escenario pedagógico](../concepts/application-circumstances.md) ya reconciliado en F10: el primero describe cobertura del sistema y el segundo circunstancias de aplicación de una intención.
+
+**Estado:** precisión aceptada para el diseño en estudio; no constituye todavía aprobación de una nueva jerarquía documental, carpeta, mecanismo o reclasificación de F01–F10. La evaluación de las seis superficies se realizará antes de retomar los 28 tópicos V6, manteniendo pendientes Foundations→Mechanisms y Research O3/F10.
