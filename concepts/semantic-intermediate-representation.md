@@ -4,10 +4,7 @@
 
 ## Definición acumulativa hasta F05
 
-Representación estructurada de significado documental relevante —incluidas relaciones y restricciones— destinada a poder ser interpretada y utilizada posteriormente por tecnologías, individualmente o junto con otras representaciones. Puede expresar solo una parte delimitada de su fuente y conservar ambigüedades o pérdidas reconocibles. No equivale al documento original ni necesita un formato universal.
-
-
-**Ampliación F05 propuesta:** La representación también puede actuar como fuente de exploraciones y realizaciones tecnológicas conforme a su significado, sin constituirse por ello en una realización o aprobación.
+Representación estructurada de significado documental relevante —incluidas relaciones y restricciones— destinada a poder ser interpretada y utilizada posteriormente por tecnologías, individualmente o junto con otras representaciones. Puede expresar solo una parte delimitada de su fuente y conservar ambigüedades o pérdidas reconocibles. No equivale al documento original ni necesita un formato universal. También puede actuar como fuente estructurada de exploraciones y realizaciones tecnológicas conforme a su significado, sin constituirse por ello en una realización o aprobación.
 ## Capa F04 — Abstracción semántica
 
 **Aporte de F04:** caracteriza el resultado conceptual de abstraer significado, diferenciándolo de la fuente textual y del uso posterior mediante proyección.
