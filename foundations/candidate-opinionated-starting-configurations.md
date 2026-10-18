@@ -1,6 +1,6 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O6–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O7–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -36,7 +36,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 | [O3](../orientation/human-effort-and-agency.md) | **Origen — reconciliado 2026-10-18** | Disminuir configuración humana inicial innecesaria y ampliar la capacidad de comenzar. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Incidencia marginal — reconciliado 2026-10-18** | Una configuración inicial puede incluir facultades relacionadas con la autorización, pero aplicarla no equivale a aprobar decisiones pedagógicas futuras. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Sin incidencia — reconciliado 2026-10-18** | La atribución de aportes pedagógicos no determina la responsabilidad de ofrecer configuraciones iniciales que reduzcan el esfuerzo de comenzar. |
-| [O6](../orientation/effort-inversion.md) | **Origen** | Evitar preparación estructural repetitiva y favorecer esfuerzo en necesidades e intenciones. |
+| [O6](../orientation/effort-inversion.md) | **Origen — decisión del fundador 2026-10-18** | Los puntos de partida reducen trabajo repetitivo de preparación y configuración, para que el esfuerzo se concentre en entender y atender el contexto educativo. Este motivo fundamenta directamente la candidatura; se propone explicitarlo en O6. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Opciones iniciales no deben imponer identificación o recolección de datos innecesaria. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Valores predeterminados no pueden fingir certificación de identidad personal ni propagar relaciones sin fundamento. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Un comienzo simple debe adecuarse a barreras materiales y modalidades directas/indirectas. |
