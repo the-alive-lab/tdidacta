@@ -90,3 +90,24 @@ Lectura candidata:
 **Regla de contraste:** un escenario puede revelar una omisión, tensión o insuficiencia de cobertura de un fundamento; ese hallazgo motiva revisión trazable, **no crea ni modifica automáticamente un Foundation**. Distinguir esta superficie candidata de [Escenario pedagógico](../concepts/application-circumstances.md) ya reconciliado en F10: el primero describe cobertura del sistema y el segundo circunstancias de aplicación de una intención.
 
 **Estado:** precisión aceptada para el diseño en estudio; no constituye todavía aprobación de una nueva jerarquía documental, carpeta, mecanismo o reclasificación de F01–F10. La evaluación de las seis superficies se realizará antes de retomar los 28 tópicos V6, manteniendo pendientes Foundations→Mechanisms y Research O3/F10.
+
+## Verificación transversal — definir una vez y referenciar después (2026-10-18)
+
+**Ámbito examinado:** índices y documentos representativos de Orientation, Foundations y Concepts (O0, O3, O6, F01, F02, F07, F09, F10, Enseñanza, Aprendizaje, Experiencia, Realización y Escenario pedagógico). Esto es una **auditoría dirigida**, no una certificación línea por línea de todo el repositorio.
+
+**Criterio de pertenencia:** Orientation define lo buscado; Foundations justifica qué debe permitir/hacer TDidacta; Concepts posee la definición acumulativa de cada objeto semántico. Una síntesis de propósito o una justificación O→F/O→C no es duplicación por sí sola. Es duplicación problemática cuando dos documentos mantienen una definición normativa independiente o una clasificación O→F que puede divergir.
+
+| Hallazgo | Acción | Estado |
+| --- | --- | --- |
+| `orientation/README.md` presentaba O7–O10 como pendientes pese a F01–F10 reconciliados | Actualizado a estado reconciliado y remitido a tablas por fundamento | Corregido |
+| `orientation/effort-inversion.md` replicaba clasificaciones parciales de F01–F03, creando segunda fuente O6→F | Sustituido inventario por referencia a Foundations | Corregido |
+| `foundations/README.md` seguía atribuyendo estados de candidatura a F01–F07 y mezclaba registros rechazados con índice de fundamentos | Separados diez fundamentos reconciliados de registros históricos/criterios | Corregido |
+| `concepts/README.md` hablaba de entradas F04 «propuestas» aunque reconciliadas y de una definición de autorización F07 pendiente | Etiquetas de estado corregidas | Corregido |
+| `concepts/pedagogical-realization.md` mantenía definiciones sucesivas F05 y F06 como dos bloques en vez de única acumulativa | Integradas sin cambiar contenido semántico ni tablas/capas históricas | Corregido |
+| F01, F02 y F10 utilizan explicaciones resumidas cercanas a las definiciones de Concepts | Se preservó la justificación constitutiva y las tablas O→F; no se eliminó texto sustantivo aprobado | Frontera editorial a vigilar |
+| Las secciones O→C de algunos conceptos de F01 todavía dicen «propuesta» en frases históricas aunque sus encabezados indican reconciliación | Revisar sistemáticamente como **drift editorial**, sin reclasificar O→C | Pendiente de saneamiento |
+| La propuesta de nuevas superficies Scenarios/Responsibilities/Roles | No se creó ni promovió categoría alguna | Pendiente de decisión; independiente de esta auditoría |
+
+**Regla operativa recomendada para próximas ediciones:** modificar la definición del concepto únicamente en Concepts; modificar su justificación y trazabilidad O→F en Foundations; modificar el objetivo únicamente en Orientation. Los índices y otras superficies deben enlazar y resumir sin erigirse en definiciones paralelas. Conservar capas O→C como justificación de incidencia, no como segunda definición normativa completa. Toda reducción sustantiva de F01–F10 requiere revisión semántica explícita y no se deduce del saneamiento editorial.
+
+**Otros límites:** se mantiene pospuesta la auditoría Foundations→Mechanisms. No se adelanta la reconstrucción T01–T28 ni se resuelve la condición de investigación O3/F10.
