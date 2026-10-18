@@ -16,7 +16,7 @@
 | [F02 — Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Candidatura no admitida: Fuentes, inferencias e incertidumbre](denied/source-inference-uncertainty.md) | Responsabilidades distribuidas entre F06, F07 y F08 | Denied (2026-10-18); sin numeración |
 | [Candidatura no admitida: Interpretación asistida de fuentes](denied/assisted-source-interpretation.md) | Modalidad de F03, no fundamento independiente; se conserva la justificación histórica | Denied (2026-10-18); sin numeración |
-| [F09 — Autonomía del aprendiz](learner-autonomy.md) | El aprendiz puede orientar su experiencia sin limitarse a recorridos definidos por docentes; vías directa y asistida | F09 creado (2026-10-18); relaciones y capas pendientes de revisión de detalle |
+| [F09 — Autonomía del aprendiz](learner-autonomy.md) | El aprendiz puede orientar su experiencia sin limitarse a recorridos definidos por docentes; vías directa y asistida | F09 reconciliado (2026-10-18); implementación pendiente |
 | [F08 — Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
 | [Resolución recursiva de necesidades — no promovida](denied/recursive-pedagogical-resolution.md) | Recurrencia ubicada en Relationships, con coordinación posible en Lifecycle | Denied (2026-10-18), sin numeración; reconocimiento histórico preservado |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
