@@ -30,6 +30,19 @@ Para cada Fₙ:
 - **Investigación distinta de canon**: no inferir que IR supera a prosa o que la asistencia reduce esfuerzo sin evidencia. Reutilizar trabajos existentes, especialmente [PIR-STU-001](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/studies/stu-001-cross-realizer-semantic-conformance.md), antes de proponer otro estudio.
 - **Contexto y evolución**: una orientación nueva no reabre automáticamente todas las decisiones antiguas; sí exige verificar su incidencia. Conservar la procedencia T01–T06 cuando el texto actual se reorganice.
 
+## Regla transversal — modalidades directa y asistida (aprobada 2026-10-18)
+
+Para cada Foundation, identificar si su responsabilidad admite apoyo tecnológico **de forma conceptual y operacionalmente coherente**. Si admite ambas modalidades, declarar:
+
+- **Vía directa:** cómo se cumple la misma responsabilidad sin exigir asistencia tecnológica.
+- **Vía asistida:** cómo una herramienta puede apoyar su cumplimiento sin alterar responsabilidad, autoridad ni alcance; ambas vías pueden combinarse.
+- **Frontera:** qué decisiones humanas, distinciones semánticas y condiciones se preservan entre vías. La vía asistida no constituye por sí sola un fundamento diferente.
+- **Excepción justificada:** cuando no existe coherencia conceptual u operacional en alguna vía, explicar por qué en lugar de inventar simetría. La asistencia a preparar una decisión **no equivale** a delegar la decisión misma (particularmente F07).
+
+**Tres juicios distintos:** (1) coherencia conceptual: la modalidad preserva la responsabilidad y las fronteras; (2) coherencia operacional: es comprensible qué tareas se realizarían y cómo se relacionarían sus resultados, **sin diseñar el procedimiento técnico**; (3) **viabilidad tecnológica**, rendimiento, precisión y eficacia: deben **verificarse en la implementación de TDidacta**, no se infieren de la regla ni son requisitos para justificar conceptualmente una vía. No introducir herramientas, proveedores, algoritmos, interfaces ni workflows obligatorios en Foundations.
+
+La regla no obliga a convertir F01 (interpretación del fenómeno educativo) en un procedimiento único ni autoriza crear actos tecnológicos de aprobación humana. Aplicarla retrospectivamente **no reclasifica automáticamente O0–O10 ni modifica capas conceptuales previamente aprobadas**.
+
 ## Formato de entrega para cada nuevo fundamento
 
 Antes de solicitar aprobación y avanzar al siguiente fundamento, presentar una revisión en este orden:
