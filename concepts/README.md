@@ -85,6 +85,15 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** numeración F08, clasificaciones O0–O10 y ambos conceptos reconciliados por el fundador (2026-10-18). Se mantiene la autoría amplia para personas y sistemas, atribuida según declaración del responsable sin auditoría automática.
 
+## Propuesta F09 — Interpretación asistida de fuentes
+
+| Concepto | Aporte |
+| --- | --- |
+| [Fuente educativa](educational-source.md) | Material identificable distinguible de su interpretación |
+| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Vía tecnológica opcional, supervisable, que genera propuestas |
+
+**Estado:** propuesta pendiente de decisión del fundador. No reabre el cierre histórico de T02 ni adopta su mecanismo técnico.
+
 Cada entrada mantiene **una única definición canónica acumulativa vigente hasta el último fundamento que la amplíe** y **una capa por fundamento que contribuya al concepto**. Agregar una capa exige integrar su aporte en esa única definición, sin crear títulos paralelos de «definición canónica F02» y «definición hasta F06»; la procedencia histórica permanece en las capas y en Git. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
 Las clasificaciones O→concepto son independientes de O→F. **Las tres capas F01 se encuentran reconciliadas** por aprobación expresa del fundador (2026-10-17). **Las capas de F02 están reconciliadas por el fundador**; las de F01 mantienen sus clasificaciones conceptuales según las decisiones y revisiones registradas. La definición propia de cada concepto se consulta aquí, mientras el fundamento explica sus responsabilidades y relaciones.
