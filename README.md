@@ -4,6 +4,49 @@
 
 Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propuestas, la evidencia y las realizaciones se distinguen de las definiciones vigentes; no adquieren autoridad automáticamente.
 
+## Ramificación conceptual de TDidacta
+
+La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Responsibilities, Scenarios y Roles** son superficies candidatas todavía por delimitar. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
+
+| Superficie | Pregunta que responde | Límite de su definición |
+| --- | --- | --- |
+| **[Orientación](orientation/README.md)** | ¿Qué buscamos? | Expresa los objetivos y remite a fundamentos y escenarios; no los redefine. |
+| **Escenarios** *(superficie candidata)* | ¿Qué situaciones debemos cubrir para cumplir lo que buscamos? | Describe condiciones y casos de cobertura; no repite roles ni responsabilidades. |
+| **[Fundamentos](foundations/README.md)** | ¿Qué debemos hacer para cumplir lo que buscamos? | Expresa respuestas constitutivas de TDidacta a la orientación, sin definir exhaustivamente conceptos ni asignar obligaciones a roles. |
+| **[Conceptos](concepts/README.md)** | ¿Cómo explicamos lo que hacemos? | Conserva los significados y distinciones semánticas a los que remiten los fundamentos. |
+| **Responsabilidades** *(superficie candidata)* | ¿Quién debe cumplir lo que hacemos? | Delimita compromisos y condiciones de cumplimiento, sin asignarlos por defecto a un rol concreto. |
+| **Roles** *(superficie candidata)* | ¿Qué función aparece en qué circunstancia y qué responsabilidad tiene? | Vincula responsabilidades con escenarios particulares; una persona puede ejercer más de un rol. |
+
+### Derivaciones y contraste de cobertura
+
+```mermaid
+flowchart TD
+    O["Orientación<br/>¿Qué buscamos?"]
+    S["Escenarios (candidato)<br/>¿Qué debemos cubrir?"]
+    F["Fundamentos<br/>¿Qué debemos hacer?"]
+    C["Conceptos<br/>¿Cómo lo explicamos?"]
+    R["Responsabilidades (candidato)<br/>¿Quién debe cumplir?"]
+    L["Roles (candidato)<br/>¿En qué circunstancia?"]
+
+    O -->|justifica| F
+    O -->|delimita cobertura| S
+    F -->|origina o amplía| C
+    F -->|origina o delimita| R
+    R -->|responsabilidades asumidas| L
+    S -->|circunstancias de aparición| L
+    S -.->|contrasta suficiencia| F
+```
+
+**Regla principal: definir una vez y referenciar después.** Orientación no reproduce el detalle de Fundamentos o Escenarios; Fundamentos remite a Conceptos y Responsabilidades sin copiar sus definiciones; Escenarios remite a Roles sin volver a definirlos. Las conexiones son trazabilidad conceptual, no un proceso obligatorio ni una estructura de directorios adoptada.
+
+**Los escenarios también contrastan los fundamentos.** Si una situación que debemos cubrir revela una omisión, tensión o insuficiencia de algún fundamento, se documenta el hallazgo y se propone una revisión explícita: **no se crea ni modifica automáticamente un fundamento**. De esta forma, los escenarios comprueban cobertura además de contextualizar roles.
+
+**Dos sentidos distintos de «escenario»:** la superficie candidata *Escenarios* describe casos de cobertura de TDidacta; el concepto vigente [Escenario pedagógico](concepts/application-circumstances.md) describe circunstancias para aplicar una intención pedagógica (tipos base y especializado, reconciliados en F10). Pueden vincularse, pero no son sinónimos.
+
+**Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
+
+Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta-v6-coverage-bootstrap.md). La auditoría Foundations → Mechanisms queda pospuesta y la condición investigativa O3/F10 sigue pendiente. [Antecedentes y decisiones de cobertura](notes/2026-10-18-foundations-candidate-coverage-audit.md).
+
 ## Navegación
 
 | Superficie | Qué encontrarás |
