@@ -19,6 +19,10 @@ No confunde formular, revisar, corregir, autorizar ni publicar. La autorización
 - **Alcance frente a afirmaciones no comprobadas:** que una afirmación aparezca en una fuente, o que una inferencia se formule con claridad, **no la convierte en verdad comprobada ni en decisión pedagógica autorizada**. Ante cuestiones materiales pendientes, la persona con autoridad determina si procede autorizar el uso con límites explícitos, solicitar revisión adicional o no autorizar para ese alcance. No exige certeza absoluta ni convierte cada incertidumbre en bloqueo universal. Una decisión de publicación debe respetar el alcance autorizado y la atribución pertinente, pero los controles técnicos de publicación son independientes. Véase [T03 archivado](denied/source-inference-uncertainty.md).
 - **Proporcionalidad:** controles y evidencias deben permitir comprender qué se aprobó sin introducir sobrecarga de gestión innecesaria.
 
+## Modalidades — contraste conceptual y operacional
+
+Directa: la persona con autoridad pertinente examina la versión y su alcance y decide. Asistida: herramientas reúnen antecedentes o preparan propuestas para esa misma decisión. La asistencia nunca constituye una autoridad alternativa: únicamente la persona pertinente autoriza. La factibilidad técnica del apoyo permanece por comprobar.
+
 ## 3. Conceptos originados o ampliados desde F07
 
 | Concepto | Aporte de F07 | Entrada |
