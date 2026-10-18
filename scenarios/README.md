@@ -12,7 +12,17 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Obligación de cobertura ≠ funcionalidad inmediata**: definir un escenario permite rastrear necesidades, límites y brechas. No prescribe prioridad, versión, implementación, interfaz o certificación de resultados. La adopción de compromisos concretos y alcance por release requiere planificación y decisión posterior.
 
-## E01 — Enseñanza particular y aprendizaje acompañado
+## Fichas individuales de escenarios delimitados
+
+Las fichas siguientes desarrollan **contexto, actores locales, circunstancias, necesidades de cobertura, trazabilidad y preguntas abiertas**, sin asignar Roles ni Responsibilities y sin introducir compromisos de implementación:
+
+- [E01 — Enseñanza particular](e01-ensenanza-particular.md)
+- [E02 — Aprendizaje autodidacta (independiente y colaborativo)](e02-aprendizaje-autodidacta.md)
+- [E04 — Educación en el hogar](e04-educacion-en-el-hogar.md)
+
+Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 permanecen en el índice como candidatos por resolver.**
+
+## [E01 — Enseñanza particular y aprendizaje acompañado](e01-ensenanza-particular.md)
 
 **Condiciones:** autonomía relativamente alta de quien enseña, relación pedagógica individual o de grupo pequeño y conocimiento progresivo de las necesidades; el aprendiz puede estudiar también en otros procesos educativos. La autonomía es relativa: no presume autoridad ilimitada, permiso para procesar información sensible o dominio absoluto sobre los materiales de otros.
 
@@ -27,7 +37,7 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Fundamentos a contrastar:** [F03](../foundations/human-pedagogical-contextualization.md), [F07](../foundations/pedagogical-authorization.md), [F09](../foundations/learner-autonomy.md), [F10](../foundations/pedagogical-adaptation.md), [F08](../foundations/pedagogical-authorship.md). **Pregunta abierta:** ¿control de acceso y continuidad multi-proceso resultan suficientemente justificados por estos fundamentos/O7/O9, o requieren explicitación fundacional sin mezclar reglas técnicas?
 
-## E02 — Aprendizaje autodidacta
+## [E02 — Aprendizaje autodidacta](e02-aprendizaje-autodidacta.md)
 
 **Condiciones:** funciones de orientar enseñanza y vivir aprendizaje pueden coincidir en una persona; puede existir conocimiento inicial escaso, objetivos inciertos y ausencia de apoyo externo estable. No suponer que todo autodidacta carece de conocimientos o requiere IA.
 
@@ -81,7 +91,7 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Contraste aún abierto:** gobernanza de contribuciones, autoridad sobre intenciones y versiones, resolución de discrepancias, coordinación y continuidad cuando cambian participantes. Esas tensiones pueden requerir explicitación en escenarios y responsabilidades, no necesariamente nuevos fundamentos. No confundir autoridad editorial, pedagógica, legal y permisos técnicos.
 
-## E04 — Educación en el hogar (homeschooling)
+## [E04 — Educación en el hogar (homeschooling)](e04-educacion-en-el-hogar.md)
 
 **Condiciones:** aprendizaje organizado predominantemente en el entorno familiar, con acompañamiento variable. No es equivalente a aprendizaje autodidacta puro ni a educación particular; un adulto puede organizar y apoyar sin ser especialista, y un menor conserva participación y autonomía progresiva. Puede combinarse con tutorías, recursos de centros educativos y procesos de acreditación externos.
 
