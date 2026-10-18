@@ -1,6 +1,6 @@
 # F10 — Adaptación pedagógica mediante especialización de escenarios
 
-**Estado:** fundamento reconocido por decisión expresa del fundador (2026-10-18). Se aprueba su responsabilidad y la distinción conceptual de escenarios base y especializados. La reconciliación detallada O0–O10, las definiciones acumulativas y las capas O→C permanecen **propuestas para revisión**, no aprobadas por silencio. No se ha demostrado viabilidad tecnológica ni eficacia educativa.
+**Estado:** fundamento reconocido por decisión expresa del fundador (2026-10-18). Se aprueba su responsabilidad y la distinción conceptual de escenarios base y especializados. La reconciliación detallada O0–O10 y las clasificaciones O→C permanecen **propuestas para revisión**; el concepto general y sus dos tipos están aprobados, no aprobadas por silencio. No se ha demostrado viabilidad tecnológica ni eficacia educativa.
 
 ## 1. Origen y responsabilidad
 
@@ -33,9 +33,9 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 
 | Concepto | Relación con F10 | Estado |
 | --- | --- | --- |
-| [Escenario pedagógico](../concepts/application-circumstances.md) (actualmente denominado «Circunstancias de aplicación pedagógica») | Concepto existente cuyo nombre y definición canónica **se propone** actualizar, preservando procedencia F03 | Renombramiento y capa F10 pendientes de reconciliación |
-| Escenario pedagógico base | Tipo de escenario definido por quien enseña con circunstancias de referencia | Distinción aprobada; decidir si requiere documento propio |
-| Escenario pedagógico especializado | Tipo obtenido al particularizar uno base durante el uso del aprendiz | Distinción aprobada; decidir si requiere documento propio |
+| [Escenario pedagógico](../concepts/application-circumstances.md) (antes «Circunstancias de aplicación pedagógica») | Concepto existente renombrado y definición acumulativa actualizada, con procedencia F03 preservada | Nombre y estructura aprobados; tabla O→C de F10 pendiente |
+| Escenario pedagógico base | Tipo del concepto Escenario pedagógico, definido por quien enseña con circunstancias de referencia | Aprobado como tipo, sin concepto/archivo separado |
+| Escenario pedagógico especializado | Tipo del mismo concepto, obtenido al particularizar uno base durante el uso del aprendiz | Aprobado como tipo, sin concepto/archivo separado |
 | [Intención pedagógica](../concepts/pedagogical-intention.md) | Referencia que no debe cambiarse silenciosamente al especializar | Examinar aporte de capa F10 |
 | [Autonomía del aprendiz](../concepts/learner-autonomy.md) | Uso autónomo de la especialización, sin equiparar ambas responsabilidades | Examinar aporte de capa F10 |
 | [Exploración pedagógica](../concepts/pedagogical-exploration.md) | Capacidad general utilizable al explorar especializaciones | Examinar si nueva capa sería redundante |
@@ -59,7 +59,7 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 
 ## 6. Puntos por reconciliar
 
-1. Actualizar el concepto existente «Circunstancias de aplicación pedagógica» hacia «Escenario pedagógico» **sin borrar la semántica aprobada de F03**.
-2. Decidir si «base» y «especializado» son dos tipos dentro de un concepto con una sola definición canónica, o conceptos independientes con capas propias.
-3. Revisar cada ampliación efectivamente necesaria, evitando nuevas capas sin aporte independiente; aprobar relaciones O→C concepto por concepto.
-4. Reexaminar clasificaciones O→F10, límites de especialización y tensiones antes de marcar F10 como plenamente reconciliado.
+1. **Aprobado y aplicado:** nombre «Escenario pedagógico», concepto único con tipos base y especializado, conservando la capa F03 y su semántica.
+2. **Pendiente:** revisar O→C de la capa F10 de Escenario pedagógico.
+3. **Pendiente:** revisar posible ampliación de Autonomía del aprendiz; no se añadió capa F10.
+4. Revisar las demás ampliaciones solo si aportan semántica propia, y validar O→F10, límites y tensiones antes de reconciliar todo F10.
