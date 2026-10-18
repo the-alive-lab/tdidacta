@@ -19,6 +19,10 @@ La [abstracción semántica](semantic-abstraction.md) corresponde a F04 (documen
 
 En TDidacta puede apoyar experiencias contextualizadas de quien aprende, sin presuponer que producir alternativas demuestre aprendizaje.
 
+## Modalidades — contraste conceptual y operacional
+
+Directa: una persona explora posibilidades o construye una realización desde IR. Asistida: una herramienta apoya o propone esos resultados para contraste. Ninguna vía autoriza automáticamente las realizaciones ni demuestra conformidad o factibilidad técnica.
+
 ## 3. Conceptos definidos o ampliados desde F05
 
 | Concepto | Aporte de F05 | Entrada |
