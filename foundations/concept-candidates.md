@@ -8,7 +8,7 @@
 | **Intención pedagógica** | Comprensión, práctica o experiencia que un actor espera favorecer, con razones y límites pertinentes | ¿Quién puede formularla, revisarla o desafiarla? ¿Puede emerger durante la experiencia? |
 | **Fuente pedagógica** | Representación consultable de conocimiento, orientación o decisiones pertinentes | No confundir fuente, documento, autoría y autoridad |
 | **Realización pedagógica** | Material o experiencia concreta que expresa o pone a prueba una responsabilidad en un contexto | ¿Qué se preserva entre realizaciones y cómo se verifica? |
-| **Exploración y autonomía** | Capacidad de quien aprende para proseguir y examinar posibilidades sin depender permanentemente de otra persona | ¿Cuándo una restricción ayuda y cuándo limita legítimamente? |
+| **Exploración y autonomía** | Candidatura abordada mediante [F09 — Autonomía del aprendiz](learner-autonomy.md): exploración es capacidad general; autonomía y diseño son usos distintos | Fundamento creado; orientaciones y capas conceptuales pendientes de revisión detallada |
 | **Continuidad pedagógica** | Posibilidad de reconstruir y revisar conexiones entre necesidades, razones, experiencias y evidencia a través del tiempo | No presuponer cadena lineal ni registro exhaustivo |
 | **Adaptación** | Modificación situada de medios, ejemplos, profundidad o apoyos | Personalización o conformidad no demuestran aprendizaje |
 
