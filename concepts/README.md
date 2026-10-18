@@ -85,14 +85,14 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** numeración F08, clasificaciones O0–O10 y ambos conceptos reconciliados por el fundador (2026-10-18). Se mantiene la autoría amplia para personas y sistemas, atribuida según declaración del responsable sin auditoría automática.
 
-## Propuesta F09 — Interpretación asistida de fuentes
+## Continuidad F03 — fuente externa y modalidad asistida
 
 | Concepto | Aporte |
 | --- | --- |
-| [Fuente educativa](educational-source.md) | Material identificable distinguible de su interpretación |
-| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Vía tecnológica opcional, supervisable, que genera propuestas |
+| [Fuente externa de necesidad educativa](educational-source.md) | Insumo externo a interpretar directamente o con herramientas bajo F03 |
+| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Registro de modalidad opcional, sin Foundation independiente ni capa F09 |
 
-**Estado:** propuesta pendiente de decisión del fundador. No reabre el cierre histórico de T02 ni adopta su mecanismo técnico.
+**Estado:** por decisión del fundador (2026-10-18), no se crea un fundamento autónomo. La [candidatura fue archivada](../foundations/denied/assisted-source-interpretation.md). La fuente externa se integra en F03; el mecanismo técnico T02 sigue diferido.
 
 Cada entrada mantiene **una única definición canónica acumulativa vigente hasta el último fundamento que la amplíe** y **una capa por fundamento que contribuya al concepto**. Agregar una capa exige integrar su aporte en esa única definición, sin crear títulos paralelos de «definición canónica F02» y «definición hasta F06»; la procedencia histórica permanece en las capas y en Git. Dentro de cada capa se registran juntos (1) el aporte específico del fundamento y (2) **solo las orientaciones de ese fundamento que inciden en ese aporte al concepto**, con justificación individual. No existen capas globales separadas F→C y O→C, ni se listan todas las orientaciones por defecto. Cada nueva contribución de otro fundamento añade otra capa, sin duplicar el concepto.
 
