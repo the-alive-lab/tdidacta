@@ -102,6 +102,10 @@ La afirmación de que F10 amplía la capacidad de acción y/o evita carga humana
 
 El fundador aclaró que la atención a O6 y O10 no implicaba desacuerdo con las demás orientaciones: **aprobó todas las clasificaciones O0–O10 de F10**. Se da por concluida la reconciliación conceptual F10, con O6 **Origen**, O10 **Sin incidencia** y las restantes categorías propuestas previamente. Escenario pedagógico y su capa O→C F10 permanecen reconciliados; no se requieren conceptos ni capas redundantes. La condición investigativa O3/F10 antes registrada persiste como requisito documental del cierre **global** del bootstrap, no como bloqueo de F10 ni como claim de eficacia.
 
+## Auditoría de cobertura de candidatos — realizada (2026-10-18)
+
+[Auditoría de los siete candidatos históricos frente a F01–F10](../notes/2026-10-18-foundations-candidate-coverage-audit.md): cuatro cubiertos, dos con fronteras abiertas y uno parcial/transversal; no aparece un candidato huérfano que exija F11. Este resultado **no acredita cobertura integral de T01–T28**. La reconstrucción y contraste con los [28 tópicos del abstract V6](../notes/tdidacta-v6-coverage-bootstrap.md) conserva su seguimiento separado. **Foundations → Mechanisms se pospone** para esa etapa por instrucción del fundador; no ejecutar ahora esa auditoría ni mover conceptos. **O3/F10 permanece pendiente** como condición de trazabilidad investigativa del cierre global, sin presentarse como estudio concluido.
+
 ## Condición de salida de cada revisión
 
 Un fundamento está listo para cierre cuando (a) su origen y O0–O10 están clasificados y justificados; (b) el inventario de conceptos y las definiciones acumulativas están sincronizados; (c) cada concepto afectado tiene capa de fundamento con orientaciones incidentes justificadas; (d) el fundamento explica responsabilidades sin repetir definiciones; (e) índices, tensiones, enlaces y procedencia están sincronizados; y (f) el fundador aprueba expresamente las decisiones correspondientes.
