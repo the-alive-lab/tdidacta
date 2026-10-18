@@ -8,6 +8,11 @@ F01 nace de **O0 — Orientación principal** y establece **cómo interpreta TDi
 
 Su responsabilidad no es prescribir una técnica didáctica ni definir un sistema informático, sino sostener una comprensión del problema en la que las experiencias educativas puedan favorecer la exploración, experimentación y comprensión, y no se reduzcan a la circulación de contenidos.
 
+
+## Modalidades de cumplimiento — revisión transversal 2026-10-18
+
+**Evaluación de vías:** F01 describe perspectivas de enseñanza y aprendizaje, no una operación única. **Directa:** las personas participan en experiencias educativas sin apoyo tecnológico obligatorio. **Asistida:** herramientas pueden apoyar exploración, interacción o comunicación sin reemplazar automáticamente la participación y el juicio de quienes enseñan y aprenden. La distinción es conceptual y operacional; no prescribe equivalencia de experiencias ni presupone factibilidad técnica comprobada.
+
 ## 2. Responsabilidad y relaciones del fundamento
 
 - **Participación activa de ambas perspectivas:** enseñar y aprender no se reducen respectivamente a transmitir y recibir; las contribuciones de quienes participan pueden diferir sin imponer una jerarquía universal.
