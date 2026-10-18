@@ -38,7 +38,7 @@ Las vías directa y asistida ya definidas permiten traducir contenido pertinente
 | Concepto | Aporte específico de F03 | Entrada |
 | --- | --- | --- |
 | **Contextualización pedagógica humana** | Interpretación situada, juicio humano y documentación comprensible. | [Definición y capa F03](../concepts/human-pedagogical-contextualization.md) |
-| **Circunstancias de aplicación pedagógica** | Condiciones pertinentes de aplicación, distinguibles de intención y necesidad. | [Definición y capa F03](../concepts/application-circumstances.md) |
+| **Escenario pedagógico** (antes «Circunstancias de aplicación pedagógica») | Condiciones pertinentes de aplicación, distinguibles de intención y necesidad; la distinción base/especializado procede de F10, no de la capa histórica F03. | [Definición y capa F03](../concepts/application-circumstances.md) |
 | **Documentación suficiente y proporcional** | Criterio de suficiencia semántica proporcional al alcance. | [Definición y capa F03](../concepts/sufficient-proportional-documentation.md) |
 | **Necesidad pedagógica** | Aporta interpretación, procedencia y explicitud contextual a un concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-need.md) |
 | **Intención pedagógica** | Aporta formulación situada, juicio humano y claridad documental al concepto originado en F02. | [Capa adicional F03](../concepts/pedagogical-intention.md) |
