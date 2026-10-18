@@ -2,25 +2,30 @@
 
 **Estado:** superficie inicial de fundamentos, con orientaciones canónicas existentes y conceptos candidatos diferenciados. Este README es un **índice de navegación**, no la definición completa de todos los conceptos.
 
-## Documentos
+## Fundamentos reconciliados
 
-| Documento | Responsabilidad | Estado |
-| --- | --- | --- |
-| [F01 — Enseñanza y aprendizaje](teaching-and-learning.md) | Fundamento de participación activa de quien enseña y aprende, originado en orientación principal | Reconocido como fundamento por el fundador |
-| [Conceptos candidatos](concept-candidates.md) | Responsabilidad pedagógica, intención, fuente, realización, autonomía, continuidad y adaptación | Candidatos |
-| [F04 — Abstracción semántica](semantic-abstraction.md) | Documentación semántica a IR (encode) | Concepto transversal confirmado por fundador; formalización pendiente |
-| [F05 — Proyección semántica](semantic-projection.md) | IR individual/combinada a resultados de dominio (decode) | Concepto transversal confirmado por fundador; formalización pendiente |
-| [F07 — Autorización de elementos pedagógicos](pedagogical-authorization.md) | Autorización por titular de cuenta del MVP; estabilidad de versiones inmutables y autorización de nuevas intenciones o versiones | T06 cerrado conceptualmente; mecanismos pendientes |
-| [F06 — Revisión y corrección pedagógica](pedagogical-review-and-correction.md) | Evaluación y corrección humana proporcional, separada de autorización | Candidato T05 |
-| [F03 — Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
-| [F02 — Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
-| [Candidatura no admitida: Fuentes, inferencias e incertidumbre](denied/source-inference-uncertainty.md) | Responsabilidades distribuidas entre F06, F07 y F08 | Denied (2026-10-18); sin numeración |
-| [Candidatura no admitida: Interpretación asistida de fuentes](denied/assisted-source-interpretation.md) | Modalidad de F03, no fundamento independiente; se conserva la justificación histórica | Denied (2026-10-18); sin numeración |
-| [F10 — Adaptación pedagógica](pedagogical-adaptation.md) | Especialización de escenarios base según circunstancias particulares del aprendiz, sin redefinir por defecto la intención | F10 reconciliado: O0–O10 y capa conceptual F10 aprobados (2026-10-18) |
-| [F09 — Autonomía del aprendiz](learner-autonomy.md) | El aprendiz puede orientar su experiencia sin limitarse a recorridos definidos por docentes; vías directa y asistida | F09 reconciliado (2026-10-18); implementación pendiente |
-| [F08 — Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
-| [Resolución recursiva de necesidades — no promovida](denied/recursive-pedagogical-resolution.md) | Recurrencia ubicada en Relationships, con coordinación posible en Lifecycle | Denied (2026-10-18), sin numeración; reconocimiento histórico preservado |
-| [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
+Las diez responsabilidades fundacionales han sido reconciliadas conceptualmente por el fundador. Cada documento contiene su razón de ser, las relaciones O0–O10 que lo justifican y enlaces a sus conceptos; **las definiciones semánticas completas viven en Concepts**.
+
+| Fundamento | Responsabilidad de TDidacta |
+| --- | --- |
+| [F01 — Enseñanza y aprendizaje](teaching-and-learning.md) | Interpretar la problemática educativa desde la participación activa de enseñanza y aprendizaje. |
+| [F02 — Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Abordar necesidades mediante intenciones que delimitan posibilidades. |
+| [F03 — Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Sustentar comprensión situada y documentación proporcional. |
+| [F04 — Abstracción semántica](semantic-abstraction.md) | Permitir el paso desde documentación a representación semántica. |
+| [F05 — Proyección semántica](semantic-projection.md) | Permitir explorar y concretar posibilidades mediante realizaciones. |
+| [F06 — Revisión y corrección](pedagogical-review-and-correction.md) | Hacer posible revisar y corregir elementos pedagógicos proporcionalmente. |
+| [F07 — Autorización](pedagogical-authorization.md) | Preservar decisiones de autorización pertinentes a versiones y alcances. |
+| [F08 — Autoría pedagógica](pedagogical-authorship.md) | Hacer reconocibles autoría y contribuciones sin confundirlas con autoridad. |
+| [F09 — Autonomía del aprendiz](learner-autonomy.md) | Permitir que quien aprende oriente su experiencia más allá del recorrido propuesto. |
+| [F10 — Adaptación pedagógica](pedagogical-adaptation.md) | Admitir especialización de escenarios base preservando intención y límites relevantes. |
+
+**Estado:** F01–F10 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
+
+## Registros y criterios complementarios
+
+- [Inventario histórico de conceptos candidatos](concept-candidates.md): antecedente de cobertura, no listado de Foundations pendientes.
+- [Candidaturas no admitidas](denied/README.md): decisiones históricas y responsabilidades redistribuidas, sin numeración F.
+- [Alcance y promoción](scope-and-promotion.md): criterios de organización y adopción.
 
 Las candidaturas no promovidas se conservan en [denied](denied/README.md) para trazabilidad, sin numeración ni estatus de Foundation.
 
@@ -50,7 +55,7 @@ La [orientación principal](../orientation/README.md) es transversal a **cada fu
 
 ### Clasificación explícita de relaciones O→F
 
-Cada fundamento deberá justificar **al menos una orientación de origen**. Las demás orientaciones pueden actuar como **complemento**, **condición**, tener **incidencia marginal** o **no tener incidencia**. Las dos últimas son resultados válidos y deben registrarse expresamente, en lugar de inventar vínculos. La influencia marginal exige explicar qué cambia —si algo— y por qué su importancia es baja. Las tablas existentes son preliminares y se reclasificarán **fundamento por fundamento** durante la auditoría aún abierta.
+Cada fundamento deberá justificar **al menos una orientación de origen**. Las demás orientaciones pueden actuar como **complemento**, **condición**, tener **incidencia marginal** o **no tener incidencia**. Las dos últimas son resultados válidos y deben registrarse expresamente, en lugar de inventar vínculos. La influencia marginal exige explicar qué cambia —si algo— y por qué su importancia es baja. Las tablas F01–F10 fueron reconciliadas fundamento por fundamento; una orientación nueva o un cambio sustantivo puede exigir nueva revisión.
 
 ## Modalidades de cumplimiento
 
