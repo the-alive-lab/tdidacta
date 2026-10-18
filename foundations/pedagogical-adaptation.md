@@ -1,6 +1,6 @@
 # F10 — Adaptación pedagógica mediante especialización de escenarios
 
-**Estado:** fundamento reconocido por decisión expresa del fundador (2026-10-18). Se aprueba su responsabilidad y la distinción conceptual de escenarios base y especializados. Las clasificaciones O→C de Escenario pedagógico mediante F10 están **reconciliadas** por decisión del fundador (2026-10-18). En O→F10, **O6 Origen** y **O10 Sin incidencia** están aprobadas expresamente (2026-10-18); las demás clasificaciones siguen propuestas y no se aprueban por silencio. No se ha demostrado viabilidad tecnológica ni eficacia educativa.
+**Estado:** F10 reconciliado conceptualmente por aprobación expresa del fundador (2026-10-18): responsabilidad, O0–O10, Escenario pedagógico (base y especializado) y capa conceptual F10. No constituye evidencia de viabilidad tecnológica, reducción de esfuerzo ni eficacia educativa.
 
 ## 1. Origen y responsabilidad
 
@@ -29,7 +29,7 @@ El escenario base no equivale a una intención; el especializado no equivale aut
 
 La intervención tecnológica no debe sustituir el juicio pertinente ni exigir datos personales innecesarios; la factibilidad y eficacia se verifican durante la implementación.
 
-## 4. Conceptos afectados — para revisión
+## 4. Conceptos afectados — reconciliados
 
 | Concepto | Relación con F10 | Estado |
 | --- | --- | --- |
@@ -38,12 +38,12 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 | Escenario pedagógico especializado | Tipo del mismo concepto, obtenido al particularizar uno base durante el uso del aprendiz | Aprobado como tipo, sin concepto/archivo separado |
 | [Intención pedagógica](../concepts/pedagogical-intention.md) | Referencia que no debe cambiarse silenciosamente al especializar | No se requiere capa F10; relación entre fundamentos |
 | [Autonomía del aprendiz](../concepts/learner-autonomy.md) | Uso autónomo de la especialización, sin equiparar ambas responsabilidades | No se crea capa F10; relación entre fundamentos resuelta |
-| [Exploración pedagógica](../concepts/pedagogical-exploration.md) | Capacidad general utilizable al explorar especializaciones | Examinar si nueva capa sería redundante |
-| [Realización pedagógica](../concepts/pedagogical-realization.md) | Resultado posible, pero no necesario, del uso de un escenario especializado | Examinar si nueva capa sería redundante |
+| [Exploración pedagógica](../concepts/pedagogical-exploration.md) | Capacidad general utilizable al explorar especializaciones | Relación entre fundamentos, sin nueva capa semántica F10 |
+| [Realización pedagógica](../concepts/pedagogical-realization.md) | Resultado posible, pero no necesario, del uso de un escenario especializado | Relación entre fundamentos, sin nueva capa semántica F10 |
 
-## 5. Clasificación O→F10 — reconciliación parcial
+## 5. Clasificación O→F10 — reconciliada (2026-10-18)
 
-| Orientación | Relación propuesta | Justificación |
+| Orientación | Relación reconciliada | Justificación |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Origen** | Responder a necesidades de enseñanza y aprendizaje situadas, evitando un único escenario universal. |
 | [O1](../orientation/semantic-continuity.md) | **Condición** | La especialización debe conservar significado y límites pertinentes de la intención. |
@@ -57,9 +57,8 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las circunstancias particulares incluyen limitaciones materiales y posibilidades de acceso directo o indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | La conservación independiente de recursos públicos pertenece a otra responsabilidad; puede beneficiar el uso de recursos asociados, pero no determina la especialización de escenarios. |
 
-## 6. Puntos por reconciliar
+## 6. Cierre conceptual
 
-1. **Aprobado y aplicado:** nombre «Escenario pedagógico», concepto único con tipos base y especializado, conservando la capa F03 y su semántica.
-2. **Reconciliado:** capa O→C de Escenario pedagógico aprobada expresamente (2026-10-18): O3 Condición, O6 Incidencia marginal y O10 Sin incidencia. **O→F10 parcialmente reconciliado:** O6 Origen y O10 Sin incidencia aprobadas expresamente; otras clasificaciones aún pendientes.
-3. **Resuelto:** la relación con F09 no origina una capa adicional en Autonomía del aprendiz.
-4. Revisar las demás ampliaciones solo si aportan semántica propia, y validar O→F10, límites y tensiones antes de reconciliar todo F10.
+El fundador aprobó expresamente el conjunto de clasificaciones O0–O10 el 2026-10-18, precisando O6 como **Origen** y O10 como **Sin incidencia**. El concepto único Escenario pedagógico (tipos base y especializado), su definición acumulativa y capa O→C F10 estaban reconciliados. No se requieren conceptos adicionales ni capas F10 en Autonomía del aprendiz, Exploración pedagógica o Realización pedagógica por mera relación.
+
+Este cierre no valida la eficacia de F10: el contraste de capacidad de acción y esfuerzo humano neto asociado con O3 quedó registrado como condición de trazabilidad investigativa para el cierre global del bootstrap, sin exigir ejecutar experimentos antes de cerrar Foundations.
