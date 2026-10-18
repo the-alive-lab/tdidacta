@@ -1,6 +1,6 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O2–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen** y O1 como **Sin incidencia** por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O3–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia** y O2 como **Complemento** por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -32,7 +32,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Origen — reconciliado 2026-10-18** | Hacer accesible el comienzo de experiencias de enseñanza y aprendizaje en contextos variados. |
 | [O1](../orientation/semantic-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | Poder modificar una configuración inicial no exige por sí mismo continuidad semántica del conocimiento pedagógico. La trazabilidad o auditoría de cambios de configuración es otra preocupación, que no se deriva automáticamente de O1. |
-| [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Tecnología puede proponer/aplicar configuraciones, sin suplantar juicio ni determinar la estructura fundacional. |
+| [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento — reconciliado 2026-10-18** | Tecnología puede proponer/aplicar configuraciones, sin suplantar juicio ni determinar la estructura fundacional. |
 | [O3](../orientation/human-effort-and-agency.md) | **Origen** | Disminuir configuración humana inicial innecesaria y ampliar la capacidad de comenzar. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Los valores por defecto no autorizan intenciones o versiones pedagógicas automáticamente. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Sin incidencia o condición (por deliberar)** | La plantilla no debe atribuir aportes engañosamente, pero autoría no origina este fundamento. |
@@ -51,4 +51,4 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 
 **Continuación:** reconciliar cada orientación con el fundador; solo entonces decidir promoción, número y ampliaciones a Concepts.
 
-**Nota de frontera O1:** si se descubre una necesidad de auditoría de acciones, facultades o modificaciones de configuraciones, investigar su justificación como responsabilidad diferente. No crear automáticamente una nueva orientación ni un nuevo fundamento.
+**Continuidad acordada (2026-10-18):** después de reconciliar estas dos candidaturas se abordará explícitamente la auditoría de acciones, facultades y cambios de configuración, dada su importancia institucional, evaluando la necesidad de orientación y fundamento propios. **No se incorporará ahora a O1 ni se anticipará su definición.**
