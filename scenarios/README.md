@@ -18,9 +18,11 @@ Las fichas siguientes desarrollan **contexto, actores locales, circunstancias, n
 
 - [E01 — Enseñanza particular](e01-ensenanza-particular.md)
 - [E02 — Aprendizaje autodidacta (independiente y colaborativo)](e02-aprendizaje-autodidacta.md)
+- [E03 — Educación institucional](e03-educacion-institucional.md)
 - [E04 — Educación en el hogar](e04-educacion-en-el-hogar.md)
+- [E05 — Aprendizaje orientado a metas (transversal candidato)](e05-aprendizaje-orientado-a-metas.md)
 
-Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 permanecen en el índice como candidatos por resolver.**
+Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 cuentan ahora con fichas propias**, conservando preguntas abiertas; E05 aún requiere decisión sobre su clasificación transversal definitiva.
 
 ## Resoluciones posteriores de las fichas E01/E02/E04 (2026-10-18)
 
@@ -68,7 +70,7 @@ Este índice conserva el inventario inicial para trazabilidad; **las fichas enla
 
 **Contraste:** examinar contribuciones, feedback, coordinación y continuidad compartidas, con posibles reglas de participación y mantenimiento pero sin presumir propiedad del aprendizaje ni una jerarquía pedagógica formal. La colaboración comunitaria es una modalidad de E02, no un escenario distinto. La analogía con proyectos de software libre describe la estructura participativa; no exige que todo grupo adopte una licencia, régimen de gobernanza o modelo de propiedad determinado.
 
-## E03 — Educación institucional
+## [E03 — Educación institucional](e03-educacion-institucional.md)
 
 **Condiciones:** existe organización que coordina programas, docentes, aprendices, equipos de apoyo, autorizaciones y continuidad institucional. Pueden intervenir múltiples niveles de autoridad; no debe suponerse que todo establecimiento tiene la misma estructura ni que lo administrativo determina la intención pedagógica.
 
@@ -117,7 +119,7 @@ Este índice conserva el inventario inicial para trazabilidad; **las fichas enla
 
 **Contexto externo chileno, no requisito universal:** la validación por exámenes libres corresponde al Ministerio de Educación y entidades examinadoras designadas; la inscripción de menores es responsabilidad de padre/madre/tutor legal y no puede hacerla una institución privada de homeschooling. Fuente oficial: [Ayuda Mineduc](https://www.ayudamineduc.cl/ficha/examenes-libres-menores-de-18-anos-11). UNESCO reconoce diversidad de condiciones del homeschooling: [actores no estatales](https://www.unesco.org/en/right-education/non-state-actors). No se adopta flujo legal, certificación ni alcance territorial universal.
 
-## E05 — Aprendizaje orientado a metas (escenario candidato transversal)
+## [E05 — Aprendizaje orientado a metas (escenario candidato transversal)](e05-aprendizaje-orientado-a-metas.md)
 
 **Condiciones:** una meta de aprendizaje se define **externamente a TDidacta**, por la persona, su entorno u otra organización: preparar una certificación, adquirir capacidad en un tema, superar una brecha concreta, realizar una tarea o desarrollar una competencia. «Externa» significa que **TDidacta no establece la meta como autoridad originaria**, no que necesariamente la imponga una institución distinta del aprendiz.
 
