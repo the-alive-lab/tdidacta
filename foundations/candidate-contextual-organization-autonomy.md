@@ -1,6 +1,6 @@
 # Candidatura A — Autonomía de organización contextual
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O5–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O6–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -27,7 +27,7 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento — reconciliado 2026-10-18** | La tecnología puede apoyar configuraciones, sin determinar ni validar autoridad. |
 | [O3](../orientation/human-effort-and-agency.md) | **Condición — reconciliado 2026-10-18** | La libertad de configuración no debe imponer sobrecarga desproporcionada. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Incidencia marginal — reconciliado 2026-10-18** | La distribución configurable de facultades puede intersectar quién participa en autorizaciones, pero no autoriza por sí misma elementos pedagógicos ni define F07. |
-| [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Participaciones y atribuciones deben distinguirse de facultades de decisión. ¿Incidencia o solo frontera? |
+| [O5](../orientation/transparent-contribution-recognition.md) | **Incidencia marginal — reconciliado 2026-10-18** | El reconocimiento de contribuciones puede coexistir con una distribución contextual de funciones, pero atribuir aportes no equivale a conceder facultades ni define la autonomía organizativa. |
 | [O6](../orientation/effort-inversion.md) | **Complemento** | Liberar de rigidez organizativa puede permitir concentrarse en comprender y orientar, pero no lo garantiza. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Configurar atribuciones no justifica recolectar datos personales innecesarios. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Permisos y relaciones contextuales no deben confundirse con reconocimiento de identidad personal externa. |
