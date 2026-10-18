@@ -6,12 +6,12 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 
 ## Ramificación conceptual de TDidacta
 
-La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Responsibilities, Scenarios y Roles** son superficies candidatas todavía por delimitar. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
+La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone ahora de un registro de cobertura candidato** y **Responsibilities y Roles** siguen por delimitar. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
 
 | Superficie | Pregunta que responde | Límite de su definición |
 | --- | --- | --- |
 | **[Orientación](orientation/README.md)** | ¿Qué buscamos? | Expresa los objetivos y remite a fundamentos y escenarios; no los redefine. |
-| **Escenarios** *(superficie candidata)* | ¿Qué situaciones debemos cubrir para cumplir lo que buscamos? | Describe condiciones y casos de cobertura; no repite roles ni responsabilidades. |
+| **[Escenarios](scenarios/README.md)** *(registro candidato)* | ¿Qué situaciones debemos cubrir para cumplir lo que buscamos? | Describe condiciones y casos de cobertura; no repite roles ni responsabilidades. |
 | **[Fundamentos](foundations/README.md)** | ¿Qué debemos hacer para cumplir lo que buscamos? | Expresa respuestas constitutivas de TDidacta a la orientación, sin definir exhaustivamente conceptos ni asignar obligaciones a roles. |
 | **[Conceptos](concepts/README.md)** | ¿Cómo explicamos lo que hacemos? | Conserva los significados y distinciones semánticas a los que remiten los fundamentos. |
 | **Responsabilidades** *(superficie candidata)* | ¿Quién debe cumplir lo que hacemos? | Delimita compromisos y condiciones de cumplimiento, sin asignarlos por defecto a un rol concreto. |
@@ -45,7 +45,7 @@ flowchart TD
 
 **Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
 
-Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta-v6-coverage-bootstrap.md). La auditoría Foundations → Mechanisms queda pospuesta y la condición investigativa O3/F10 sigue pendiente. [Antecedentes y decisiones de cobertura](notes/2026-10-18-foundations-candidate-coverage-audit.md).
+Los [escenarios de cobertura documentados](scenarios/README.md) incluyen enseñanza particular, aprendizaje autodidacta, educación institucional y educación en el hogar, además de variantes transversales. Constituyen **registro de cobertura, no un compromiso de implementarlo todo desde el inicio**. Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta-v6-coverage-bootstrap.md). La auditoría Foundations → Mechanisms queda pospuesta y la condición investigativa O3/F10 sigue pendiente. [Antecedentes y decisiones de cobertura](notes/2026-10-18-foundations-candidate-coverage-audit.md).
 
 ## Navegación
 
@@ -54,6 +54,7 @@ Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta
 | [Orientación para agentes](AGENTS.md) | Cómo colaborar sin confundir fuentes, estados ni autoridad documental |
 | [Índice para LLM](llms.txt) | Descubrimiento rápido de las fuentes canónicas y especializadas |
 | [Orientación](orientation/README.md) | Propósito, problema abordado, alcance e idioma |
+| [Escenarios de cobertura](scenarios/README.md) | Cuatro contextos iniciales, necesidades, contrastes con fundamentos y brechas candidatas; no es un plan de releases |
 | [Foundations](foundations/README.md) | Conceptos reconocidos y definiciones candidatas |
 | [Mechanisms](mechanisms/README.md) | Espacios delimitados y operaciones candidatas de exploración/realización |
 | [Relationships](relationships/README.md) | Relaciones candidatas entre necesidades, intenciones, espacios y operaciones |
