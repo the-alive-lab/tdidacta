@@ -44,9 +44,11 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 ### Modalidades de autodidacta: independiente y acompañado
 
 - **Autodidacta independiente (standalone):** la persona organiza y evalúa por sí misma sus experiencias, aunque pueda usar materiales o asistencia tecnológica. No presupone aislamiento obligatorio ni ausencia absoluta de orientación externa.
-- **Autodidacta acompañado:** la persona mantiene el control de su aprendizaje mientras recurre voluntariamente a pares, comunidades de estudio, mentorías o colaboradores. El acompañamiento no convierte automáticamente la situación en una institución ni transfiere la autoridad de sus decisiones a terceros.
+- **Autodidacta acompañado (colaborativo):** la persona aprende y orienta su propio proceso dentro de un esfuerzo compartido, semejante a una comunidad que desarrolla un proyecto de software libre: participantes aportan conocimientos, preguntas, correcciones, recursos o trabajo hacia un propósito compartido, sin que por ello exista un docente propietario del aprendizaje ni una relación obligatoria profesor–alumno. Puede haber coordinación y reglas de contribución sin que una persona sea dueña del conocimiento o ejerza automáticamente autoridad pedagógica sobre las demás. El apoyo entre pares no exige mentoría personal.
 
-**Contraste:** examinar cómo se coordinan contribuciones, feedback y continuidad compartida sin imponer jerarquía pedagógica formal. La presencia de una comunidad no convierte el aprendizaje autodidacta en un escenario canónico diferente.
+**Frontera con E01:** una **mentoría individualizada** o tutoría donde alguien asume orientación docente estable se parece más al escenario particular, incluso cuando el aprendiz conserva autonomía. No clasificarla automáticamente como autodidacta acompañado.
+
+**Contraste:** examinar contribuciones, feedback, coordinación y continuidad compartidas, con posibles reglas de participación y mantenimiento pero sin presumir propiedad del aprendizaje ni una jerarquía pedagógica formal. La colaboración comunitaria es una modalidad de E02, no un escenario distinto. La analogía con proyectos de software libre describe la estructura participativa; no exige que todo grupo adopte una licencia, régimen de gobernanza o modelo de propiedad determinado.
 
 ## E03 — Educación institucional
 
