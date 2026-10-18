@@ -1,6 +1,6 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O0–O10 son **hipótesis iniciales** para revisar una por una.
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O1–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen** por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -30,7 +30,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 
 | Orientación | Clasificación candidata | Razón y cuestión por revisar |
 | --- | --- | --- |
-| [O0](../orientation/README.md) | **Origen** | Hacer accesible el comienzo de experiencias de enseñanza y aprendizaje en contextos variados. |
+| [O0](../orientation/README.md) | **Origen — reconciliado 2026-10-18** | Hacer accesible el comienzo de experiencias de enseñanza y aprendizaje en contextos variados. |
 | [O1](../orientation/semantic-continuity.md) | **Condición** | La configuración de origen y sus modificaciones no deben perder razones y restricciones relevantes. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Tecnología puede proponer/aplicar configuraciones, sin suplantar juicio ni determinar la estructura fundacional. |
 | [O3](../orientation/human-effort-and-agency.md) | **Origen** | Disminuir configuración humana inicial innecesaria y ampliar la capacidad de comenzar. |
