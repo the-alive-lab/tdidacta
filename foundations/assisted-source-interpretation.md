@@ -1,3 +1,48 @@
+# F09 (numeración propuesta) — Interpretación asistida de fuentes educativas
+
+**Estado de esta revisión:** propuesta F09 pendiente de aprobación del fundador. **Antecedente T02:** cerrado conceptualmente (2026-10-16); ese cierre previo no autoriza automáticamente la nueva clasificación O0–O10 ni la estructura F09. El texto T02 original continúa a continuación como registro de procedencia.
+
+## Reformulación del fundamento desde orientaciones — propuesta
+
+**Origen propuesto: O2 — Aprovechamiento tecnológico.** F09 establece la responsabilidad de ofrecer una **vía opcional de interpretación asistida** de fuentes, supervisable por una persona responsable, que complemente sin desplazar la formulación humana directa ni convierta resultados inferenciales en conocimiento pedagógico autorizado.
+
+O0 orienta la utilidad educativa; O1 y O5 exigen preservar distinciones significativas entre fuente, interpretación y contribución; O4 separa propuestas de aprobación; O3 y O7 imponen proporcionalidad y protección de datos personales. O6 permite considerar la distribución del esfuerzo hacia comprender, sin prometer una reducción empírica. No impone una fuente documental como requisito de formular intenciones.
+
+**Fronteras:** no fija modelos de IA, prompts, algoritmos, formatos obligatorios ni confiabilidad demostrada; interpretación asistida no equivale a fuente, intención, realización, permiso de reutilización o autorización. El mecanismo técnico detallado continúa diferido por la decisión T02 hasta después de la publicación de PResolver.
+
+## Conceptos originados o ampliados — propuesta
+
+| Concepto | Tipo | Aporte F09 |
+| --- | --- | --- |
+| [Fuente educativa](../concepts/educational-source.md) | Nuevo concepto propuesto, ya implícito en T02/T03 | Material identificable previo, distinto de interpretación e intención; no presupone permiso ni veracidad |
+| [Interpretación asistida de fuentes](../concepts/assisted-source-interpretation.md) | Nuevo concepto propuesto, ya expresado en T02 | Vía tecnológica opcional de elaboración de propuestas revisables |
+
+**Conceptos existentes:** [Intención pedagógica](../concepts/pedagogical-intention.md) y [Autoría pedagógica](../concepts/pedagogical-authorship.md) se relacionan mediante fronteras ya reconocidas; **no se propone modificar sus definiciones acumulativas** solo por reiterarlas.
+
+## Trazabilidad O→F09 — propuesta
+
+| Orientación | Relación propuesta | Motivo |
+| --- | --- | --- |
+| [O0 — Principal](../orientation/README.md) | Complemento | Sitúa las propuestas de lectura frente a necesidades educativas, sin originar la asistencia tecnológica |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | Condición | Diferencia significados del material y elaboraciones posteriores |
+| [O2 — Tecnología](../orientation/technology-enabled-semantic-continuity.md) | **Origen** | Hace pertinente una vía asistida opcional |
+| [O3 — Carga humana](../orientation/human-effort-and-agency.md) | Condición | Exige asistencia proporcional, sin carga adicional injustificada |
+| [O4 — Autorización](../orientation/human-pedagogical-authorization.md) | Condición | Los resultados son propuestas, no decisiones aprobadas |
+| [O5 — Reconocimiento](../orientation/transparent-contribution-recognition.md) | Condición | No atribuye inferencias a la fuente ni borra contribuciones |
+| [O6 — Inversión del esfuerzo](../orientation/effort-inversion.md) | Complemento | Puede priorizar la comprensión humana frente al trabajo repetitivo, sin garantía de ahorro |
+| [O7 — Privacidad](../orientation/privacy-by-design-and-data-minimization.md) | Condición | No habilita exposición de datos personales por usar asistencia |
+| [O8 — Identidad externa](../orientation/external-personal-identity-recognition.md) | Sin incidencia | Interpretar materiales no requiere certificar identidad personal |
+| [O9 — Acceso contextual](../orientation/contextual-access-and-educational-reach.md) | Incidencia marginal | La interpretación puede alimentar recursos para acceso indirecto, sin asegurar accesibilidad |
+| [O10 — Continuidad pública](../orientation/public-resource-continuity.md) | Sin incidencia | La supervivencia independiente de recursos publicados pertenece a otra responsabilidad |
+
+## Tensiones y puntos de decisión
+
+Relevantes para examinar sin presumir resolución: **O1/O3** (legibilidad frente a carga), **O3/O6** (proporcionalidad del esfuerzo), y **O5/O7** cuando atribución de fuentes o participantes pudiera exponer información personal. Conservar además el límite F08: la atribución de origen humano/tecnológico descansa en declaración responsable, **no** en auditoría automática; esto es distinto de evaluar si una afirmación está respaldada por la fuente.
+
+---
+
+## Antecedente documental T02 preservado
+
 # Interpretación asistida de fuentes educativas — propuesta T02
 
 **Estado del tópico T02:** cerrado por aprobación expresa del fundador (2026-10-16). **Estado del mecanismo:** delimitación conceptual aceptada, no especificación técnica universal ni implementación validada.
