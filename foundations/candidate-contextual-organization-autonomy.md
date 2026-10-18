@@ -1,6 +1,6 @@
 # Candidatura A — Autonomía de organización contextual
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O0–O10 son **hipótesis iniciales** para revisar una por una.
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O1–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen** por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -22,7 +22,7 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 
 | Orientación | Clasificación candidata | Razón y cuestión por revisar |
 | --- | --- | --- |
-| [O0](../orientation/README.md) | **Origen** | Distintos contextos educativos necesitan poder organizar las funciones que hacen posible enseñar y aprender. |
+| [O0](../orientation/README.md) | **Origen — reconciliado 2026-10-18** | Distintos contextos educativos necesitan poder organizar las funciones que hacen posible enseñar y aprender. |
 | [O1](../orientation/semantic-continuity.md) | **Condición** | Mantener reconstruible el sentido y alcance de decisiones al variar organización y responsables. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | La tecnología puede apoyar configuraciones, sin determinar ni validar autoridad. |
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La libertad de configuración no debe imponer sobrecarga desproporcionada. |
