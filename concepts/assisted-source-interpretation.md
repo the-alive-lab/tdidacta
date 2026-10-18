@@ -1,14 +1,16 @@
 # Interpretación asistida de fuentes educativas
 
-**Estado:** definición y capa F09 propuestas, pendientes de reconciliación.
+**Estado:** registro conceptual de modalidad asistida; la candidatura F09 fue **no admitida como fundamento** (2026-10-18). No constituye una capa canónica F09.
 
-## Definición canónica acumulativa hasta F09 (propuesta)
+## Descripción de la modalidad, sin fundamento autónomo
 
 Actividad **opcional y supervisable** mediante la cual una tecnología ayuda a formular lecturas, relaciones, preguntas u organizaciones pedagógicas a partir de materiales educativos identificados. Sus resultados son **propuestas revisables**, no contenido directamente autorizado ni una intención pedagógica derivada automáticamente. La interpretación humana desde cero sigue siendo una vía autónoma.
 
-## Capa F09 — Interpretación asistida de fuentes (propuesta)
+## Trazabilidad histórica de la candidatura no adoptada
 
-**Aporte:** identifica la vía de asistencia y sus límites de procedencia, responsabilidad y utilidad.
+**Nota:** las siguientes relaciones son históricas y **no están reconciliadas como capa F09**. F03 reconoce vía directa y asistida sin especificar herramientas. La candidatura archivada en [denied](../foundations/denied/assisted-source-interpretation.md) permite reconstruir la decisión.
+
+**Aporte propuesto:** identifica la vía de asistencia y sus límites de procedencia, responsabilidad y utilidad.
 
 | Orientación incidente | Relación propuesta | Efecto mediante F09 |
 | --- | --- | --- |
