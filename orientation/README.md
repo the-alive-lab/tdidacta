@@ -25,7 +25,7 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 - [O4 — Autorización humana](human-pedagogical-authorization.md): conocimiento pedagógico autorizado mediante juicio de una persona responsable, distinto de producción y publicación.
 - [O5 — Reconocimiento transparente y trazable de aportes](transparent-contribution-recognition.md): reconocer origen y contribuciones relevantes sin confundir atribución con autoridad.
 - [O1 — Continuidad semántica](semantic-continuity.md): preservar, reconstruir y desarrollar significado, razones, restricciones y relaciones a través de transformaciones y realizaciones.
-- [O3 — Reducción de carga humana y ampliación de capacidad de acción](human-effort-and-agency.md): dos beneficios distintos, alcanzables separadamente; orientación propuesta a partir de T03/T05.
+- [O3 — Reducción de carga humana y ampliación de capacidad de acción](human-effort-and-agency.md): dos beneficios distintos, alcanzables separadamente; orientación originada en T03/T05 e incorporada al conjunto vigente de TDidacta.
 - [O2 — Aprovechamiento de tecnologías](technology-enabled-semantic-continuity.md): adaptar deliberadamente el trabajo a capacidades tecnológicas útiles, especialmente las habilitadas por LLM, sin convertir una tecnología en requisito universal.
 - [O6 — Inversión del esfuerzo](effort-inversion.md): concentrar el esfuerzo humano en comprender, formular y documentar suficientemente, en vez de producir realizaciones repetitivas.
 - [O7 — Privacidad por diseño y minimización de datos](privacy-by-design-and-data-minimization.md): minimizar datos personales por capacidad y consultar material público sin cuenta salvo restricción justificada.
@@ -37,7 +37,7 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 ## Continuidad
 
-[Foundations](../foundations/README.md) desarrolla las distinciones conceptuales sin convertir sus candidatos en orientaciones ya adoptadas. [Bootstrap](../bootstrap/README.md) conserva el origen histórico.
+[Foundations](../foundations/README.md) desarrolla las respuestas fundacionales reconciliadas sin repetir la definición de estas orientaciones. [Bootstrap](../bootstrap/README.md) conserva el origen histórico.
 
 ## Integridad de trazabilidad con Foundations
 
