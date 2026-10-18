@@ -6,7 +6,7 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 
 ## Ramificación conceptual de TDidacta
 
-La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone ahora de un registro de cobertura candidato** y **Responsibilities y Roles** siguen por delimitar. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
+La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone ahora de cinco fichas de cobertura documentadas (E01–E05)** y **Responsibilities y Roles** siguen por delimitar. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
 
 | Superficie | Pregunta que responde | Límite de su definición |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Los [escenarios de cobertura documentados](scenarios/README.md) incluyen enseña
 | [Orientación para agentes](AGENTS.md) | Cómo colaborar sin confundir fuentes, estados ni autoridad documental |
 | [Índice para LLM](llms.txt) | Descubrimiento rápido de las fuentes canónicas y especializadas |
 | [Orientación](orientation/README.md) | Propósito, problema abordado, alcance e idioma |
-| [Escenarios de cobertura](scenarios/README.md) | Cuatro contextos base y un escenario transversal candidato de metas externas, con necesidades y contrastes fundacionales; no es un plan de releases |
+| [Escenarios de cobertura](scenarios/README.md) | Cinco fichas de cobertura (E01–E05), incluida una transversal candidata; actores locales, necesidades y preguntas pendientes; no es un plan de releases |
 | [Foundations](foundations/README.md) | Conceptos reconocidos y definiciones candidatas |
 | [Mechanisms](mechanisms/README.md) | Espacios delimitados y operaciones candidatas de exploración/realización |
 | [Relationships](relationships/README.md) | Relaciones candidatas entre necesidades, intenciones, espacios y operaciones |
