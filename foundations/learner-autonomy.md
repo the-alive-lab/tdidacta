@@ -1,6 +1,6 @@
 # F09 — Autonomía del aprendiz
 
-**Estado:** fundamento creado por decisión expresa del fundador (2026-10-18). La formulación, la clasificación O0–O10 y las capas conceptuales quedan registradas para revisión de detalle; su implementación y eficacia no están validadas.
+**Estado:** fundamento creado por decisión expresa del fundador (2026-10-18). Formulación, clasificación O0–O10 y aportes conceptuales F09 reconciliados por aprobación expresa del fundador (2026-10-18). Implementación y eficacia no validadas.
 
 ## 1. Origen y responsabilidad
 
@@ -40,7 +40,7 @@ Puede existir tensión entre orientación y libertad de recorrido, y entre apoyo
 
 **O5 — Sin incidencia:** reconocer o trazar feedback y contribuciones es una responsabilidad distinta, ya situada en F08; no se hace condición constitutiva de F09.
 
-## 6. Trazabilidad O→F09 (propuesta explícita para revisión)
+## 6. Trazabilidad O→F09 (reconciliada)
 
 | Orientación | Clasificación | Justificación |
 | --- | --- | --- |
@@ -60,4 +60,4 @@ Puede existir tensión entre orientación y libertad de recorrido, y entre apoyo
 
 No establece trayectorias obligatorias, currículo, evaluación automática de falencias, rutas personalizadas de implementación, garantía de aprendizaje ni derecho a modificar recursos o intenciones de terceros. Relationships y Lifecycle pueden conectar usos y experiencias sin convertir F09 en un flujo.
 
-**Decisión fundacional:** creada por solicitud expresa del fundador. **Pendiente:** revisión detallada de clasificaciones propuestas y de capas conceptuales, sin presentarlas como aprobadas por silencio.
+**Decisión fundacional:** creada por solicitud expresa del fundador. **Cierre:** el fundador aprobó expresamente F09, las clasificaciones y sus capas conceptuales (2026-10-18). No equivale a validar mecanismos ni resultados.
