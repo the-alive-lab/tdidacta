@@ -85,6 +85,17 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 **Estado:** numeración F08, clasificaciones O0–O10 y ambos conceptos reconciliados por el fundador (2026-10-18). Se mantiene la autoría amplia para personas y sistemas, atribuida según declaración del responsable sin auditoría automática.
 
+## F09 — Autonomía del aprendiz (creado 2026-10-18)
+
+| Concepto | Contribución |
+| --- | --- |
+| [Autonomía del aprendiz](learner-autonomy.md) | Concepto nuevo: uso de capacidades pedagógicas para orientar la propia experiencia |
+| [Aprendizaje](learning.md) | Capa F09: continuación activa más allá del recorrido propuesto |
+| [Experiencia de enseñanza y aprendizaje](teaching-learning-experience.md) | Capa F09: la experiencia diseñada no agota las oportunidades del aprendiz |
+| [Exploración pedagógica](pedagogical-exploration.md) | Capa F09: exploración es capacidad general; diseño y autonomía son usos |
+
+**Estado:** creación del fundamento y del concepto autorizada por el fundador. Clasificaciones O0–O10 y relaciones O→C incorporadas como propuestas para examen, **O5 sin incidencia en F09**; capas históricas aprobadas intactas.
+
 ## Continuidad F03 — documentos de referencia y modalidad asistida
 
 | Concepto | Aporte |
