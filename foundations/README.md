@@ -16,7 +16,7 @@
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
 | [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Lectura asistida de fuentes con responsabilidad humana y separación de inferencias | Candidato |
-| [Autoría pedagógica](pedagogical-authorship.md) | Propuesta F08: reconocimiento de aportes diferenciado de autorización, identidad y derechos | Propuesta F08 pendiente de reconciliación |
+| [Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
 | [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
 
