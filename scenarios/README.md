@@ -22,6 +22,14 @@ Las fichas siguientes desarrollan **contexto, actores locales, circunstancias, n
 
 Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 permanecen en el índice como candidatos por resolver.**
 
+## Resoluciones posteriores de las fichas E01/E02/E04 (2026-10-18)
+
+Este índice conserva el inventario inicial para trazabilidad; **las fichas enlazadas prevalecen** donde las preguntas de cobertura hayan sido precisadas.
+
+- **[E01](e01-ensenanza-particular.md):** el ajuste situado puede producir una **nueva versión autorizable**, sin mutar la intención ni la versión autorizada previa. La simplificación de esa experiencia es necesidad de cobertura con posible brecha fundacional, **sin adoptar F11 ni modificar F10**. Los permisos de acceso a recursos constituyen brecha explícita pendiente de fundamentación; «separación de procesos» deja de ser requisito independiente sin justificación.
+- **[E02](e02-aprendizaje-autodidacta.md):** se reconoce como **necesidad de cobertura** la comunicación comunitaria y la posibilidad de prestar esta capacidad dentro o fuera de TDidacta. La gobernanza de [PostgreSQL](https://www.postgresql.org/about/governance/) es referente para discusión futura, no especificación adoptada. La comprobación de aprendizaje queda diferida.
+- **[E04](e04-educacion-en-el-hogar.md):** la delimitación legal para menores y el trabajo de acreditación/progreso quedan pendientes de investigación y diseño por jurisdicción; no se garantiza cumplimiento multinacional.
+
 ## [E01 — Enseñanza particular y aprendizaje acompañado](e01-ensenanza-particular.md)
 
 **Condiciones:** autonomía relativamente alta de quien enseña, relación pedagógica individual o de grupo pequeño y conocimiento progresivo de las necesidades; el aprendiz puede estudiar también en otros procesos educativos. La autonomía es relativa: no presume autoridad ilimitada, permiso para procesar información sensible o dominio absoluto sobre los materiales de otros.
