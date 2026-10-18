@@ -22,6 +22,8 @@ Una tensión explicita un problema de **satisfacer simultáneamente dos o más o
 
 - [Tensión O4/O3 — autorización humana frente a carga y capacidad](human-authorization-review-burden.md): la aprobación humana introduce una decisión adicional; **candidata** y transversal a fundamentos donde O4 actúe como condición y O3 incida materialmente. Identificada durante F06; eficacia de respuestas pendiente.
 
+- [Tensión O5/O7 — reconocimiento de aportes y minimización de datos personales](contribution-recognition-personal-data-minimization.md): **relevante para F08** por decisión del fundador; preservar atribución sin exigir exposición pública de identidad ni auditoría de procedencia. La respuesta operativa y eficacia continúan abiertas.
+
 ## Tensiones compuestas e interacciones candidatas
 
 - [O1/O3/O6 — continuidad, carga e inversión del esfuerzo](semantic-continuity-capacity-effort-inversion.md): interacción entre preservar significado, carga proporcional y dónde se invierte trabajo humano. **Candidata** en F03–F06; no elimina O1/O3 ni O3/O6.
