@@ -51,7 +51,7 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 **Aporte de F06:** reconoce que cambios externos relevantes pueden alterar una necesidad previamente comprendida; esta variación puede exigir reconsiderar si la intención vinculada aún constituye una respuesta adecuada.
 
-| Orientación incidente | Clasificación propuesta | Incidencia a través de F06 |
+| Orientación incidente | Clasificación reconciliada | Incidencia a través de F06 |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Condición** | La revisión contrasta la respuesta con la necesidad pedagógica actual. |
 | [O1](../orientation/semantic-continuity.md) | **Origen** | Permite reconocer qué cambió en la necesidad y qué significado conserva la respuesta. |
