@@ -30,6 +30,20 @@ Comprobar si los siete candidatos del inventario tienen una responsabilidad/defi
 - La evaluación del beneficio O3/F10 respecto de capacidad de acción y esfuerzo humano neto permanece **pendiente** como condición investigativa documental del cierre global, según [bootstrap conceptual](../bootstrap/foundations-concepts-review.md). La presente auditoría no la satisface ni pretende hacerlo.
 - Hay etiquetas históricas de «candidato», «pendiente» y enlaces editoriales que pueden no expresar el estado más reciente. Se identifican como deuda de sincronización para la reconstrucción T01–T28; no alteran la decisión de F10 reconciliado.
 
+## Revisión posterior de correspondencias históricas (2026-10-18)
+
+El fundador precisó la evolución de tres nombres históricos. Esta revisión **complementa la auditoría original sin reescribir su diagnóstico retrospectivo**:
+
+| Nombre histórico | Continuidad observada en el canon vigente | Alcance de la revisión |
+| --- | --- | --- |
+| Fuente pedagógica | [Documento de referencia pedagógica](../concepts/educational-source.md) (F03). | Correspondencia directa de función documental: el concepto actual está deliberadamente delimitado a documentos preexistentes. No afirmar identidad semántica con toda fuente pedagógica posible. |
+| Continuidad pedagógica | [Experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md) (experiencias que se retoman, reinterpretan y conectan) y [Contextualización pedagógica humana](../concepts/human-pedagogical-contextualization.md) (significados y decisiones reconstruibles), bajo [O1](../orientation/semantic-continuity.md). | Reformulación distribuida; no es evidencia de que T08/T10/T11 estén cerrados ni requiere concepto autónomo por defecto. |
+| Responsabilidad pedagógica | [Enseñanza](../concepts/teaching.md) y [Aprendizaje](../concepts/learning.md) como perspectivas activas con responsabilidades no idénticas, integradas en [Experiencia](../concepts/teaching-learning-experience.md) y F01. | La distinción entre actividad y responsabilidad puede merecer precisión semántica; **no se aprueban nombres nuevos ni dos conceptos independientes por esta revisión**. |
+
+**Idea a examinar, no adoptada:** separar *teaching-responsibility* y *learning-responsibility* como conceptos autónomos, o explicitarlos como dimensiones de Enseñanza y Aprendizaje. Verificar primero si añaden compromisos semánticos no recogidos en F01 y sus conceptos, y si no fragmentan innecesariamente el vocabulario. No renombrar ni cambiar capas reconciliadas sin decisión expresa del fundador.
+
+**Resultado refinado:** los siete candidatos históricos tienen correspondencias identificadas en el canon vigente; tres de ellas operan mediante reformulación o distribución. No se identifica motivo para crear F11. La correspondencia no implica equivalencia literal ni clausura de los tópicos V6 pendientes. La auditoría Foundations→Mechanisms y la condición de Research O3/F10 siguen pospuestas/pendientes según lo acordado.
+
 ## Conclusión y continuidad
 
 No se detecta una candidatura histórica que obligue a crear F11. **Auditoría de cobertura conceptual concluida** con una reserva parcial (responsabilidad compartida) y dos fronteras semánticas abiertas (fuente y continuidad). Esas reservas deben contrastarse con la V6 y el inventario T01–T28 al reconstruir los resultados originales, no resolverse mediante proliferación de fundamentos.
