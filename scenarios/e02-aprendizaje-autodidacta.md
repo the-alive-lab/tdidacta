@@ -31,7 +31,7 @@ Las personas contribuyen a un esfuerzo compartido, comparable en estructura part
 3. Permitir exploración, práctica, reflexión y contraste de resultados para que la persona valore qué le ayuda a comprender, sin prometer diagnosticar «estilos de aprendizaje» fijos.
 4. Conservar autonomía para consultar recursos, cambiar de enfoque o retomar experiencias.
 5. En modalidad colaborativa, reconocer autorías y aportes materiales, feedback y continuidad compartida, sin atribuir automáticamente coautoría ni autoridad a toda intervención.
-6. Poder coordinar esfuerzos comunitarios sin imponer jerarquía docente y sin excluir reglas de contribución.
+6. **Disponer de una capacidad de comunicación y deliberación** para plantear problemas, hacer preguntas, debatir, recibir feedback y coordinar contribuciones comunitarias, sin imponer jerarquía docente. Esta capacidad debe poder ser provista por TDidacta o **delegarse/integrarse con servicios externos**, sin obligar a utilizar exclusivamente su infraestructura.
 
 ## Contraste con fundamentos y orientaciones
 
@@ -43,7 +43,7 @@ Las personas contribuyen a un esfuerzo compartido, comparable en estructura part
 
 ## Límites y cuestiones abiertas
 
-- ¿Cómo resolver desacuerdos, autorizar versiones o dar continuidad a recursos colaborativos **sin presumir una autoridad pedagógica central**? Pendiente de contraste de autoridad/coordination con E03 y futuras Responsibilities/ Roles.
-- ¿Qué evidencia permite a una persona evaluar estrategias propias sin confundir la sensación de progreso con aprendizaje demostrado?
-- «Comunidad» no implica titularidad ni licencia obligatoria; una contribución no concede autorización de versiones por sí misma.
-- No se adoptan foros, repositorios, algoritmos, moderación, interfaces ni herramientas concretas.
+- **Referencia de diseño comunitario:** estudiar la gobernanza de [PostgreSQL](https://www.postgresql.org/about/governance/) como antecedente de colaboración abierta con equipos, *committers* y mecanismos explícitos para tratar desacuerdos. **No copiar automáticamente** órganos, licencias ni poderes a TDidacta. La selección de mecanismos de decisión y autoridad pedagógica sigue pendiente de contraste con E03 y futuras Responsibilities/Roles.
+- ¿Qué evidencia permite a una persona evaluar estrategias propias sin confundir la sensación de progreso con aprendizaje demostrado? **Respuesta aplazada**: tratarla con los demás tópicos de investigación/cobertura, sin bloquear formalización de E02.
+- La referencia a PostgreSQL significa que el esfuerzo compartido **no exige dueño único del proyecto**; sin embargo, no equivale a ausencia de licencias, permisos, mantenimiento o atribuciones legales. Contribuir no concede automáticamente autoridad para aprobar versiones; eso exige acuerdos explícitos según contexto.
+- **Sí se reconoce como cobertura necesaria la comunicación comunitaria**, incluidas consultas, discusión y coordinación de aportes. Su prestación podrá ser propia o externalizada. No se adopta todavía un foro concreto, un repositorio obligatorio, una interfaz, algoritmo o tecnología; moderación y resolución de conflictos deberán tratarse en diseño y responsabilidades, no darse por inexistentes.
