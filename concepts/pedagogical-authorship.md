@@ -4,11 +4,11 @@
 
 ## Definición canónica acumulativa hasta F08
 
-Participación reconocible de personas o sistemas en la formulación, selección, contextualización, creación, transformación o interpretación de elementos y experiencias educativas. La autoría puede abarcar varios participantes y tipos de aporte, sin convertir automáticamente cada intervención en coautoría. **Autoría no equivale a autoridad para autorizar**, titularidad de derechos, identidad verificada, licencia ni publicación. Reconocer contribuciones significativas debe ser proporcional y preservar incertidumbres de atribución. **La autoría puede atribuirse tanto a personas como a sistemas, incluidos LLM y otras tecnologías**, a partir de la declaración de la persona responsable; no se exige auditar o detectar automáticamente su origen. La declaración no equivale a verificación independiente.
+Participación reconocible de personas o sistemas en la formulación, selección, contextualización, creación, transformación o interpretación de elementos y experiencias educativas. La autoría puede abarcar varios participantes y tipos de aporte, sin convertir automáticamente cada intervención en coautoría. **Autoría no equivale a autoridad para autorizar**, titularidad de derechos, identidad verificada, licencia ni publicación. Reconocer contribuciones significativas debe ser proporcional y preservar incertidumbres de atribución. **La autoría puede atribuirse tanto a personas como a sistemas, incluidos LLM y otras tecnologías**, a partir de la declaración de la persona responsable; no se exige auditar o detectar automáticamente su origen. La declaración puede establecerse directamente o prepararse mediante asistencia de herramientas, siempre bajo revisión y confirmación de la persona responsable; no equivale a verificación independiente.
 
 ## Capa F08 — Autoría pedagógica
 
-**Aporte:** admite autoría humana y tecnológica conforme a declaración responsable basada en confianza, sin auditoría obligatoria; distingue los aportes y su reconocimiento de las decisiones de autorización de F07 y de las evidencias, permisos y mecanismos de atribución.
+**Aporte:** admite autoría humana y tecnológica conforme a declaración responsable basada en confianza, formulada de manera directa o con una propuesta asistida revisada y confirmada, sin auditoría obligatoria; distingue los aportes y su reconocimiento de las decisiones de autorización de F07 y de las evidencias, permisos y mecanismos de atribución.
 
 | Orientación incidente | Relación reconciliada | Incidencia |
 | --- | --- | --- |
