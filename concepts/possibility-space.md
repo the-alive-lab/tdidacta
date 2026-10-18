@@ -2,7 +2,7 @@
 
 **Estado:** aporte F05 reconciliado por el fundador (2026-10-17); se preservan los estados previos de F02 y F04 cuando corresponda.
 
-## Definición canónica hasta F02
+## Definición canónica acumulativa hasta F05
 
 La **intención pedagógica**, como consecuencia de sus decisiones y restricciones, **delimita un espacio de posibilidades** sobre el que personas o realizadores —incluidos LLM— pueden explorar o realizar.
 
@@ -10,9 +10,7 @@ La **intención pedagógica**, como consecuencia de sus decisiones y restriccion
 
 Las materias, el tiempo y las personas pueden informar la intención, **sin convertirse en tres ejes obligatorios** del espacio.
 
-## Ampliación acumulativa hasta F05
-
-F05 añade que las posibilidades delimitadas pueden examinarse mediante exploraciones específicas y materializarse parcialmente mediante realizaciones a partir de IR compatibles, sin alterar automáticamente la intención original.
+Las posibilidades delimitadas pueden examinarse mediante exploraciones específicas y materializarse parcialmente mediante realizaciones a partir de representaciones intermedias semánticamente compatibles, sin alterar automáticamente la intención original.
 
 ## Capa F02 — Necesidades e intenciones pedagógicas
 
@@ -56,4 +54,4 @@ Las orientaciones sin incidencia en **este concepto bajo F02** se omiten de la c
 
 El [mecanismo candidato de espacios de posibilidades](../mechanisms/possibility-spaces.md) desarrolla una definición más operativa; **no debe confundirse con una implementación ni considerarse validado**. F02 no establece un formato técnico, una jerarquía obligatoria, una única trayectoria, ni que explorar o realizar garantice aprendizaje.
 
-**Criterio de mantenimiento:** preservar definición canónica de F02 hasta que cambie por decisión explícita; identificar diferencias entre el concepto, su fundamento y los mecanismos. Cada nueva contribución se agrega en la capa del fundamento correspondiente; no equiparar una clasificación O→C con aprobación O→F.
+**Criterio de mantenimiento:** preservar la definición acumulativa vigente hasta que cambie por decisión explícita; identificar diferencias entre el concepto, su fundamento y los mecanismos. Cada nueva contribución se agrega en la capa del fundamento correspondiente; no equiparar una clasificación O→C con aprobación O→F.
