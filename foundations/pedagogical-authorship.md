@@ -30,6 +30,10 @@ Las vías son alternativas y combinables, no grados de fiabilidad o requisitos s
 
 Esto se refiere al **establecimiento de atribución**, no a acreditar la verdad de cada afirmación, revisar su calidad (F06), autorizar una versión (F07) ni decidir su publicación.
 
+## Modalidades — contraste conceptual y operacional
+
+Las vías directa y asistida ya definidas para preparar la declaración responsable constituyen las modalidades de F08. La asistencia no equivale a auditar ni verificar independientemente la procedencia; su factibilidad técnica sigue por comprobar.
+
 ## 3. Conceptos derivados de F08
 
 | Concepto | Aporte F08 | Entrada |
