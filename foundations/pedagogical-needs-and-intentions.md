@@ -10,6 +10,11 @@ Su responsabilidad es establecer la **relación conceptual mediante la cual TDid
 
 Esta relación preserva la diferencia entre **problema, respuesta y posibilidades delimitadas**. No convierte la intención y el espacio en el mismo concepto, ni supone que formular una respuesta asegure su eficacia.
 
+
+## Modalidades de cumplimiento — revisión transversal 2026-10-18
+
+**Vías de formulación:** **Directa:** la persona reconoce una necesidad y formula deliberadamente la intención y las posibilidades pertinentes. **Asistida:** herramientas pueden proponer formulaciones, relaciones o alternativas que la persona comprende, ajusta o descarta. La necesidad no se deduce automáticamente de una sugerencia y la intención resultante no queda autorizada por haber sido formulada; no se presupone factibilidad técnica.
+
 ## 2. Responsabilidad y relaciones del fundamento
 
 - **Respuesta deliberada:** una necesidad puede motivar una intención pedagógica; la respuesta se justifica respecto de la necesidad y no se identifica con ella.
