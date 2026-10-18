@@ -15,10 +15,12 @@
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
 | [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
-| [Interpretación asistida de fuentes](assisted-source-interpretation.md) | Propuesta F09: asistencia tecnológica opcional, con fuente e interpretación distinguibles | Propuesta F09 pendiente de reconciliación; T02 previamente cerrado |
+| [Candidatura no admitida: Interpretación asistida de fuentes](denied/assisted-source-interpretation.md) | Modalidad de F03, no fundamento independiente; se conserva la justificación histórica | Denied (2026-10-18); sin numeración |
 | [Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
 | [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
+
+Las candidaturas no promovidas se conservan en [denied](denied/README.md) para trazabilidad, sin numeración ni estatus de Foundation.
 
 Los mecanismos candidatos se consultan en [Mechanisms](../mechanisms/README.md) y la coordinación del ciclo en [Lifecycle](../lifecycle/README.md).
 
