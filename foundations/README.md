@@ -21,6 +21,15 @@ Las diez responsabilidades fundacionales han sido reconciliadas conceptualmente 
 
 **Estado:** F01–F10 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
 
+## Candidaturas en deliberación (sin número F)
+
+Estas fichas son **esbozos para revisión O0–O10**, no fundamentos adoptados. No alteran el estado reconciliado de F01–F10:
+
+- [Autonomía de organización contextual](candidate-contextual-organization-autonomy.md): permitir distribuir funciones y autoridad pertinente por contexto, sin jerarquía universal.
+- [Configuraciones iniciales opinionadas](candidate-opinionated-starting-configurations.md): comenzar con mínima configuración en los casos habituales, adaptar los de borde y conservar configuración desde cero para casos límite.
+
+**Siguiente paso:** reconciliar primero las relaciones O0–O10 de cada candidatura con el fundador, antes de decidir promoción, números y Concepts.
+
 ## Registros y criterios complementarios
 
 - [Inventario histórico de conceptos candidatos](concept-candidates.md): antecedente de cobertura, no listado de Foundations pendientes.
