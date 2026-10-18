@@ -41,7 +41,7 @@ flowchart TD
 
 **Los escenarios también contrastan los fundamentos.** Si una situación que debemos cubrir revela una omisión, tensión o insuficiencia de algún fundamento, se documenta el hallazgo y se propone una revisión explícita: **no se crea ni modifica automáticamente un fundamento**. De esta forma, los escenarios comprueban cobertura además de contextualizar roles.
 
-**Dos sentidos distintos de «escenario»:** la superficie candidata *Escenarios* describe casos de cobertura de TDidacta; el concepto vigente [Escenario pedagógico](concepts/application-circumstances.md) describe circunstancias para aplicar una intención pedagógica (tipos base y especializado, reconciliados en F10). Pueden vincularse, pero no son sinónimos.
+**Dos sentidos distintos de «escenario»:** la superficie candidata *Escenarios* describe **circunstancias o contextos donde se encuentra quien asume una responsabilidad**, y permite verificar qué debe cubrir TDidacta, qué roles aparecen y si los fundamentos son suficientes. En cambio, el concepto vigente [Escenario pedagógico](concepts/application-circumstances.md) describe las circunstancias para **aplicar una intención pedagógica** (tipos base y especializado, reconciliados en F10). Un contexto de ejercicio de responsabilidad no es necesariamente un escenario de aplicación de una intención: pueden relacionarse, pero no son el mismo concepto.
 
 **Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
 
