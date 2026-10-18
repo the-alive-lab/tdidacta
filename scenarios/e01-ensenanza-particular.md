@@ -25,16 +25,16 @@ Una misma persona puede intervenir en varios procesos; «docente» y «aprendiz�
 ## Necesidades de cobertura
 
 1. Reconocer circunstancias individuales y revisar ayudas y adaptaciones sin cambiar silenciosamente una intención autorizada.
-2. Permitir que una misma intención admita distintas circunstancias de aplicación, incluida especialización impulsada por quien enseña donde corresponda, sin asumir automáticamente que toda variación sigue siendo la misma intención.
+2. Permitir especializaciones de circunstancias preparadas por quien enseña como **nuevas versiones autorizables** para el uso particular. Debe facilitarse un recorrido de revisión y autorización proporcional, sin modificar retrospectivamente la versión anterior ni asumir que toda especialización obliga a cambiar la intención pedagógica de origen.
 3. Distinguir acceso a recursos de autoridad pedagógica para autorizar intenciones; identificar restricciones de consulta por destinatario, sin fijar un modelo técnico de permisos.
-4. Hacer comprensible la separación entre procesos educativos simultáneos del aprendiz, sin imponer identidades o cuentas separadas.
+4. Reconocer cuando el aprendiz participa simultáneamente en otros procesos educativos. **No se adopta como requisito independiente la separación técnica de procesos**: su significado y necesidad en E01 permanecen por justificar.
 5. Admitir consulta y aprendizaje asincrónicos con autonomía, dentro de las condiciones materiales de acceso.
 6. Evitar tratamiento o divulgación innecesarios de datos personales.
 
 ## Contraste con fundamentos y orientaciones
 
 - [F03](../foundations/human-pedagogical-contextualization.md): contextualización situada.
-- [F10](../foundations/pedagogical-adaptation.md): especialización de escenarios pedagógicos; la modalidad impulsada por docente exige verificar frontera con el concepto reconciliado.
+- [F10](../foundations/pedagogical-adaptation.md): contexto y especialización de escenarios pedagógicos; no define por sí mismo el régimen de versiones autorizables que necesita la experiencia E01.
 - [F09](../foundations/learner-autonomy.md): continuación autónoma del aprendiz.
 - [F07](../foundations/pedagogical-authorization.md): autorización de intenciones/versiones, distinta de permisos de lectura.
 - [F08](../foundations/pedagogical-authorship.md): contribuciones y autoría distintas de autorización y publicación.
@@ -42,7 +42,8 @@ Una misma persona puede intervenir en varios procesos; «docente» y «aprendiz�
 
 ## Límites y cuestiones abiertas
 
-- ¿Cuándo el ajuste efectuado por el docente sigue siendo especialización de circunstancias y cuándo exige nueva versión autorizable? **No redefinir F10 desde esta ficha.**
-- ¿Qué compromiso fundacional cubre explícitamente permisos de acceso y separación de procesos? **Suficiencia por verificar.**
-- No se prescriben permisos por lección, mensajería, sincronización, cuentas, IA ni calendario de entrega.
+- **Decisión de cobertura E01:** la especialización preparada para un alumno puede generar una nueva **versión autorizable** del elemento especializado. El escenario necesita una experiencia de autorización suficientemente sencilla, con trazabilidad de las versiones; esto **no significa** reautorizar ni mutar versiones previas. **Brecha fundacional candidata:** justificar el cumplimiento de esta experiencia específica de E01 sin reescribir F10 ni declarar F11 adoptado. Queda por precisar qué elemento se versiona y cómo se relaciona con la intención original.
+- **Permisos de acceso:** no se identificó en F01–F10 una responsabilidad explícita de delimitar quién puede consultar qué lecciones o recursos. **Brecha de cobertura confirmada para examinar**, distinta de la autorización pedagógica F07 y de privacidad O7; no se adopta todavía un fundamento ni un mecanismo de permisos.
+- **Separación de procesos:** la hipótesis anterior no está suficientemente justificada para E01. Se conserva como observación de simultaneidad educativa, **no como requisito autónomo** sin caso verificable.
+- Se reconoce la **necesidad de acceso diferenciado** sin prescribir permisos por lección como mecanismo, mensajería, sincronización, cuentas, IA ni calendario de entrega.
 - La descripción de actores no concede facultades normativas.
