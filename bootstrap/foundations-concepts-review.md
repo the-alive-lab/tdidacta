@@ -59,6 +59,8 @@ Presentar **conceptos nuevos y conceptos actualizados en apartados distintos**. 
 | **F07 — Autorización** | [F07](../foundations/pedagogical-authorization.md) | **O0–O10 y conceptos/capas F07 reconciliados**, incluidas O8 y O9 por precisión expresa del fundador. | Completado |
 | **F08 — Autoría pedagógica** | [F08](../foundations/pedagogical-authorship.md) | **O0–O10, autoría y contribución reconciliados** (2026-10-18). Autoría humana y tecnológica mediante declaración del responsable, sin auditoría; tensión O5/O7 registrada. | Completado |
 
+**Siguiente propuesta preparada:** [F09 — Interpretación asistida de fuentes](../foundations/assisted-source-interpretation.md), con [Fuente educativa](../concepts/educational-source.md) e [Interpretación asistida](../concepts/assisted-source-interpretation.md), **sin aprobación todavía**. El antecedente T02 permanece diferenciado de su formulación F09.
+
 **Balance:** F01–F08 están reconciliados en O0–O10 y las capas conceptuales abordadas. F08 fue aprobado el 2026-10-18; no se infiere con ello la eficacia de mecanismos de atribución.
 
 ## Condición de salida de cada revisión
