@@ -1,4 +1,4 @@
-# Reducción de carga humana y ampliación de capacidad de acción — orientación
+# O3 — Reducción de carga humana y ampliación de capacidad de acción
 
 **Estado:** orientación conceptual expresamente propuesta por el fundador durante T05 (2026-10-16), retomando T03; adopción general en PResolver pendiente.
 
