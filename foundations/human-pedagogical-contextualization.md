@@ -29,6 +29,10 @@ Cuando se utiliza un archivo de referencia, existen dos vías:
 
 En ambos casos, **el archivo original queda como referencia**, distinguible de la documentación resultante. Traducir no exige reproducir literalmente todo el material, adoptar sin revisión sus decisiones ni atribuir a la fuente inferencias que no contiene. El fundamento **no define cuáles herramientas se emplean ni cómo se utilizan**. La asistencia constituye una modalidad de F03, no un fundamento adicional; véase la [candidatura no admitida](denied/assisted-source-interpretation.md).
 
+## Modalidades — contraste conceptual y operacional
+
+Las vías directa y asistida ya definidas permiten traducir contenido pertinente de documentos de referencia a TDidacta Docs Standard. La responsabilidad contextual permanece humana y no se presupone factibilidad técnica comprobada.
+
 ## 3. Conceptos definidos o ampliados desde F03
 
 | Concepto | Aporte específico de F03 | Entrada |
