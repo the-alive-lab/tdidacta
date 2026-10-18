@@ -111,3 +111,12 @@ Lectura candidata:
 **Regla operativa recomendada para próximas ediciones:** modificar la definición del concepto únicamente en Concepts; modificar su justificación y trazabilidad O→F en Foundations; modificar el objetivo únicamente en Orientation. Los índices y otras superficies deben enlazar y resumir sin erigirse en definiciones paralelas. Conservar capas O→C como justificación de incidencia, no como segunda definición normativa completa. Toda reducción sustantiva de F01–F10 requiere revisión semántica explícita y no se deduce del saneamiento editorial.
 
 **Otros límites:** se mantiene pospuesta la auditoría Foundations→Mechanisms. No se adelanta la reconstrucción T01–T28 ni se resuelve la condición de investigación O3/F10.
+
+### Saneamiento del drift de estados en Concepts (2026-10-18)
+
+Tras examinar las etiquetas efectivas en los conceptos vinculados a F01, F02, F06 y F09, se corrigieron **cuatro contradicciones puramente editoriales**:
+
+- [Enseñanza](../concepts/teaching.md), [Aprendizaje](../concepts/learning.md) y [Experiencia de enseñanza y aprendizaje](../concepts/teaching-learning-experience.md): el texto de la capa F01 decía «clasificación propuesta» aunque el estado y las tablas estaban reconciliados. Ahora indica explícitamente que la capa O→C fue reconciliada por el fundador el 2026-10-17; conserva su independencia de O→F.
+- [Necesidad pedagógica](../concepts/pedagogical-need.md): encabezado de tabla F06 actualizado de «Clasificación propuesta» a «Clasificación reconciliada», conforme al estado y aprobación histórica de F06.
+
+No se modificaron relaciones, categorías, definiciones acumulativas ni capas históricas. La indicación «capas futuras» se mantiene deliberadamente, porque expresa extensibilidad y no un estado pendiente. El saneamiento de estas contradicciones concretas no equivale a certificar automáticamente ausencia de drift en todas las demás superficies.
