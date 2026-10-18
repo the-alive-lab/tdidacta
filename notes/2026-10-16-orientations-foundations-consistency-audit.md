@@ -325,3 +325,7 @@ El fundador aprobó la responsabilidad F10 de especializar **escenarios pedagóg
 ## F10 — Escenario pedagógico: estructura aprobada, Autonomía pendiente (2026-10-18)
 
 El fundador aprobó explícitamente un concepto canónico **Escenario pedagógico** con dos tipos internos, **base** (formulado por quien enseña) y **especializado** (particularizado durante el uso por quien aprende). Se actualizó la definición acumulativa en `concepts/application-circumstances.md` manteniendo su ruta de continuidad y **sin reescribir ni reclasificar la capa histórica F03**. Se actualizaron los índices y referencias editoriales. La tabla de orientaciones O→C de la nueva capa F10 sigue **propuesta**, no reconciliada. El fundador dejó la ampliación del concepto **Autonomía del aprendiz** para revisión O→C antes de decidir; no se le agregó capa F10 ni se generaron conceptos separados para los tipos de escenario.
+
+## F10 — Aprobación O→C de Escenario pedagógico (2026-10-18)
+
+El fundador aprobó expresamente la clasificación propuesta O→C mediante F10 para el concepto único **Escenario pedagógico**, con dos tipos base y especializado. Quedan reconciliados O0 Origen; O1 Condición; O2 Complemento; **O3 Condición** (distinta del Origen propuesto O→F10); O4 Condición; **O6 Incidencia marginal**; O7 Condición; O9 Condición. O5, O8 y **O10 Sin incidencia** mediante F10. La capa F03 no se alteró, incluida su O8 Incidencia marginal. La tabla O→F10 continúa pendiente de aprobación y no se confunde con esta decisión; la relación con Autonomía del aprendiz no genera capa F10 adicional.
