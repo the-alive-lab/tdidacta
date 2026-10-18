@@ -45,7 +45,7 @@ flowchart TD
 
 **Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
 
-Los [escenarios de cobertura documentados](scenarios/README.md) incluyen enseñanza particular, aprendizaje autodidacta, educación institucional y educación en el hogar, además de variantes transversales. Constituyen **registro de cobertura, no un compromiso de implementarlo todo desde el inicio**. Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta-v6-coverage-bootstrap.md). La auditoría Foundations → Mechanisms queda pospuesta y la condición investigativa O3/F10 sigue pendiente. [Antecedentes y decisiones de cobertura](notes/2026-10-18-foundations-candidate-coverage-audit.md).
+Los [escenarios de cobertura documentados](scenarios/README.md) incluyen enseñanza particular, aprendizaje autodidacta (independiente o acompañado), educación institucional, educación en el hogar y el candidato transversal de aprendizaje orientado a metas definidas fuera de TDidacta. Constituyen **registro de cobertura, no un compromiso de implementarlo todo desde el inicio**. Esta propuesta se revisará antes de retomar los [28 tópicos V6](notes/tdidacta-v6-coverage-bootstrap.md). La auditoría Foundations → Mechanisms queda pospuesta y la condición investigativa O3/F10 sigue pendiente. [Antecedentes y decisiones de cobertura](notes/2026-10-18-foundations-candidate-coverage-audit.md).
 
 ## Navegación
 
@@ -54,7 +54,7 @@ Los [escenarios de cobertura documentados](scenarios/README.md) incluyen enseña
 | [Orientación para agentes](AGENTS.md) | Cómo colaborar sin confundir fuentes, estados ni autoridad documental |
 | [Índice para LLM](llms.txt) | Descubrimiento rápido de las fuentes canónicas y especializadas |
 | [Orientación](orientation/README.md) | Propósito, problema abordado, alcance e idioma |
-| [Escenarios de cobertura](scenarios/README.md) | Cuatro contextos iniciales, necesidades, contrastes con fundamentos y brechas candidatas; no es un plan de releases |
+| [Escenarios de cobertura](scenarios/README.md) | Cuatro contextos base y un escenario transversal candidato de metas externas, con necesidades y contrastes fundacionales; no es un plan de releases |
 | [Foundations](foundations/README.md) | Conceptos reconocidos y definiciones candidatas |
 | [Mechanisms](mechanisms/README.md) | Espacios delimitados y operaciones candidatas de exploración/realización |
 | [Relationships](relationships/README.md) | Relaciones candidatas entre necesidades, intenciones, espacios y operaciones |
