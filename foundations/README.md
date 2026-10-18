@@ -17,7 +17,7 @@
 | [Candidatura no admitida: Fuentes, inferencias e incertidumbre](denied/source-inference-uncertainty.md) | Responsabilidades distribuidas entre F06, F07 y F08 | Denied (2026-10-18); sin numeración |
 | [Candidatura no admitida: Interpretación asistida de fuentes](denied/assisted-source-interpretation.md) | Modalidad de F03, no fundamento independiente; se conserva la justificación histórica | Denied (2026-10-18); sin numeración |
 | [Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
-| [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
+| [Resolución recursiva de necesidades — no promovida](denied/recursive-pedagogical-resolution.md) | Recurrencia integrada en F02, con coordinación posible en Lifecycle | Denied (2026-10-18), sin numeración; reconocimiento histórico preservado |
 | [Alcance y promoción](scope-and-promotion.md) | Exclusiones, criterios de adopción y regla de legibilidad | Criterios de organización |
 
 Las candidaturas no promovidas se conservan en [denied](denied/README.md) para trazabilidad, sin numeración ni estatus de Foundation.
@@ -44,7 +44,7 @@ La [orientación principal](../orientation/README.md) es transversal a **cada fu
 
 **Cualquier orientación agregada, retirada o alterada sustantivamente desencadena una revisión de todos los fundamentos y sus tablas**, para evitar drift documental. La revisión puede concluir «sin cambio» con una razón; no obliga a adoptar propuestas. Mantener correspondencia entre índice y documentos y registrar hallazgos de insuficiencia o contradicción.
 
-**Delimitación de superficies de este índice:** [Enseñanza y aprendizaje](teaching-and-learning.md) se conserva **como fundamento** que concreta la orientación principal; [Resolución recursiva](recursive-pedagogical-resolution.md) se distingue de su coordinación en Lifecycle. [Inventario](concept-candidates.md) agrupa candidatos múltiples y **su posible función de formalización operable permanece en estudio**, no se ha promovido a mecanismo. [Alcance y promoción](scope-and-promotion.md) establece criterios editoriales. Para estos documentos, la trazabilidad se aplica al nivel de conceptos materiales y su responsabilidad editorial.
+**Delimitación de superficies de este índice:** [Enseñanza y aprendizaje](teaching-and-learning.md) se conserva **como fundamento** que concreta la orientación principal; la recurrencia de resolución pertenece a [F02](pedagogical-needs-and-intentions.md), diferenciada de su coordinación en [Lifecycle](../lifecycle/recursive-pedagogical-resolution.md). [Inventario](concept-candidates.md) agrupa candidatos múltiples y **su posible función de formalización operable permanece en estudio**, no se ha promovido a mecanismo. [Alcance y promoción](scope-and-promotion.md) establece criterios editoriales. Para estos documentos, la trazabilidad se aplica al nivel de conceptos materiales y su responsabilidad editorial.
 
 ### Clasificación explícita de relaciones O→F
 
