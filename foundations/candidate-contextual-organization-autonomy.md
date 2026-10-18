@@ -1,6 +1,6 @@
 # Candidatura A — Autonomía de organización contextual
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O3–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia** y O2 como **Complemento** por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O4–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -25,7 +25,7 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 | [O0](../orientation/README.md) | **Origen — reconciliado 2026-10-18** | Distintos contextos educativos necesitan poder organizar las funciones que hacen posible enseñar y aprender. |
 | [O1](../orientation/semantic-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | O1 trata de continuidad del significado pedagógico, no de auditoría de quién ejecutó acciones, de su historial o de cambios en la configuración de facultades. Si se requiere esa trazabilidad operativa, debe justificarse separadamente. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento — reconciliado 2026-10-18** | La tecnología puede apoyar configuraciones, sin determinar ni validar autoridad. |
-| [O3](../orientation/human-effort-and-agency.md) | **Condición** | La libertad de configuración no debe imponer sobrecarga desproporcionada. |
+| [O3](../orientation/human-effort-and-agency.md) | **Condición — reconciliado 2026-10-18** | La libertad de configuración no debe imponer sobrecarga desproporcionada. |
 | [O4](../orientation/human-pedagogical-authorization.md) | **Condición** | Configurar quién actúa no puede convertir la tecnología en fuente de autorización humana. |
 | [O5](../orientation/transparent-contribution-recognition.md) | **Condición** | Participaciones y atribuciones deben distinguirse de facultades de decisión. ¿Incidencia o solo frontera? |
 | [O6](../orientation/effort-inversion.md) | **Complemento** | Liberar de rigidez organizativa puede permitir concentrarse en comprender y orientar, pero no lo garantiza. |
