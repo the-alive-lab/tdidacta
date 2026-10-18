@@ -18,6 +18,10 @@ La abstracción no supone traducción perfecta, equivalencia ni reversibilidad. 
 
 En TDidacta, las fuentes pueden expresar necesidades, intenciones, circunstancias y relaciones pedagógicas. Docs Standard define su representación documental; [IR Specification](../products/ir-specification/README.md) define características técnicas de IR.
 
+## Modalidades — contraste conceptual y operacional
+
+Directa: una persona estructura el significado documental en IR. Asistida: una herramienta propone esa estructuración para contrastarla con la documentación. Las dos vías deben atender relaciones, restricciones y pérdidas; no se presupone equivalencia, exactitud ni factibilidad técnica.
+
 ## 3. Conceptos originados desde F04
 
 | Concepto | Aporte específico de F04 | Entrada |
