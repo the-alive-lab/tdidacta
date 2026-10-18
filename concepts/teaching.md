@@ -21,7 +21,7 @@ Puede ocurrir fuera de instituciones educativas, sin docentes profesionales y si
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica interpretar la enseñanza en función de experiencias que favorecen exploración y comprensión. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Incidencia marginal** | Los significados y razones de la orientación pueden importar al interpretar una enseñanza concreta, sin redefinir la actividad en sí. |
 
-Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La clasificación O→concepto es **propuesta**, no se hereda automáticamente de O→F.
+Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La clasificación O→concepto **fue reconciliada** por el fundador (2026-10-17) y conserva su independencia respecto de O→F.
 
 **Capas futuras:** otros fundamentos podrán ampliar este concepto en su propia capa, con las orientaciones que incidan en su aporte. No duplicar definiciones canónicas.
 
