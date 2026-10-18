@@ -1,6 +1,6 @@
 # Autonomía del aprendiz
 
-**Estado:** concepto originado en F09 (2026-10-18); definición y clasificaciones de capa propuestas para revisión detallada.
+**Estado:** concepto originado en F09 (2026-10-18); definición y relaciones O→C reconciliadas por aprobación expresa del fundador (2026-10-18).
 
 ## Definición canónica acumulativa hasta F09
 
@@ -12,7 +12,7 @@ No implica ausencia de apoyo, suficiencia de cualquier elección, autorización 
 
 **Aporte:** establece la responsabilidad de permitir que el aprendiz oriente su experiencia, directamente o con asistencia, sin quedar restringido al recorrido previamente formulado.
 
-| Orientación incidente mediante F09 | Relación propuesta | Incidencia específica |
+| Orientación incidente mediante F09 | Relación reconciliada | Incidencia específica |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | **Origen** | Reconoce la agencia activa de quien aprende sobre su recorrido. |
 | [O1](../orientation/semantic-continuity.md) | Complemento | Ayuda a sostener continuidad de significado al conectar experiencias. |
