@@ -49,3 +49,7 @@ La [orientación principal](../orientation/README.md) es transversal a **cada fu
 ### Clasificación explícita de relaciones O→F
 
 Cada fundamento deberá justificar **al menos una orientación de origen**. Las demás orientaciones pueden actuar como **complemento**, **condición**, tener **incidencia marginal** o **no tener incidencia**. Las dos últimas son resultados válidos y deben registrarse expresamente, en lugar de inventar vínculos. La influencia marginal exige explicar qué cambia —si algo— y por qué su importancia es baja. Las tablas existentes son preliminares y se reclasificarán **fundamento por fundamento** durante la auditoría aún abierta.
+
+## Modalidades de cumplimiento
+
+Por decisión del fundador (2026-10-18), las responsabilidades que admitan apoyo tecnológico **conceptual y operacionalmente coherente** explicitan una **vía directa** y una **vía asistida** (o justifican la inaplicabilidad de alguna). Ninguna vía impone una tecnología específica, cambia la autoridad del fundamento ni demuestra factibilidad técnica: **la viabilidad tecnológica se verifica durante la implementación de TDidacta**. En F07 las herramientas solo apoyan la preparación; no autorizan autónomamente. Véase [regla transversal en bootstrap](../bootstrap/foundations-concepts-review.md#regla-transversal--modalidades-directa-y-asistida-aprobada-2026-10-18).
