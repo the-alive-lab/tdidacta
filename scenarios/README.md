@@ -1,0 +1,110 @@
+# Escenarios de cobertura — TDidacta
+
+**Estado:** registro de escenarios propuesto por el fundador y elaborado para contraste; **no es adopción de capacidades, compromisos de release, roles ni responsabilidades canónicas**. Fecha: 2026-10-18.
+
+## Alcance y regla de lectura
+
+Esta superficie pregunta **en qué circunstancias debe poder cumplir TDidacta sus orientaciones**, qué tensiones aparecen y si [F01–F10](../foundations/README.md) son suficientes. La definición del problema y aspiración se mantiene en [Orientation](../orientation/README.md); las soluciones fundamentales en Foundations y los significados en [Concepts](../concepts/README.md). No se duplican.
+
+Un **escenario de cobertura** describe el contexto de quien puede ejercer responsabilidades; no es sinónimo del concepto [Escenario pedagógico](../concepts/application-circumstances.md) (contexto de aplicación de una intención; base/especializado según F10).
+
+Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una persona puede participar de varios y ejercer funciones diferentes. Las referencias a participantes a continuación son **actores observables**, no promoción de Roles ni asignación normativa de responsabilidades.
+
+**Obligación de cobertura ≠ funcionalidad inmediata**: definir un escenario permite rastrear necesidades, límites y brechas. No prescribe prioridad, versión, implementación, interfaz o certificación de resultados. La adopción de compromisos concretos y alcance por release requiere planificación y decisión posterior.
+
+## E01 — Enseñanza particular y aprendizaje acompañado
+
+**Condiciones:** autonomía relativamente alta de quien enseña, relación pedagógica individual o de grupo pequeño y conocimiento progresivo de las necesidades; el aprendiz puede estudiar también en otros procesos educativos. La autonomía es relativa: no presume autoridad ilimitada, permiso para procesar información sensible o dominio absoluto sobre los materiales de otros.
+
+**Cobertura pretendida:**
+- Contextualizar y ajustar ayudas y circunstancias con el tiempo, sin modificar silenciosamente una intención autorizada ni tratar la especialización F10 como autorización nueva.
+- Reconocer destinatarios diferentes y restricciones de acceso pertinentes a material no público. **El mecanismo** (permisos, grupos, invitaciones) se decidirá posteriormente.
+- Separar la continuidad de los distintos procesos de aprendizaje sin obligar a una cuenta distinta por proceso.
+- Permitir que el aprendiz consulte recursos disponibles autónomamente sin comunicación constante ni presencia continua del docente.
+- Distinguir qué se comparte, qué requiere autorización y qué debe permanecer privado.
+
+**Actores observables:** quien enseña, quien aprende y, cuando corresponda, adulto responsable de un menor. No son roles formalizados.
+
+**Fundamentos a contrastar:** [F03](../foundations/human-pedagogical-contextualization.md), [F07](../foundations/pedagogical-authorization.md), [F09](../foundations/learner-autonomy.md), [F10](../foundations/pedagogical-adaptation.md), [F08](../foundations/pedagogical-authorship.md). **Pregunta abierta:** ¿control de acceso y continuidad multi-proceso resultan suficientemente justificados por estos fundamentos/O7/O9, o requieren explicitación fundacional sin mezclar reglas técnicas?
+
+## E02 — Aprendizaje autodidacta
+
+**Condiciones:** funciones de orientar enseñanza y vivir aprendizaje pueden coincidir en una persona; puede existir conocimiento inicial escaso, objetivos inciertos y ausencia de apoyo externo estable. No suponer que todo autodidacta carece de conocimientos o requiere IA.
+
+**Cobertura pretendida:**
+- Explorar y formular necesidades/intenciones sin exigir conocimientos expertos iniciales ni autoridad docente institucional.
+- Ofrecer vías **directas** y **asistidas** para orientación sin sustituir decisiones humanas, imponer rutas únicas ni garantizar acierto de sugerencias.
+- Facilitar la **comprobación por la propia persona** de qué enfoques le sirven mediante práctica, reflexión y contraste de comprensión; no confundir autopercepción, conformidad semántica y aprendizaje demostrado.
+- Retomar experiencias, comparar alternativas y mantener continuidad sin dependencia permanente de un tercero.
+
+**Actores observables:** persona que aprende y que en ocasiones orienta su propia enseñanza; apoyos externos eventuales.
+
+**Fundamentos a contrastar:** [F01](../foundations/teaching-and-learning.md), [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md), [F09](../foundations/learner-autonomy.md), O3/O6. **Pregunta abierta:** ¿cómo habilitar juicio sobre utilidad de estrategias personales sin que TDidacta declare diagnósticos, estilos de aprendizaje fijos o eficacia no verificada?
+
+## E03 — Educación institucional
+
+**Condiciones:** existe organización que coordina programas, docentes, aprendices, equipos de apoyo, autorizaciones y continuidad institucional. Pueden intervenir múltiples niveles de autoridad; no debe suponerse que todo establecimiento tiene la misma estructura ni que lo administrativo determina la intención pedagógica.
+
+**Cobertura pretendida:**
+- Distinguir quién **formula**, **revisa**, **autoriza**, **publica**, **acompaña** y **utiliza** elementos pedagógicos, con separación de funciones y posibilidad de acumulación.
+- Reconocer necesidades curriculares o programáticas externas como **referencias**, no como autorización automática de intención.
+- Preservar decisiones y versiones frente a cambios de docentes, grupos, calendarios y dependencias; autorizaciones previas permanecen asociadas a sus versiones.
+- Admitir variaciones por grupo, modalidad, accesibilidad y recursos materiales.
+- Reducir carga de coordinación y duplicación documental, sin asumir integración técnica universal.
+- Delimitar privacidad y acceso a datos, especialmente de menores; interoperabilidad, propiedad/portabilidad de recursos y continuidad ante cambios de proveedor.
+- Diferenciar evaluación de conformidad pedagógica, calidad, comprensión y exigencias administrativas externas.
+
+**Actores observables:** aprendiz, docente, coordinador/a pedagógico/a, autoridad curricular o institucional, apoyo especializado, administración, familia/tutor según contexto. **No son roles adoptados** ni deben transformarse en una única jerarquía.
+
+**Fundamentos a contrastar:** [F02](../foundations/pedagogical-needs-and-intentions.md), [F03](../foundations/human-pedagogical-contextualization.md), [F06](../foundations/pedagogical-review-and-correction.md), [F07](../foundations/pedagogical-authorization.md), [F08](../foundations/pedagogical-authorship.md), [F10](../foundations/pedagogical-adaptation.md), O7–O10. **Brechas por investigar:** autoridad distribuida, coordinación y continuidad organizacional, y diferencias entre permisos de plataforma, autoridad pedagógica y autoridad legal.
+
+**Contexto externo (no definición canónica):** la OCDE describe ecosistemas de plataformas de gestión educativa, restricciones de interoperabilidad y privacidad; UNESCO trata liderazgo distribuido. Fuentes: [OECD Digital Education Outlook 2023](https://www.oecd.org/en/publications/2023/12/oecd-digital-education-outlook-2023_c827b81a.html), [OECD interoperabilidad](https://www.oecd.org/en/publications/2023/12/oecd-digital-education-outlook-2023_c827b81a/full-report/interoperability-unifying-and-maximising-data-reuse-within-digital-education-ecosystems_660f8da1.html) y [UNESCO liderazgo educativo](https://www.unesco.org/reports/gem-report/en/2024-leadership-education).
+
+## E04 — Educación en el hogar (homeschooling)
+
+**Condiciones:** aprendizaje organizado predominantemente en el entorno familiar, con acompañamiento variable. No es equivalente a aprendizaje autodidacta puro ni a educación particular; un adulto puede organizar y apoyar sin ser especialista, y un menor conserva participación y autonomía progresiva. Puede combinarse con tutorías, recursos de centros educativos y procesos de acreditación externos.
+
+**Cobertura pretendida:**
+- Diferenciar intereses y capacidad progresiva del aprendiz, acompañamiento pedagógico del adulto y representación/autoridad legal cuando corresponda.
+- Permitir trabajo guiado y autónomo; aclarar dudas y sugerir rutas sin exigir dominio curricular experto a la familia ni hacer obligatoria la IA.
+- Contextualizar materiales, ritmos y circunstancias familiares sin construir perfiles personales exhaustivos.
+- Reconocer separadamente el progreso formativo de una posible **certificación externa**; TDidacta no certifica por sí mismo cursos.
+- Admitir recursos accesibles fuera de línea y continuidad pese a cambios de tutor o proveedor.
+- Identificar cuándo el niño o joven puede explorar y cuándo la autorización para determinados usos corresponde a una persona adulta u otra autoridad, con respeto a la privacidad.
+
+**Actores observables:** aprendiz menor o adulto, familiar acompañante, tutor legal si corresponde, docente o especialista externo eventual, organismo examinador externo.
+
+**Fundamentos a contrastar:** F01, F03, F07, F09, F10; O7/O9/O10. **Preguntas abiertas:** límites entre apoyo familiar y autoridad pedagógica; seguridad y privacidad de menores; particularidades de cada jurisdicción.
+
+**Contexto externo chileno, no requisito universal:** la validación por exámenes libres corresponde al Ministerio de Educación y entidades examinadoras designadas; la inscripción de menores es responsabilidad de padre/madre/tutor legal y no puede hacerla una institución privada de homeschooling. Fuente oficial: [Ayuda Mineduc](https://www.ayudamineduc.cl/ficha/examenes-libres-menores-de-18-anos-11). UNESCO reconoce diversidad de condiciones del homeschooling: [actores no estatales](https://www.unesco.org/en/right-education/non-state-actors). No se adopta flujo legal, certificación ni alcance territorial universal.
+
+## Variantes transversales para evaluar, no escenarios independientes adoptados
+
+1. **Grupal/comunitario no institucional**: grupos de estudio, mentorías y comunidades de práctica pueden combinar coordinación compartida, aportes múltiples y ausencia de jerarquía formal.
+2. **Formación laboral/adulta**: capacitación profesional, reconversión y formación en organizaciones (o por un mentor), con requisitos externos y necesidades de certificación distintas.
+3. **Acceso indirecto/desconectado**: aprendizaje con materiales impresos, de terceros o sin conexión sostenida. Es una condición **transversal** a E01–E04, no necesariamente escenario de alto nivel.
+4. **Trayectoria híbrida**: una persona combina centro educativo, tutor particular, estudio autónomo y apoyos familiares. Verifica continuidad sin unificación forzada de permisos y contextos.
+
+No introducir escenarios separados por cada tecnología, medio, condición médica, identidad, tamaño de grupo o tipo de archivo: esos son factores de contexto o variaciones a contrastar, salvo que aparezca una diferencia real de responsabilidades.
+
+## Matriz de suficiencia preliminar
+
+| Necesidad transversal | Cobertura conceptual observable | Pregunta de suficiencia, no hallazgo definitivo |
+| --- | --- | --- |
+| Participación activa y superposición de funciones | F01/F09 | ¿Hace falta formalizar Roles para escenarios donde enseñar y aprender coinciden? |
+| Contextualización y adaptación | F03/F10 | ¿Cómo cambia la particularización cuando la impulsa docente, tutor familiar o aprendiz, sin alterar autoridad aprobada? |
+| Autorización y acceso | F07/O4/O7 | ¿Cómo distinguir autoridad semántica de permisos de consulta, tutela y gobierno institucional? |
+| Continuidad de procesos paralelos | O1/F02/F06/O10 | ¿Existe suficiente cobertura para compartimentación de procesos y cambios de responsables? |
+| Agencia/autocomprobación | F05/F06/F09/O3 | ¿Qué justifica apoyo a aprender cómo evaluar estrategias propias sin prometer «estilos de aprendizaje» fijos? |
+| Institución y hogar | F02/F07/F08/O7–O10 | ¿Qué responsabilidades o fundamentos faltan para coordinación multinivel y protección de menores? |
+| Acceso asincrónico e indirecto | O9/O10/F09 | ¿Qué grado de disponibilidad independiente es necesario sin prometer plataforma 24/7? |
+
+## Proceso de promoción y planificación
+
+- **Cobertura declarada:** escenario y necesidades registradas para análisis conceptual.
+- **Brecha examinada:** contrastar Fundamentos y Conceptos, documentar suficiente / insuficiente / incierto por necesidad.
+- **Compromiso adoptado:** solo tras decisión explícita del fundador.
+- **Planificación de implementación:** decide qué parte, mediante qué producto/mecanismo y en qué momento, con criterios de verificación.
+- **Evidencia:** experimentos, validaciones o uso observado, sin confundir intención con logro.
+
+**No se crean F11, Roles, Responsibilities o requisitos de producto automáticamente.** Este registro precede a la definición de responsabilidades, a la reconstrucción T01–T28 y a la auditoría Foundations→Mechanisms (pospuesta).
