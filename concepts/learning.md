@@ -23,7 +23,7 @@ El aprendiz puede orientar cómo continúa su experiencia, explorar relaciones y
 | [O0 — Principal](../orientation/README.md) | **Origen** | Justifica la exploración, experimentación y construcción de comprensión como fines de las experiencias educativas. |
 | [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Incidencia marginal** | Ayuda a interpretar cambios de comprensión y reinterpretaciones, sin determinar por sí misma qué es aprender. |
 
-Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La clasificación O→concepto es **propuesta**, no se hereda automáticamente de O→F.
+Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La clasificación O→concepto **fue reconciliada** por el fundador (2026-10-17) y conserva su independencia respecto de O→F.
 
 **Capas futuras:** otros fundamentos podrán ampliar este concepto en su propia capa, con las orientaciones que incidan en su aporte. No duplicar definiciones canónicas.
 
