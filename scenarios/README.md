@@ -12,6 +12,10 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Obligación de cobertura ≠ funcionalidad inmediata**: definir un escenario permite rastrear necesidades, límites y brechas. No prescribe prioridad, versión, implementación, interfaz o certificación de resultados. La adopción de compromisos concretos y alcance por release requiere planificación y decisión posterior.
 
+## Contraste transversal de las cinco fichas
+
+El [contraste E01–E05](cross-scenario-coverage-2026-10-18.md) registra necesidades compartidas, diferencias de autoridad, suficiencias preliminares y **seis preguntas priorizadas para revisar Foundations**. No introduce escenarios, fundamentos, Roles ni Responsibilities adicionales por sí mismo. Las fichas siguen siendo fuente principal de los actores locales y de sus necesidades.
+
 ## Decisiones de contraste E03/E05 (2026-10-18)
 
 - **[E03](e03-educacion-institucional.md):** requiere modelos de autorización y funciones **configurables**, con plantillas iniciales editables, sin adoptar una jerarquía universal ni prescribir ya Roles. TDidacta cubre coordinación **educativa** y puede externalizar capacidades; no administra toda la institución. El reconocimiento de identidades personales pertenece a autoridades externas conforme a [O8](../orientation/external-personal-identity-recognition.md), mientras TDidacta puede gestionar cuentas y relaciones operativas. Se mantiene abierto el contraste E02/E03 sobre coordinación y gestión de comunidades educativas.
