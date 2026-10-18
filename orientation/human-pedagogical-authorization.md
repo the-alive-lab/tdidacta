@@ -1,4 +1,4 @@
-# Autorización humana — orientación de TDidacta
+# O4 — Autorización humana
 
 **Estado:** orientación definida por decisión conceptual del fundador (2026-10-16). Su alcance inmediato es TDidacta; no atribuirla automáticamente a PResolver.
 
