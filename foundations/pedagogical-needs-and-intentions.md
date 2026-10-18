@@ -26,6 +26,16 @@ Esta relación preserva la diferencia entre **problema, respuesta y posibilidade
 
 F02 no prescribe un flujo ni un formato técnico del espacio de posibilidades.
 
+## Recurrencia de la resolución dentro de F02 — precisión aprobada 2026-10-18
+
+F01 presenta el problema de enseñar y aprender. **F02 establece cómo TDidacta aborda la interpretación de ese problema mediante la relación entre necesidades pedagógicas, intenciones y posibilidades delimitadas.** Esta relación puede **volver a aplicarse** cuando explorar o concretar una respuesta hace visible otra necesidad, una insuficiencia o una situación distinta. No existe una escala obligatoria ni una secuencia universal: una necesidad nueva puede ser más pequeña, equivalente, transversal o más amplia.
+
+La recurrencia es **una propiedad de la misma manera de abordar necesidades**, no una responsabilidad adicional que merezca un fundamento separado. Una necesidad emergente puede motivar otra intención, sin requerir convertirla en subnecesidad ni revisar automáticamente la intención anterior. **F06** es responsable de revisar y corregir intenciones existentes cuando corresponda; su ciclo de corrección no reemplaza el tratamiento de necesidades genuinamente nuevas desde F02. **F07** conserva la autorización independiente de nuevas intenciones o versiones.
+
+**Vía directa:** una persona reconoce una nueva necesidad, la interpreta y formula una intención conforme a F02. **Vía asistida:** una herramienta ayuda a identificar posibles nuevas necesidades o a formular alternativas que la persona evalúa. Ambas son aplicaciones reiteradas de las modalidades ya descritas en F02, no vías adicionales ni capacidades técnicas demostradas.
+
+La [coordinación conceptual de posibles recurrencias](../lifecycle/recursive-pedagogical-resolution.md) pertenece a Lifecycle y no impone un workflow. La [candidatura de fundamento no promovida](denied/recursive-pedagogical-resolution.md) conserva el antecedente y su reconocimiento histórico. Esta precisión **no cambia las clasificaciones O0–O10 reconciliadas ni introduce conceptos nuevos**.
+
 ## 3. Conceptos definidos desde F02
 
 Las **definiciones canónicas y sus fronteras** se mantienen en las entradas de Concepts. F02 establece su relación; no duplica sus definiciones.
