@@ -39,7 +39,7 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Actores observables:** persona que aprende y que en ocasiones orienta su propia enseñanza; apoyos externos eventuales.
 
-**Fundamentos a contrastar:** [F01](../foundations/teaching-and-learning.md), [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md), [F09](../foundations/learner-autonomy.md), O3/O6. **Pregunta abierta:** ¿cómo habilitar juicio sobre utilidad de estrategias personales sin que TDidacta declare diagnósticos, estilos de aprendizaje fijos o eficacia no verificada?
+**Fundamentos a contrastar:** [F01](../foundations/teaching-and-learning.md), [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md), [F08](../foundations/pedagogical-authorship.md), [F09](../foundations/learner-autonomy.md), O3/O6. **Pregunta abierta:** ¿cómo habilitar juicio sobre utilidad de estrategias personales sin que TDidacta declare diagnósticos, estilos de aprendizaje fijos o eficacia no verificada?
 
 ### Modalidades de autodidacta: independiente y acompañado
 
@@ -68,6 +68,18 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 **Fundamentos a contrastar:** [F02](../foundations/pedagogical-needs-and-intentions.md), [F03](../foundations/human-pedagogical-contextualization.md), [F06](../foundations/pedagogical-review-and-correction.md), [F07](../foundations/pedagogical-authorization.md), [F08](../foundations/pedagogical-authorship.md), [F10](../foundations/pedagogical-adaptation.md), O7–O10. **Brechas por investigar:** autoridad distribuida, coordinación y continuidad organizacional, y diferencias entre permisos de plataforma, autoridad pedagógica y autoridad legal.
 
 **Contexto externo (no definición canónica):** la OCDE describe ecosistemas de plataformas de gestión educativa, restricciones de interoperabilidad y privacidad; UNESCO trata liderazgo distribuido. Fuentes: [OECD Digital Education Outlook 2023](https://www.oecd.org/en/publications/2023/12/oecd-digital-education-outlook-2023_c827b81a.html), [OECD interoperabilidad](https://www.oecd.org/en/publications/2023/12/oecd-digital-education-outlook-2023_c827b81a/full-report/interoperability-unifying-and-maximising-data-reuse-within-digital-education-ecosystems_660f8da1.html) y [UNESCO liderazgo educativo](https://www.unesco.org/reports/gem-report/en/2024-leadership-education).
+
+### Contraste E02/E03 — colaboración y coordinación de contribuciones
+
+**Resultado de revisión conceptual del fundador (2026-10-18):** los escenarios comunitario-colaborativo e institucional comparten necesidades de contribución, feedback, continuidad y coordinación. Se diferencian sobre todo por **cómo se distribuyen las funciones y la autoridad**: en una comunidad puede no haber docente central ni autoridad pedagógica permanente; en una institución suele existir alguna estructura de responsables, sin que una sola persona deba ejecutar todas las funciones.
+
+- **[F01 — Enseñanza y aprendizaje](../foundations/teaching-and-learning.md): cobertura conceptual considerada suficiente en este contraste.** Enseñar y aprender son perspectivas o responsabilidades distinguibles, no identidades fijas «profesor» y «alumno». Pueden distribuirse entre participantes o coincidir en una persona. La asignación situada queda para futuras superficies Responsibilities/Roles.
+- **[F08 — Autoría pedagógica](../foundations/pedagogical-authorship.md): cobertura conceptual considerada suficiente.** Crear, editar, mediar y retroalimentar pueden generar aportes reconocibles tanto en comunidad como en institución. La atribución es proporcional y se establece por declaración responsable; **no se presume reparto automático o igualitario de autoría, ni que todo feedback conceda coautoría**. Autoría y autoridad de autorización siguen siendo diferentes.
+- **[F09 — Autonomía del aprendiz](../foundations/learner-autonomy.md): cobertura conceptual considerada suficiente.** En comunidad, la persona puede explorar por sí misma y consultar a pares sin depender de un docente designado; en institución suele haber referentes a quienes consultar, pero su existencia no elimina exploración ni autonomía personal.
+
+**Decisión de alcance:** estas tres suficiencias son **lecturas de cobertura del escenario**, no nuevas definiciones o cambios de estado de F01/F08/F09. Eventuales ajustes de redacción se estudiarán solo si se identifica ambigüedad concreta; no se reabren los fundamentos por esta comparación.
+
+**Contraste aún abierto:** gobernanza de contribuciones, autoridad sobre intenciones y versiones, resolución de discrepancias, coordinación y continuidad cuando cambian participantes. Esas tensiones pueden requerir explicitación en escenarios y responsabilidades, no necesariamente nuevos fundamentos. No confundir autoridad editorial, pedagógica, legal y permisos técnicos.
 
 ## E04 — Educación en el hogar (homeschooling)
 
