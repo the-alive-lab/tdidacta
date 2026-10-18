@@ -57,9 +57,9 @@ Presentar **conceptos nuevos y conceptos actualizados en apartados distintos**. 
 | **F05 — Proyección semántica** | [F05](../foundations/semantic-projection.md) | **O0–O10 y conceptos/capas F05 reconciliados**. | Completado |
 | **F06 — Revisión y corrección** | [F06](../foundations/pedagogical-review-and-correction.md) | **O0–O10 y conceptos/capas F06 reconciliados**; integrado ciclo necesidad–revisión–nueva versión candidata. | Completado |
 | **F07 — Autorización** | [F07](../foundations/pedagogical-authorization.md) | **O0–O10 y conceptos/capas F07 reconciliados**, incluidas O8 y O9 por precisión expresa del fundador. | Completado |
-| **F08 — Autoría pedagógica** | [Propuesta F08](../foundations/pedagogical-authorship.md) | **Propuesta preparada** desde T01; numeración F08 y análisis O7–O10 aún no adoptados. | **Siguiente fundamento a revisar**, previa confirmación de su identificación |
+| **F08 — Autoría pedagógica** | [F08](../foundations/pedagogical-authorship.md) | **O0–O10, autoría y contribución reconciliados** (2026-10-18). Autoría humana y tecnológica mediante declaración del responsable, sin auditoría; tensión O5/O7 registrada. | Completado |
 
-**Balance:** F01–F07 están reconciliados en O0–O10 y sus capas conceptuales, por aprobación expresa del fundador (2026-10-17). F08 continúa como propuesta y siguiente fundamento a revisar.
+**Balance:** F01–F08 están reconciliados en O0–O10 y las capas conceptuales abordadas. F08 fue aprobado el 2026-10-18; no se infiere con ello la eficacia de mecanismos de atribución.
 
 ## Condición de salida de cada revisión
 
