@@ -43,7 +43,7 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las diez orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
 
-**Estado de propagación (2026-10-17):** las nuevas O7, O8, O9 y O10 están adoptadas; **su revisión de incidencia en todos los fundamentos queda pendiente**, sin clasificaciones ni cambios automáticos. O8 quedó adoptada con distinción expresa entre identidad personal, operativa y relaciones contextuales.
+**Estado actualizado (2026-10-18):** la incidencia O0–O10 está reconciliada en F01–F10 por decisión del fundador. Las clasificaciones y justificaciones vigentes se consultan en **cada fundamento**, no se duplican aquí. O8 conserva la distinción entre identidad personal, operativa y relaciones contextuales. La revisión se reabre solo ante nuevas orientaciones o cambios sustantivos explícitos.
 
 **Regla vigente para esta etapa:** agregar, retirar o modificar sustantivamente cualquier orientación —incluida la principal— **obliga a revisar todos los fundamentos** y sus tablas de trazabilidad, identificando apoyo directo, contribución indirecta, ausencia de relación, insuficiencia o contradicción. No basta con añadir enlaces al nuevo documento. La revisión precede a considerar la propagación documental concluida; no impone modificar el contenido de todos los fundamentos ni promueve automáticamente nuevas abstracciones.
 
