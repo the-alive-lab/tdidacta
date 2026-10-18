@@ -28,8 +28,8 @@ Los actores son **observaciones del contexto** y pueden superponerse. Ninguno co
 
 ## Necesidades de cobertura
 
-1. Distinguir decisiones pedagógicas y sus alcances de las funciones organizativas o administrativas, sin imponer una estructura de autoridad única.
-2. Hacer posible coordinación, comunicación, deliberación y feedback entre participantes y equipos; considerar capacidades propias o externalizadas, sin adoptar de antemano una plataforma de gestión.
+1. Admitir **modelos configurables de autorización y funciones situadas**, sin jerarquía universal. Pueden ofrecerse plantillas predeterminadas **editables después de generadas**; no se adopta todavía un esquema de Roles o permisos.
+2. Facilitar coordinación, comunicación, deliberación y feedback **en el ámbito educativo**, mediante capacidades propias o externalizadas. La gestión institucional general queda fuera del alcance; evaluar junto con E02 si existen necesidades fundacionales compartidas de apoyo a comunidades educativas.
 3. Reconocer aportes y autorías proporcionales a contribuciones, sin equipararlas a autoridad para aprobar.
 4. Preservar trazabilidad de intenciones, versiones autorizadas y recursos ante reemplazos de participantes o cambios de condiciones. Una nueva versión no muta autorizaciones históricas.
 5. Relacionar necesidades institucionales y referencias curriculares externas con intenciones pedagógicas, sin atribuir a TDidacta la autoridad de origen de esas exigencias.
@@ -47,12 +47,13 @@ Los actores son **observaciones del contexto** y pueden superponerse. Ninguno co
 
 ## Cuestiones abiertas / límites
 
-- **Autoridad distribuida:** ¿cómo se delimita quién tiene autoridad pertinente sobre cada versión y alcance, particularmente si órganos y personas cambian? No resolverlo asignando Roles anticipados.
-- **Coordinación:** ¿qué capacidades compartidas necesita la institución y cuáles pueden externalizarse sin pérdida de continuidad? Examinar junto a E02 colaborativo.
+- **Autoridad distribuida — orientación de cobertura:** permitir configuración contextual de autorizaciones y funciones, con plantillas iniciales modificables. Cómo se determinan reglas y límites se examinará al diseñar Responsibilities/Roles; no hay jerarquía universal adoptada.
+- **Coordinación — alcance acotado:** TDidacta cubre la dimensión educativa, no la administración institucional general. La colaboración puede aprovechar capacidades propias o externas; estudiar con E02 potenciales necesidades comunes de gestión comunitaria.
+- **Identidad personal:** conforme a [O8](../orientation/external-personal-identity-recognition.md), su reconocimiento corresponde a autoridades externas pertinentes. TDidacta sí puede gestionar cuentas, autenticación, participaciones y accesos, sin confundirlos con identidad personal ni autoridad pedagógica.
 - **Acceso:** los permisos de lectura/participación no equivalen a autorización pedagógica. Brecha candidata compartida con E01.
 - **Protección de menores y obligaciones por jurisdicción:** estudio jurídico previo a cada capacidad afectada; no asumir que el repositorio define cumplimiento.
 - **Criterios de evaluación externa:** institución, regulador o acreditador pueden requerir evidencia; TDidacta no certifica cumplimiento por sí mismo.
-- No se adoptan organigramas, LMS, SIS, SSO, roles administrativos, contratos, integraciones ni calendario de implementación.
+- No se adoptan organigramas, LMS, SIS, SSO, roles administrativos, contratos, integraciones ni calendario de implementación. Las plantillas configurables son orientación de cobertura, no diseño de mecanismos aprobado.
 
 ## Contraste con E02 colaborativo
 
