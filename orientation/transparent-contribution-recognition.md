@@ -1,4 +1,4 @@
-# Reconocimiento transparente y trazable de aportes — orientación de TDidacta
+# O5 — Reconocimiento transparente y trazable de aportes
 
 **Estado:** orientación definida por decisión conceptual del fundador (2026-10-16). Su alcance inmediato es TDidacta, sin generalización automática a PResolver.
 
