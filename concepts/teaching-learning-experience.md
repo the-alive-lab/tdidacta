@@ -1,6 +1,6 @@
 # Experiencia de enseñanza y aprendizaje
 
-**Estado:** definición y capa F01, incluidas relaciones O→concepto, reconciliadas por aprobación expresa del fundador (2026-10-17).
+**Estado:** capa F01 reconciliada (2026-10-17); definición acumulativa y capa F09 reconciliadas por el fundador (2026-10-18).
 
 ## Definición canónica acumulativa hasta F09
 
@@ -32,11 +32,11 @@ Las orientaciones sin incidencia en esta contribución de F01 no se incluyen. La
 **Capas futuras:** otros fundamentos podrán ampliar este concepto en su propia capa, con las orientaciones que incidan en su aporte. No duplicar definiciones canónicas.
 
 
-## Capa F09 — Autonomía del aprendiz (propuesta 2026-10-18)
+## Capa F09 — Autonomía del aprendiz (reconciliada 2026-10-18)
 
 **Aporte específico:** precisa que una experiencia orientada por otra persona no agota las alternativas del aprendiz.
 
-| Orientación incidente a través de F09 | Relación propuesta | Incidencia |
+| Orientación incidente a través de F09 | Relación reconciliada | Incidencia |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | Origen | Experiencias con participantes activos y recorridos no exclusivamente prescritos. |
 | [O1](../orientation/semantic-continuity.md) | Complemento | Preserva significado al relacionar o retomar experiencias. |
