@@ -1,6 +1,6 @@
 # Exploración pedagógica
 
-**Estado:** aporte F05 reconciliado por el fundador (2026-10-17); se preservan los estados previos de F02 y F04 cuando corresponda.
+**Estado:** aporte F05 reconciliado (2026-10-17); definición acumulativa y capa F09 reconciliadas por aprobación del fundador (2026-10-18).
 
 ## Definición canónica acumulativa hasta F09
 
@@ -21,11 +21,11 @@ Operación que, partiendo de significado pedagógico representado, examina posib
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Pueden examinarse alternativas que sirvan indirectamente a quienes no acceden a la plataforma. |
 
 
-## Capa F09 — Autonomía del aprendiz (propuesta 2026-10-18)
+## Capa F09 — Autonomía del aprendiz (reconciliada 2026-10-18)
 
 **Aporte específico:** conserva la exploración como capacidad general de múltiples participantes, diferenciando sus usos en diseño y autonomía.
 
-| Orientación incidente a través de F09 | Relación propuesta | Incidencia |
+| Orientación incidente a través de F09 | Relación reconciliada | Incidencia |
 | --- | --- | --- |
 | [O0](../orientation/README.md) | Origen | La exploración puede servir a la participación autónoma del aprendiz. |
 | [O1](../orientation/semantic-continuity.md) | Complemento | Examinar conexiones requiere distinguir significados y alcances. |
