@@ -14,7 +14,7 @@
 | [Revisión y corrección pedagógica](pedagogical-review-and-correction.md) | Evaluación y corrección humana proporcional, separada de autorización | Candidato T05 |
 | [Contextualización pedagógica humana](human-pedagogical-contextualization.md) | Delimitación situada de necesidad, condiciones y decisiones humanas | Candidato |
 | [Necesidades e intenciones](pedagogical-needs-and-intentions.md) | Necesidades a cualquier escala, intención y dimensiones materias/tiempo/personas | Candidato |
-| [Fuentes, inferencias e incertidumbre](source-inference-uncertainty.md) | Legibilidad de procedencia, propuestas inferenciales, omisiones y límites sin formato universal | Candidato |
+| [Candidatura no admitida: Fuentes, inferencias e incertidumbre](denied/source-inference-uncertainty.md) | Responsabilidades distribuidas entre F06, F07 y F08 | Denied (2026-10-18); sin numeración |
 | [Candidatura no admitida: Interpretación asistida de fuentes](denied/assisted-source-interpretation.md) | Modalidad de F03, no fundamento independiente; se conserva la justificación histórica | Denied (2026-10-18); sin numeración |
 | [Autoría pedagógica](pedagogical-authorship.md) | F08: reconocimiento de autoría humana y tecnológica diferenciado de autorización, identidad y derechos | F08 reconciliado (2026-10-18) |
 | [Resolución recursiva de necesidades](recursive-pedagogical-resolution.md) | Facultad de abordar necesidades que emergen o cambian en diferentes escalas; [coordinación en Lifecycle](../lifecycle/recursive-pedagogical-resolution.md) | Reconocido como fundamento por el fundador |
