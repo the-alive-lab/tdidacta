@@ -49,3 +49,27 @@ El fundador precisó la evolución de tres nombres históricos. Esta revisión *
 No se detecta una candidatura histórica que obligue a crear F11. **Auditoría de cobertura conceptual concluida** con una reserva parcial (responsabilidad compartida) y dos fronteras semánticas abiertas (fuente y continuidad). Esas reservas deben contrastarse con la V6 y el inventario T01–T28 al reconstruir los resultados originales, no resolverse mediante proliferación de fundamentos.
 
 **Próxima etapa autorizada:** reconstrucción/contraste tópico a tópico T01–T28 bajo su procedimiento propio. **Pospuestos:** Foundations → Mechanisms, promoción de nuevos conceptos y la decisión investigativa O3/F10. Ninguna de estas queda adoptada por este informe.
+
+## Decisión posterior — responsabilidades como posible superficie propia (2026-10-18)
+
+El fundador decidió **mantener sin cambios** [Enseñanza](../concepts/teaching.md) y [Aprendizaje](../concepts/learning.md), sin crear ni renombrar los conceptos como `teaching-responsibility` / `learning-responsibility`. Propuso considerar si las responsabilidades constituyen **una superficie conceptual propia**, a examinar **antes de retomar T01–T28**.
+
+**Estado:** hipótesis de separación y revisión preparatoria; **no** aprobación de una carpeta, categoría ontológica, contrato o responsabilidad nueva.
+
+### Contraste inicial de fronteras
+
+- **Foundations:** justifican responsabilidades constitutivas de TDidacta (qué aborda el sistema y por qué), no asignan automáticamente obligaciones a cada participante.
+- **Concepts:** definen enseñanza, aprendizaje, experiencia, autorización y autonomía; una definición conceptual no es por sí sola un régimen de deberes.
+- **Governance:** define autoridad documental y evolución del canon, no necesariamente compromisos pedagógicos de todos los participantes.
+- **Relationships:** explica conexiones entre conceptos/fundamentos, no necesariamente quién asume qué compromiso.
+- **Responsibilities, como superficie candidata:** podría organizar compromisos situados, sujetos responsables, límites, autoridad, colaboración y condiciones de ejercicio sin redefinir los conceptos ni convertirlo todo en procedimientos.
+
+### Preguntas previas a cualquier promoción
+
+1. ¿Qué compromisos específicos se necesitan expresar que no estén suficientemente definidos en F01, F02, F03, F06, F07, F08, F09, los Concepts y Governance?
+2. ¿Es un problema de **propiedad semántica** (contenido realmente distinto) o solamente de navegación/índice editorial?
+3. ¿Cómo distinguir responsabilidad de enseñanza, participación activa en aprendizaje, intención, autoría, aprobación y atribución sin imponer obligaciones idénticas ni garantizar resultados?
+4. ¿Quién asume una responsabilidad en aprendizaje autodidacta, en trabajo compartido y en situaciones con asistencia tecnológica?
+5. ¿Una superficie nueva tendría semántica y referencias propias, o duplicaría las definiciones reconciliadas?
+
+**Siguiente checkpoint:** analizar la necesidad y el límite de una superficie Responsibilities antes de la reconstrucción T01–T28; presentar alternativas **mantener responsabilidades distribuidas**, **índice transversal** y **superficie autónoma** para decisión expresa del fundador. No ejecutar todavía Foundations→Mechanisms ni resolver la investigación O3/F10, que permanece pendiente.
