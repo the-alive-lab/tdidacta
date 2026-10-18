@@ -24,8 +24,6 @@ Una intención bien comprendida y suficientemente documentada puede servir de re
 
 La [tensión O3/O6 — proporcionalidad de la inversión del esfuerzo](../tensions/effort-inversion-proportionality.md) requiere evaluar cuándo una mayor inversión en comprensión/documentación empieza a resultar desproporcionada. La proporcionalidad es un criterio conceptual de respuesta, **no una demostración de resolución**.
 
-## Incidencia en fundamentos ya examinados
+## Relación con fundamentos
 
-- [F01](../foundations/teaching-and-learning.md): **sin incidencia**; interpreta enseñanza y aprendizaje, sin distribuir trabajo para responder.
-- [F02](../foundations/pedagogical-needs-and-intentions.md): **incidencia marginal**, pendiente de contraste final: la formulación explícita de intenciones puede favorecer comprensión previa, pero O6 no determina sus conceptos.
-- [F03](../foundations/human-pedagogical-contextualization.md): **condición**; exige priorizar entender/documentar suficientemente frente a producir realizaciones, respetando proporcionalidad.
+Las clasificaciones y justificaciones **O6→F01–F10** se mantienen exclusivamente en las tablas O→F de los [fundamentos correspondientes](../foundations/README.md), reconciliadas por decisión del fundador (2026-10-18). Esta orientación conserva aquí su propósito propio, su distinción con O1/O2/O3 y sus tensiones; no replica un inventario parcial de incidencias que pueda quedar obsoleto.
