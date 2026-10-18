@@ -2,13 +2,11 @@
 
 **Estado:** capas F05 y F06 reconciliadas por el fundador (2026-10-17).
 
-## Definición acumulativa hasta F05
+## Definición canónica acumulativa hasta F06
 
-Concreción de elementos educativos a partir de una intención pedagógica representada, respetando un **alcance pedagógico no superior** al de la intención pertinente. El alcance no equivale necesariamente a extensión, duración o cantidad de elementos. No es necesario concretar todo el alcance de una vez. Una realización puede constituir una intención candidata posterior, pero no queda automáticamente aceptada, autorizada ni validada.
+Una **realización pedagógica** es la concreción de elementos educativos a partir de una intención pedagógica representada, respetando un **alcance pedagógico no superior** al de la intención pertinente. El alcance no equivale necesariamente a extensión, duración o cantidad de elementos. No es necesario concretar todo el alcance de una vez. Una realización puede constituir una intención candidata posterior, pero no queda automáticamente aceptada, autorizada ni validada.
 
-## Ampliación acumulativa hasta F06
-
-F06 añade que una realización debe poder revisarse en función de su pertinencia, correspondencia semántica y circunstancias, y corregirse proporcionalmente cuando corresponda. La revisión o corrección no demuestra por sí sola calidad pedagógica, aprendizaje ni autorización.
+La realización puede revisarse en función de su pertinencia, correspondencia semántica y circunstancias, y corregirse proporcionalmente cuando corresponda. La revisión o corrección no demuestra por sí sola calidad pedagógica, aprendizaje ni autorización.
 
 ## Capa F05 — Proyección semántica
 
