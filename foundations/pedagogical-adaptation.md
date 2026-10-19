@@ -57,6 +57,7 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las circunstancias particulares incluyen limitaciones materiales y posibilidades de acceso directo o indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | La conservación independiente de recursos públicos pertenece a otra responsabilidad; puede beneficiar el uso de recursos asociados, pero no determina la especialización de escenarios. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas especializaciones pueden suscitar actuaciones auditables, sin que la auditoría defina o condicione la adaptación. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | La especialización de escenarios puede aprovechar información multimodal pertinente sin cambiar la intención ni imponer perfiles. |
 
 ## 6. Cierre conceptual
 
