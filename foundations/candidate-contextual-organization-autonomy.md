@@ -10,11 +10,19 @@ Los escenarios [E02 comunitario](../scenarios/e02-aprendizaje-autodidacta.md) y 
 
 La configuración contextual no define por sí sola quién posee legitimidad legal o pedagógica; debe respetar las condiciones de autoridad humana pertinente. Diferenciar libertad para organizar funciones de automatizar, eludir o inventar autoridad.
 
+## Delimitación acordada en revisión (2026-10-19)
+
+TDidacta tendrá **facultades fijas definidas por el propio sistema** (equivalentes conceptualmente a *permisos*) y permitirá componer **responsabilidades configurables según el contexto** (equivalentes a *roles*). La terminología preferida en las superficies de dominio es «responsabilidad» y «facultad».
+
+Los usuarios pueden definir responsabilidades a partir de las facultades disponibles, pero **no crear nuevas facultades arbitrarias**. «Fijas» significa determinadas por la versión/capacidades de TDidacta, no que nunca puedan evolucionar con el producto. El catálogo concreto, sus asociaciones y la representación técnica quedan pendientes de diseño.
+
+Configurar una facultad de actuación **no autoriza anticipadamente** decisiones o elementos pedagógicos futuros. F07 conserva su frontera de autorización pedagógica. El fundamento no impone jerarquía ni roles predefinidos universalmente.
+
 ## Fronteras
 
 - No sustituye la decisión de autorización pedagógica ni su alcance definidos en [F07](pedagogical-authorization.md).
 - No equipara atribución de autoría, pertenencia comunitaria, autenticación, reconocimiento de identidad personal, acceso y autorización.
-- No adopta un modelo de roles ni un ACL, esquema de permisos, organigrama, motor de políticas, algoritmo de consenso o estructura de software.
+- El criterio de **permisos/facultades fijas y roles/responsabilidades configurables** queda identificado por decisión del fundador; no se adopta todavía un catálogo, ACL técnico, organigrama, motor de políticas o estructura de software.
 - Que un contexto sea configurable no significa que cualquier configuración satisfaga automáticamente restricciones éticas, legales o pedagógicas.
 - Incluye tanto comunidades colaborativas sin docente designado como instituciones con autoridades explícitas; no exige una jerarquía idéntica.
 
