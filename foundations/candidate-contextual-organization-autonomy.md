@@ -18,6 +18,16 @@ Los usuarios pueden definir responsabilidades a partir de las facultades disponi
 
 Configurar una facultad de actuación **no autoriza anticipadamente** decisiones o elementos pedagógicos futuros. F07 conserva su frontera de autorización pedagógica. El fundamento no impone jerarquía ni roles predefinidos universalmente.
 
+## Precisación del concepto candidato «Facultad» (2026-10-19)
+
+**Facultad** es una acción reconocida por TDidacta con significado semántico en su dominio, ejercible por un actor en su flujo de trabajo. TDidacta define el catálogo de estas acciones; cada contexto distribuye su ejercicio mediante responsabilidades configurables.
+
+Ejemplos positivos: editar una intención pedagógica, convocar una revisión, autorizar una versión (esta última sujeta además a las condiciones de F07). «Abrir una carpeta» o un menú, por sí solos, son interacciones técnicas o de interfaz, **no facultades**: no se ha definido «carpeta» como objeto de dominio ni una actuación educativa correspondiente.
+
+La facultad delimita **qué acción de dominio puede ejercerse**, no garantiza que toda ejecución sea válida ni reemplaza restricciones o decisiones del dominio. Una misma facultad puede exponerse por varias interfaces técnicas sin convertirse por ello en varias facultades.
+
+**Estado:** definición de trabajo precisada por el fundador; pendiente de reconciliar y promover en Concepts junto con los demás conceptos de estas candidaturas.
+
 ## Fronteras
 
 - No sustituye la decisión de autorización pedagógica ni su alcance definidos en [F07](pedagogical-authorization.md).
