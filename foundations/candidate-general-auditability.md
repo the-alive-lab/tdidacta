@@ -1,6 +1,6 @@
 # Evaluación de candidatura F13 — Auditabilidad de actuaciones y decisiones
 
-**Estado:** hipótesis fundacional sometida a revisión (2026-10-19). **No adoptada, no numerada canónicamente, no vinculante.** O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
+**Estado:** responsabilidad propuesta y distinción inicial de conceptos **avaladas expresamente por el fundador (2026-10-19)**. **No adoptada como F13, no numerada canónicamente**; O0–O11→F13 y capas conceptuales pendientes de reconciliación. O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
 
 ## Problema y fundamento de la candidatura
 
@@ -9,6 +9,8 @@
 **Hipótesis F13:** TDidacta debe hacer posible reconstruir y examinar, con fiabilidad y proporcionalidad, las actuaciones relevantes de sus dominios y sus condiciones de ejercicio, resultados y cambios asociados, preservando límites de acceso, identificación y conservación.
 
 La utilidad fundacional se presenta como hipótesis de responsabilidad propia, **no como implementación obligatoria de registro exhaustivo**.
+
+**Decisión de revisión (2026-10-19):** el fundador considera adecuada la formulación de la responsabilidad y los conceptos propuestos. Esto valida su utilización como base de deliberación, **sin aprobar por anticipado** nuevas tablas de orientaciones, la necesidad de tres archivos conceptuales separados ni su promoción canónica.
 
 ## Contraste de suficiencia
 
@@ -46,7 +48,7 @@ La utilidad fundacional se presenta como hipótesis de responsabilidad propia, *
 | **Evidencia de auditoría** | ¿Qué información permite reconstruir una actuación y con qué límites de confiabilidad? | Representaciones y documentos de otros fundamentos |
 | **Contexto de actuación** | ¿Qué condiciones, sujeto operativo y facultades eran pertinentes al actuar? | [Responsabilidad contextual](../concepts/contextual-responsibility.md), identidad operativa y alcance de F07 |
 
-No promover automáticamente estos tres conceptos: «Contexto de actuación» podría bastar como relación o propiedad de Evidencia de auditoría, y «Actuación auditable» puede requerir una distinción precisa respecto de Facultad.
+La distinción **Facultad (habilitación) / Actuación (ejercicio concreto) / Evidencia (reconstrucción examinable)** fue aceptada por el fundador. No promover automáticamente estos tres conceptos: «Contexto de actuación» podría bastar como relación o propiedad de Evidencia de auditoría, y «Actuación auditable» puede requerir una distinción precisa respecto de Facultad.
 
 ## Trazabilidad O→F13 tentativa (pendiente de deliberación)
 
