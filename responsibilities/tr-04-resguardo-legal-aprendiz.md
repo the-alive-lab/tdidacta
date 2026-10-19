@@ -21,7 +21,7 @@ Son acciones candidatas reconocidas por su **finalidad común**; no se separan e
 ## Necesidades de cobertura E01
 
 - **N3:** Límites de acceso y autoridad: condicional.
-- **N6:** Protección de información personal: condicional.
+- **N6:** Resguardar los intereses de privacidad e información del aprendiz cuando interviene un apoderado pertinente: principal dentro del ámbito condicional de T-R04; no supone control exclusivo de todos los datos personales.
 
 ## Frontera y cautelas
 
