@@ -66,6 +66,7 @@ No establece formatos de prueba de autorización, esquema de identidad interno, 
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Una autorización puede estar situada para resultados de uso directo o indirecto; garantizar accesibilidad pertenece a contextualización y realizaciones, no a la aprobación misma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Autorizar un elemento publicable no equivale a preservar su disponibilidad posterior; la continuidad se debe atender por capacidades de publicación y distribución. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Auditar la actuación de autorizar es anexo a la autorización pedagógica y a su alcance, no condición conceptual de F07. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Sin incidencia — reconciliado 2026-10-19** | Autorizar es independiente de que el objeto sea textual, sonoro o visual. |
 
 
 ## 7. Mantenimiento
