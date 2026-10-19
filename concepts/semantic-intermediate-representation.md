@@ -5,6 +5,8 @@
 ## Definición acumulativa hasta F05
 
 Representación estructurada de significado documental relevante —incluidas relaciones y restricciones— destinada a poder ser interpretada y utilizada posteriormente por tecnologías, individualmente o junto con otras representaciones. Puede expresar solo una parte delimitada de su fuente y conservar ambigüedades o pérdidas reconocibles. No equivale al documento original ni necesita un formato universal. También puede actuar como fuente estructurada de exploraciones y realizaciones tecnológicas conforme a su significado, sin constituirse por ello en una realización o aprobación.
+La representación puede expresar propiedades pertinentes de experiencias multimodales sin almacenar sus archivos multimedia. La producción concreta corresponde a la proyección.
+
 ## Capa F04 — Abstracción semántica
 
 **Aporte de F04:** caracteriza el resultado conceptual de abstraer significado, diferenciándolo de la fuente textual y del uso posterior mediante proyección.
@@ -17,6 +19,8 @@ Representación estructurada de significado documental relevante —incluidas re
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | El valor de utilizar IR debe contrastarse contra su costo integral de creación y mantenimiento. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | Gestionar IR no debe desplazar desproporcionadamente la comprensión pedagógica. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | La representación no debe incluir datos personales sin justificación derivada del propósito de tratamiento. |
+
+**O12 mediante F04 — Complemento:** representa significado pertinente de fenómenos multimodales sin exigir señales completas.
 
 ## Capa F05 — Proyección semántica
 
@@ -31,6 +35,8 @@ Representación estructurada de significado documental relevante —incluidas re
 | [O6](../orientation/effort-inversion.md) | **Condición** | Utilizar la IR no debe imponer administración humana excesiva. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Proyectar desde IR no autoriza divulgar datos personales innecesarios. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Su aprovechamiento puede sustentar realizaciones utilizables fuera de la plataforma. |
+
+**O12 mediante F05 — Sin incidencia:** la multimodalidad de las proyecciones no exige ampliar las obligaciones de la IR.
 
 ## Fronteras
 
