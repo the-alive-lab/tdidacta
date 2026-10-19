@@ -1,6 +1,6 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. La relación O10 continúa como **hipótesis inicial** para revisar; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O0–O10 están **revisadas individualmente**; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -40,7 +40,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición — reconciliado 2026-10-19** | Los puntos de partida deben evitar exigir o recopilar datos personales innecesarios; la simplicidad inicial no puede depender de una configuración invasiva. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición — reconciliado 2026-10-19** | Los valores iniciales no deben exigir reconocimiento personal innecesario, fingir certificación de identidad ni propagar automáticamente relaciones entre identidades operativas. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Origen — reconciliado 2026-10-19** | La diversidad de circunstancias de acceso educativo justifica ofrecer puntos de partida adecuados a los escenarios atendidos, evitando que iniciar una experiencia dependa de configurar desde cero soluciones para cada contexto. |
-| [O10](../orientation/public-resource-continuity.md) | **Sin incidencia o marginal (por deliberar)** | Conservar recursos públicos no determina por sí mismo plantillas de inicio; las configuraciones no deben bloquearlo. |
+| [O10](../orientation/public-resource-continuity.md) | **Sin incidencia — reconciliado 2026-10-19** | O10 trata de la conservación y consulta independiente de recursos públicos, no de ofrecer configuraciones iniciales para comenzar a utilizar TDidacta. |
 
 ## Preguntas para reconciliación
 
