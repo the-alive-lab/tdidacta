@@ -6,6 +6,8 @@
 
 Relación de transformación por la cual parte del significado expresado en documentación humana se representa estructuradamente para facilitar su uso tecnológico. No presupone equivalencia total entre prosa y estructura, reversibilidad, ausencia de pérdidas ni conformidad automática. La documentación de origen puede seguir siendo necesaria.
 
+El significado documentado puede remitir a fenómenos y fuentes multimodales; abstraer propiedades pertinentes no exige convertir señales completas en texto ni incluirlas en IR.
+
 ## Capa F04 — Abstracción semántica
 
 **Aporte de F04:** establece la frontera entre documentación comprensible y significado estructurado, conservando trazabilidad de restricciones, relaciones, ambigüedades y pérdidas relevantes.
@@ -18,6 +20,7 @@ Relación de transformación por la cual parte del significado expresado en docu
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | La obtención, revisión y mantenimiento de la abstracción no deben imponer carga desproporcionada. |
 | [O6](../orientation/effort-inversion.md) | **Condición** | El trabajo estructural debe servir a la comprensión y a las realizaciones, no sustituirlas como fin. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | La transformación no debe propagar ni crear datos personales innecesarios por el solo hecho de estructurar documentación. |
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | Representar propiedades de fenómenos multimodales no obliga a absorber sus señales. |
 
 ## Fronteras
 
