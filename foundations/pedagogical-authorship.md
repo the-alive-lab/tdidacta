@@ -74,6 +74,7 @@ F08 no define derechos de autor, permisos, consentimiento, distribución de rega
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Aportes directos e indirectos pueden existir sin uso individual de plataforma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de publicaciones corresponde a otra responsabilidad. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | F08 reconoce autoría y contribuciones, sin requerir reconstrucción operativa ni auditoría automática de origen. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Sin incidencia — reconciliado 2026-10-19** | Reconocer contribuciones y autoría no depende de la modalidad de los aportes. |
 
 ## 8. Mantenimiento
 
