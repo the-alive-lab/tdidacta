@@ -55,6 +55,7 @@ Puede existir tensión entre orientación y libertad de recorrido, y entre apoyo
 | [O8](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | La autonomía no presupone certificación de identidad personal. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las oportunidades de autonomía se consideran según circunstancias reales de acceso, incluso indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Complemento** | La continuidad de recursos públicos puede facilitar exploración independiente del servicio, pero no define autonomía. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas actuaciones del aprendiz pueden resultar auditables, pero ello no constituye ni condiciona su autonomía. |
 
 ## 7. Fronteras y estado
 
