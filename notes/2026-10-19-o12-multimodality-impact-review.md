@@ -10,7 +10,7 @@
 | F02 — Necesidades e intenciones | ¿El reconocimiento de medios perceptivos relevantes cambia la formulación de necesidades/intenciones o solo su expresión? |
 | **F03 — Contextualización pedagógica humana** | ¿Qué fuentes y observaciones no textuales se deben poder comprender y documentar? Distinguir experiencia perceptiva de registro documental. |
 | **F04 — Abstracción semántica** | ¿Debe ampliarse la frontera hoy formulada como prosa→IR para abarcar evidencia multimodal, o debe distinguirse la documentación de la señal original? Examinar pérdida/pertinencia semántica sin exigir IR binaria. |
-| **F05 — Proyección semántica** | ¿Cómo expresamos realizaciones multimodales y realizadores especializados, sin asumir fidelidad, compatibilidad ni soporte técnico universal? |
+| **F05 — Proyección semántica** | **Condición — clasificación indicada por el fundador (2026-10-19).** Las proyecciones deben *poder* concretar modalidades pertinentes cuando la intención lo requiera, sin que toda proyección tenga que ser multimodal; realizadores especializados pueden materializarlas. |
 | F06 — Revisión y corrección | ¿Revisar materiales o resultados perceptivos modifica la responsabilidad o constituye un caso de su alcance general? |
 | F07 — Autorización pedagógica | ¿Autorizar una realización sonora/visual altera la autorización misma, o es solo un objeto posible? |
 | F08 — Autoría pedagógica | ¿Contribuciones en distintas modalidades amplían la semántica del reconocimiento de autoría? |
@@ -19,6 +19,12 @@
 | F11 — Autonomía de organización contextual | ¿Las facultades y cometidos pueden ejercerse sobre contenidos multimodales sin alterar su definición? |
 | F12 — Configuraciones iniciales opinionadas | ¿Ofrecer configuraciones de modalidades es parte constitutiva de F12 o solo uno de tantos ámbitos configurables? |
 | F13 — Auditabilidad de actuaciones y decisiones | ¿La modalidad de evidencia afecta la responsabilidad general de reconstrucción o solo mecanismos posteriores? |
+
+## Precisión del fundador sobre F05 y la IR (2026-10-19)
+
+El fundador estableció **O12→F05 como Condición**, frente a la propuesta preliminar de Complemento: una proyección debe poder realizarse multimodalmente **cuando sea pertinente**, no en toda ejecución. La IR puede contener por sí misma el significado suficiente sin incorporar audio, video u otros recursos de presentación: corresponde a F05 y sus realizadores concretar la experiencia, posiblemente usando MIDI y síntesis externa. Una IR semánticamente suficiente no equivale a una representación que contenga todos los insumos materiales de cada realización. Esta precisión no implica que toda proyección funcione ya ni que un realizador preserve automáticamente las propiedades perceptivas pertinentes.
+
+Las demás relaciones O12→F01–F13 continúan pendientes de aprobación; no modificar la tabla canónica F05 hasta reconciliar la matriz transversal completa.
 
 ## Conceptos que pueden requerir contraste
 
