@@ -43,6 +43,7 @@ Los conceptos tienen identidad semántica independiente, sin exigir tres represe
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Sin incidencia** | O9 concierne al acceso contextual educativo; el acceso a evidencias de auditoría es una cuestión diferente y no deriva de esa orientación. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia** | Continuidad de recursos públicos no equivale a retención de evidencia de auditoría. |
 | [O11](../orientation/general-auditability.md) | **Origen** | La exigencia explícita de reconstrucción y examen de actuaciones relevantes justifica la responsabilidad propuesta. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Sin incidencia — reconciliado 2026-10-19** | Evidencia de distintas modalidades no redefine la responsabilidad de reconstruir actuaciones. |
 
 ## 5. Decisión y procedencia
 
