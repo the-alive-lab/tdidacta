@@ -1,6 +1,6 @@
 # Evaluación de candidatura F13 — Auditabilidad de actuaciones y decisiones
 
-**Estado:** responsabilidad propuesta y distinción inicial de conceptos **avaladas expresamente por el fundador (2026-10-19)**. **No adoptada como F13, no numerada canónicamente**; O0–O11→F13 y capas conceptuales pendientes de reconciliación. O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
+**Estado:** responsabilidad propuesta y distinción inicial de conceptos **avaladas expresamente por el fundador (2026-10-19)**. **No adoptada como F13, no numerada canónicamente**; O0–O11→F13 reconciliada y capas conceptuales pendientes de reconciliación. O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
 
 ## Problema y fundamento de la candidatura
 
@@ -50,24 +50,24 @@ La utilidad fundacional se presenta como hipótesis de responsabilidad propia, *
 
 La distinción **Facultad (habilitación) / Actuación (ejercicio concreto) / Evidencia (reconstrucción examinable)** fue aceptada por el fundador. No promover automáticamente estos tres conceptos: «Contexto de actuación» podría bastar como relación o propiedad de Evidencia de auditoría, y «Actuación auditable» puede requerir una distinción precisa respecto de Facultad.
 
-## Trazabilidad O→F13 tentativa (pendiente de deliberación)
+## Trazabilidad O→F13 reconciliada (2026-10-19)
 
-| Orientación | Propuesta | Motivo |
+| Orientación | Relación aprobada | Motivo |
 | --- | --- | --- |
-| O0 | **Condición o complemento — revisar** | La auditabilidad protege decisiones pertinentes a contextos educativos, pero no constituye por sí misma enseñar/aprender. El fundamento eventual debe tener al menos un origen, O11. |
+| O0 | **Sin incidencia** | O0 define la orientación principal de enseñanza y aprendizaje, mientras que F13 trata de reconstruir actuaciones relevantes; su origen corresponde a O11. |
 | O1 | **Sin incidencia** | Reconstruir acciones no exige asumir continuidad de significado pedagógico como mismo objeto. |
-| O2 | **Complemento — revisar** | La tecnología facilita captura o examen sin imponer un mecanismo único. |
+| O2 | **Complemento** | La tecnología facilita captura o examen sin imponer un mecanismo único. |
 | O3 | **Condición** | El costo humano de registrar y consultar evidencia debe ser proporcionado. |
-| O4 | **Incidencia marginal — revisar** | Puede examinarse la acción de autorización, sin sustituir la decisión humana. |
+| O4 | **Sin incidencia** | La autorización pedagógica y la auditabilidad son responsabilidades anexas; examinar una autorización no vincula el fundamento general de auditoría con la orientación de autorización pedagógica. |
 | O5 | **Sin incidencia** | Reconocer aportes es diferente de reconstruir acciones. |
 | O6 | **Condición** | La auditoría no debería desplazar esfuerzo innecesario desde el trabajo educativo. |
 | O7 | **Condición** | Minimización de datos personales, conservación justificada y control de exposición. |
 | O8 | **Condición** | Identidad operativa de una actuación no significa identidad personal verificada. |
-| O9 | **Condición — revisar** | El examen de información relevante debería considerar barreras contextuales sin imponer disponibilidad universal. |
+| O9 | **Sin incidencia** | O9 concierne al acceso contextual educativo; el acceso a evidencias de auditoría es una cuestión diferente y no deriva de esa orientación. |
 | O10 | **Sin incidencia** | Continuidad de recursos públicos no equivale a retención de evidencia de auditoría. |
 | O11 | **Origen** | La exigencia explícita de reconstrucción y examen de actuaciones relevantes justifica la responsabilidad propuesta. |
 
-**No hay aprobación de estas relaciones.** Su sentido debe discutirse una por una, como se hizo con F11/F12.
+**Matriz aprobada por el fundador (2026-10-19).** O0, O4 y O9 fueron expresamente reclasificadas como **Sin incidencia**; las restantes relaciones se aprobaron según la propuesta conjunta. Esta aprobación no equivale a promover F13.
 
 ## Preguntas de decisión
 
@@ -79,6 +79,6 @@ La distinción **Facultad (habilitación) / Actuación (ejercicio concreto) / Ev
 
 ## Secuencia sugerida
 
-Resolver primero la **responsabilidad y límites** del fundamento candidato; después clasificar O0–O11 → F13 con el fundador, evaluar conceptos y capas; solo entonces solicitar una **promoción expresa**. La adopción de O11 no aprueba automáticamente F13.
+Resolver primero la **responsabilidad y límites** del fundamento candidato; la clasificación O0–O11 → F13 ya está reconciliada; evaluar conceptos y capas; solo entonces solicitar una **promoción expresa**. La adopción de O11 no aprueba automáticamente F13.
 
 **Fuentes:** [O11](../orientation/general-auditability.md) · [contraste O11→F01–F12](../notes/2026-10-19-o11-foundations-impact-review.md) · [reglas de promoción](scope-and-promotion.md).
