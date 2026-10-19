@@ -4,7 +4,7 @@
 
 ## 1. Origen y responsabilidad
 
-F04 surge de **O1 — Continuidad semántica** y **O2 — Aprovechamiento tecnológico**. Establece la responsabilidad de **relacionar significado documental en prosa con representaciones estructuradas aprovechables por tecnología**, manteniendo visibles restricciones, relaciones y posibles pérdidas o ambigüedades.
+F04 surge de **O1 — Continuidad semántica** y **O2 — Aprovechamiento tecnológico**. Establece la responsabilidad de **relacionar significado documentado con representaciones estructuradas aprovechables por tecnología**, manteniendo visibles restricciones, relaciones y posibles pérdidas o ambigüedades.
 
 La abstracción no supone traducción perfecta, equivalencia ni reversibilidad. Tampoco reemplaza necesariamente la documentación de origen. **O0** condiciona su especialización al dominio pedagógico de TDidacta, no la definición general de PResolver.
 
@@ -16,7 +16,7 @@ La abstracción no supone traducción perfecta, equivalencia ni reversibilidad. 
 - **Frontera de responsabilidad:** abstraer prepara significado para usos posteriores; **proyectar** para producir exploraciones o realizaciones pertenece a F05.
 - **Esfuerzo proporcionado:** crear, validar y mantener estructuras introduce costos que O3 y O6 exigen contrastar con sus beneficios reales.
 
-En TDidacta, las fuentes pueden expresar necesidades, intenciones, circunstancias y relaciones pedagógicas. Docs Standard define su representación documental; [IR Specification](../products/ir-specification/README.md) define características técnicas de IR.
+En TDidacta, la entrada de F04 es **el significado documentado mediante TDidacta Docs Standard**, que representa intenciones, situaciones válidas y sus relaciones y restricciones. Los materiales multimodales de origen pueden informar esa documentación, pero su interpretación previa no debe confundirse con el mecanismo Docs Standard → IR. Docs Standard todavía no tiene especificado cómo representa o referencia tales materiales; F04 no presupone que deba convertirlos íntegramente a texto ni incorporarlos como señales a la IR. [IR Specification](../products/ir-specification/README.md) define características técnicas de IR.
 
 ## Modalidades — contraste conceptual y operacional
 
@@ -44,6 +44,8 @@ Persisten [O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) y [O3 ↔
 
 **Incidencia de las orientaciones O7–O10 reconciliada:** O7 condiciona la minimización de datos personales durante abstracción y composición; O8 no modifica su frontera; O9 refuerza marginalmente preservación de circunstancias de acceso en el dominio pedagógico, no las capacidades de distribución; O10 no exige conservar recursos educativos como IR.
 
+**Precisión editorial derivada de O12 (2026-10-19):** la expresión histórica «en prosa» restringía innecesariamente la formulación general de F04. Se retira esa restricción textual sin cambiar la responsabilidad aprobada ni la frontera concreta de TDidacta: **Docs Standard → IR**. Una ruta directa desde contenido no documental hacia IR no queda adoptada; las modalidades de representación de Docs Standard siguen por especificar.
+
 ## 5. Fronteras
 
 F04 no impone formato universal, reversibilidad, transformación sin pérdidas, compatibilidad automática, conformidad semántica demostrada, autorización pedagógica ni algoritmo concreto de transformación. No produce por sí mismo exploraciones o realizaciones.
@@ -55,7 +57,7 @@ La definición documental corresponde a Docs Standard; esquemas de IR correspond
 | Orientación | Clasificación | Justificación |
 | --- | --- | --- |
 | [O0 — Principal](../orientation/README.md) | **Condición** | En TDidacta, la especialización debe responder a necesidades pedagógicas; no se impone este dominio al fundamento general PResolver. |
-| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Origen** | Justifica conservar significado en la relación entre prosa e IR. |
+| [O1 — Continuidad semántica](../orientation/semantic-continuity.md) | **Origen** | Justifica conservar significado en la relación entre documentación e IR. |
 | [O2 — Aprovechamiento tecnológico](../orientation/technology-enabled-semantic-continuity.md) | **Origen** | Justifica aprovechar capacidades tecnológicas mediante representaciones utilizables, sin exigir una tecnología particular. |
 | [O3 — Carga y capacidad humana](../orientation/human-effort-and-agency.md) | **Condición** | Exige considerar el esfuerzo y las capacidades reales introducidas por la abstracción. |
 | [O4 — Autorización humana](../orientation/human-pedagogical-authorization.md) | **Sin incidencia** | La autorización de documentación de entrada es una responsabilidad externa a la definición de abstracción. |
@@ -64,7 +66,7 @@ La definición documental corresponde a Docs Standard; esquemas de IR correspond
 | [O7 — Privacidad por diseño](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Estructurar y combinar significado no justifica por sí mismo propagar, conservar ni inferir nuevos datos personales innecesarios. |
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | La abstracción no reconoce ni certifica identidades personales; conservar referencias semánticas justificadas no equivale a acreditarlas. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | En la especialización TDidacta puede ser útil preservar restricciones contextuales de acceso presentes en las fuentes; la utilizabilidad directa o indirecta corresponde a realizaciones y mecanismos posteriores. |
-| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación independiente de recursos publicados no define la transformación entre prosa e IR ni exige que todo recurso se almacene como IR. |
+| [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación independiente de recursos publicados no define la transformación entre documentación e IR ni exige que todo recurso se almacene como IR. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | La abstracción conserva y transforma significado semántico; auditar una ejecución técnica sería anexo, no constitutivo de F04. |
 | [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | La representación semántica puede describir propiedades pertinentes a fenómenos multimodales sin contener íntegramente las señales o medios de realización. |
 
