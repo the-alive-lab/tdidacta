@@ -16,6 +16,37 @@ La responsabilidad se extiende a **todos los aspectos de alta carga de configura
 
 **Frontera:** este fundamento afirma que TDidacta debe proporcionar configuraciones iniciales opinionadas y adaptables; **no decide qué contiene cada una**. El contenido se deriva de las necesidades de cada [escenario](../scenarios/README.md) y de los fundamentos que expliquen cómo TDidacta lo atiende. Las conexiones se explicitarán en Relationships; su materialización concreta corresponde a Mechanisms y al diseño de productos.
 
+## Concepto candidato — Configuración opinionada (2026-10-19)
+
+**Estado:** definición de trabajo elaborada para revisión; no promovida a Concepts.
+
+Una **Configuración opinionada** es un **punto de partida configurable propuesto por TDidacta** para poner en uso capacidades de uno o varios de sus productos en las circunstancias de un escenario atendido, con el propósito de reducir las decisiones y el trabajo de configuración inicial que deben asumir las personas.
+
+La configuración incorpora elecciones iniciales deliberadas, **no universales ni obligatorias**, y permite que quienes la utilizan las comprendan y modifiquen en lo que resulte pertinente. Su contenido no es definido por este concepto: **surge de las necesidades del escenario y de los fundamentos que explican la respuesta de TDidacta**. El concepto puede aplicarse a responsabilidades/facultades, pantallas especializadas u otros aspectos cuyo costo de configuración sea relevante.
+
+### Propiedades y límites
+
+- **Opinión explícita:** propone decisiones concretas de partida; no significa que sean correctas para todo caso, ni equivale simplemente a un formulario vacío.
+- **Pertinencia contextual:** se ofrece respecto de escenarios atendidos; una configuración útil en uno puede ser inadecuada en otro.
+- **Modificabilidad:** adoptar un punto de partida no impide ajustarlo posteriormente. En casos límite debe seguir siendo posible configurar desde cero dentro de las restricciones legítimas del sistema.
+- **Proporcionalidad de esfuerzo:** en los casos habituales busca permitir el inicio con mínima configuración humana; casos de borde requieren más ajustes y casos límite pueden prescindir del punto de partida. Esto es una expectativa a evaluar, no eficacia ya comprobada.
+- **Frontera con autorización:** aplicar valores iniciales no acredita identidades, no crea facultades que TDidacta no reconoce y no autoriza automáticamente decisiones pedagógicas.
+- **Frontera con implementación:** no exige un tipo de archivo, catálogo, asistente, generador, interfaz o mecanismo determinado.
+
+### Contraste conceptual
+
+- **Escenario de cobertura:** expresa circunstancias y necesidades; **no es la configuración**.
+- **Foundation pertinente:** define la responsabilidad por atender esas necesidades; **no es el contenido predeterminado de una configuración**.
+- **Configuración opinionada:** ofrece elecciones iniciales para empezar a operar capacidades pertinentes; **no sustituye el fundamento que justifica su contenido**.
+- **Mecanismo de aplicación:** concreta cómo seleccionar, generar, materializar y modificar esos valores, sin redefinir el concepto.
+- **Responsabilidad contextual / Facultad:** pueden ser objetos de una configuración opinionada, pero son conceptos distintos y no obligatorios en todas las configuraciones.
+
+### Preguntas de revisión
+
+1. ¿Debe «Configuración opinionada» designar el **punto de partida propuesto** o el **estado concreto resultante de aplicarlo**? Esta propuesta usa el primer sentido y diferencia el segundo para evitar ambigüedad.
+2. ¿Es necesario exigir que cada decisión predeterminada pueda inspeccionarse antes de aplicarla, o basta con que resulte reconocible y modificable? No imponer todavía un mecanismo de presentación.
+3. ¿Conviene conservar «Configuración opinionada» como nombre del concepto y «plantilla» solo como una posible realización?
+
 ## Tres niveles de expectativa
 
 - **Casos habituales:** empezar a utilizar lo pertinente con configuración humana mínima.
