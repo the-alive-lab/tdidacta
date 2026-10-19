@@ -12,9 +12,9 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 
 ## Delimitación acordada en revisión (2026-10-19)
 
-TDidacta tendrá **facultades fijas definidas por el propio sistema** (equivalentes conceptualmente a *permisos*) y permitirá componer **responsabilidades configurables según el contexto** (equivalentes a *roles*). La terminología preferida en las superficies de dominio es «responsabilidad» y «facultad».
+TDidacta tendrá **facultades fijas definidas por el propio sistema** (equivalentes conceptualmente a *permisos*) y permitirá establecer **responsabilidades configurables según el contexto** (equivalentes conceptualmente a *roles*). Una responsabilidad tiene **cometidos propios**, cuyo ejercicio se habilita mediante la selección de las facultades asignadas. La terminología preferida en las superficies de dominio es «responsabilidad» y «facultad».
 
-Los usuarios pueden definir responsabilidades a partir de las facultades disponibles, pero **no crear nuevas facultades arbitrarias**. «Fijas» significa determinadas por la versión/capacidades de TDidacta, no que nunca puedan evolucionar con el producto. El catálogo concreto, sus asociaciones y la representación técnica quedan pendientes de diseño.
+Los usuarios pueden definir qué debe atender cada responsabilidad y seleccionar, entre las facultades disponibles, cuáles permiten actuar en cumplimiento de esos cometidos; **no pueden crear nuevas facultades arbitrarias**. «Fijas» significa determinadas por la versión/capacidades de TDidacta, no que nunca puedan evolucionar con el producto. El catálogo concreto, sus asociaciones y la representación técnica quedan pendientes de diseño.
 
 Configurar una facultad de actuación **no autoriza anticipadamente** decisiones o elementos pedagógicos futuros. F07 conserva su frontera de autorización pedagógica. El fundamento no impone jerarquía ni roles predefinidos universalmente.
 
@@ -27,6 +27,14 @@ Ejemplos del **dominio pedagógico**: editar una intención pedagógica, convoca
 La facultad delimita **qué acción del dominio correspondiente puede ejercerse**, no garantiza que toda ejecución sea válida ni reemplaza restricciones o decisiones del dominio. Una misma facultad puede exponerse por varias interfaces técnicas sin convertirse por ello en varias facultades.
 
 **Estado:** definición de trabajo precisada por el fundador; pendiente de reconciliar y promover en Concepts junto con los demás conceptos de estas candidaturas.
+
+## Precisación del concepto candidato «Responsabilidad contextual» (2026-10-19)
+
+Una **Responsabilidad contextual** es un rol definido dentro de un contexto, con **cometidos específicos de los que debe hacerse cargo**. Su ejercicio se habilita mediante facultades seleccionadas del catálogo que TDidacta reconoce. **La responsabilidad no se reduce al conjunto de permisos**: los cometidos indican qué corresponde atender; las facultades indican qué acciones están habilitadas para ello.
+
+Tener facultades no demuestra por sí solo que los cometidos se hayan cumplido; tampoco equivale a autorizar anticipadamente resultados pedagógicos. Su configuración y asignación concreta son materia de los mecanismos y de los escenarios pertinentes.
+
+**Estado:** precisión aceptada por el fundador como definición de trabajo; pendiente de promoción y capas de Concepts.
 
 ## Fronteras
 
