@@ -13,7 +13,7 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 | [F03 — Contextualización pedagógica humana](../foundations/human-pedagogical-contextualization.md) | **Incidencia marginal — reconciliado 2026-10-19** | F03 trata de cómo se aborda y comprende contextualmente el problema pedagógico; determinadas decisiones pueden ser examinables, pero la auditoría no constituye ese abordaje ni obliga a registrar toda conversación o dato contextual. |
 | [F04 — Abstracción semántica](../foundations/semantic-abstraction.md) | **Sin incidencia — reconciliado 2026-10-19** | La preservación/reconstrucción de significado estructurado pertenece a O1; O11 no exige auditar cada transformación semántica por ser tal. Eventuales ejecuciones auditables pertenecen a mecanismos o a otra responsabilidad. |
 | [F05 — Proyección semántica](../foundations/semantic-projection.md) | **Sin incidencia — reconciliado 2026-10-19** | Explorar y realizar posibilidades no implica por sí solo registro de todo intento; actuaciones específicas sensibles podrían auditarse por O11 sin redefinir F05. |
-| [F06 — Revisión y corrección](../foundations/pedagogical-review-and-correction.md) | **Complemento** | Examinar decisiones, cambios y efectos puede apoyar revisión/corrección; no sustituye el significado pedagógico de la revisión ni exige evidencia exhaustiva de cada borrador. |
+| [F06 — Revisión y corrección](../foundations/pedagogical-review-and-correction.md) | **Incidencia marginal — reconciliado 2026-10-19** | La auditoría transversal y la revisión/corrección pedagógica son procesos anexos y diferenciados: ambas pueden coincidir sobre actuaciones o elementos, pero la primera no complementa constitutivamente a la segunda. |
 | [F07 — Autorización](../foundations/pedagogical-authorization.md) | **Condición (a contrastar)** | La decisión de autorizar y sus condiciones de ejercicio son ejemplos centrales de actuaciones cuya reconstrucción puede ser necesaria; conservar versión/alcance pedagógico no resuelve por sí solo el examen operativo de quién actuó y bajo qué facultades. |
 | [F08 — Autoría pedagógica](../foundations/pedagogical-authorship.md) | **Sin incidencia** | Reconocimiento de contribuciones por declaración responsable no presupone auditoría de origen; imponerla contradiría la frontera explícita con auditoría automática. |
 | [F09 — Autonomía del aprendiz](../foundations/learner-autonomy.md) | **Condición (a contrastar)** | Auditar actuaciones relevantes no debe transformarse en vigilancia desproporcionada de exploración y recorridos personales. La incidencia es de límite, no de origen de F09. |
@@ -37,6 +37,10 @@ El fundador aprobó **Incidencia marginal**: F03 aborda cómo comprender y conte
 
 El fundador aprobó expresamente **Sin incidencia** para ambos fundamentos: F04 se ocupa de la abstracción y F05 de la proyección semántica; el registro de ejecuciones eventualmente auditables no define ni condiciona estas responsabilidades conceptuales. No confundir O1, continuidad de significado, con O11, auditoría de actuaciones.
 
+## Decisión reconciliada — F06
+
+El fundador clasificó **Incidencia marginal**, rechazando Complemento: auditoría transversal y revisión/corrección pedagógica son procesos anexos. La coincidencia sobre hechos o elementos no implica que la auditoría contribuya a constituir el proceso de revisión/corrección.
+
 ## Comprobaciones transversales
 
 - **O1 versus O11:** no insertar auditoría operativa dentro de continuidad semántica.
@@ -51,4 +55,4 @@ El fundador aprobó expresamente **Sin incidencia** para ambos fundamentos: F04 
 
 ## Decisiones pendientes
 
-Reconciliar con el fundador las siete clasificaciones O11→F restantes (F01–F05 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F06 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
+Reconciliar con el fundador las seis clasificaciones O11→F restantes (F01–F06 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F07 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
