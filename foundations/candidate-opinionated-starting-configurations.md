@@ -1,5 +1,7 @@
 # Candidatura B — Configuraciones iniciales opinionadas
 
+> **Archivo histórico — candidatura promovida el 2026-10-19.** La definición canónica vigente es [el fundamento formalizado](opinionated-starting-configurations.md). Este documento conserva deliberaciones y estados anteriores que no deben interpretarse como pendientes actuales.
+
 **Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O0–O10 están **revisadas individualmente**; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
