@@ -20,7 +20,7 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 | **T-R01b** | [Contextualización y adaptación pedagógica](tr-01b-contextualizacion-adaptacion-pedagogica.md) | Criterios acordados; contraste E02–E05 pendiente |
 | **T-R02** | [Protección y autorización pedagógica](tr-02-proteccion-autorizacion-pedagogica.md) | Criterios acordados; contraste E02–E05 pendiente |
 | **T-R03** | [Aprendizaje y autonomía](tr-03-aprendizaje-retroalimentacion.md) | Criterios acordados; contraste E02–E05 pendiente |
-| **T-R04** | [Resguardo legal del aprendiz cuando corresponda](tr-04-resguardo-legal-aprendiz.md) | Función de apoderado e interlocución acordadas; H03 abierto |
+| **T-R04** | [Representación y resguardo del aprendiz](tr-04-resguardo-legal-aprendiz.md) | H03 reconciliado: apoderado o figura equivalente, aplicación condicional; contraste pendiente |
 | **T-R05** | [Gestión de acceso a recursos](tr-05-gestion-acceso-recursos.md) | Criterios acordados; contraste E02–E05 pendiente |
 
 **Secuencia acordada:** terminar y reconciliar las responsabilidades de E01; **después** contrastar su objetivo y sus acciones con E02–E05. Esta superficie no establece Roles ni distribuciones entre personas.
