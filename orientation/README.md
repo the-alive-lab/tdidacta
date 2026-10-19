@@ -32,6 +32,7 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 - [O8 — Externalización del reconocimiento de identidades personales](external-personal-identity-recognition.md): distinguir identidad personal externa, identidad operativa y relaciones contextuales sin externalizar necesariamente la autenticación.
 - [O9 — Accesibilidad contextual y alcance educativo](contextual-access-and-educational-reach.md): favorecer acceso directo bajo restricciones y acceso indirecto a experiencias educativas sin usar la plataforma.
 - [O10 — Continuidad e independencia de los recursos públicos](public-resource-continuity.md): conservar, consultar y utilizar recursos públicos incluso ante interrupciones prolongadas o cierre definitivo de TDidacta.
+- [O11 — Auditoría general](general-auditability.md): reconstruir y examinar actuaciones, decisiones y cambios relevantes con fiabilidad, proporcionalidad y privacidad, tanto en dominio pedagógico como organizativo y productos.
 
 **Decisión conceptual del fundador:** continuidad semántica y aprovechamiento tecnológico son orientaciones distintas y transversales a los hijos de PResolver; la orientación de carga y capacidad de acción se agrega para TDidacta, con generalización pendiente. **Su combinación motiva** los fundamentos de abstracción y proyección semánticas; no significa que sean fundamentos en sí mismas ni que sus formulaciones ya se hayan adoptado en el canon general de PResolver.
 
@@ -41,9 +42,9 @@ El sistema busca atender **ambos lados de esa relación**, sin asumir que toda e
 
 ## Integridad de trazabilidad con Foundations
 
-La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las diez orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
+La **orientación principal** expresada en este documento es **transversal a todos los fundamentos pedagógicos de TDidacta**. Las once orientaciones complementarias aportan razones adicionales diferentes; no se presume que cada una sea igualmente constitutiva de todos los fundamentos.
 
-**Estado actualizado (2026-10-18):** la incidencia O0–O10 está reconciliada en F01–F10 por decisión del fundador. Las clasificaciones y justificaciones vigentes se consultan en **cada fundamento**, no se duplican aquí. O8 conserva la distinción entre identidad personal, operativa y relaciones contextuales. La revisión se reabre solo ante nuevas orientaciones o cambios sustantivos explícitos.
+**Estado actualizado (2026-10-19):** la incidencia O0–O10 fue reconciliada y se conserva en F01–F12 según sus documentos. O11 fue adoptada expresamente y su incidencia en F01–F12 tiene [revisión preliminar pendiente de reconciliación](../notes/2026-10-19-o11-foundations-impact-review.md). Las clasificaciones y justificaciones vigentes se consultan en **cada fundamento**, no se duplican aquí. O8 conserva la distinción entre identidad personal, operativa y relaciones contextuales. La revisión se reabre solo ante nuevas orientaciones o cambios sustantivos explícitos.
 
 **Regla vigente para esta etapa:** agregar, retirar o modificar sustantivamente cualquier orientación —incluida la principal— **obliga a revisar todos los fundamentos** y sus tablas de trazabilidad, identificando apoyo directo, contribución indirecta, ausencia de relación, insuficiencia o contradicción. No basta con añadir enlaces al nuevo documento. La revisión precede a considerar la propagación documental concluida; no impone modificar el contenido de todos los fundamentos ni promueve automáticamente nuevas abstracciones.
 
