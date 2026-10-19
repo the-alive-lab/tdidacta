@@ -9,7 +9,7 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 | Fundamento | Clasificación O11→F candidata | Razón y límite |
 | --- | --- | --- |
 | [F01 — Enseñanza y aprendizaje](../foundations/teaching-and-learning.md) | **Sin incidencia — reconciliado 2026-10-19** | F01 determina cómo TDidacta interpreta el problema desde las perspectivas de enseñanza y aprendizaje; no establece actuaciones operativas cuya reconstrucción defina esa responsabilidad. Las acciones auditables corresponden a otros fundamentos. |
-| [F02 — Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) | **Incidencia marginal** | Formular o documentar intenciones puede dejar decisiones relevantes examinables; O11 no constituye la necesidad ni la intención pedagógica. |
+| [F02 — Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) | **Incidencia marginal — reconciliado 2026-10-19** | F02 establece un fundamento para abordar y resolver problemas pedagógicos mediante necesidades e intenciones; por ello las decisiones pertinentes pueden requerir examen, aunque O11 no define las necesidades, intenciones ni su significado. |
 | [F03 — Contextualización pedagógica humana](../foundations/human-pedagogical-contextualization.md) | **Incidencia marginal** | Algunas decisiones de contextualización son relevantes, pero la auditabilidad no define la comprensión situada ni obliga a registrar toda conversación o dato contextual. |
 | [F04 — Abstracción semántica](../foundations/semantic-abstraction.md) | **Sin incidencia** | La preservación/reconstrucción de significado estructurado pertenece a O1; O11 no exige auditar cada transformación semántica por ser tal. Eventuales ejecuciones auditables pertenecen a mecanismos o a otra responsabilidad. |
 | [F05 — Proyección semántica](../foundations/semantic-projection.md) | **Sin incidencia** | Explorar y realizar posibilidades no implica por sí solo registro de todo intento; actuaciones específicas sensibles podrían auditarse por O11 sin redefinir F05. |
@@ -25,6 +25,10 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 
 El fundador determinó expresamente **Sin incidencia**: F01 trata de cómo interpretar el problema, no de ejecutar ni auditar actuaciones. Esto reemplaza la propuesta preliminar de incidencia marginal sin alterar otras relaciones todavía pendientes.
 
+## Decisión reconciliada — F02
+
+El fundador aprobó **Incidencia marginal** (expresada como «incidencia menor»), distinguiendo F02 de F01: F02 contiene el fundamento para resolver problemas, donde puede ser pertinente reconstruir algunas decisiones, sin que la auditoría constituya esa responsabilidad.
+
 ## Comprobaciones transversales
 
 - **O1 versus O11:** no insertar auditoría operativa dentro de continuidad semántica.
@@ -39,4 +43,4 @@ El fundador determinó expresamente **Sin incidencia**: F01 trata de cómo inter
 
 ## Decisiones pendientes
 
-Reconciliar con el fundador las once clasificaciones O11→F restantes (F01 ya reconciliado), siguiendo el procedimiento ya usado para O0–O10. Continuar por F02 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
+Reconciliar con el fundador las diez clasificaciones O11→F restantes (F01 y F02 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F03 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
