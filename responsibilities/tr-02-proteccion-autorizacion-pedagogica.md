@@ -12,8 +12,9 @@ Proteger la integridad y los alcances de los elementos pedagógicos, y autorizar
 
 1. Examinar qué elementos o versiones se proponen autorizar y bajo qué alcances.
 2. Contrastar la pertinencia de las intenciones nuevas y de los cambios propuestos frente a las referencias, razones y restricciones pedagógicas aplicables.
-3. Preservar la distinción y trazabilidad de versiones previas autorizadas frente a nuevas candidatas.
-4. Decidir la autorización de una intención nueva o de una versión candidata para un alcance determinado; condicionarla o no concederla según antecedentes disponibles.
+3. **Examinar la corrección y suficiencia de los contenidos** respecto de lo que pretenden enseñar y del alcance de la intención pedagógica, identificando errores, omisiones relevantes o inconsistencias, sin exigir exhaustividad fuera de ese alcance.
+4. Preservar la distinción y trazabilidad de versiones previas autorizadas frente a nuevas candidatas.
+5. Decidir la autorización de una intención nueva o de una versión candidata para un alcance determinado; condicionarla o no concederla según antecedentes disponibles.
 
 Son acciones candidatas reconocidas por su **finalidad común**; no se separan en responsabilidades distintas solo por diferencias operativas.
 
@@ -36,9 +37,13 @@ Al examinar **nuevos recursos o elementos pedagógicos que se pretende autorizar
 
 La observación no corrige ni autoriza automáticamente el elemento. La preparación y revisión de correcciones guarda continuidad con [F06](../foundations/pedagogical-review-and-correction.md), mientras que la autorización corresponde a [F07](../foundations/pedagogical-authorization.md). Quedan abiertos los mecanismos concretos de comunicación, seguimiento y trazabilidad, así como su contraste con otros escenarios.
 
+## Precisión reconciliada: adecuación del contenido (2026-10-19)
+
+El fundador confirma que **la protección pedagógica de T-R02 incluye comprobar que los contenidos sean correctos y suficientemente completos respecto de aquello que pretenden enseñar**. La suficiencia se juzga frente a la intención y alcance pertinentes, no como exigencia de exhaustividad universal. Si se detectan errores u omisiones relevantes, pueden comunicarse observaciones y solicitarse correcciones durante la autorización de recursos pedagógicos. Esta precisión amplía la acción de examen, sin adoptar un procedimiento técnico de validación ni demostrar infalibilidad.
+
 ## Cuestiones pendientes de reconciliación
 
-1. ¿Qué acciones protectoras son esenciales aparte de conservar el significado y el alcance autorizado?
+1. **Parcialmente respondida:** comprobar corrección, suficiencia y coherencia del contenido es parte de la protección. Otras acciones protectoras, si las hubiera, siguen pendientes de contraste.
 2. ¿Se justifica el objetivo agrupador en todas sus manifestaciones?
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
