@@ -60,6 +60,7 @@ F05 no exige una única IR, formato específico, reversibilidad, conformidad aut
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | Explorar y realizar a partir de IR no implica certificar identidad personal; acceso/autenticación son responsabilidades ajenas. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las capacidades de proyección deben poder apoyar resultados aprovechables directa o indirectamente, incluso para personas sin acceso a la plataforma, según las circunstancias. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Algunas realizaciones pueden publicarse como recursos públicos preservables fuera del servicio, pero garantizar su conservación y distribución pertenece a mecanismos posteriores. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | La proyección y exploración semántica no requieren auditar intentos ni ejecuciones para constituir F05. |
 
 ## 7. Mantenimiento
 
