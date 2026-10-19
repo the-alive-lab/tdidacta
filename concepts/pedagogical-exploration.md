@@ -6,6 +6,8 @@
 
 Operación que, partiendo de significado pedagógico representado, examina posibilidades, restricciones, alternativas, contradicciones o condiciones de aplicabilidad de una intención para un propósito específico. Es una capacidad general, **no exclusiva de un rol**: quien enseña puede emplearla para diseñar intenciones frente a necesidades; quien aprende, para orientar autónomamente su experiencia y abordar falencias en conocimientos. **Diseño y autonomía son usos**, no capacidades de exploración independientes. Puede informar revisión o corrección, pero no declara suficientemente delimitada toda la intención ni se confunde con producir una realización definitiva.
 
+Explorar una posibilidad puede requerir medios perceptivos o interacción para comprenderla, sin confundirse por ello con producir una realización definitiva.
+
 ## Capa F05 — Proyección semántica
 
 **Aporte de F05:** distingue explorar como examen situado y delimitado del espacio de posibilidades, diferente de realizar y autorizar.
@@ -19,6 +21,7 @@ Operación que, partiendo de significado pedagógico representado, examina posib
 | [O6](../orientation/effort-inversion.md) | **Condición** | La exploración debe apoyar la comprensión y no desplazarla por selección repetitiva. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Explorar opciones no justifica recopilar o revelar datos personales adicionales. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Pueden examinarse alternativas que sirvan indirectamente a quienes no acceden a la plataforma. |
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Condición — reconciliado 2026-10-19** | Algunas posibilidades exigen medios perceptivos o interacción para examinarse, sin producir una realización definitiva. |
 
 
 ## Capa F09 — Autonomía del aprendiz (reconciliada 2026-10-18)
