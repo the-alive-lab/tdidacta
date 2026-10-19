@@ -1,6 +1,6 @@
 # O11 — Auditoría general
 
-**Estado:** orientación adoptada por aprobación expresa del fundador (2026-10-19). La revisión de incidencia en Foundations es un trabajo diferenciado; no implica adopción automática de F13 ni de mecanismos técnicos.
+**Estado:** orientación adoptada por aprobación expresa del fundador (2026-10-19). La revisión de incidencia O11→F01–F12 fue reconciliada; [F13](../foundations/general-auditability.md) y sus tres conceptos se promovieron después por **autorización expresa del fundador (2026-10-19)**. No implica adopción de mecanismos técnicos.
 
 ## Propósito
 
@@ -47,4 +47,4 @@ La determinación concreta de qué se audita se realiza según dominio, riesgo y
 
 La incorporación de O11 requiere contrastar individualmente **F01–F12** e inventarios conceptuales, sin copiar automáticamente clasificaciones O→F a O→Concept. [Registro de contraste](../notes/2026-10-19-o11-foundations-impact-review.md).
 
-Una eventual responsabilidad fundacional propia de auditabilidad y sus conceptos serán investigados y promovidos solo mediante decisión posterior del fundador.
+La responsabilidad [F13](../foundations/general-auditability.md) y sus tres conceptos fueron promovidos mediante decisión expresa posterior del fundador (2026-10-19); no se han adoptado mecanismos de implementación.
