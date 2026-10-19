@@ -71,6 +71,7 @@ El antecedente **T05** permanece cerrado conceptualmente; no se reinterpreta com
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | Revisar y corregir no supone certificar identidades personales; reconocer personas responsables o autorizadas es responsabilidad distinta. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La pertinencia de resultados requiere examinar barreras materiales y aprovechamiento directo o indirecto cuando afecten al uso educativo. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Revisar un recurso público puede detectar que su significado o uso depende del servicio, pero preservar su continuidad no es la responsabilidad constitutiva de F06. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Auditoría y revisión/corrección pedagógica son procesos anexos; pueden intersectar sin constituirse mutuamente. |
 
 
 ## 7. Mantenimiento
