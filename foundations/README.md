@@ -4,7 +4,7 @@
 
 ## Fundamentos reconciliados
 
-Las diez responsabilidades fundacionales han sido reconciliadas conceptualmente por el fundador. Cada documento contiene su razón de ser, las relaciones O0–O10 que lo justifican y enlaces a sus conceptos; **las definiciones semánticas completas viven en Concepts**.
+Las doce responsabilidades fundacionales han sido reconciliadas conceptualmente por el fundador. Cada documento contiene su razón de ser, las relaciones O0–O10 que lo justifican y enlaces a sus conceptos; **las definiciones semánticas completas viven en Concepts**.
 
 | Fundamento | Responsabilidad de TDidacta |
 | --- | --- |
@@ -18,17 +18,16 @@ Las diez responsabilidades fundacionales han sido reconciliadas conceptualmente 
 | [F08 — Autoría pedagógica](pedagogical-authorship.md) | Hacer reconocibles autoría y contribuciones sin confundirlas con autoridad. |
 | [F09 — Autonomía del aprendiz](learner-autonomy.md) | Permitir que quien aprende oriente su experiencia más allá del recorrido propuesto. |
 | [F10 — Adaptación pedagógica](pedagogical-adaptation.md) | Admitir especialización de escenarios base preservando intención y límites relevantes. |
+| [F11 — Autonomía de organización contextual](contextual-organization-autonomy.md) | Establecer responsabilidades contextuales con cometidos y facultades de dominio definidas por TDidacta. |
+| [F12 — Configuraciones iniciales opinionadas](opinionated-starting-configurations.md) | Ofrecer propuestas reutilizables y configurables para aspectos de alta carga de preparación según el escenario. |
 
-**Estado:** F01–F10 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
+**Estado:** F01–F12 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
 
-## Candidaturas en deliberación (sin número F)
+## Procedencia de F11 y F12
 
-Estas fichas son **esbozos para revisión O0–O10**, no fundamentos adoptados. No alteran el estado reconciliado de F01–F10:
+Las candidaturas de [autonomía organizativa](candidate-contextual-organization-autonomy.md) y [configuraciones opinionadas](candidate-opinionated-starting-configurations.md) se conservaron como antecedentes históricos y fueron **promovidas expresamente por el fundador el 2026-10-19**. [Revisión y decisiones O→Concept](candidate-concepts-orientation-review-2026-10-19.md).
 
-- [Autonomía de organización contextual](candidate-contextual-organization-autonomy.md): permitir distribuir funciones y autoridad pertinente por contexto, sin jerarquía universal.
-- [Configuraciones iniciales opinionadas](candidate-opinionated-starting-configurations.md): comenzar con mínima configuración en los casos habituales, adaptar los de borde y conservar configuración desde cero para casos límite.
-
-**Siguiente paso:** reconciliar primero las relaciones O0–O10 de cada candidatura con el fundador, antes de decidir promoción, números y Concepts.
+La auditoría institucional permanece pendiente de investigación independiente.
 
 ## Registros y criterios complementarios
 
