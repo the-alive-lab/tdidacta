@@ -1,6 +1,6 @@
 # Contraste de impacto de O11 en F01–F12
 
-**Fecha:** 2026-10-19. **Estado:** revisión transversal **reconciliada** por el fundador (2026-10-19). Se aprobaron las doce clasificaciones O11→F; falta propagar estas decisiones a las tablas canónicas individuales y revisar, por separado, las posibles capas de Concepts. O11 está adoptada.
+**Fecha:** 2026-10-19. **Estado:** revisión transversal **reconciliada** por el fundador (2026-10-19). Se aprobaron las doce clasificaciones O11→F; las decisiones fueron propagadas a las doce tablas canónicas individuales; quedan por revisar, por separado, las posibles capas de Concepts y la candidatura F13. O11 está adoptada.
 
 ## Criterio de lectura
 
