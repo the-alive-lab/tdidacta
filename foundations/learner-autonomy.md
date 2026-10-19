@@ -56,6 +56,7 @@ Puede existir tensión entre orientación y libertad de recorrido, y entre apoyo
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las oportunidades de autonomía se consideran según circunstancias reales de acceso, incluso indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Complemento** | La continuidad de recursos públicos puede facilitar exploración independiente del servicio, pero no define autonomía. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas actuaciones del aprendiz pueden resultar auditables, pero ello no constituye ni condiciona su autonomía. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Incidencia marginal — reconciliado 2026-10-19** | Explorar modalidades puede ser ejercicio de autonomía, sin constituirla. |
 
 ## 7. Fronteras y estado
 
