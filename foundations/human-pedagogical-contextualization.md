@@ -77,6 +77,7 @@ La contextualización puede resultar errónea aunque se documente correctamente;
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal** | Algunos contextos requieren acreditación externa; interpretar circunstancias no necesita certificar identidad personal por defecto. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La contextualización debe reconocer barreras de acceso y aprovechamiento directo o indirecto cuando sean pertinentes, no presumir disponibilidad de la plataforma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de recursos publicados no es parte de interpretar y documentar necesidades, intenciones y circunstancias concretas. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas decisiones de contextualización pueden examinarse, pero la auditoría no define la comprensión situada ni exige registrar toda observación. |
 
 
 ## 7. Continuidad y mantenimiento
