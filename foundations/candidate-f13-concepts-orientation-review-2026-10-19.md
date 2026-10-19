@@ -1,6 +1,6 @@
 # F13 candidato — revisión O→Concept (propuesta)
 
-**Estado:** tres definiciones conceptuales, su identidad independiente y las matrices O0–O11→Concept **reconciliadas por aprobación expresa del fundador (2026-10-19)**. La responsabilidad candidata y la distinción entre conceptos fueron consideradas correctas por el fundador, y **O0–O11→F13 ya está aprobado**. Las relaciones fueron contrastadas conceptualmente y aprobadas; esta revisión **no promueve** por sí sola F13 ni archivos canónicos de Concepts.
+**Estado: ANTECEDENTE HISTÓRICO.** Tres definiciones conceptuales, su identidad independiente y las matrices O0–O11→Concept **reconciliadas y promovidas expresamente por el fundador el 2026-10-19** a [F13](general-auditability.md) y [Concepts](../concepts/README.md). La responsabilidad candidata y la distinción entre conceptos fueron consideradas correctas por el fundador, y **O0–O11→F13 ya está aprobado**. Las relaciones fueron contrastadas conceptualmente y aprobadas; esta revisión documenta la reconciliación previa a su **posterior promoción expresa**; no constituye por sí sola la promoción.
 
 **Fuentes:** [candidatura F13](candidate-general-auditability.md), [O11](../orientation/general-auditability.md), [Facultad](../concepts/faculty.md), [Responsabilidad contextual](../concepts/contextual-responsibility.md).
 
