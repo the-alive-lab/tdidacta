@@ -6,30 +6,33 @@
 
 ## Objetivo
 
-Establecer y respetar condiciones pertinentes para consultar y compartir recursos educativos en cada contexto.
+Asegurar que los recursos educativos puedan **accederse legítimamente, mantenerse disponibles y utilizarse bajo las condiciones materiales pertinentes** en cada contexto. Esta finalidad integra autorización de acceso, disponibilidad y accesibilidad material sin imponer un mecanismo técnico único.
 
 ## Acciones agrupadas por objetivo (candidatas)
 
-1. Reconocer restricciones de consulta y destinatarios pertinentes.
-2. Delimitar cuándo un recurso puede compartirse o consultarse.
-3. Considerar las condiciones materiales que permiten el acceso directo o asincrónico.
-4. Respetar restricciones de privacidad al permitir acceso a recursos.
+1. **Gestionar las condiciones de acceso:** reconocer destinatarios y restricciones pertinentes, y delimitar cuándo un recurso puede consultarse, utilizarse o compartirse.
+2. **Atender la disponibilidad de los recursos:** procurar que quienes deban utilizarlos puedan encontrarlos y consultarlos cuando corresponda, incluyendo situaciones asincrónicas.
+3. **Atender la accesibilidad material:** reconocer y responder, de forma pertinente al contexto, a barreras de conectividad, medios o condiciones de uso, sin imponer un modo tecnológico obligatorio.
+4. **Respetar los límites de privacidad y divulgación** al gestionar acceso, disponibilidad y modos de consulta.
 
 Son acciones candidatas reconocidas por su **finalidad común**; no se separan en responsabilidades distintas solo por diferencias operativas.
 
 ## Necesidades de cobertura E01
 
 - **N3:** Acceso diferenciado a materiales: principal.
-- **N5:** Consulta asincrónica bajo condiciones de acceso: complementaria.
+- **N5:** Disponibilidad para consulta asincrónica y atención a las condiciones materiales de acceso: principal.
 - **N6:** Evitar divulgación indebida: condición.
 
 ## Frontera y cautelas
 
-Gestión de acceso no equivale a autorización pedagógica de intenciones o versiones (T-R02), ni define ACL, cuentas, permisos técnicos o una función institucional. La disponibilidad asincrónica puede ser una condición, no necesariamente una responsabilidad distinta.
+T-R05 comprende **tres dimensiones de un mismo objetivo**: acceso legítimo, disponibilidad efectiva y accesibilidad material. No equivale a autorización pedagógica de intenciones o versiones (T-R02), ni define ACL, cuentas, permisos técnicos, arquitectura de infraestructura o una función institucional. Las soluciones concretas pueden diferir entre escenarios; reconocer la labor no obliga a resolver toda barrera material ni garantiza disponibilidad absoluta.
+
+## Precisión reconciliada con el fundador (2026-10-19)
+
+El alcance de T-R05 **incluye expresamente las tres dimensiones**: (1) quién puede acceder legítimamente a los recursos; (2) que los recursos estén disponibles cuando deban consultarse; y (3) que las condiciones materiales permitan su uso, incluidas necesidades de consulta sin conexión cuando sean pertinentes. No se reduce a administrar autorizaciones de lectura. La forma de cumplirlo y sus límites operativos deberán contrastarse con otros escenarios.
 
 ## Cuestiones pendientes de reconciliación
 
-1. ¿Dónde termina la gestión de acceso y empieza la continuidad/disponibilidad de recursos?
-2. ¿Qué acciones son esenciales sin fijar mecanismos de Platform?
+1. ¿Qué acciones de acceso, disponibilidad y accesibilidad son esenciales en la definición transversal y cuáles son mecanismos específicos de Platform u otros medios?
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
