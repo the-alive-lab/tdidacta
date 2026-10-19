@@ -11,7 +11,7 @@ Interpretar circunstancias cambiantes de la experiencia educativa y **contextual
 ## Acciones agrupadas por objetivo (candidatas)
 
 1. Reconocer dificultades, progresos y circunstancias emergentes en alumnos o grupos.
-2. Contextualizar y ajustar actividades o apoyos según necesidades situadas.
+2. **Especializar principalmente** propuestas y circunstancias pedagógicas para responder a necesidades situadas; contextualizar y ajustar actividades o apoyos cuando corresponda.
 3. Formular nuevas intenciones pedagógicas de alcance situado cuando las necesidades emergentes lo justifiquen; distinguirlas de adaptaciones de una intención existente.
 4. Gestionar las actividades y habilitar oportunidades de exploración cuando las condiciones lo permitan.
 5. Recoger información y retroalimentación de la experiencia para reconsiderar ajustes o nuevas formulaciones.
@@ -32,9 +32,11 @@ T-R01a atiende componentes relativamente estables; T-R01b los más dinámicos. *
 
 La generación de **nuevas intenciones pedagógicas de alcance situado** sí pertenece al campo de T-R01b cuando responde al trabajo pedagógico dinámico; no se limita a especializar o adaptar intenciones preexistentes. Esta precisión fue confirmada expresamente el 2026-10-19 y no supone adoptar el resto de las acciones de la ficha como catálogo definitivo.
 
-## Cuestiones pendientes de reconciliación
+## Reconciliación de preguntas (2026-10-19)
 
-1. ¿Qué ajustes son propios de esta responsabilidad y cuáles requieren reconsiderar elementos relativamente estables?
-2. ¿Qué actividades podrían ser únicamente mecanismos opcionales?
+1. **Alcance de los ajustes — criterio reconciliado:** casi todo el trabajo orientado a **especializar elementos pedagógicos** pertenece principalmente a T-R01b. «Principalmente» no significa exclusivamente: si la especialización revela que deben reconsiderarse componentes relativamente estables, puede relacionarse con T-R01a. Esto no establece asignaciones a personas ni Roles.
+2. **Mecanismos opcionales — pendiente:** antes de determinar qué actividades son mecanismos particulares o acciones esenciales, contrastar esta responsabilidad con E02–E05. No anticipar una clasificación cerrada desde E01.
+
+**Estado:** ambos puntos tienen tratamiento acordado (uno reconciliado y otro expresamente diferido). La ficha completa sigue siendo candidata hasta el contraste entre escenarios.
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
