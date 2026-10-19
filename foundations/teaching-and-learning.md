@@ -61,6 +61,7 @@ F01 conserva la **responsabilidad de interpretar el problema**; las entradas con
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | El reconocimiento de identidades personales, operativas y contextuales no constituye parte de esa interpretación pedagógica. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Refuerza la consideración de experiencias educativas en contextos diversos, pero sus condiciones materiales de acceso corresponden principalmente a capacidades y realizaciones posteriores. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La permanencia y disponibilidad operacional de recursos condiciona cómo TDidacta responde al problema, no cómo lo comprende. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | F01 interpreta el problema de enseñanza y aprendizaje; no define actuaciones cuya reconstrucción constituya esa interpretación. |
 
 ## 7. Criterio de mantenimiento
 
