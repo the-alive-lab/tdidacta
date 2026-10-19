@@ -1,6 +1,6 @@
 # Evaluación de candidatura F13 — Auditabilidad de actuaciones y decisiones
 
-**Estado:** responsabilidad propuesta y distinción inicial de conceptos **avaladas expresamente por el fundador (2026-10-19)**. **No adoptada como F13, no numerada canónicamente**; O0–O11→F13 reconciliada y capas conceptuales pendientes de reconciliación. O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
+**Estado: ANTECEDENTE HISTÓRICO.** Responsabilidad, orientaciones y conceptos reconciliados; **promovidos expresamente por el fundador el 2026-10-19** a [F13 canónico](general-auditability.md) y sus tres conceptos. Se conserva aquí el análisis previo, incluidas incertidumbres de su etapa candidata. O11 está formalizada y sus relaciones con F01–F12 ya se reconciliaron y propagaron. La numeración F13 es provisional.
 
 ## Problema y fundamento de la candidatura
 
