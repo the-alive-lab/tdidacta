@@ -16,13 +16,21 @@ La responsabilidad se extiende a **todos los aspectos de alta carga de configura
 
 **Frontera:** este fundamento afirma que TDidacta debe proporcionar configuraciones iniciales opinionadas y adaptables; **no decide qué contiene cada una**. El contenido se deriva de las necesidades de cada [escenario](../scenarios/README.md) y de los fundamentos que expliquen cómo TDidacta lo atiende. Las conexiones se explicitarán en Relationships; su materialización concreta corresponde a Mechanisms y al diseño de productos.
 
-## Concepto candidato — Configuración opinionada (2026-10-19)
+## Conceptos candidatos — Configuración opinionada y Configuración particular (2026-10-19)
 
 **Estado:** definición de trabajo elaborada para revisión; no promovida a Concepts.
+
+### Configuración opinionada
 
 Una **Configuración opinionada** es un **punto de partida configurable propuesto por TDidacta** para poner en uso capacidades de uno o varios de sus productos en las circunstancias de un escenario atendido, con el propósito de reducir las decisiones y el trabajo de configuración inicial que deben asumir las personas.
 
 La configuración incorpora elecciones iniciales deliberadas, **no universales ni obligatorias**, y permite que quienes la utilizan las comprendan y modifiquen en lo que resulte pertinente. Su contenido no es definido por este concepto: **surge de las necesidades del escenario y de los fundamentos que explican la respuesta de TDidacta**. El concepto puede aplicarse a responsabilidades/facultades, pantallas especializadas u otros aspectos cuyo costo de configuración sea relevante.
+
+### Configuración particular
+
+Una **Configuración particular** es la configuración concreta de un contexto, obtenida al aplicar y eventualmente adaptar una Configuración opinionada, **o construida desde cero** cuando sus necesidades lo requieren. Pertenece al contexto que la utiliza y puede evolucionar independientemente del punto de partida reutilizable; no modifica por ello la Configuración opinionada de origen.
+
+La separación entre ambos conceptos queda **aceptada por el fundador (2026-10-19)**. Los nombres y definiciones se conservan aquí como candidatos hasta su formalización en Concepts; no se prescribe todavía formato, persistencia o mecanismo de aplicación.
 
 ### Propiedades y límites
 
@@ -37,13 +45,14 @@ La configuración incorpora elecciones iniciales deliberadas, **no universales n
 
 - **Escenario de cobertura:** expresa circunstancias y necesidades; **no es la configuración**.
 - **Foundation pertinente:** define la responsabilidad por atender esas necesidades; **no es el contenido predeterminado de una configuración**.
-- **Configuración opinionada:** ofrece elecciones iniciales para empezar a operar capacidades pertinentes; **no sustituye el fundamento que justifica su contenido**.
+- **Configuración opinionada:** ofrece elecciones iniciales reutilizables para empezar a operar capacidades pertinentes; **no sustituye el fundamento que justifica su contenido**.
+- **Configuración particular:** expresa las elecciones efectivamente asumidas por un contexto, incluso si fue construida desde cero; no equivale a la propuesta reutilizable.
 - **Mecanismo de aplicación:** concreta cómo seleccionar, generar, materializar y modificar esos valores, sin redefinir el concepto.
 - **Responsabilidad contextual / Facultad:** pueden ser objetos de una configuración opinionada, pero son conceptos distintos y no obligatorios en todas las configuraciones.
 
 ### Preguntas de revisión
 
-1. ¿Debe «Configuración opinionada» designar el **punto de partida propuesto** o el **estado concreto resultante de aplicarlo**? Esta propuesta usa el primer sentido y diferencia el segundo para evitar ambigüedad.
+1. **Resuelto:** la Configuración opinionada designa el punto de partida reutilizable; la Configuración particular designa el resultado concreto de un contexto, sea derivado o construido desde cero.
 2. ¿Es necesario exigir que cada decisión predeterminada pueda inspeccionarse antes de aplicarla, o basta con que resulte reconocible y modificable? No imponer todavía un mecanismo de presentación.
 3. ¿Conviene conservar «Configuración opinionada» como nombre del concepto y «plantilla» solo como una posible realización?
 
