@@ -1,6 +1,6 @@
 # F13 candidato — revisión O→Concept (propuesta)
 
-**Estado:** propuesta **no reconciliada** de capas conceptuales derivadas de F13 (2026-10-19). La responsabilidad candidata y la distinción entre conceptos fueron consideradas correctas por el fundador, y **O0–O11→F13 ya está aprobado**. Esta tabla **no** se deriva automáticamente de O→F13 ni promueve F13 o archivos canónicos de Concepts.
+**Estado:** tres definiciones conceptuales, su identidad independiente y las matrices O0–O11→Concept **reconciliadas por aprobación expresa del fundador (2026-10-19)**. La responsabilidad candidata y la distinción entre conceptos fueron consideradas correctas por el fundador, y **O0–O11→F13 ya está aprobado**. Las relaciones fueron contrastadas conceptualmente y aprobadas; esta revisión **no promueve** por sí sola F13 ni archivos canónicos de Concepts.
 
 **Fuentes:** [candidatura F13](candidate-general-auditability.md), [O11](../orientation/general-auditability.md), [Facultad](../concepts/faculty.md), [Responsabilidad contextual](../concepts/contextual-responsibility.md).
 
@@ -74,10 +74,14 @@
 - **Evidencia de auditoría → Actuación y Contexto:** la evidencia permite formular afirmaciones sustentadas sobre ambos, posiblemente de forma incompleta; distinguir hechos registrados de inferencias.
 - **Contexto de actuación:** independiente en significado, potencialmente embebido en otras representaciones. Evitar duplicarlo con Escenario pedagógico (F03/F10) o Responsabilidad contextual (F11).
 
-## Puntos para reconciliar
+## Decisión de reconciliación (2026-10-19)
+
+El fundador aprobó conjuntamente las **tres definiciones** (Actuación auditable, Evidencia de auditoría y Contexto de actuación), su **identidad conceptual independiente** y las **tres matrices O0–O11→Concept** propuestas sin modificaciones. La relación entre evidencia, actuación y contexto puede expresarse sin originar un cuarto concepto. Este cierre no adopta un esquema técnico ni promueve F13 al canon.
+
+## Preguntas cerradas
 
 1. ¿Aprobamos las tres definiciones y su **identidad conceptual independiente** (sin exigir objetos o archivos técnicos separados)?
 2. ¿Aprobamos las tres matrices O0–O11→Concept, idénticas en categorías a O→F13 **solo por coincidencia argumentada individualmente**, o alguna clasificación debe cambiarse?
 3. ¿Deseamos una relación explícita «evidencia sustenta reconstrucción de actuación y contexto» sin crear un cuarto concepto?
 
-**Sin promoción automática:** después de la reconciliación, preparar el fundamento y las capas de Concepts para una decisión expresa de promoción.
+**Siguiente paso:** preparar los archivos del fundamento y de Concepts para una decisión **expresa y separada de promoción canónica**. La reconciliación conceptual no implica promoción automática.
