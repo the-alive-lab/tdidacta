@@ -1,6 +1,6 @@
 # Candidatura A — Autonomía de organización contextual
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. La relación O10 continúa como **hipótesis inicial** para revisar; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O0–O10 están **revisadas individualmente**; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -32,7 +32,7 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición — reconciliado 2026-10-19** | Las configuraciones de funciones y facultades deben respetar la minimización de datos personales; la libertad organizativa no habilita exigir identificación innecesaria. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición — reconciliado 2026-10-19** | La distribución de facultades debe mantener independientes identidad personal acreditada externamente, identidad operativa y relaciones contextuales; asignar facultades no acredita una persona. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición — reconciliado 2026-10-19** | La libertad de organizar funciones y facultades debe poder ejercerse considerando las condiciones materiales, tecnológicas y sociales reales del contexto educativo; no exige funcionamiento universal sin infraestructura. |
-| [O10](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Cambios de gobierno no deberían impedir conservar recursos públicos, pero O10 no define la organización de responsabilidades. |
+| [O10](../orientation/public-resource-continuity.md) | **Sin incidencia — reconciliado 2026-10-19** | O10 trata de la independencia y continuidad de recursos públicos, no de cómo un contexto distribuye funciones, responsabilidades o facultades. Su cumplimiento corresponde a otra responsabilidad. |
 
 ## Preguntas para reconciliación
 
