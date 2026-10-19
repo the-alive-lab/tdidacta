@@ -10,15 +10,17 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 - **Roles:** interpretación de TDidacta de los actores en escenarios concretos, que podrá relacionarlos con Responsibilities.
 - [Responsabilidad contextual](../concepts/contextual-responsibility.md): concepto del vocabulario F11; no equivale a una ficha del catálogo.
 
+**Criterio acordado para T-R01a/T-R01b:** distinguir componentes de trabajo pedagógico relativamente estables frente a componentes más dinámicos; no separar responsabilidades por una secuencia rígida de planificación y ejecución. Lo estable puede revisarse y lo dinámico conserva restricciones.
+
 ## Fichas
 
-- [T-R01a — Planificación y contextualización pedagógica](tr-01a-planificacion-contextualizacion-pedagogica.md) — **candidata para reconciliación**.
+- [T-R01a — Estructuración y continuidad pedagógica](tr-01a-planificacion-contextualizacion-pedagogica.md) — **candidata para reconciliación**.
 
 ## Inventario conversacional por desarrollar, no adoptado
 
 | Identificador provisional | Objetivo agrupador |
 | --- | --- |
-| T-R01b | Conducción y adaptación de la enseñanza: actividades, exploraciones y comprensión situada de alumnos o grupos. |
+| T-R01b | **Contextualización y adaptación pedagógica:** trabajo más dinámico de interpretación de circunstancias cambiantes, ajuste de propuestas y actividades, y habilitación de exploraciones. |
 | T-R02 | Protección y autorización de cambios pedagógicos, incluidos los originados en T-R01a y T-R01b. |
 | T-R03 | Participación en aprendizaje y retroalimentación. |
 | T-R04 | Responsabilidad legal vinculada al aprendiz, si corresponde. |
