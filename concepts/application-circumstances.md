@@ -35,7 +35,7 @@ La definición reconciliada en F03 identificaba «Circunstancias de aplicación 
 | [O8](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal** | La identidad personal solo es relevante cuando el contexto requiere su acreditación externa; no es requisito universal de la circunstancia. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Deben considerarse barreras materiales, funcionales o de acceso y alternativas directas o indirectas cuando correspondan. |
 
-**O12→Escenario pedagógico mediante F03: Complemento (2026-10-19).** Las circunstancias de referencia pueden considerar fuentes no textuales.
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | Las circunstancias de referencia pueden considerar propiedades perceptivas y fuentes no textuales. |
 
 ## Capa F10 — Adaptación mediante especialización de escenarios (reconciliada 2026-10-18)
 
@@ -56,7 +56,7 @@ La definición reconciliada en F03 identificaba «Circunstancias de aplicación 
 
 **Sin incidencia mediante F10:** O5 (reconocimiento de feedback), O8 (identidades personales externas) y O10 (continuidad de recursos públicos) no modifican la definición de escenario ni sus dos tipos. En particular O10 corresponde a conservación de recursos, no a especialización de escenarios. Esto no modifica las relaciones reconciliadas en la capa histórica F03.
 
-**O12→Escenario pedagógico mediante F10: Complemento (2026-10-19).** La especialización puede utilizar información multimodal pertinente sin alterar la intención.
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | La especialización puede usar entradas multimodales pertinentes sin alterar la intención ni exigir perfil persistente. |
 
 ## Fronteras
 
