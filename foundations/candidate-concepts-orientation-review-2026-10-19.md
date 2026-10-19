@@ -6,6 +6,8 @@
 
 ## C1 — Facultad
 
+**Decisión del fundador (2026-10-19):** aprobadas las relaciones O→C propuestas para Facultad: O0 Origen; O2 Complemento; O3, O6, O7, O8 y O9 Condición. O1 y O10 sin incidencia; no trasladar automáticamente O4/O5. La definición permanece candidata hasta formalización en Concepts.
+
 **Definición candidata:** acción reconocida por TDidacta con significado semántico en el dominio pertinente, que un actor puede ejercer en un flujo de trabajo. El catálogo de facultades lo define TDidacta: los contextos **no crean facultades nuevas**. Una operación puede pertenecer al dominio pedagógico o al de un producto como Platform. Habilitación de acción ≠ validez del resultado ≠ autorización pedagógica.
 
 **Capa candidata — Autonomía de organización contextual:** permite distribuir actuaciones semánticamente reconocidas sin convertir cada interacción técnica en facultad ni introducir capacidades inventadas por los usuarios.
@@ -79,7 +81,7 @@
 
 ## Contrastes y cuestiones para aprobación
 
-1. **C1:** ¿«acción con significado semántico en el dominio pertinente» distingue bien facultad de una interacción puramente técnica, sin excluir acciones del dominio de Platform?
+1. **C1 resuelto:** aprobada la capa candidata de Facultad, conservando acciones significativas de los dominios de productos como Platform.
 2. **C2:** ¿la responsabilidad contextual debe conservar explícitamente cometidos distintos de facultades? ¿O5 queda marginal o sin incidencia en esta capa?
 3. **C3:** ¿la Configuración opinionada es efectivamente el punto de partida reutilizable, no su instancia aplicada? ¿Conforme con O3/O6/O9 como Origen de esta capa?
 4. **C4:** ¿la Configuración particular incluye tanto derivaciones como configuraciones desde cero? ¿O3/O6/O9 operan como Condición respecto de su uso y evolución?
