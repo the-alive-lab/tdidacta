@@ -1,6 +1,6 @@
 # Candidatura A — Autonomía de organización contextual
 
-**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O8–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
+**Estado:** ESBOZO CANDIDATO para deliberación (2026-10-18). No numerado, no promovido a F11/F12 ni reconciliado por el fundador. No modifica F01–F10 ni Concepts. Las relaciones O9–O10 son **hipótesis iniciales** para revisar una por una; O0 quedó reconciliada como **Origen**, O1 como **Sin incidencia**, O2 como **Complemento** y O3 como **Condición** (autonomía contextual) o **Origen** (configuraciones iniciales), según corresponda, y O4 como **Incidencia marginal**, por decisión del fundador (2026-10-18).
 
 ## Origen y propósito
 
@@ -30,7 +30,7 @@ La configuración contextual no define por sí sola quién posee legitimidad leg
 | [O5](../orientation/transparent-contribution-recognition.md) | **Incidencia marginal — reconciliado 2026-10-18** | El reconocimiento de contribuciones puede coexistir con una distribución contextual de funciones, pero atribuir aportes no equivale a conceder facultades ni define la autonomía organizativa. |
 | [O6](../orientation/effort-inversion.md) | **Condición — decisión del fundador 2026-10-18** | La autonomía de configuración puede desplazar esfuerzo desde comprender y atender necesidades educativas hacia organizar facultades y responsabilidades; debe preservar una inversión proporcionada del esfuerzo humano. Se propone ampliar O6 para reconocer expresamente este riesgo. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición — reconciliado 2026-10-19** | Las configuraciones de funciones y facultades deben respetar la minimización de datos personales; la libertad organizativa no habilita exigir identificación innecesaria. |
-| [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Permisos y relaciones contextuales no deben confundirse con reconocimiento de identidad personal externa. |
+| [O8](../orientation/external-personal-identity-recognition.md) | **Condición — reconciliado 2026-10-19** | La distribución de facultades debe mantener independientes identidad personal acreditada externamente, identidad operativa y relaciones contextuales; asignar facultades no acredita una persona. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Modelos organizativos deben considerar barreras reales para participar; no exigir infraestructura uniforme. |
 | [O10](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Cambios de gobierno no deberían impedir conservar recursos públicos, pero O10 no define la organización de responsabilidades. |
 
