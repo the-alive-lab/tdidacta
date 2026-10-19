@@ -56,6 +56,7 @@ La intervención tecnológica no debe sustituir el juicio pertinente ni exigir d
 | [O8](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | La especialización conceptual no depende de verificar identidad personal. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las circunstancias particulares incluyen limitaciones materiales y posibilidades de acceso directo o indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia — reconciliado 2026-10-18** | La conservación independiente de recursos públicos pertenece a otra responsabilidad; puede beneficiar el uso de recursos asociados, pero no determina la especialización de escenarios. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas especializaciones pueden suscitar actuaciones auditables, sin que la auditoría defina o condicione la adaptación. |
 
 ## 6. Cierre conceptual
 
