@@ -6,7 +6,7 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 
 ## Ramificación conceptual de TDidacta
 
-La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone ahora de cinco fichas de cobertura documentadas (E01–E05)** y **Responsibilities y Roles** siguen por delimitar. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
+La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone de cinco fichas de cobertura (E01–E05)**; **Responsibilities y Roles** tienen ahora una frontera interpretativa acordada, pendiente de extracción caso a caso. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
 
 | Superficie | Pregunta que responde | Límite de su definición |
 | --- | --- | --- |
@@ -14,8 +14,8 @@ La siguiente es la **estructura de derivación propuesta** para organizar las de
 | **[Escenarios](scenarios/README.md)** *(registro candidato)* | ¿Qué situaciones debemos cubrir para cumplir lo que buscamos? | Describe condiciones y casos de cobertura; no repite roles ni responsabilidades. |
 | **[Fundamentos](foundations/README.md)** | ¿Qué debemos hacer para cumplir lo que buscamos? | Expresa respuestas constitutivas de TDidacta a la orientación, sin definir exhaustivamente conceptos ni asignar obligaciones a roles. |
 | **[Conceptos](concepts/README.md)** | ¿Cómo explicamos lo que hacemos? | Conserva los significados y distinciones semánticas a los que remiten los fundamentos. |
-| **Responsabilidades** *(superficie candidata)* | ¿Quién debe cumplir lo que hacemos? | Delimita compromisos y condiciones de cumplimiento, sin asignarlos por defecto a un rol concreto. |
-| **Roles** *(superficie candidata)* | ¿Qué función aparece en qué circunstancia y qué responsabilidad tiene? | Vincula responsabilidades con escenarios particulares; una persona puede ejercer más de un rol. |
+| **Responsabilidades** *(frontera acordada; extracciones pendientes)* | ¿De qué se hace cargo cada actor al cumplir una función en este escenario? | Conserva interpretaciones situadas de cometidos, alcance y procedencia; no redefine conceptos ni crea obligaciones universales. |
+| **Roles** *(frontera acordada; extracciones pendientes)* | ¿Qué función cumple cada actor de este escenario? | Identifica funciones situadas y las contrasta conjuntamente con Responsibilities; no constituye identidad permanente. |
 
 ### Derivaciones y contraste de cobertura
 
@@ -25,23 +25,28 @@ flowchart TD
     S["Escenarios (candidato)<br/>¿Qué debemos cubrir?"]
     F["Fundamentos<br/>¿Qué debemos hacer?"]
     C["Conceptos<br/>¿Cómo lo explicamos?"]
-    R["Responsabilidades (candidato)<br/>¿Quién debe cumplir?"]
-    L["Roles (candidato)<br/>¿En qué circunstancia?"]
+    R["Responsibilities<br/>¿De qué se hace cargo?"]
+    L["Roles<br/>¿Qué función cumple?"]
 
     O -->|justifica| F
     O -->|delimita cobertura| S
     F -->|origina o amplía| C
-    F -->|origina o delimita| R
-    R -->|responsabilidades asumidas| L
-    S -->|circunstancias de aparición| L
+    S -->|actores y compromisos situados| R
+    S -->|actores y funciones situadas| L
+    L <-->|contraste conjunto| R
+    C -.->|vocabulario interpretativo| R
+    C -.->|vocabulario interpretativo| L
+    R -.->|contrasta suficiencia| F
     S -.->|contrasta suficiencia| F
 ```
 
-**Regla principal: definir una vez y referenciar después.** Orientación no reproduce el detalle de Fundamentos o Escenarios; Fundamentos remite a Conceptos y Responsabilidades sin copiar sus definiciones; Escenarios remite a Roles sin volver a definirlos. Las conexiones son trazabilidad conceptual, no un proceso obligatorio ni una estructura de directorios adoptada.
+**Regla principal: definir una vez y referenciar después.** Orientación no reproduce el detalle de Fundamentos o Escenarios; Fundamentos remite a Conceptos sin duplicar definiciones; Escenarios aporta contexto para interpretar conjuntamente Roles y Responsibilities. Las conexiones son trazabilidad conceptual, no un proceso obligatorio ni una estructura de directorios adoptada.
 
 **Los escenarios también contrastan los fundamentos.** Si una situación que debemos cubrir revela una omisión, tensión o insuficiencia de algún fundamento, se documenta el hallazgo y se propone una revisión explícita: **no se crea ni modifica automáticamente un fundamento**. De esta forma, los escenarios comprueban cobertura además de contextualizar roles.
 
 **Dos sentidos distintos de «escenario»:** la superficie candidata *Escenarios* describe **circunstancias o contextos donde se encuentra quien asume una responsabilidad**, y permite verificar qué debe cubrir TDidacta, qué roles aparecen y si los fundamentos son suficientes. En cambio, el concepto vigente [Escenario pedagógico](concepts/application-circumstances.md) describe las circunstancias para **aplicar una intención pedagógica** (tipos base y especializado, reconciliados en F10). Un contexto de ejercicio de responsabilidad no es necesariamente un escenario de aplicación de una intención: pueden relacionarse, pero no son el mismo concepto.
+
+**Responsabilidad contextual no es Responsibilities:** [Responsabilidad contextual](concepts/contextual-responsibility.md) es un concepto del vocabulario aprobado mediante F11. Responsibilities registra extracciones e interpretaciones de las funciones observadas o descritas de los actores en escenarios específicos. Una extracción no constituye automáticamente un concepto nuevo, obligación universal, hecho comprobado ni atribución legal. **Roles y Responsibilities se contrastan conjuntamente**: la relación no impone que una de estas superficies derive unidireccionalmente de la otra.
 
 **Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
 
