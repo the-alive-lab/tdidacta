@@ -20,7 +20,7 @@ La representación puede expresar propiedades pertinentes de experiencias multim
 | [O6](../orientation/effort-inversion.md) | **Condición** | Gestionar IR no debe desplazar desproporcionadamente la comprensión pedagógica. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | La representación no debe incluir datos personales sin justificación derivada del propósito de tratamiento. |
 
-**O12 mediante F04 — Complemento:** representa significado pertinente de fenómenos multimodales sin exigir señales completas.
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | Representa propiedades pertinentes de fenómenos multimodales sin exigir señales completas. |
 
 ## Capa F05 — Proyección semántica
 
@@ -36,7 +36,7 @@ La representación puede expresar propiedades pertinentes de experiencias multim
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Proyectar desde IR no autoriza divulgar datos personales innecesarios. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Su aprovechamiento puede sustentar realizaciones utilizables fuera de la plataforma. |
 
-**O12 mediante F05 — Sin incidencia:** la multimodalidad de las proyecciones no exige ampliar las obligaciones de la IR.
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Sin incidencia — reconciliado 2026-10-19** | Las proyecciones multimodales no exigen ampliar la IR con medios concretos; corresponden a realizadores de F05. |
 
 ## Fronteras
 
