@@ -17,7 +17,7 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 | [F07 — Autorización](../foundations/pedagogical-authorization.md) | **Incidencia marginal — reconciliado 2026-10-19** | La autorización pedagógica y la auditoría de la actuación de autorizar son responsabilidades anexas: reconstruir su ejercicio puede ser relevante, pero no constituye ni condiciona la decisión pedagógica ni su alcance. |
 | [F08 — Autoría pedagógica](../foundations/pedagogical-authorship.md) | **Sin incidencia — reconciliado 2026-10-19** | F08 aborda el reconocimiento de autoría y contribuciones; reconocer no es en sí una actuación auditable constitutiva del fundamento. La declaración responsable no presupone auditoría automática de origen. |
 | [F09 — Autonomía del aprendiz](../foundations/learner-autonomy.md) | **Incidencia marginal — reconciliado 2026-10-19** | Las actuaciones del aprendiz pueden resultar auditables cuando corresponda, pero la auditoría es anexa a su autonomía y no la constituye ni condiciona conceptualmente; privacidad y proporcionalidad siguen siendo exigibles por sus orientaciones propias. |
-| [F10 — Adaptación pedagógica](../foundations/pedagogical-adaptation.md) | **Incidencia marginal** | Algunas decisiones de especialización pueden ser examinables si relevantes, pero O11 no obliga a trazar cada adaptación individual ni a perfilar aprendices. |
+| [F10 — Adaptación pedagógica](../foundations/pedagogical-adaptation.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas especializaciones pueden dar lugar a actuaciones auditables relevantes, pero la auditoría no constituye ni condiciona la adaptación pedagógica y no exige trazar cada adaptación individual ni perfilar aprendices. |
 | [F11 — Autonomía de organización contextual](../foundations/contextual-organization-autonomy.md) | **Condición (a contrastar)** | Cambios de responsables, cometidos, asignaciones y facultades pueden requerir reconstrucción de vigencia histórica; auditabilidad no impone jerarquías ni convierte rol en atribución de actuaciones. |
 | [F12 — Configuraciones iniciales opinionadas](../foundations/opinionated-starting-configurations.md) | **Incidencia marginal** | La adopción de una propuesta y cambios particulares pueden ser actuaciones auditables; no pertenece a F12 definir registro universal ni el contenido de cada configuración. |
 
@@ -53,6 +53,10 @@ El fundador aprobó **Sin incidencia**: F08 trata primordialmente de reconocer a
 
 El fundador aprobó **Incidencia marginal**: la autonomía del aprendiz y la auditoría pueden intersectar respecto de actuaciones relevantes, sin que una constituya o condicione a la otra.
 
+## Decisión reconciliada — F10
+
+El fundador aprobó **Incidencia marginal**: las actuaciones que acompañan una especialización pueden ser auditables según el caso, sin que reconstruirlas forme parte constitutiva de F10.
+
 ## Comprobaciones transversales
 
 - **O1 versus O11:** no insertar auditoría operativa dentro de continuidad semántica.
@@ -67,4 +71,4 @@ El fundador aprobó **Incidencia marginal**: la autonomía del aprendiz y la aud
 
 ## Decisiones pendientes
 
-Reconciliar con el fundador las tres clasificaciones O11→F restantes (F01–F09 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F10 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
+Reconciliar con el fundador las dos clasificaciones O11→F restantes (F01–F10 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F11 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
