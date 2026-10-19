@@ -34,6 +34,7 @@ La responsabilidad es transversal: puede abarcar organización, estructuras de a
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Los valores iniciales no deben exigir reconocimiento personal innecesario, fingir certificación de identidad ni propagar automáticamente relaciones entre identidades operativas. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Origen** | La diversidad de circunstancias de acceso educativo justifica ofrecer puntos de partida adecuados a los escenarios atendidos, evitando que iniciar una experiencia dependa de configurar desde cero soluciones para cada contexto. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia** | O10 trata de la conservación y consulta independiente de recursos públicos, no de ofrecer configuraciones iniciales para comenzar a utilizar TDidacta. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | F12 exige ofrecer puntos de partida reutilizables; auditar aplicaciones o cambios particulares posteriores pertenece a acciones distintas. |
 
 
 ## 5. Decisión y procedencia
