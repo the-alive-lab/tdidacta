@@ -32,6 +32,10 @@ Las candidaturas de [autonomía organizativa](candidate-contextual-organization-
 
 La orientación [O11 — Auditoría general](../orientation/general-auditability.md), sus relaciones con F01–F12 y las tablas O→F13 y O→Concept fueron reconciliadas. [F13](general-auditability.md) y sus tres conceptos fueron **promovidos expresamente por el fundador el 2026-10-19**. Se conservan la [candidatura histórica](candidate-general-auditability.md) y la [revisión conceptual](candidate-f13-concepts-orientation-review-2026-10-19.md).
 
+## Revisión abierta por O12
+
+La [O12 — Pluralidad modal de la experiencia educativa](../orientation/modal-plurality-of-educational-experience.md) fue adoptada el 2026-10-19; la revisión de su incidencia sobre F01–F13 y Concepts está [abierta, sin clasificaciones todavía aprobadas](../notes/2026-10-19-o12-multimodality-impact-review.md). No se modifican responsabilidades fundacionales por la sola adopción de la orientación.
+
 ## Registros y criterios complementarios
 
 - [Inventario histórico de conceptos candidatos](concept-candidates.md): antecedente de cobertura, no listado de Foundations pendientes.
