@@ -67,6 +67,8 @@
 
 ## C4 — Configuración particular
 
+**Decisión del fundador (2026-10-19):** aprobada la capa O→C: O0 Origen; O2 Complemento; O3/O6/O7/O8/O9 Condición; O1/O4/O5/O10 sin incidencia. Quedan reconciliadas las cuatro capas conceptuales candidatas, pero no se promueven automáticamente los fundamentos ni los archivos canónicos de Concepts.
+
 **Definición candidata:** configuración concreta correspondiente a un contexto, formada desde cero o por aplicación y modificación de una Configuración opinionada. Tiene elecciones propias, modificables independientemente de la propuesta reutilizable, y no puede inventar facultades fuera del catálogo de TDidacta.
 
 **Capa candidata — Configuraciones iniciales opinionadas:** distingue el resultado contextual de su posible punto de partida y preserva la libertad de adaptación posterior.
@@ -88,6 +90,6 @@
 1. **C1 resuelto:** aprobada la capa candidata de Facultad, conservando acciones significativas de los dominios de productos como Platform.
 2. **C2:** ¿la responsabilidad contextual debe conservar explícitamente cometidos distintos de facultades? O5 queda **Sin incidencia** por decisión del fundador; rol y actuación efectiva son distintos.
 3. **C3 resuelto:** Configuración opinionada es el punto de partida reutilizable, distinto de su instancia aplicada; aprobadas O3/O6/O9 como Origen junto con O0 y el resto de la capa.
-4. **C4:** ¿la Configuración particular incluye tanto derivaciones como configuraciones desde cero? ¿O3/O6/O9 operan como Condición respecto de su uso y evolución?
+4. **C4 resuelto:** incluye configuraciones derivadas y construidas desde cero; O3/O6/O9 quedan como Condición por aprobación del fundador.
 
-**Recomendación editorial:** reconciliar primero las clasificaciones de cada capa, comenzando por C1. No crear cuatro archivos en Concepts antes de la aprobación; conservar esta propuesta en Foundations como artefacto de revisión. La eventual auditoría institucional sigue pendiente y no debe confundirse con O1.
+**Estado editorial:** reconciliadas las cuatro capas O→C por decisiones expresas del fundador (2026-10-19). La promoción de F11/F12 y la creación de los cuatro archivos de Concepts constituyen el siguiente paso separado, sujeto a decisión de adopción canónica. La eventual auditoría institucional sigue pendiente y no debe confundirse con O1.
