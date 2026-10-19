@@ -61,6 +61,7 @@ F05 no exige una única IR, formato específico, reversibilidad, conformidad aut
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Las capacidades de proyección deben poder apoyar resultados aprovechables directa o indirectamente, incluso para personas sin acceso a la plataforma, según las circunstancias. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Algunas realizaciones pueden publicarse como recursos públicos preservables fuera del servicio, pero garantizar su conservación y distribución pertenece a mecanismos posteriores. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | La proyección y exploración semántica no requieren auditar intentos ni ejecuciones para constituir F05. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Condición — reconciliado 2026-10-19** | Las proyecciones deben poder concretar modalidades pertinentes cuando la intención lo requiera, sin imponer multimodalidad a cada realización ni cargar los medios concretos en la IR. |
 
 ## 7. Mantenimiento
 
