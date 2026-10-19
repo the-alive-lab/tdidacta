@@ -27,7 +27,11 @@ Las doce responsabilidades fundacionales han sido reconciliadas conceptualmente 
 
 Las candidaturas de [autonomía organizativa](candidate-contextual-organization-autonomy.md) y [configuraciones opinionadas](candidate-opinionated-starting-configurations.md) se conservaron como antecedentes históricos y fueron **promovidas expresamente por el fundador el 2026-10-19**. [Revisión y decisiones O→Concept](candidate-concepts-orientation-review-2026-10-19.md).
 
-La auditoría institucional permanece pendiente de investigación independiente.
+La orientación de [Auditoría general O11](../orientation/general-auditability.md) fue adoptada; las doce relaciones O11→F01–F12 ya están reconciliadas. Se ha preparado una [evaluación de candidatura de F13](candidate-general-auditability.md), **sin promoción canónica**.
+
+## Candidatura bajo evaluación
+
+- [Auditabilidad de actuaciones y decisiones — posible F13](candidate-general-auditability.md): evaluación de responsabilidad propia, límites y conceptos; **no promovida**.
 
 ## Registros y criterios complementarios
 
