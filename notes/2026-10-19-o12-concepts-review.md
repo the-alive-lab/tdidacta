@@ -1,24 +1,24 @@
-# O12 — Revisión candidata de conceptos y definiciones
+# O12 — Reconciliación de conceptos y definiciones
 
-**Estado:** propuesta **no reconciliada** (2026-10-19). [O12](../orientation/modal-plurality-of-educational-experience.md) está adoptada; [O12→F01–F13](2026-10-19-o12-multimodality-impact-review.md) está reconciliada y propagada. **No se han aprobado capas O12→Concept ni cambios en definiciones acumulativas.**
+**Estado:** relaciones O12→Concept **aprobadas por el fundador el 2026-10-19** y aplicadas a los conceptos correspondientes. [O12](../orientation/modal-plurality-of-educational-experience.md) está adoptada; [O12→F01–F13](2026-10-19-o12-multimodality-impact-review.md) está reconciliada y propagada. Se conservan las capas precedentes y las relaciones no incidentes; la aplicación de O12 no prescribe recursos multimedia dentro de la IR.
 
 ## Criterio
 
 Revisar **solo los aportes de fundamentos que efectivamente inciden** en cada concepto; no trasladar la categoría O12→F automáticamente. Reconocer la modalidad como propiedad o condición del fenómeno cuando sea pertinente, sin crear por defecto el concepto «Modalidad», exigir formatos de archivo en IR o confundir la experiencia con su materialización tecnológica.
 
-## Propuesta para deliberación
+## Matriz aprobada
 
-| Concepto existente | Fundamento que lo aporta | O12→Concept sugerida | Cambio conceptual que conviene discutir |
+| Concepto existente | Fundamento que lo aporta | O12→Concept aprobada | Cambio conceptual que conviene discutir |
 | --- | --- | --- | --- |
 | [Contextualización pedagógica humana](../concepts/human-pedagogical-contextualization.md) | F03 | **Complemento** | Comprender circunstancias por observación o fuentes multimodales, sin transformar la contextualización en captura tecnológica obligatoria. |
 | [Escenario pedagógico](../concepts/application-circumstances.md) | F03 | **Complemento** | Circunstancias de referencia pueden incluir propiedades observables no textuales. |
 | [Escenario pedagógico](../concepts/application-circumstances.md) | F10 | **Complemento** | Una especialización puede usar información multimodal pertinente, sin sustituir intención, privacidad o autonomía. |
 | [Abstracción semántica](../concepts/semantic-abstraction.md) | F04 | **Complemento** | Preservar significado pertinente del fenómeno, incluso cuando la documentación esté acompañada por evidencia no textual; separar la comprensión de una señal de su representación. |
 | [Representación intermedia semántica](../concepts/semantic-intermediate-representation.md) | F04 | **Complemento** | No requiere contener audio/video ni todos los recursos de una realización; puede expresar propiedades, relaciones y restricciones pertinentes. |
-| [Representación intermedia semántica](../concepts/semantic-intermediate-representation.md) | F05 | **Condición — revisar** | Su uso por proyecciones multimodales no requiere incorporar señales completas; no presuponer requisitos técnicos de soporte universal. |
+| [Representación intermedia semántica](../concepts/semantic-intermediate-representation.md) | F05 | **Sin incidencia** | Su uso por proyecciones multimodales no requiere incorporar señales completas; no presuponer requisitos técnicos de soporte universal. |
 | [Proyección semántica](../concepts/semantic-projection.md) | F05 | **Condición** | Debe admitir materialización en modalidades pertinentes cuando se requiera, incluso mediante realizadores especializados externos. |
 | [Realización pedagógica](../concepts/pedagogical-realization.md) | F05 | **Condición** | Puede concretarse mediante distintas modalidades o combinaciones cuando la intención lo requiera, sin imponer todas a cada realización. |
-| [Exploración pedagógica](../concepts/pedagogical-exploration.md) | F05 | **Condición — revisar** | Explorar puede necesitar medios perceptivos o interacción pertinente, pero no siempre implica generar una realización. |
+| [Exploración pedagógica](../concepts/pedagogical-exploration.md) | F05 | **Condición** | Explorar puede necesitar medios perceptivos o interacción pertinente, pero no siempre implica generar una realización. |
 
 ## Candidatos a no añadir capa solo por relación
 
@@ -36,7 +36,11 @@ Revisar **solo los aportes de fundamentos que efectivamente inciden** en cada co
 4. **Multimodal ≠ digital:** audición, observación, interacción y asistencia humana siguen siendo válidas.
 5. **No atribuir automáticamente garantías de fidelidad:** sintetizadores MIDI, voces sintéticas y otros realizadores pueden conservar unas propiedades y perder otras.
 
-## Decisiones siguientes
+## Decisión expresa
+
+El fundador aprobó la matriz con dos precisiones: **O12→IR mediante F05 = Sin incidencia** y **O12→Exploración pedagógica mediante F05 = Condición**. Los restantes siete aportes se aprobaron según la propuesta. La IR conserva significado pertinente y no necesita almacenar recursos materiales de la proyección.
+
+## Seguimiento
 
 - Reconciliar las capas O12→Concept una por una o como matriz conjunta por aprobación expresa del fundador.
 - Solo después modificar las **definiciones acumulativas** de Concepts afectadas, preservando capas anteriores y justificación individual.
