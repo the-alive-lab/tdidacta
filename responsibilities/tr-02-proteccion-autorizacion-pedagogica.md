@@ -30,6 +30,12 @@ La generación y revisión pedagógica de intenciones permanece en T-R01a; las a
 
 T-R02 **protege y autoriza las intenciones pedagógicas que se pretenda utilizar, sean nuevas o modificadas**. La existencia de un cambio previo no es condición de activación de su finalidad. Esta decisión precisa el objetivo de la responsabilidad sin asignarla a Roles ni actores; el resto de acciones sigue en revisión.
 
+## Observación sobre feedback de autorización (2026-10-19)
+
+Al examinar **nuevos recursos o elementos pedagógicos que se pretende autorizar**, T-R02 puede detectar discrepancias, comunicar observaciones y solicitar correcciones pertinentes antes de tomar una decisión sobre su autorización y alcance. Este feedback se registra **por ahora específicamente en relación con la autorización de nuevos recursos pedagógicos**; no se adopta en esta ficha un circuito general de retroalimentación entre todas las Responsibilities.
+
+La observación no corrige ni autoriza automáticamente el elemento. La preparación y revisión de correcciones guarda continuidad con [F06](../foundations/pedagogical-review-and-correction.md), mientras que la autorización corresponde a [F07](../foundations/pedagogical-authorization.md). Quedan abiertos los mecanismos concretos de comunicación, seguimiento y trazabilidad, así como su contraste con otros escenarios.
+
 ## Cuestiones pendientes de reconciliación
 
 1. ¿Qué acciones protectoras son esenciales aparte de conservar el significado y el alcance autorizado?
