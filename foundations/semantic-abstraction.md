@@ -66,5 +66,6 @@ La definición documental corresponde a Docs Standard; esquemas de IR correspond
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | En la especialización TDidacta puede ser útil preservar restricciones contextuales de acceso presentes en las fuentes; la utilizabilidad directa o indirecta corresponde a realizaciones y mecanismos posteriores. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación independiente de recursos publicados no define la transformación entre prosa e IR ni exige que todo recurso se almacene como IR. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Sin incidencia — reconciliado 2026-10-19** | La abstracción conserva y transforma significado semántico; auditar una ejecución técnica sería anexo, no constitutivo de F04. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | La representación semántica puede describir propiedades pertinentes a fenómenos multimodales sin contener íntegramente las señales o medios de realización. |
 
 **Mantenimiento:** revisar clasificaciones y tensiones cuando cambien las orientaciones; no confundir su relación conceptual con eficacia demostrada.
