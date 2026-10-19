@@ -123,6 +123,16 @@ No se crearon conceptos separados para los dos tipos, ni capas nuevas en intenci
 
 **Estado:** distinción y capas O→C reconciliadas por el fundador. [F12](../foundations/opinionated-starting-configurations.md).
 
+## F13 — Auditabilidad de actuaciones y decisiones (promovido 2026-10-19)
+
+| Concepto | Contribución |
+| --- | --- |
+| [Actuación auditable](auditable-action.md) | Ejercicio concreto cuya reconstrucción o examen es relevante en un dominio y contexto |
+| [Evidencia de auditoría](audit-evidence.md) | Información examinable que sustenta reconstrucción con grados de fiabilidad e incertidumbre |
+| [Contexto de actuación](action-context.md) | Circunstancias y condiciones pertinentes al momento de actuar, sin confundirse con escenarios pedagógicos |
+
+**Estado:** definiciones, identidad conceptual independiente y las tres capas O0–O11→Concept reconciliadas por el fundador (2026-10-19); promoción canónica expresa. [F13](../foundations/general-auditability.md) · [revisión aprobada](../foundations/candidate-f13-concepts-orientation-review-2026-10-19.md).
+
 ## Continuidad F03 — documentos de referencia
 
 | Concepto | Aporte |
