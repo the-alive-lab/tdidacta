@@ -1,6 +1,6 @@
 # Contraste de impacto de O11 en F01–F12
 
-**Fecha:** 2026-10-19. **Estado:** revisión transversal preliminar **no reconciliada** por el fundador; **sin cambios aún** a las clasificaciones canónicas de F01–F12 ni a capas de Concepts. O11 sí está adoptada. El contraste identifica soporte, límites e insuficiencias y exige revisión individual antes de propagar las tablas.
+**Fecha:** 2026-10-19. **Estado:** revisión transversal **reconciliada** por el fundador (2026-10-19). Se aprobaron las doce clasificaciones O11→F; falta propagar estas decisiones a las tablas canónicas individuales y revisar, por separado, las posibles capas de Concepts. O11 está adoptada.
 
 ## Criterio de lectura
 
@@ -18,8 +18,8 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 | [F08 — Autoría pedagógica](../foundations/pedagogical-authorship.md) | **Sin incidencia — reconciliado 2026-10-19** | F08 aborda el reconocimiento de autoría y contribuciones; reconocer no es en sí una actuación auditable constitutiva del fundamento. La declaración responsable no presupone auditoría automática de origen. |
 | [F09 — Autonomía del aprendiz](../foundations/learner-autonomy.md) | **Incidencia marginal — reconciliado 2026-10-19** | Las actuaciones del aprendiz pueden resultar auditables cuando corresponda, pero la auditoría es anexa a su autonomía y no la constituye ni condiciona conceptualmente; privacidad y proporcionalidad siguen siendo exigibles por sus orientaciones propias. |
 | [F10 — Adaptación pedagógica](../foundations/pedagogical-adaptation.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas especializaciones pueden dar lugar a actuaciones auditables relevantes, pero la auditoría no constituye ni condiciona la adaptación pedagógica y no exige trazar cada adaptación individual ni perfilar aprendices. |
-| [F11 — Autonomía de organización contextual](../foundations/contextual-organization-autonomy.md) | **Condición (a contrastar)** | Cambios de responsables, cometidos, asignaciones y facultades pueden requerir reconstrucción de vigencia histórica; auditabilidad no impone jerarquías ni convierte rol en atribución de actuaciones. |
-| [F12 — Configuraciones iniciales opinionadas](../foundations/opinionated-starting-configurations.md) | **Incidencia marginal** | La adopción de una propuesta y cambios particulares pueden ser actuaciones auditables; no pertenece a F12 definir registro universal ni el contenido de cada configuración. |
+| [F11 — Autonomía de organización contextual](../foundations/contextual-organization-autonomy.md) | **Incidencia marginal — reconciliado 2026-10-19** | La auditoría de modificaciones, asignaciones y ejercicio de facultades es anexa a la capacidad de organizar responsabilidades y facultades; no constituye ni condiciona F11. |
+| [F12 — Configuraciones iniciales opinionadas](../foundations/opinionated-starting-configurations.md) | **Sin incidencia — reconciliado 2026-10-19** | F12 establece la responsabilidad de ofrecer puntos de partida reutilizables para reducir carga de configuración; una aplicación o modificación concreta puede auditarse, pero esa acción no forma parte del significado fundacional de ofrecer configuraciones opinionadas. |
 
 ## Decisión reconciliada — F01
 
@@ -57,6 +57,12 @@ El fundador aprobó **Incidencia marginal**: la autonomía del aprendiz y la aud
 
 El fundador aprobó **Incidencia marginal**: las actuaciones que acompañan una especialización pueden ser auditables según el caso, sin que reconstruirlas forme parte constitutiva de F10.
 
+## Decisiones reconciliadas — F11 y F12
+
+El fundador aprobó **Incidencia marginal** para F11 y propuso **Sin incidencia** para F12, distinción aceptada tras contrastar la oferta de configuraciones con su aplicación operativa. Una acción posterior sobre una configuración puede ser auditable sin que O11 incida en la responsabilidad propia de F12.
+
+**Cierre O11→F01–F12:** las doce relaciones se encuentran reconciliadas por decisión expresa del fundador (2026-10-19). Las capas O11→Concept y un eventual F13 permanecen pendientes de examen autónomo; no se promueven aquí.
+
 ## Comprobaciones transversales
 
 - **O1 versus O11:** no insertar auditoría operativa dentro de continuidad semántica.
@@ -71,4 +77,4 @@ El fundador aprobó **Incidencia marginal**: las actuaciones que acompañan una 
 
 ## Decisiones pendientes
 
-Reconciliar con el fundador las dos clasificaciones O11→F restantes (F01–F10 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F11 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
+Las doce clasificaciones O11→F ya fueron reconciliadas. Propagarlas a las tablas de cada fundamento y revisar únicamente las capas conceptuales realmente afectadas; luego estudiar F13 y conceptos de auditoría sin asumir su adopción.
