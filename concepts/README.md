@@ -133,6 +133,10 @@ No se crearon conceptos separados para los dos tipos, ni capas nuevas en intenci
 
 **Estado:** definiciones, identidad conceptual independiente y las tres capas O0–O11→Concept reconciliadas por el fundador (2026-10-19); promoción canónica expresa. [F13](../foundations/general-auditability.md) · [revisión aprobada](../foundations/candidate-f13-concepts-orientation-review-2026-10-19.md).
 
+## Aportes O12 — Pluralidad modal (reconciliados 2026-10-19)
+
+O12 fue reconciliada en las capas de [Contextualización pedagógica humana](human-pedagogical-contextualization.md) (F03), [Escenario pedagógico](application-circumstances.md) (F03 y F10), [Abstracción semántica](semantic-abstraction.md) (F04), [Representación intermedia semántica](semantic-intermediate-representation.md) (Complemento por F04; **Sin incidencia por F05**), [Proyección semántica](semantic-projection.md), [Realización pedagógica](pedagogical-realization.md) y [Exploración pedagógica](pedagogical-exploration.md) (Condición por F05). No se añadieron conceptos por mera coexistencia de modalidades. [Registro de reconciliación](../notes/2026-10-19-o12-concepts-review.md).
+
 ## Continuidad F03 — documentos de referencia
 
 | Concepto | Aporte |
