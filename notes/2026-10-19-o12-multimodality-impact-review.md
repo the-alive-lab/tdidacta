@@ -1,6 +1,26 @@
 # Revisión inicial O12→Foundations y Concepts
 
-**Estado:** impacto **pendiente de reconciliación** (2026-10-19). [O12 — Pluralidad modal de la experiencia educativa](../orientation/modal-plurality-of-educational-experience.md) sí está adoptada; **no se ha aprobado** ninguna relación O12→F01–F13 ni O12→Concept. No modificar retrospectivamente definiciones o capas sin revisar cada responsabilidad.
+**Estado:** relaciones O12→F01–F13 **aprobadas por el fundador (2026-10-19) y propagadas a las trece tablas canónicas**. La revisión de aportes O12→Concept está pendiente. [O12 — Pluralidad modal de la experiencia educativa](../orientation/modal-plurality-of-educational-experience.md) sí está adoptada; **se aprobaron todas** las relaciones O12→F01–F13; las relaciones O12→Concept permanecen pendientes. No modificar retrospectivamente definiciones o capas sin revisar cada responsabilidad.
+
+## Matriz reconciliada O12→F01–F13
+
+| Fundamento | Relación aprobada | Motivo |
+| --- | --- | --- |
+| F01 | Sin incidencia | La interpretación de enseñanza/aprendizaje no depende del medio específico. |
+| F02 | Incidencia marginal | Ciertas intenciones requieren propiedades perceptivas; formular intenciones mantiene su responsabilidad. |
+| F03 | Complemento | Comprensión contextual mediante observaciones y fuentes no textuales pertinentes. |
+| F04 | Complemento | Representación semántica de propiedades multimodales sin contener necesariamente señales o recursos íntegros. |
+| **F05** | **Condición** | La proyección debe poder realizar modalidades pertinentes cuando se requieran; no toda proyección debe ser multimodal. |
+| F06 | Incidencia marginal | Revisión de resultados multimodales sin redefinir revisión/corrección. |
+| F07 | Sin incidencia | El medio del objeto autorizado no altera la autorización. |
+| F08 | Sin incidencia | Reconocimiento de contribuciones independiente de modalidad. |
+| F09 | Incidencia marginal | Modalidades como posibilidades de ejercicio autónomo. |
+| F10 | Complemento | Especialización de escenarios con entradas multimodales pertinentes. |
+| F11 | Sin incidencia | Responsabilidades y facultades no dependen de medios específicos. |
+| F12 | Sin incidencia | Los medios pueden figurar en configuraciones, pero no constituyen F12. |
+| F13 | Sin incidencia | Evidencia multimodal no redefine la auditabilidad. |
+
+**Aprobación del fundador:** matriz conjunta aprobada el 2026-10-19 tras modificar F05 de Complemento a Condición. La justificación y clasificación O12 fueron propagadas a cada fundamento; **no supone aún modificación reconciliada de Concepts**.
 
 ## Inventario y preguntas de contraste
 
@@ -24,7 +44,7 @@
 
 El fundador estableció **O12→F05 como Condición**, frente a la propuesta preliminar de Complemento: una proyección debe poder realizarse multimodalmente **cuando sea pertinente**, no en toda ejecución. La IR puede contener por sí misma el significado suficiente sin incorporar audio, video u otros recursos de presentación: corresponde a F05 y sus realizadores concretar la experiencia, posiblemente usando MIDI y síntesis externa. Una IR semánticamente suficiente no equivale a una representación que contenga todos los insumos materiales de cada realización. Esta precisión no implica que toda proyección funcione ya ni que un realizador preserve automáticamente las propiedades perceptivas pertinentes.
 
-Las demás relaciones O12→F01–F13 continúan pendientes de aprobación; no modificar la tabla canónica F05 hasta reconciliar la matriz transversal completa.
+Las demás relaciones O12→F01–F13 fueron aprobadas en bloque posteriormente; ya se propagó la matriz transversal completa.
 
 ## Conceptos que pueden requerir contraste
 
@@ -40,7 +60,6 @@ No derivar «modalidad» como nuevo concepto o «MIDI» como nuevo mecanismo por
 
 ## Próximo procedimiento
 
-1. Reconciliar explícitamente cada O12→F01–F13 con el fundador (Origen, Complemento, Condición, Incidencia marginal, Sin incidencia).
-2. Actualizar tablas de Foundations únicamente con decisiones ya reconciliadas.
-3. Revisar por separado las capas O12→Concept en los conceptos realmente afectados.
-4. Evaluar ajustes de definiciones y mecanismos solo cuando la revisión los justifique, conservando trazabilidad histórica.
+1. **Completado:** reconciliar O12→F01–F13 y propagar la tabla a los trece fundamentos.
+2. **Pendiente:** revisar por separado las capas O12→Concept en los conceptos realmente afectados.
+3. Evaluar ajustes de definiciones y mecanismos solo cuando la revisión los justifique, conservando trazabilidad histórica.
