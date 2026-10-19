@@ -21,7 +21,7 @@ Son acciones candidatas reconocidas por su **finalidad común**; no se separan e
 
 - **N3:** Acceso diferenciado a materiales: principal.
 - **N5:** Disponibilidad para consulta asincrónica y atención a las condiciones materiales de acceso: principal.
-- **N6:** Evitar divulgación indebida: condición.
+- **N6:** Proteger información personal mediante condiciones legítimas de acceso, consulta, uso y divulgación de recursos: principal en lo relativo al acceso a esa información, sin agotar toda la protección de datos.
 
 ## Frontera y cautelas
 
