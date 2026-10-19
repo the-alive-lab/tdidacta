@@ -11,8 +11,8 @@ O11 exige auditabilidad **proporcional de actuaciones relevantes**, no el regist
 | [F01 — Enseñanza y aprendizaje](../foundations/teaching-and-learning.md) | **Sin incidencia — reconciliado 2026-10-19** | F01 determina cómo TDidacta interpreta el problema desde las perspectivas de enseñanza y aprendizaje; no establece actuaciones operativas cuya reconstrucción defina esa responsabilidad. Las acciones auditables corresponden a otros fundamentos. |
 | [F02 — Necesidades e intenciones](../foundations/pedagogical-needs-and-intentions.md) | **Incidencia marginal — reconciliado 2026-10-19** | F02 establece un fundamento para abordar y resolver problemas pedagógicos mediante necesidades e intenciones; por ello las decisiones pertinentes pueden requerir examen, aunque O11 no define las necesidades, intenciones ni su significado. |
 | [F03 — Contextualización pedagógica humana](../foundations/human-pedagogical-contextualization.md) | **Incidencia marginal — reconciliado 2026-10-19** | F03 trata de cómo se aborda y comprende contextualmente el problema pedagógico; determinadas decisiones pueden ser examinables, pero la auditoría no constituye ese abordaje ni obliga a registrar toda conversación o dato contextual. |
-| [F04 — Abstracción semántica](../foundations/semantic-abstraction.md) | **Sin incidencia** | La preservación/reconstrucción de significado estructurado pertenece a O1; O11 no exige auditar cada transformación semántica por ser tal. Eventuales ejecuciones auditables pertenecen a mecanismos o a otra responsabilidad. |
-| [F05 — Proyección semántica](../foundations/semantic-projection.md) | **Sin incidencia** | Explorar y realizar posibilidades no implica por sí solo registro de todo intento; actuaciones específicas sensibles podrían auditarse por O11 sin redefinir F05. |
+| [F04 — Abstracción semántica](../foundations/semantic-abstraction.md) | **Sin incidencia — reconciliado 2026-10-19** | La preservación/reconstrucción de significado estructurado pertenece a O1; O11 no exige auditar cada transformación semántica por ser tal. Eventuales ejecuciones auditables pertenecen a mecanismos o a otra responsabilidad. |
+| [F05 — Proyección semántica](../foundations/semantic-projection.md) | **Sin incidencia — reconciliado 2026-10-19** | Explorar y realizar posibilidades no implica por sí solo registro de todo intento; actuaciones específicas sensibles podrían auditarse por O11 sin redefinir F05. |
 | [F06 — Revisión y corrección](../foundations/pedagogical-review-and-correction.md) | **Complemento** | Examinar decisiones, cambios y efectos puede apoyar revisión/corrección; no sustituye el significado pedagógico de la revisión ni exige evidencia exhaustiva de cada borrador. |
 | [F07 — Autorización](../foundations/pedagogical-authorization.md) | **Condición (a contrastar)** | La decisión de autorizar y sus condiciones de ejercicio son ejemplos centrales de actuaciones cuya reconstrucción puede ser necesaria; conservar versión/alcance pedagógico no resuelve por sí solo el examen operativo de quién actuó y bajo qué facultades. |
 | [F08 — Autoría pedagógica](../foundations/pedagogical-authorship.md) | **Sin incidencia** | Reconocimiento de contribuciones por declaración responsable no presupone auditoría de origen; imponerla contradiría la frontera explícita con auditoría automática. |
@@ -33,6 +33,10 @@ El fundador aprobó **Incidencia marginal** (expresada como «incidencia menor»
 
 El fundador aprobó **Incidencia marginal**: F03 aborda cómo comprender y contextualizar el problema, por lo que la auditoría puede apoyar el examen de algunas decisiones sin ser constitutiva de la contextualización.
 
+## Decisiones reconciliadas — F04 y F05
+
+El fundador aprobó expresamente **Sin incidencia** para ambos fundamentos: F04 se ocupa de la abstracción y F05 de la proyección semántica; el registro de ejecuciones eventualmente auditables no define ni condiciona estas responsabilidades conceptuales. No confundir O1, continuidad de significado, con O11, auditoría de actuaciones.
+
 ## Comprobaciones transversales
 
 - **O1 versus O11:** no insertar auditoría operativa dentro de continuidad semántica.
@@ -47,4 +51,4 @@ El fundador aprobó **Incidencia marginal**: F03 aborda cómo comprender y conte
 
 ## Decisiones pendientes
 
-Reconciliar con el fundador las nueve clasificaciones O11→F restantes (F01–F03 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F04 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
+Reconciliar con el fundador las siete clasificaciones O11→F restantes (F01–F05 ya reconciliados), siguiendo el procedimiento ya usado para O0–O10. Continuar por F06 y evitar presentar las restantes clasificaciones como aprobadas. Después contrastar cada capa conceptual realmente afectada y solo entonces estudiar F13 y conceptos de auditoría.
