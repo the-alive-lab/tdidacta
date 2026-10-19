@@ -6,6 +6,8 @@
 
 Actividad humana de interpretar una necesidad pedagógica, formular una respuesta intencional y hacer comprensibles las circunstancias pertinentes para aplicarla, mediante decisiones situadas y documentación suficiente. No se reduce a adaptar contenidos ni a aceptar inferencias de IA; no equivale a autorización.
 
+La contextualización puede apoyarse en observaciones y fuentes multimodales pertinentes sin obligar a digitalizarlas.
+
 ## Capa F03 — Contextualización pedagógica humana
 
 **Aporte de F03:** establece la responsabilidad de interpretación situada, juicio humano y documentación proporcional.
@@ -22,6 +24,7 @@ Actividad humana de interpretar una necesidad pedagógica, formular una respuest
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Considerar circunstancias no justifica capturar datos personales innecesarios. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal** | Ciertos contextos pueden exigir reconocimiento externo, sin hacer de la certificación personal parte de contextualizar. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Examina pertinencia y utilizabilidad de la respuesta en acceso directo o indirecto. |
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | Comprender circunstancias puede requerir audición, observación u otras fuentes no textuales, sin captura obligatoria. |
 
 ## Fronteras
 
