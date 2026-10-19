@@ -6,7 +6,7 @@ Este repositorio conserva las **definiciones canónicas de TDidacta**. Las propu
 
 ## Ramificación conceptual de TDidacta
 
-La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone de cinco fichas de cobertura (E01–E05)**; **Responsibilities y Roles** tienen ahora una frontera interpretativa acordada, pendiente de extracción caso a caso. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
+La siguiente es la **estructura de derivación propuesta** para organizar las definiciones sin duplicarlas. **Orientation, Foundations y Concepts** ya tienen documentos propios; **Escenarios dispone de cinco fichas de cobertura (E01–E05)**; **Responsibilities** se examina como catálogo transversal de labores necesarias; **Roles** y **Actors** se interpretan de manera situada. Las extracciones y sus correspondencias permanecen en revisión. El registro no equivale a adopción de una taxonomía o compromisos de implementación. El esquema no adopta nuevas carpetas ni modifica los fundamentos F01–F10 reconciliados.
 
 | Superficie | Pregunta que responde | Límite de su definición |
 | --- | --- | --- |
@@ -14,8 +14,8 @@ La siguiente es la **estructura de derivación propuesta** para organizar las de
 | **[Escenarios](scenarios/README.md)** *(registro candidato)* | ¿Qué situaciones debemos cubrir para cumplir lo que buscamos? | Describe condiciones y casos de cobertura; no repite roles ni responsabilidades. |
 | **[Fundamentos](foundations/README.md)** | ¿Qué debemos hacer para cumplir lo que buscamos? | Expresa respuestas constitutivas de TDidacta a la orientación, sin definir exhaustivamente conceptos ni asignar obligaciones a roles. |
 | **[Conceptos](concepts/README.md)** | ¿Cómo explicamos lo que hacemos? | Conserva los significados y distinciones semánticas a los que remiten los fundamentos. |
-| **Responsabilidades** *(frontera acordada; extracciones pendientes)* | ¿De qué se hace cargo cada actor al cumplir una función en este escenario? | Conserva interpretaciones situadas de cometidos, alcance y procedencia; no redefine conceptos ni crea obligaciones universales. |
-| **Roles** *(frontera acordada; extracciones pendientes)* | ¿Qué función cumple cada actor de este escenario? | Identifica funciones situadas y las contrasta conjuntamente con Responsibilities; no constituye identidad permanente. |
+| **Responsabilidades** *(criterio transversal acordado; catálogo por reconciliar)* | ¿Qué labores necesarias identificamos que puedan reaparecer entre escenarios? | Define responsabilidades reutilizables sin presuponer que se asignen o ejecuten en todos los escenarios. |
+| **Roles** *(interpretaciones pendientes)* | ¿Cómo interpreta TDidacta la participación de cada actor en este escenario? | Relaciona actores situados con responsabilidades transversales; no constituye identidad permanente ni duplica el catálogo. |
 
 ### Derivaciones y contraste de cobertura
 
@@ -25,15 +25,15 @@ flowchart TD
     S["Escenarios (candidato)<br/>¿Qué debemos cubrir?"]
     F["Fundamentos<br/>¿Qué debemos hacer?"]
     C["Conceptos<br/>¿Cómo lo explicamos?"]
-    R["Responsibilities<br/>¿De qué se hace cargo?"]
-    L["Roles<br/>¿Qué función cumple?"]
+    R["Responsibilities<br/>Labores transversales"]
+    L["Roles<br/>Interpretación situada"]
 
     O -->|justifica| F
     O -->|delimita cobertura| S
     F -->|origina o amplía| C
-    S -->|actores y compromisos situados| R
-    S -->|actores y funciones situadas| L
-    L <-->|contraste conjunto| R
+    S -->|evidencia necesidades de labores| R
+    S -->|actores situados| L
+    R -->|responsabilidades reutilizables| L
     C -.->|vocabulario interpretativo| R
     C -.->|vocabulario interpretativo| L
     R -.->|contrasta suficiencia| F
@@ -46,7 +46,7 @@ flowchart TD
 
 **Dos sentidos distintos de «escenario»:** la superficie candidata *Escenarios* describe **circunstancias o contextos donde se encuentra quien asume una responsabilidad**, y permite verificar qué debe cubrir TDidacta, qué roles aparecen y si los fundamentos son suficientes. En cambio, el concepto vigente [Escenario pedagógico](concepts/application-circumstances.md) describe las circunstancias para **aplicar una intención pedagógica** (tipos base y especializado, reconciliados en F10). Un contexto de ejercicio de responsabilidad no es necesariamente un escenario de aplicación de una intención: pueden relacionarse, pero no son el mismo concepto.
 
-**Responsabilidad contextual no es Responsibilities:** [Responsabilidad contextual](concepts/contextual-responsibility.md) es un concepto del vocabulario aprobado mediante F11. Responsibilities registra extracciones e interpretaciones de las funciones observadas o descritas de los actores en escenarios específicos. Una extracción no constituye automáticamente un concepto nuevo, obligación universal, hecho comprobado ni atribución legal. **Roles y Responsibilities se contrastan conjuntamente**: la relación no impone que una de estas superficies derive unidireccionalmente de la otra.
+**Responsabilidad contextual no es Responsibilities:** [Responsabilidad contextual](concepts/contextual-responsibility.md) es un concepto del vocabulario aprobado mediante F11. **Responsibilities** registra y reconcilia labores necesarias **transversales** inferidas al contrastar varios escenarios; una responsabilidad puede aparecer en unos escenarios y no en otros. **Actors** identifica unidades semánticas participantes de un escenario específico. **Roles** expresa interpretaciones situadas de su participación y puede vincularlas con responsabilidades transversales. Identificar una labor no significa asignarla ni demostrar su cumplimiento. Una extracción candidata no se convierte automáticamente en obligación universal, facultad concedida, hecho externo verificado o definición conceptual nueva.
 
 **Governance no es Responsibilities:** [Gobernanza documental](governance/README.md) trata autoridad, procedencia y evolución de las **definiciones del proyecto**, no asigna por sí misma compromisos pedagógicos a participantes.
 
