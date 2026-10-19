@@ -10,6 +10,12 @@ Permitir configuración contextual amplia podría exigir demasiado trabajo antes
 
 Una configuración generada debe poder modificarse posteriormente; utilizar un punto de partida no implica aceptar permanentemente todas sus decisiones. «Plantillas» es una forma posible de realizar la responsabilidad, no un generador técnico adoptado.
 
+## Alcance transversal acordado en revisión (2026-10-19)
+
+La responsabilidad se extiende a **todos los aspectos de alta carga de configuración** pertinentes para los escenarios efectivamente atendidos: por ejemplo, estructuras de autoridad, organización de pantallas especializadas, responsables y sus facultades, entre otros. No se limita a la organización de roles.
+
+**Frontera:** este fundamento afirma que TDidacta debe proporcionar configuraciones iniciales opinionadas y adaptables; **no decide qué contiene cada una**. El contenido se deriva de las necesidades de cada [escenario](../scenarios/README.md) y de los fundamentos que expliquen cómo TDidacta lo atiende. Las conexiones se explicitarán en Relationships; su materialización concreta corresponde a Mechanisms y al diseño de productos.
+
 ## Tres niveles de expectativa
 
 - **Casos habituales:** empezar a utilizar lo pertinente con configuración humana mínima.
@@ -20,6 +26,7 @@ Una configuración generada debe poder modificarse posteriormente; utilizar un p
 
 ## Fronteras
 
+- No sustituye los fundamentos que delimitan las capacidades de cada escenario ni prescribe el contenido de cada configuración.
 - No sustituye la autonomía contextual; la configuración inicial no congela el modelo de organización.
 - No implica que una plantilla conceda por sí sola autorización pedagógica o facultades legales.
 - No adopta catálogo, wizard, UI, esquema de roles, formato de plantilla, generador ni mecanismo específico.
