@@ -1,7 +1,7 @@
 # E01 — Primera extracción conjunta de Roles y Responsibilities
 
 **Fecha:** 2026-10-19  
-**Estado:** propuesta interpretativa para reconciliación con el fundador; **no es adopción de Roles ni Responsibilities canónicas**.  
+**Estado:** antecedente histórico de primera extracción, **superado en su tratamiento de Roles y Responsibilities por la precisión del fundador de 2026-10-19**. No es catálogo transversal aprobado ni adopción de Roles. Véase [revisión de transversalidad](2026-10-19-e01-transversal-responsibilities-review.md).  
 **Fuente principal:** [E01 — Enseñanza particular y aprendizaje acompañado](../scenarios/e01-ensenanza-particular.md).  
 **Marco:** [frontera de superficies](../README.md), [Responsabilidad contextual](../concepts/contextual-responsibility.md), [F11](../foundations/contextual-organization-autonomy.md).
 
