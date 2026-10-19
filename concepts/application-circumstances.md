@@ -15,6 +15,8 @@ Se distinguen **dos tipos del mismo concepto**, no dos conceptos independientes:
 
 El escenario no es la intención ni una realización. Especializarlo no obliga a generar contenido, registrar un perfil personal o modificar la intención autorizada. La definición y las clasificaciones O→C de la capa F10 fueron aprobadas expresamente; no alteran la capa F03.
 
+Las circunstancias del escenario pueden incorporar propiedades perceptivas y observaciones multimodales pertinentes; especializarlo puede considerar esas entradas sin conservar perfiles personales innecesarios.
+
 ## Procedencia de la definición de F03
 
 La definición reconciliada en F03 identificaba «Circunstancias de aplicación pedagógica» como condiciones y necesidades específicas pertinentes para aplicar una intención a destinatarios o situaciones concretas, incluyendo conocimientos previos, recursos, medios, tiempo, apoyos, barreras y restricciones, y permitía aplicar una intención bajo múltiples circunstancias sin redefinirla íntegramente. Ese contenido se conserva en la definición acumulativa y en la capa F03 siguiente.
@@ -32,6 +34,8 @@ La definición reconciliada en F03 identificaba «Circunstancias de aplicación 
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Caracterizar personas no autoriza registrar información personal excesiva. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Incidencia marginal** | La identidad personal solo es relevante cuando el contexto requiere su acreditación externa; no es requisito universal de la circunstancia. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Deben considerarse barreras materiales, funcionales o de acceso y alternativas directas o indirectas cuando correspondan. |
+
+**O12→Escenario pedagógico mediante F03: Complemento (2026-10-19).** Las circunstancias de referencia pueden considerar fuentes no textuales.
 
 ## Capa F10 — Adaptación mediante especialización de escenarios (reconciliada 2026-10-18)
 
@@ -51,6 +55,8 @@ La definición reconciliada en F03 identificaba «Circunstancias de aplicación 
 | [O9](../orientation/contextual-access-and-educational-reach.md) | Condición | Reconocer barreras y modalidades de acceso según cada circunstancia. |
 
 **Sin incidencia mediante F10:** O5 (reconocimiento de feedback), O8 (identidades personales externas) y O10 (continuidad de recursos públicos) no modifican la definición de escenario ni sus dos tipos. En particular O10 corresponde a conservación de recursos, no a especialización de escenarios. Esto no modifica las relaciones reconciliadas en la capa histórica F03.
+
+**O12→Escenario pedagógico mediante F10: Complemento (2026-10-19).** La especialización puede utilizar información multimodal pertinente sin alterar la intención.
 
 ## Fronteras
 
