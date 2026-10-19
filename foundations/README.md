@@ -4,7 +4,7 @@
 
 ## Fundamentos reconciliados
 
-Las doce responsabilidades fundacionales han sido reconciliadas conceptualmente por el fundador. Cada documento contiene su razón de ser, las relaciones O0–O10 que lo justifican y enlaces a sus conceptos; **las definiciones semánticas completas viven en Concepts**.
+Las trece responsabilidades fundacionales han sido reconciliadas conceptualmente por el fundador. Cada documento contiene su razón de ser, las relaciones con las orientaciones vigentes que lo justifican y enlaces a sus conceptos; **las definiciones semánticas completas viven en Concepts**.
 
 | Fundamento | Responsabilidad de TDidacta |
 | --- | --- |
@@ -20,18 +20,17 @@ Las doce responsabilidades fundacionales han sido reconciliadas conceptualmente 
 | [F10 — Adaptación pedagógica](pedagogical-adaptation.md) | Admitir especialización de escenarios base preservando intención y límites relevantes. |
 | [F11 — Autonomía de organización contextual](contextual-organization-autonomy.md) | Establecer responsabilidades contextuales con cometidos y facultades de dominio definidas por TDidacta. |
 | [F12 — Configuraciones iniciales opinionadas](opinionated-starting-configurations.md) | Ofrecer propuestas reutilizables y configurables para aspectos de alta carga de preparación según el escenario. |
+| [F13 — Auditabilidad de actuaciones y decisiones](general-auditability.md) | Permitir reconstruir y examinar actuaciones relevantes, sus condiciones y consecuencias conocidas de forma fiable y proporcional. |
 
-**Estado:** F01–F12 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
+**Estado:** F01–F13 reconciliados conceptualmente; esto no acredita implementación ni eficacia. [Trazabilidad de decisiones](../bootstrap/foundations-concepts-review.md) · [Concepts](../concepts/README.md).
 
 ## Procedencia de F11 y F12
 
 Las candidaturas de [autonomía organizativa](candidate-contextual-organization-autonomy.md) y [configuraciones opinionadas](candidate-opinionated-starting-configurations.md) se conservaron como antecedentes históricos y fueron **promovidas expresamente por el fundador el 2026-10-19**. [Revisión y decisiones O→Concept](candidate-concepts-orientation-review-2026-10-19.md).
 
-La orientación de [Auditoría general O11](../orientation/general-auditability.md) fue adoptada; las doce relaciones O11→F01–F12 ya están reconciliadas. Se ha preparado una [evaluación de candidatura de F13](candidate-general-auditability.md), **sin promoción canónica**.
+## Procedencia de F13
 
-## Candidatura bajo evaluación
-
-- [Auditabilidad de actuaciones y decisiones — posible F13](candidate-general-auditability.md): evaluación de responsabilidad propia, límites y conceptos; **no promovida**.
+La orientación [O11 — Auditoría general](../orientation/general-auditability.md), sus relaciones con F01–F12 y las tablas O→F13 y O→Concept fueron reconciliadas. [F13](general-auditability.md) y sus tres conceptos fueron **promovidos expresamente por el fundador el 2026-10-19**. Se conservan la [candidatura histórica](candidate-general-auditability.md) y la [revisión conceptual](candidate-f13-concepts-orientation-review-2026-10-19.md).
 
 ## Registros y criterios complementarios
 
