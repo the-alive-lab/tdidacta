@@ -2,6 +2,8 @@
 
 **Estado:** registro de escenarios propuesto por el fundador y elaborado para contraste; **no es adopción de capacidades, compromisos de release, roles ni responsabilidades canónicas**. Fecha: 2026-10-18.
 
+**Precisión de frontera acordada (2026-10-19):** las superficies futuras **Roles** y **Responsibilities** se construyen como interpretaciones vinculadas de actores y funciones de cada escenario. Roles identifica qué función cumple un actor; Responsibilities extrae de ella los cometidos y responsabilidades situados. Se revisan conjuntamente, sin imponer una derivación unidireccional. [Responsabilidad contextual](../concepts/contextual-responsibility.md) sigue siendo un concepto del vocabulario F11, no una extracción particular. Una interpretación documentada no impone obligación universal ni certifica por sí sola un hecho externo.
+
 ## Alcance y regla de lectura
 
 Esta superficie pregunta **en qué circunstancias debe poder cumplir TDidacta sus orientaciones**, qué tensiones aparecen y si [F01–F10](../foundations/README.md) son suficientes. La definición del problema y aspiración se mantiene en [Orientation](../orientation/README.md); las soluciones fundamentales en Foundations y los significados en [Concepts](../concepts/README.md). No se duplican.
