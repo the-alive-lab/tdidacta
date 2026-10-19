@@ -25,7 +25,7 @@ Son acciones candidatas reconocidas por su **finalidad común**; no se separan e
 
 ## Frontera y cautelas
 
-La generación y revisión pedagógica de intenciones permanece en T-R01a; las adaptaciones dinámicas en T-R01b. T-R02 agrupa protección y autorización por un objetivo compartido, sin establecer personas, cargos, separación de funciones o circuito técnico. Autorizar no equivale a publicar ni a conceder acceso.
+T-R01a formula y revisa componentes relativamente estables; T-R01b adapta, especializa y también puede formular nuevas intenciones de alcance situado. T-R02 examina su corrección, suficiencia y coherencia con el propósito pertinente, y protege y autoriza elementos nuevos o nuevas versiones para los alcances correspondientes. T-R02 agrupa protección y autorización por un objetivo compartido, sin establecer personas, cargos, separación de funciones o circuito técnico. Autorizar no equivale a publicar ni a conceder acceso.
 
 ## Precisión reconciliada con el fundador (2026-10-19)
 
