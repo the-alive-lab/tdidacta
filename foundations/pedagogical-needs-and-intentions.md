@@ -80,6 +80,7 @@ La [tensión O1 ↔ O3](../tensions/semantic-continuity-human-effort.md) sigue s
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Sin incidencia** | No se necesita acreditar identidades personales ni gestionar cuentas para formular estos conceptos. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Las circunstancias de acceso pueden informar intenciones y posibilidades sin redefinir su relación semántica; la condición específica de aprovechamiento se registra en el concepto de espacio de posibilidades. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de recursos publicados pertenece a capacidades posteriores, no a la definición de estos conceptos. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | El abordaje de problemas mediante necesidades e intenciones puede implicar decisiones examinables, sin que auditar constituya el significado de F02. |
 
 ### Revisión de O6
 
