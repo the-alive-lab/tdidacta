@@ -34,6 +34,7 @@ Las facultades son acciones semánticas del **dominio pertinente**: el dominio p
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | La distribución de facultades debe mantener independientes identidad personal acreditada externamente, identidad operativa y relaciones contextuales; asignar facultades no acredita una persona. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La libertad de organizar funciones y facultades debe poder ejercerse considerando las condiciones materiales, tecnológicas y sociales reales del contexto educativo; no exige funcionamiento universal sin infraestructura. |
 | [O10](../orientation/public-resource-continuity.md) | **Sin incidencia** | O10 trata de la independencia y continuidad de recursos públicos, no de cómo un contexto distribuye funciones, responsabilidades o facultades. Su cumplimiento corresponde a otra responsabilidad. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Los cambios de responsabilidades y facultades pueden auditarse, pero esta actividad es anexa a la autonomía organizativa. |
 
 
 ## 5. Decisión y procedencia
