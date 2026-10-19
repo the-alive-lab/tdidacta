@@ -12,8 +12,9 @@ Ejercer el **resguardo y la representación del aprendiz en calidad de apoderado
 
 1. Reconocer si corresponde intervención legal o representación en el contexto.
 2. Atender las decisiones, gestiones y resguardos pertinentes a la función de apoderado respecto del aprendiz, según el contexto y los límites aplicables.
-3. Considerar límites de acceso e información relevantes para ese resguardo.
-4. Evitar atribuir facultades legales por sola relación familiar o de cuidado.
+3. **Mantener interlocución pertinente con quienes participan en la enseñanza:** comunicar necesidades o dificultades del aprendiz, recibir información relevante de su progreso e intervenir cuando se requiera participación del apoderado.
+4. Considerar límites de acceso e información relevantes para ese resguardo.
+5. Evitar atribuir facultades legales por sola relación familiar o de cuidado.
 
 Son acciones candidatas reconocidas por su **finalidad común**; no se separan en responsabilidades distintas solo por diferencias operativas.
 
@@ -29,6 +30,10 @@ E01 no determina jurisdicción, deber legal concreto, ni cuándo se activa esta 
 ## Precisión reconciliada con el fundador (2026-10-19)
 
 T-R04 se comprende **como la responsabilidad propia de un apoderado** respecto del aprendiz. Su núcleo es representar y resguardar sus intereses dentro del alcance pertinente; no constituye una categoría general para cualquier acompañamiento, cuidado o apoyo pedagógico. El término «apoderado» expresa aquí la **función reconocida**, sin presuponer que toda persona familiar o cuidadora tenga autoridad legal, ni fijar un tipo jurídico uniforme entre escenarios o jurisdicciones. La definición continúa candidata hasta el contraste transversal.
+
+## Precisión reconciliada: interlocución educativa (2026-10-19)
+
+El fundador confirma que la **interlocución con quienes participan en la enseñanza** es una acción agrupada dentro de T-R04: comunicar necesidades del aprendiz, recibir información pertinente sobre su progreso e intervenir ante dificultades que exijan participación del apoderado. Su finalidad continúa siendo representación y resguardo; **no constituye una Responsibility nueva** ni confiere autoridad pedagógica irrestricta. El acceso a información debe respetar las condiciones pertinentes.
 
 ## Cuestiones pendientes de reconciliación
 
