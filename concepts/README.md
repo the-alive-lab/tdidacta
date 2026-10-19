@@ -105,6 +105,24 @@ Las entradas recogen los conceptos centrales de F01 sin convertir automáticamen
 
 No se crearon conceptos separados para los dos tipos, ni capas nuevas en intención, exploración o realización por simple relación.
 
+## F11 — Autonomía de organización contextual (reconciliado 2026-10-19)
+
+| Concepto | Contribución |
+| --- | --- |
+| [Facultad](faculty.md) | Acción semántica habilitable en el dominio pertinente, definida por TDidacta |
+| [Responsabilidad contextual](contextual-responsibility.md) | Rol contextual con cometidos propios y facultades asignadas |
+
+**Estado:** definiciones y capas O→C reconciliadas por el fundador. [F11](../foundations/contextual-organization-autonomy.md).
+
+## F12 — Configuraciones iniciales opinionadas (reconciliado 2026-10-19)
+
+| Concepto | Contribución |
+| --- | --- |
+| [Configuración opinionada](opinionated-configuration.md) | Propuesta reutilizable de valores iniciales para escenarios atendidos |
+| [Configuración particular](particular-configuration.md) | Configuración concreta del contexto, derivada o construida desde cero |
+
+**Estado:** distinción y capas O→C reconciliadas por el fundador. [F12](../foundations/opinionated-starting-configurations.md).
+
 ## Continuidad F03 — documentos de referencia
 
 | Concepto | Aporte |
