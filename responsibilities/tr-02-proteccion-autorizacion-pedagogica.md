@@ -6,14 +6,14 @@
 
 ## Objetivo
 
-Proteger la integridad y los alcances de los elementos pedagógicos, y autorizar los cambios pertinentes para sus usos correspondientes.
+Proteger la integridad y los alcances de los elementos pedagógicos, y autorizar **tanto intenciones pedagógicas nuevas como nuevas versiones o modificaciones candidatas** para los usos correspondientes. Su finalidad no depende de que exista una versión previa.
 
 ## Acciones agrupadas por objetivo (candidatas)
 
 1. Examinar qué elementos o versiones se proponen autorizar y bajo qué alcances.
-2. Contrastar que las modificaciones respeten las referencias y restricciones pedagógicas pertinentes.
+2. Contrastar la pertinencia de las intenciones nuevas y de los cambios propuestos frente a las referencias, razones y restricciones pedagógicas aplicables.
 3. Preservar la distinción y trazabilidad de versiones previas autorizadas frente a nuevas candidatas.
-4. Decidir la autorización pertinente, condicionarla o no concederla según antecedentes disponibles.
+4. Decidir la autorización de una intención nueva o de una versión candidata para un alcance determinado; condicionarla o no concederla según antecedentes disponibles.
 
 Son acciones candidatas reconocidas por su **finalidad común**; no se separan en responsabilidades distintas solo por diferencias operativas.
 
@@ -25,6 +25,10 @@ Son acciones candidatas reconocidas por su **finalidad común**; no se separan e
 ## Frontera y cautelas
 
 La generación y revisión pedagógica de intenciones permanece en T-R01a; las adaptaciones dinámicas en T-R01b. T-R02 agrupa protección y autorización por un objetivo compartido, sin establecer personas, cargos, separación de funciones o circuito técnico. Autorizar no equivale a publicar ni a conceder acceso.
+
+## Precisión reconciliada con el fundador (2026-10-19)
+
+T-R02 **protege y autoriza las intenciones pedagógicas que se pretenda utilizar, sean nuevas o modificadas**. La existencia de un cambio previo no es condición de activación de su finalidad. Esta decisión precisa el objetivo de la responsabilidad sin asignarla a Roles ni actores; el resto de acciones sigue en revisión.
 
 ## Cuestiones pendientes de reconciliación
 
