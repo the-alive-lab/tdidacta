@@ -24,7 +24,7 @@ Son acciones candidatas reconocidas por su **finalidad común**; no se separan e
 
 ## Frontera y cautelas
 
-Es una responsabilidad candidata cuyo **objetivo central es aprender**. Reconocer cómo se aprende forma parte de la autonomía relacionada con esta responsabilidad; dar feedback es una acción posible al servicio de ese aprendizaje, **no un segundo objetivo ni una obligación permanente de comunicarlo**. Tampoco implica garantizar resultados, explorar siempre o utilizar un medio específico. F09 protege la autonomía; distinguir acciones susceptibles de compromiso de capacidades opcionales sigue pendiente.
+Es una responsabilidad candidata cuyo **objetivo central es aprender**, entendido como finalidad que orienta las acciones y no como exigencia de obtener un resultado verificable por obligación. La necesidad de reconocer esta labor no impone un grado único de autonomía, participación o comunicación. Reconocer cómo se aprende forma parte de la autonomía relacionada con esta responsabilidad; dar feedback es una acción posible al servicio de ese aprendizaje, **no un segundo objetivo ni una obligación permanente de comunicarlo**. Tampoco implica garantizar resultados, explorar siempre o utilizar un medio específico. F09 protege la autonomía; distinguir acciones susceptibles de compromiso de capacidades opcionales sigue pendiente.
 
 ## Precisión reconciliada con el fundador (2026-10-19)
 
@@ -32,7 +32,7 @@ Se adopta la interpretación **A: aprendizaje como objetivo agrupador**. La retr
 
 ## Cuestiones pendientes de reconciliación
 
-1. ¿Qué núcleo de acciones puede reconocerse como labor necesaria sin convertir la autonomía en imposición?
+1. **Criterio aclarado; concreción pendiente:** se reconoce la finalidad de aprender y las acciones que pueden contribuir a ella según circunstancias. No se imponen exploración autónoma, feedback, modalidad de participación ni éxito garantizado. Los límites de cada acción se contrastarán posteriormente con otros escenarios.
 2. **Abierta deliberadamente:** ¿cómo reconocer y facilitar alguna forma de expresión de dificultades, necesidades o retroalimentación cuando la persona no puede expresarlas directamente? El fundador considera importante investigar cómo hacer posible esa expresión, pero todavía no se define modalidad, mecanismo ni solución. No presumir que la ausencia de expresión directa equivale a ausencia de aprendizaje o de necesidades.
 
 **Decisión de alcance (2026-10-19):** conservar este problema como cuestión abierta para investigación posterior, sin resolverlo anticipadamente mediante comunicación alternativa, mediación u otra técnica específica. La finalidad de T-R03 sigue siendo el aprendizaje, no la obligación de producir feedback.
