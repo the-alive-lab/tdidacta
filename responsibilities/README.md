@@ -19,7 +19,7 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 | **T-R01a** | [Estructuración y continuidad pedagógica](tr-01a-planificacion-contextualizacion-pedagogica.md) | Dos criterios reconciliados; acciones adicionales pendientes de contraste |
 | **T-R01b** | [Contextualización y adaptación pedagógica](tr-01b-contextualizacion-adaptacion-pedagogica.md) | Ficha candidata para reconciliar |
 | **T-R02** | [Protección y autorización pedagógica](tr-02-proteccion-autorizacion-pedagogica.md) | Ficha candidata para reconciliar |
-| **T-R03** | [Aprendizaje y retroalimentación](tr-03-aprendizaje-retroalimentacion.md) | Ficha candidata para reconciliar |
+| **T-R03** | [Aprendizaje y autonomía](tr-03-aprendizaje-retroalimentacion.md) | Ficha candidata para reconciliar |
 | **T-R04** | [Resguardo legal del aprendiz cuando corresponda](tr-04-resguardo-legal-aprendiz.md) | Ficha candidata condicional |
 | **T-R05** | [Gestión de acceso a recursos](tr-05-gestion-acceso-recursos.md) | Ficha candidata para reconciliar |
 
