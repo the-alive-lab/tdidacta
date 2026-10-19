@@ -78,6 +78,7 @@ La contextualización puede resultar errónea aunque se documente correctamente;
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La contextualización debe reconocer barreras de acceso y aprovechamiento directo o indirecto cuando sean pertinentes, no presumir disponibilidad de la plataforma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Sin incidencia** | La preservación de recursos publicados no es parte de interpretar y documentar necesidades, intenciones y circunstancias concretas. |
 | [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Algunas decisiones de contextualización pueden examinarse, pero la auditoría no define la comprensión situada ni exige registrar toda observación. |
+| [O12 — Pluralidad modal](../orientation/modal-plurality-of-educational-experience.md) | **Complemento — reconciliado 2026-10-19** | La comprensión de circunstancias educativas puede requerir información u observaciones no textuales. |
 
 
 ## 7. Continuidad y mantenimiento
