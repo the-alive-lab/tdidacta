@@ -33,6 +33,8 @@ Se adopta la interpretación **A: aprendizaje como objetivo agrupador**. La retr
 ## Cuestiones pendientes de reconciliación
 
 1. ¿Qué núcleo de acciones puede reconocerse como labor necesaria sin convertir la autonomía en imposición?
-2. ¿Cómo se describe esta responsabilidad cuando la persona no puede expresar feedback directamente?
+2. **Abierta deliberadamente:** ¿cómo reconocer y facilitar alguna forma de expresión de dificultades, necesidades o retroalimentación cuando la persona no puede expresarlas directamente? El fundador considera importante investigar cómo hacer posible esa expresión, pero todavía no se define modalidad, mecanismo ni solución. No presumir que la ausencia de expresión directa equivale a ausencia de aprendizaje o de necesidades.
+
+**Decisión de alcance (2026-10-19):** conservar este problema como cuestión abierta para investigación posterior, sin resolverlo anticipadamente mediante comunicación alternativa, mediación u otra técnica específica. La finalidad de T-R03 sigue siendo el aprendizaje, no la obligación de producir feedback.
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
