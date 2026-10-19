@@ -65,6 +65,7 @@ No establece formatos de prueba de autorización, esquema de identidad interno, 
 | [O8 — Reconocimiento externo de identidades](../orientation/external-personal-identity-recognition.md) | **Condición** | Cuando sea necesario vincular una autorización con identidad personal verificada, esa identificación se reconoce externamente; la autoridad contextual se determina por separado. |
 | [O9 — Accesibilidad contextual](../orientation/contextual-access-and-educational-reach.md) | **Incidencia marginal** | Una autorización puede estar situada para resultados de uso directo o indirecto; garantizar accesibilidad pertenece a contextualización y realizaciones, no a la aprobación misma. |
 | [O10 — Continuidad de recursos públicos](../orientation/public-resource-continuity.md) | **Incidencia marginal** | Autorizar un elemento publicable no equivale a preservar su disponibilidad posterior; la continuidad se debe atender por capacidades de publicación y distribución. |
+| [O11 — Auditoría general](../orientation/general-auditability.md) | **Incidencia marginal — reconciliado 2026-10-19** | Auditar la actuación de autorizar es anexo a la autorización pedagógica y a su alcance, no condición conceptual de F07. |
 
 
 ## 7. Mantenimiento
