@@ -20,11 +20,11 @@ Configurar una facultad de actuación **no autoriza anticipadamente** decisiones
 
 ## Precisación del concepto candidato «Facultad» (2026-10-19)
 
-**Facultad** es una acción reconocida por TDidacta con significado semántico en su dominio, ejercible por un actor en su flujo de trabajo. TDidacta define el catálogo de estas acciones; cada contexto distribuye su ejercicio mediante responsabilidades configurables.
+**Facultad** es una acción reconocida por TDidacta con significado semántico en el **dominio pertinente**, ejercible por un actor en su flujo de trabajo. El dominio debe identificarse explícitamente: puede ser el **dominio pedagógico** o el dominio de un **producto de TDidacta**, como Platform. TDidacta define el catálogo de estas acciones; cada contexto distribuye su ejercicio mediante responsabilidades configurables.
 
-Ejemplos positivos: editar una intención pedagógica, convocar una revisión, autorizar una versión (esta última sujeta además a las condiciones de F07). «Abrir una carpeta» o un menú, por sí solos, son interacciones técnicas o de interfaz, **no facultades**: no se ha definido «carpeta» como objeto de dominio ni una actuación educativa correspondiente.
+Ejemplos del **dominio pedagógico**: editar una intención pedagógica, convocar una revisión, autorizar una versión (esta última sujeta además a F07). «Abrir una carpeta» o «abrir un menú» **no son, por esa sola descripción, acciones del dominio pedagógico**. No obstante, una acción de navegación o interacción **sí puede ser significativa dentro del dominio de TDidacta Platform** y constituir una facultad allí, si ese producto la reconoce como acción propia. No se presupone que toda interacción de interfaz deba convertirse en una facultad configurable.
 
-La facultad delimita **qué acción de dominio puede ejercerse**, no garantiza que toda ejecución sea válida ni reemplaza restricciones o decisiones del dominio. Una misma facultad puede exponerse por varias interfaces técnicas sin convertirse por ello en varias facultades.
+La facultad delimita **qué acción del dominio correspondiente puede ejercerse**, no garantiza que toda ejecución sea válida ni reemplaza restricciones o decisiones del dominio. Una misma facultad puede exponerse por varias interfaces técnicas sin convertirse por ello en varias facultades.
 
 **Estado:** definición de trabajo precisada por el fundador; pendiente de reconciliar y promover en Concepts junto con los demás conceptos de estas candidaturas.
 
