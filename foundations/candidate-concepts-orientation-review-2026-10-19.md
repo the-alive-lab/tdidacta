@@ -35,11 +35,13 @@
 | [O0](../orientation/README.md) | **Origen** | Permite organizar participación educativa en contextos diversos. |
 | [O2](../orientation/technology-enabled-semantic-continuity.md) | **Complemento** | Una tecnología puede apoyar su composición o asignación, sin determinar los cometidos legítimos. |
 | [O3](../orientation/human-effort-and-agency.md) | **Condición** | Definir responsabilidades no debería imponer carga desproporcionada. |
-| [O5](../orientation/transparent-contribution-recognition.md) | **Incidencia marginal, a revisar** | Tener un cometido o rol no equivale a ser autor de los aportes efectuados. |
+
 | [O6](../orientation/effort-inversion.md) | **Condición** | La organización contextual no debe desplazar indebidamente el esfuerzo educativo hacia la administración de roles. |
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | Asignar cometidos no justifica tratamientos personales innecesarios. |
 | [O8](../orientation/external-personal-identity-recognition.md) | **Condición** | Vincular identidades operativas con responsabilidades no certifica quién es la persona. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | Los cometidos y su ejercicio deben considerar condiciones reales de participación. |
+
+**Decisión del fundador (2026-10-19):** aprobadas las relaciones O→C para Responsabilidad contextual: O0 Origen, O2 Complemento, O3/O6/O7/O8/O9 Condición. **O5 Sin incidencia**: el rol y los cometidos que lo definen son distintos de las acciones y contribuciones efectivamente realizadas. O4 no se incorpora a la capa; O1/O10 sin incidencia.
 
 **Límites:** O4 es marginal en el fundamento y no debe convertirse en Condición del concepto solo porque algunas responsabilidades incluyan autorizar; F07 rige la acción pedagógica cuando corresponda. O1/O10 sin incidencia. La asignación de una responsabilidad a alguien es una relación candidata, no un quinto concepto automático.
 
@@ -82,7 +84,7 @@
 ## Contrastes y cuestiones para aprobación
 
 1. **C1 resuelto:** aprobada la capa candidata de Facultad, conservando acciones significativas de los dominios de productos como Platform.
-2. **C2:** ¿la responsabilidad contextual debe conservar explícitamente cometidos distintos de facultades? ¿O5 queda marginal o sin incidencia en esta capa?
+2. **C2:** ¿la responsabilidad contextual debe conservar explícitamente cometidos distintos de facultades? O5 queda **Sin incidencia** por decisión del fundador; rol y actuación efectiva son distintos.
 3. **C3:** ¿la Configuración opinionada es efectivamente el punto de partida reutilizable, no su instancia aplicada? ¿Conforme con O3/O6/O9 como Origen de esta capa?
 4. **C4:** ¿la Configuración particular incluye tanto derivaciones como configuraciones desde cero? ¿O3/O6/O9 operan como Condición respecto de su uso y evolución?
 
