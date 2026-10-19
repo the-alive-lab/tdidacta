@@ -47,6 +47,8 @@
 
 ## C3 — Configuración opinionada
 
+**Decisión del fundador (2026-10-19):** aprobadas las relaciones O→C propuestas para Configuración opinionada: O0/O3/O6/O9 Origen; O2 Complemento; O7/O8 Condición. O1/O4/O5/O10 sin incidencia. La definición sigue candidata hasta formalización en Concepts.
+
 **Definición candidata:** propuesta reutilizable de decisiones iniciales de configuración proporcionada por TDidacta para facilitar el uso de capacidades pertinentes a escenarios atendidos, sin definir por sí misma el contenido de esas capacidades ni obligar a aceptar sus elecciones. No se confunde con el resultado particular de aplicarla.
 
 **Capa candidata — Configuraciones iniciales opinionadas:** proporciona un punto de partida reconocible y modificable que reduce la carga en casos habituales; su contenido depende del escenario y de los fundamentos pertinentes.
@@ -85,7 +87,7 @@
 
 1. **C1 resuelto:** aprobada la capa candidata de Facultad, conservando acciones significativas de los dominios de productos como Platform.
 2. **C2:** ¿la responsabilidad contextual debe conservar explícitamente cometidos distintos de facultades? O5 queda **Sin incidencia** por decisión del fundador; rol y actuación efectiva son distintos.
-3. **C3:** ¿la Configuración opinionada es efectivamente el punto de partida reutilizable, no su instancia aplicada? ¿Conforme con O3/O6/O9 como Origen de esta capa?
+3. **C3 resuelto:** Configuración opinionada es el punto de partida reutilizable, distinto de su instancia aplicada; aprobadas O3/O6/O9 como Origen junto con O0 y el resto de la capa.
 4. **C4:** ¿la Configuración particular incluye tanto derivaciones como configuraciones desde cero? ¿O3/O6/O9 operan como Condición respecto de su uso y evolución?
 
 **Recomendación editorial:** reconciliar primero las clasificaciones de cada capa, comenzando por C1. No crear cuatro archivos en Concepts antes de la aprobación; conservar esta propuesta en Foundations como artefacto de revisión. La eventual auditoría institucional sigue pendiente y no debe confundirse con O1.
