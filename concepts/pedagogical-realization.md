@@ -8,6 +8,8 @@ Una **realización pedagógica** es la concreción de elementos educativos a par
 
 La realización puede revisarse en función de su pertinencia, correspondencia semántica y circunstancias, y corregirse proporcionalmente cuando corresponda. La revisión o corrección no demuestra por sí sola calidad pedagógica, aprendizaje ni autorización.
 
+Una realización puede ser sonora, visual, interactiva o combinar modalidades cuando resulte pertinente a la intención; sus recursos concretos pueden provenir de realizadores externos y no necesariamente de la IR.
+
 ## Capa F05 — Proyección semántica
 
 **Aporte de F05:** determina la relación entre intención representada, límites de alcance y resultados concretados; distingue candidato generado, realización y aprobación.
@@ -22,6 +24,7 @@ La realización puede revisarse en función de su pertinencia, correspondencia s
 | [O7](../orientation/privacy-by-design-and-data-minimization.md) | **Condición** | El material realizado no debe divulgar datos personales no justificados. |
 | [O9](../orientation/contextual-access-and-educational-reach.md) | **Condición** | La realización puede necesitar utilizarse sin la plataforma: materiales impresos, experiencias presenciales u otras formas de aprovechamiento indirecto. |
 | [O10](../orientation/public-resource-continuity.md) | **Condición de publicación** | Cuando una realización sea publicada como recurso público, su significado y utilizabilidad deberían poder preservarse independientemente del servicio; no exige que todas las realizaciones sean públicas. |
+| [O12](../orientation/modal-plurality-of-educational-experience.md) | **Condición — reconciliado 2026-10-19** | La realización debe admitir los medios que requiera su intención pedagógica, sin exigir todos en cada caso. |
 
 ## Capa F06 — Revisión y corrección pedagógica
 
