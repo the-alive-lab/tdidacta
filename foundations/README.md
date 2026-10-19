@@ -34,7 +34,7 @@ La orientación [O11 — Auditoría general](../orientation/general-auditability
 
 ## Revisión abierta por O12
 
-La [O12 — Pluralidad modal de la experiencia educativa](../orientation/modal-plurality-of-educational-experience.md) fue adoptada el 2026-10-19; su incidencia sobre F01–F13 está [reconciliada y propagada](../notes/2026-10-19-o12-multimodality-impact-review.md). La revisión O12→Concept está pendiente; las definiciones fundacionales no se amplían automáticamente.
+La [O12 — Pluralidad modal de la experiencia educativa](../orientation/modal-plurality-of-educational-experience.md) fue adoptada el 2026-10-19; su incidencia sobre F01–F13 está [reconciliada y propagada](../notes/2026-10-19-o12-multimodality-impact-review.md). La [revisión O12→Concept](../notes/2026-10-19-o12-concepts-review.md) está reconciliada y aplicada a los conceptos pertinentes; las responsabilidades fundacionales no se amplían automáticamente.
 
 ## Registros y criterios complementarios
 
