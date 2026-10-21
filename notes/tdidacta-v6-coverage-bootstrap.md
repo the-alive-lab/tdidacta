@@ -807,3 +807,7 @@ Una vez reconciliadas funcionalmente las necesidades E01–E05, se abrió [nota 
 ### T-R06 — coordinación no limitada a múltiples participantes (2026-10-21)
 
 En la consolidación transversal el fundador eligió **B: la activación de T-R06 depende de interdependencias reales entre trabajos o decisiones, no del número de participantes**. Una persona sola puede coordinar varias actividades interdependientes. Contraejemplo: organizar relaciones internas de una intención es primordialmente T-R01a, no T-R06 por defecto. [Ficha T-R06](../responsibilities/tr-06-organizacion-coherencia-pedagogica.md) · [Contraste transversal](2026-10-21-e01-e05-responsibilities-transversal-consolidation.md). Finalidad/frontera aclaradas; acciones y adopción pendientes.
+
+### T-R06 — decisiones operativas con delegación explícita (2026-10-21)
+
+El fundador confirmó la frontera decisoria: T-R06 puede decidir reorganizaciones operativas dentro de facultades explícitamente delegadas; una interdependencia urgente no autoriza nuevas facultades. Cambios pedagógicos y autorizaciones siguen en T-R01/T-R02, y fuera de delegación corresponde solicitar/escalar. [Ficha T-R06](../responsibilities/tr-06-organizacion-coherencia-pedagogica.md). Estado de candidatura preservado.
