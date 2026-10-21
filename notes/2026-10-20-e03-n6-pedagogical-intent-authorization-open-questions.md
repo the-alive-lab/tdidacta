@@ -63,3 +63,45 @@ Distinguir con precisión:
 **Contraste pendiente:** confrontar la propuesta con F02/F07/F10/F11/F12, Intención pedagógica, Alcance de autorización y mecanismos de versionamiento, preservando la inmutabilidad de versiones consolidadas y la separación entre adaptación prevista y modificación de la intención. Examinar expresamente si el uso de una intención por varias trayectorias afecta versión, contexto o alcance autorizado. Esta nota no cambia esas definiciones canónicas ni autoriza implementar una gramática fija.
 
 **Seguimiento:** mantener esta cuestión separada de la reconciliación de Responsibilities y retomarla después del contraste E03–E05, sin perder el acuerdo de dirección de diseño ni fingir cierre semántico.
+
+## Actualización de continuidad — autorización derivada, evolución y feedback (2026-10-20)
+
+**Estado:** acuerdos de dirección del fundador y modelo candidato; no promoción de F02/F06/F07, versionamiento o Lifecycle. Esta actualización complementa, sin reemplazar, las preguntas previas.
+
+### Autorización directa y derivada
+
+- **Directa:** T-R02 acepta expresamente una versión y su alcance, incluidas las condiciones que permiten crear o modificar elementos derivados.
+- **Derivada:** un elemento o variante creado bajo esas condiciones recibe habilitación para **uso situado** sin una nueva intervención explícita de T-R02 por cada derivación. La legitimidad deriva de una autorización directa preexistente; no es consolidación ni aprobación universal.
+- **Consolidación posterior opcional:** una variante derivada puede permanecer para usos específicos, desecharse o presentarse para autorización directa y constituir una nueva versión consolidada. No hay obligación de fusionar cada variante.
+- **Reutilización entre contextos:** una variante puede utilizarse sucesivamente en varios contextos cuando las condiciones de su origen y las restricciones aplicables a cada contexto lo admitan. La evidencia positiva de uso no produce autorización directa automática.
+- **Versiones ilustrativas:** `v1.0.0-A.1`, `v1.0.0-A.2` son etiquetas explicativas de variantes situadas; `v1.1.0` representa una posible consolidación directa. **No adoptar semver, prerelease o sintaxis de IDs como contrato técnico.** Identidad, trazabilidad y versiones consolidadas inmutables deben mantenerse distinguibles.
+
+**Tensión explícita con F07 vigente:** hoy exige autorización propia de nuevas intenciones y versiones. Distinguir derivación autorizada de una intención nueva que requiera aprobación directa; plantear revisión expresa del fundamento y del concepto Alcance de autorización. No modificarlo implícitamente.
+
+### Ciclo candidato de evolución pedagógica — dos períodos, cuatro etapas
+
+**Período de desarrollo situado:** (1) **Contextualización**, formulación y autorización directa de una versión base; (2) **Adaptación acumulativa**, variantes derivadas, refinadas y combinadas por T-R01 conforme a las condiciones de origen, sin promover cada iteración.
+
+**Período de consolidación:** (3) **Pulimiento general**, examen de variantes y feedback justificado de T-R02, recogiendo observaciones y experiencias; (4) **Consolidación selectiva**, decisión de autorizar directamente una nueva versión, solicitar más revisión/evidencia o no incorporar propuestas.
+
+El lifecycle **no está subordinado a años, semestres ni a un calendario escolar**. Sus momentos responden a necesidades y condiciones de quienes ejercen las Responsibilities. Feedback y revisión pueden producirse continuamente en todos los períodos, no solo durante pulimiento. Las dos etapas de revisión/consolidación no implican que T-R02 se apropie del desarrollo especializado de T-R01.
+
+**No consolidar ≠ prohibir uso situado.** Una propuesta no incorporada puede mantener su uso derivado dentro de condiciones vigentes. Una restricción de usos futuros requeriría decisión pertinente distinta, explícita y trazable. Evitar borrar retrospectivamente los usos históricos legítimos.
+
+### Fusiones y linajes de autorización
+
+- **Origen directo compartido:** variantes `v1.0.0-A.1` y `v1.0.0-B.1` pueden fusionarse autónomamente por T-R01 dentro del linaje `v1.0.0`, sin solicitar por defecto otra autorización humana individual. Una comprobación proporcionada debe asegurar que **la combinación también respeta** las condiciones heredadas; que ambas variantes las cumplan separadamente no demuestra automáticamente que la combinación las cumpla.
+- **Orígenes directos distintos:** fusionar, p. ej., `v1.0.0-A.1` y `v1.0.1-B.1` requiere reconsiderar compatibilidad de condiciones, significado, dependencias y alcances; la diferencia de identificador por sí sola no prueba incompatibilidad.
+- La relación de origen es semántica, no una convención de nombres. Permanecen por definir conflictos de condiciones, ramas, identificación de variantes y derivaciones de derivaciones.
+
+### Feedback transversal, multidisciplinar y multinivel
+
+TDidacta debe **facilitar cuestionamiento, observaciones y mejora** desde perspectivas pedagógicas, disciplinares, de accesibilidad, psicológicas, técnicas y desde quienes aprenden, aplicables a elementos y relaciones de distintas escalas (actividades, trayectorias, intenciones, organización y experiencia).
+
+Distinguir **feedback general para mejorar** de **feedback de autorización** emitido por T-R02: el segundo debe identificar objeto/alcance examinado, aspectos aceptados, rechazados o pendientes, razones/evidencia/incertidumbre y condiciones para reconsideración. Las justificaciones deben ser navegables, suficientes y proporcionadas, sin burocracia universal. T-R02 puede rechazar incorporación directa sin convertir cada variante rechazada en prohibición general.
+
+No inferir una Responsibility adicional solo por existir feedback; confrontar F06, F08/F09, Relationships, Lifecycle y mecanismos, preservando la finalidad de cada Responsibility.
+
+### Pendientes explícitos
+
+Contrastar versiones consolidadas inmutables y nuevas variantes con F07; qué autoriza exactamente el origen, revocación/restricción de usos futuros, reutilización entre contextos, composición y linajes, feedback/procedencia proporcional y reglas de consolidación. No declarar validación experimental o adopción formal. Mantener E03-N6 en curso y retomar conciliación canónica después de E03–E05.
