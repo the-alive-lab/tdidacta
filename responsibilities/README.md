@@ -100,3 +100,11 @@ Se abrió [T-R07](tr-07-evaluacion-profunda-competencias.md) como **propuesta di
 ## Precisión posterior — T-R07 y E04-N5 (2026-10-21)
 
 La frontera funcional de T-R07 quedó acordada para **E04-N5 reconciliada funcionalmente**: **T-R05b habilita dimensiones**, **la intención pedagógica especifica las obligatorias**, **T-R03 solicita las habilitadas no obligatorias** y controla legítimamente la divulgación de sus resultados, y **T-R07 recibe ambos alcances y evalúa**, sin redefinir exigencias ni habilitaciones. La anterior «base estándar» no es un conjunto universal de dimensiones exigidas. Los resultados mantienen evidencia e interpretación por dimensión; evaluación no concede certificación oficial. [Detalle de T-R07](tr-07-evaluacion-profunda-competencias.md) y [E04-N5](../scenarios/e04-educacion-en-el-hogar.md). Sigue siendo **Responsibility candidata**, no Rol adoptado ni técnica validada.
+
+## Consolidación transversal inicial E01–E05 — 2026-10-21
+
+Se inició la [consolidación de finalidades y contraejemplos](../notes/2026-10-21-e01-e05-responsibilities-transversal-consolidation.md) tras la reconciliación **funcional** de los cinco escenarios. Este contraste no equivale a adoptar las fichas completas, sus acciones o Roles.
+
+Se creó la ficha **[T-R06 — Organización y coherencia pedagógica](tr-06-organizacion-coherencia-pedagogica.md)** como **candidata**, conservando su procedencia E02/E03 y el acuerdo E05-N4: puede reorganizar compromisos operativos **dentro de facultades explícitamente delegadas**, sin absorber T-R01/T-R02/T-R03/T-R05 ni autoría/publicación. T-R07 sigue candidata y su validez evaluativa permanece derivada a Research.
+
+**Estado de trabajo:** primeras fronteras transversalmente plausibles; quedan pendientes contraste fino de las acciones, aprobación del catálogo y posterior construcción de Roles. Las secciones históricas del índice se conservan como registro de evolución.
