@@ -136,3 +136,7 @@ Se reconcilió la frontera funcional: T-R04 representa y resguarda al aprendiz c
 ### T-R07 — modalidad abierta y desafío especializado (2026-10-21)
 
 Por acuerdo del fundador, [T-R07](tr-07-evaluacion-profunda-competencias.md) puede ejercerse en **evaluación externa o autoevaluación**; autodidacta + tecnología puede lograr resultados sólidos para los objetivos educativos. La dificultad de autogenerar desafíos de suficiente profundidad es una característica relevante del problema, no motivo para prohibir la modalidad. Especialista + tecnología es una combinación especialmente prometedora, sin requisito universal ni garantía de validez. Contrastes empíricos quedan en Research; ficha candidata.
+
+### T-R07 — evaluación sin autoridad automática sobre consecuencias (2026-10-21)
+
+Se acordó preservar la distinción entre **evaluar T-R07, enseñar T-R01 y aprender T-R03**: las evidencias y materiales pueden circular entre esas finalidades, pero no transfieren automáticamente responsabilidades ni facultades decisorias. T-R07 no determina por sí sola estrategias de enseñanza, decisiones del aprendiz, autorizaciones pedagógicas, consecuencias administrativas o certificaciones. Una persona puede ejercer varias Responsibilities con facultades correspondientes. [Ficha T-R07](tr-07-evaluacion-profunda-competencias.md). Frontera funcional reconciliada, sin adopción de la candidata.
