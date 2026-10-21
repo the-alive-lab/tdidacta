@@ -49,3 +49,11 @@ El alcance de T-R05 **incluye expresamente las tres dimensiones**: (1) quién pu
 **Evolución de criterio:** el objetivo y las acciones originales de esta ficha (2026-10-19), que incluían expresamente disponibilidad y accesibilidad material, y la factorización del 2026-10-20 que todavía preservaba ambas dimensiones en T-R05a, **son antecedentes históricos**. Esta reconciliación posterior restringe expresamente la *responsabilidad administrativa*; no niega O9 ni elimina la obligación transversal de reconocer barreras donde corresponda. El título y la enumeración originales anteriores se conservan como documentación de origen, no como alcance vigente cuando contradicen esta sección.
 
 **Estado:** finalidad general y frontera acordadas; fichas específicas T-R05a/b, acciones completas, facultades, Roles y mecanismos siguen pendientes de formalización. [E04-N4](../scenarios/e04-educacion-en-el-hogar.md) permanece en contraste.
+
+## Consolidación transversal — T-R05 general con matizaciones administrativas (2026-10-21)
+
+**Acuerdo del fundador:** T-R05 permanece como **una Responsibility general de administración de recursos y configuraciones**. T-R05a (accesos legítimos y disponibilidad administrativa) y T-R05b (configuraciones y flujos operativos) son **matizaciones funcionales**, no dos Responsibilities autónomas por el hecho de distribuirse entre personas distintas.
+
+**Frontera de autoridad:** poder configurar dimensiones de evaluación no confiere autoridad para declararlas obligatorias en una intención (T-R01/T-R02 según las facultades correspondientes); poder habilitar o ejecutar la publicación de un recurso no concede automáticamente la legitimidad jurídica/contextual de publicarlo (E05-N5). La administración no sustituye adaptación pedagógica T-R01b ni decide autoría, derechos o facultades ajenas.
+
+La formulación original amplia se preserva como antecedente histórico; rige la precisión administrativa posterior. **Agrupación y frontera reconciliadas funcionalmente**, sin adoptar acciones completas, Roles ni arquitectura.
