@@ -795,3 +795,7 @@ El fundador eligió la alternativa **B: T-R06 puede coordinar y reorganizar cier
 ### E05-N5 — doble frontera de autorización (2026-10-21)
 
 El fundador acordó separar **autorización pedagógica** de **legitimidad de publicación/distribución**: T-R02 examina/autoriza elementos pedagógicos para un alcance; derechos, privacidad y facultades contextuales condicionan publicar/redistribuir; T-R05a ejecuta acceso/publicación operativa sin adquirir esa autoridad, y T-R06 coordina sin absorberla. Autoría/contribución (F08/O5) tampoco confieren por sí mismas permisos ni aprobación pedagógica. **E05-N5 reconciliada funcionalmente**, sin nueva Responsibility ni mecanismos adoptados. **E05-N6 es la última necesidad pendiente.** [E05](../scenarios/e05-aprendizaje-comunitario.md).
+
+### E05-N6 — uso indirecto y cierre funcional E05 (2026-10-21)
+
+El fundador confirmó que destinatarios externos pueden aprovechar recursos educativos comunitarios **sin pertenecer a la comunidad ni asumir los compromisos de participación de E05-N1**, siempre que acceso y distribución sean legítimos. O9/O7/O10 y T-R01/T-R02/T-R05a aportan cobertura por distintas finalidades; E05-N5 conserva la independencia entre autorización pedagógica y derechos de publicar. **E05-N6 reconciliada funcionalmente; E05-N1–N6 reconciliadas funcionalmente.** La cobertura no adopta Roles ni Responsibilities candidatas, no garantiza mecanismos propios de comunicación, ni acredita eficacia o cumplimiento. [Escenario E05](../scenarios/e05-aprendizaje-comunitario.md).
