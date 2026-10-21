@@ -819,3 +819,7 @@ En consolidación transversal el fundador confirmó **T-R01 como Responsibility 
 ### T-R02 — separación funcional, no necesariamente personal (2026-10-21)
 
 El fundador confirmó que T-R01 y T-R02 tienen finalidades independientes, aunque una misma persona puede formular/adaptar y examinar/autorizar elementos pedagógicos cuando tenga facultades contextuales para ambas. No se requiere aprobador separado universal ni se infiere autorización automática. [Ficha T-R02](../responsibilities/tr-02-proteccion-autorizacion-pedagogica.md). Frontera funcional reconciliada; catálogo sigue candidato.
+
+### T-R03 — autonomía y compromisos (2026-10-21)
+
+Se acordó distinguir decidir participar o retirarse de una experiencia de modificar unilateralmente compromisos aceptados o requisitos de una intención. T-R06 atiende dependencias afectadas dentro de delegación, sin sanciones automáticas. [Ficha T-R03](../responsibilities/tr-03-aprendizaje-retroalimentacion.md). Frontera funcional reconciliada, sin implementación.
