@@ -1,3 +1,34 @@
 # T-R01c — Conducción de la enseñanza
 
-**Estado:** matización candidata de T-R01, surgida al contrastar E04-N2 (2026-10-21). Pendiente de desarrollo y contraste transversal.
+**Estado:** matización candidata de T-R01, planteada al contrastar E04-N2 (2026-10-21). No es una Responsibility adoptada, Role, mecanismo ni capacidad implementada.
+
+## Finalidad
+
+**Orientar, facilitar y sostener experiencias de enseñanza utilizando intenciones y posibilidades pedagógicas pertinentes**, atendiendo dificultades y oportunidades de comprensión sin exigir que quien enseña haya elaborado o adaptado previamente la intención.
+
+El [concepto de enseñanza](../concepts/teaching.md) establece orientación y apoyo activos; no mera transmisión ni garantía de aprendizaje.
+
+## Acciones candidatas
+
+1. Orientar experiencias, prácticas y exploraciones pertinentes.
+2. Plantear explicaciones, preguntas o ejemplos y facilitar las posibilidades disponibles.
+3. Ofrecer acompañamiento y feedback educativo durante el desarrollo de la experiencia.
+4. Reconocer dificultades que puedan requerir ajustes y comunicarlas, o asumir otra matización cuando corresponda.
+5. Respetar autonomía, límites de acceso y autorización aplicables.
+
+## Fronteras
+
+- [T-R01a](tr-01a-planificacion-contextualizacion-pedagogica.md): estructuración y continuidad de componentes relativamente estables.
+- [T-R01b](tr-01b-contextualizacion-adaptacion-pedagogica.md): formulación y adaptación situada de posibilidades o intenciones.
+- **T-R01c:** ejercicio efectivo de orientación y apoyo educativo, sin exigir adaptación nueva.
+- [T-R03](tr-03-aprendizaje-retroalimentacion.md): finalidad de aprender y desarrollar comprensión; puede coincidir con T-R01c en un autodidacta.
+
+**Contrastes discriminadores:** adaptar para que otra persona enseñe no exige ejercer T-R01c; enseñar con posibilidades ya disponibles no exige activar T-R01b; una enseñanza que modifica sus propuestas puede combinar ambas. La misma persona puede ejercer varias finalidades simultáneamente. No constituyen etapas obligatorias.
+
+**Solapamiento pendiente:** la acción 4 de T-R01b, «Gestionar las actividades y habilitar oportunidades de exploración», puede referirse a preparación/ajuste o a conducción efectiva según finalidad. La ficha histórica T-R01b no se modifica retrospectivamente hasta contrastar su alcance.
+
+## Aplicación y límites E04-N2
+
+Una persona familiar puede acompañar la enseñanza utilizando una propuesta existente (T-R01c), contextualizarla cuando sea pertinente (T-R01b) o estructurar una nueva (T-R01a). No necesita asumir las tres matizaciones; ninguna exige título profesional o IA de forma universal. Eso tampoco garantiza suficiencia de conocimiento especializado, calidad pedagógica o aprendizaje logrado. La protección y autorización pertinente siguen siendo materia de T-R02.
+
+**Pendientes:** contrastar el criterio en E01, E02, E03 y E05; delimitar acciones frente a T-R01b; precisar la finalidad general T-R01 sin secuencia obligatoria y distinguir conducción de mera publicación de materiales.
