@@ -839,3 +839,8 @@ El fundador estableció que T-R07 evalúa, T-R01 enseña y T-R03 aprende; las ev
 ### Auditoría final E01–E05 × Responsibilities (2026-10-21)
 
 [Informe de auditoría](2026-10-21-e01-e05-responsibilities-coverage-audit.md): **30/30 necesidades** tienen finalidad candidata o soporte normativo transversal identificable. No se justifica una octava Responsibility; existen siete deudas editoriales/semánticas (D1–D7). E01-N4, O13 tentativa, métodos de T-R07 y exigencias jurídicas conservan reservas. **No se adoptan fichas ni Roles**. Próximo paso: consolidación prospectiva y contraste fino de acciones.
+
+### Decisiones de consolidación P1–P8 (2026-10-21)
+
+[Registro prospectivo](2026-10-21-responsibilities-consolidation-decisions.md): el fundador aprobó **P1 T-R01, P3 T-R03, P4 T-R04, P5 T-R05, P6 T-R06** como acciones y finalidades consolidadas funcionalmente, y **P7** para lecturas vigentes con preservación de antecedentes. **P2 T-R02 queda EN REVISIÓN**: definición del acto de publicar, momento y facultad de decidir/ejecutar; no se considera aprobada la consolidación de sus acciones. **P8 significa mantener T-R07 en espera de Research**, no aprobar sus métodos. Se añadieron secciones prospectivas en fichas y catálogo, sin modificar artefactos históricos ni adoptar Roles, mecanismos o catálogo definitivo.
+
