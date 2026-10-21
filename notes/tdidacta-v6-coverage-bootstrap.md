@@ -823,3 +823,7 @@ El fundador confirmó que T-R01 y T-R02 tienen finalidades independientes, aunqu
 ### T-R03 — autonomía y compromisos (2026-10-21)
 
 Se acordó distinguir decidir participar o retirarse de una experiencia de modificar unilateralmente compromisos aceptados o requisitos de una intención. T-R06 atiende dependencias afectadas dentro de delegación, sin sanciones automáticas. [Ficha T-R03](../responsibilities/tr-03-aprendizaje-retroalimentacion.md). Frontera funcional reconciliada, sin implementación.
+
+### T-R04 y T-R05 — consolidación transversal (2026-10-21)
+
+Se delimitó T-R04 a representación y resguardo legítimos, preservando autonomía progresiva de T-R03 sin presuponer autoridad por parentesco. El fundador confirmó además **T-R05 como Responsibility administrativa general**: T-R05a acceso/disponibilidad administrativa y T-R05b configuración/flujos son matizaciones. Configurar no es decidir requisitos pedagógicos; ejecutar publicación no es autorizar distribución. [T-R04](../responsibilities/tr-04-resguardo-legal-aprendiz.md) · [T-R05](../responsibilities/tr-05-gestion-acceso-recursos.md). Fronteras reconciliadas; fichas candidatas.
