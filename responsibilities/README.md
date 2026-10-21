@@ -53,3 +53,9 @@ El fundador confirmó el cierre de **E03-N6 únicamente a nivel de necesidades/R
 Quedaron criterios de trabajo sobre autorización derivada, herencia de restricciones, fusiones compatibles, revisión entre orígenes, consolidación selectiva y distinción entre **autorización histórica** y **aplicabilidad del uso actual**. **No son todavía una reforma adoptada de F07**; consultar [nota semántica](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md) y [revisión funcional](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md).
 
 El texto previo sobre N6 «abierto» describe el estado anterior al cierre y permanece como antecedente. **Estado vigente de la puerta:** N1–N6 reconciliados preliminarmente, N7/N8 pendientes; E03 completo, E04/E05, Roles y la formalización semántica siguen abiertos.
+
+### Contraste E03-N7 — 2026-10-20
+
+**N7 reconciliada funcionalmente**, al igual que N6. T-R05a atiende accesos parciales, legítimos, proporcionados y condiciones de divulgación; T-R05b configuraciones de flujo mínimo y extensiones operativas contextuales; T-R01 aportes derivados de información restringida; T-R02 revisión de suficiencia de evidencia sin privilegios automáticos sobre datos; T-R04 resguardo condicional y O7 privacidad transversal. No se creó Responsibility ni Role adicional.
+
+La distinción entre flujo mínimo completo y extensiones activables/desactivables, revisión de divulgación según autoridad pertinente, anonimización de datos históricos y conservación legítima de trazabilidad queda en la [nota N7 externa a Responsibilities](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md). **Estado vigente E03: N1–N7 reconciliados funcionalmente; N8 pendiente.** Los estados previos preservados son históricos, no contradicciones vigentes.
