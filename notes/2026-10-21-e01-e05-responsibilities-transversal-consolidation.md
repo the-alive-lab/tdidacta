@@ -52,3 +52,7 @@ El fundador confirmó que **T-R01 formula/adapta y T-R02 examina/autoriza** elem
 ## T-R03 — autonomía y compromisos aceptados (2026-10-21)
 
 **Acuerdo del fundador:** T-R03 puede decidir participar y discontinuar experiencias, incluidas extensiones optativas cuando corresponda; no puede redefinir retrospectivamente requisitos de una intención ni compromisos ya asumidos. T-R06 puede atender interdependencias afectadas dentro de delegación legítima, sin adquirir control general del aprendizaje ni imponer sanciones automáticas. Frontera **funcionalmente reconciliada**, sin cerrar modalidades jurídicas u operativas.
+
+## T-R04 — representación y autonomía progresiva (2026-10-21)
+
+Se precisó que T-R04 representa y resguarda al aprendiz cuando corresponde una función legítima de apoderado o equivalente, sin sustituir universalmente la autonomía progresiva de T-R03. El parentesco o cuidado no basta para conferir facultades; T-R01/T-R02 mantienen autoridad diferenciada. Los límites jurídicos de representación y acceso a información son contextuales. Frontera funcional reconciliada, ficha candidata.
