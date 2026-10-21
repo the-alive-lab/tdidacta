@@ -35,3 +35,11 @@
 [Contraste transversal E01–E05](../notes/2026-10-21-e01-e05-responsibilities-transversal-consolidation.md) · [E05](../scenarios/e05-aprendizaje-comunitario.md) · [Reconciliación E02/E03](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md).
 
 **Pendientes:** contraste explícito de acciones con E01/E04; criterios de delegación y legitimidad por contexto; validación de que sus acciones forman una finalidad común suficientemente defendible para adopción. No fijar estructura jerárquica, procesos, herramientas o Roles.
+
+## Precisión transversal acordada — coordinación de interdependencias (2026-10-21)
+
+**Acuerdo del fundador:** la finalidad de T-R06 se define por la **necesidad de coordinar interdependencias entre trabajos, compromisos o decisiones**, no por la cantidad de participantes. Puede ser pertinente incluso cuando una sola persona organiza varias actividades o intenciones relacionadas que presentan dependencias operativas entre sí.
+
+**Caso discriminador:** organizar las relaciones, razones o contenidos *internos* de una intención para mantener su coherencia pedagógica pertenece principalmente a **T-R01a**; **T-R06** se reconoce cuando la dependencia entre trabajos o decisiones requiere coordinación conjunta para sostener su continuidad. La existencia de relaciones semánticas por sí sola no activa T-R06.
+
+Las facultades de reorganización siguen siendo **explícitas, delimitadas y contextuales**; una sola persona no obtiene automáticamente autoridad T-R02, T-R05 ni derechos de terceros por coordinar. La frontera acordada consolida el **propósito candidato**, no adopta la totalidad de sus acciones, un Role o un mecanismo.
