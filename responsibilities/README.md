@@ -124,3 +124,11 @@ Se acordó que la elaboración/adaptación de intenciones T-R01 y su examen/auto
 ### T-R03 — autonomía y compromisos (2026-10-21)
 
 El fundador confirmó la frontera entre **autonomía para participar, continuar o dejar una experiencia** y **ausencia de facultad para alterar unilateralmente compromisos aceptados o requisitos pedagógicos obligatorios**. En experiencias comunitarias, T-R06 atiende interdependencias resultantes dentro de delegación, sin sanciones automáticas. [Ficha T-R03](tr-03-aprendizaje-retroalimentacion.md). Criterio funcional reconciliado; adopción pendiente.
+
+### T-R04 — representación situada (2026-10-21)
+
+Se reconcilió la frontera funcional: T-R04 representa y resguarda al aprendiz cuando exista una función legítima de apoderado o equivalente, preservando la autonomía progresiva de T-R03 dentro de sus límites contextuales. Parentesco o cuidado no bastan para activar T-R04 ni otorgan autoridad T-R01/T-R02. [Ficha T-R04](tr-04-resguardo-legal-aprendiz.md). No es una determinación jurídica universal.
+
+### T-R05 — Responsibility administrativa general (2026-10-21)
+
+**Acuerdo del fundador:** T-R05 sigue siendo **una Responsibility general de administración**, con T-R05a (accesos y disponibilidad administrativa) y T-R05b (configuraciones y flujos) como matizaciones, no Responsibilities separadas. Habilitar opciones no equivale a convertirlas en requisitos pedagógicos; ejecutar publicación no atribuye derechos o autorización para distribuir. [Ficha T-R05](tr-05-gestion-acceso-recursos.md). Agrupación funcional acordada; acciones, Roles y mecanismos pendientes.
