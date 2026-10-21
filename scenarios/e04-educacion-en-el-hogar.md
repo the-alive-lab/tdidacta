@@ -86,3 +86,11 @@ La necesidad N2 («contextualizar intenciones y circunstancias sin requerir form
 [F06](../foundations/pedagogical-review-and-correction.md) distingue revisión de corrección; [T-R02](../responsibilities/tr-02-proteccion-autorizacion-pedagogica.md) conserva la protección y autorización pertinentes. Una dificultad observada no implica corregir ni autorizar automáticamente. Las vías directas y asistidas son compatibles con juicio humano situado sin exigir IA ni conferir autoridad automática a herramientas o acompañantes.
 
 **Reservas:** eficacia real, mecanismos, asistencia especializada y condiciones de acceso requieren contraste posterior. Las fichas T-R01a/b/c y demás Responsibilities mantienen su estado candidato; no se adoptan Roles. Continuar E04-N4; N4–N6 permanecen abiertas.
+
+## Contraste E04-N4 — frontera administrativa y pedagógica (2026-10-21)
+
+**Precisión acordada por el fundador:** [T-R05](../responsibilities/tr-05-gestion-acceso-recursos.md) se refiere a administración de recursos y configuraciones: **T-R05a** gestiona acceso legítimo y disponibilidad administrativa de recursos; **T-R05b** configura condiciones operativas o flujos de trabajo. No se atribuye a quien administra la obligación general de resolver por qué una familia no puede aprovechar material o pedagógicamente un recurso.
+
+**T-R01b** interpreta circunstancias como tiempo, materiales, conectividad y barreras funcionales cuando requieren adaptar la propuesta educativa. **T-R01c** acompaña su realización dentro de condiciones existentes. **O9** conserva disponibilidad, utilizabilidad y pertinencia como dimensiones distintas; **O7** condiciona privacidad transversalmente y **T-R04** interviene solo si corresponde una función de apoderado. Habilitar un recurso no garantiza su utilizabilidad ni calidad pedagógica.
+
+**Estado:** frontera T-R05/T-R01b acordada; **N4 aún no reconciliada como necesidad completa**. Falta contrastar la suficiencia de privacidad y protección de menores, así como la distribución de barreras materiales y sus límites. No se adoptan Roles ni mecanismos.
