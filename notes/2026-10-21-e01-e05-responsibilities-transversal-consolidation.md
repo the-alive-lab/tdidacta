@@ -1,0 +1,32 @@
+# Consolidación transversal inicial de Responsibilities — E01–E05 (2026-10-21)
+
+**Estado:** contraste documental inicial, no adopción del catálogo ni atribución de Roles. Las necesidades de E01–E05 han sido tratadas funcionalmente; esto no prueba que cada acción de cada ficha esté consolidada ni que las capacidades existan. Las decisiones posteriores se documentan prospectivamente, sin reescribir la extracción original.
+
+## Criterio de contraste
+
+Para cada candidata: (1) finalidad distinguible, (2) activación condicional en al menos un escenario, (3) caso donde NO se activa aunque exista actividad superficialmente similar, (4) frontera de autoridad, (5) pendientes que impiden adopción de ficha completa.
+
+| Candidata | Finalidad y discriminador | Continuidad transversal y pendientes |
+| --- | --- | --- |
+| **T-R01 (a/b/c)** | Enseñar: estructuración relativamente estable (a), adaptación situada (b) y conducción educativa (c). Formular una intención no obliga a conducirla; enseñar no obliga a ser autor. | E01–E05 admiten activaciones variadas. Confirmar objetivo agrupador y estatuto de matizaciones; contrastar acciones de fichas sin convertirlas en fases secuenciales. |
+| **T-R02** | Proteger/examinar y autorizar **elementos pedagógicos**. No es permiso para publicar/distribuir ni evaluación de competencias de personas. | Contraste E03/E04/E05, especialmente E05-N5; precisar autoridad situada y acciones de la ficha. |
+| **T-R03** | Aprender y decidir el propio recorrido. No se activa T-R07 por cualquier autocomprobación; tampoco hay obligación de producir feedback. | E02 individual; E04 autonomía progresiva; E05-N1 compromisos explícitos solo al participar en intención comunitaria. Facultades según contexto y representación legítima. |
+| **T-R04** | Representación y resguardo de intereses del aprendiz cuando corresponda una función de apoderado. No representa toda relación de cuidado. | E01/E03/E04 condicionales; no imponer apoderado en E02/E05 ni autoridad genérica sobre datos personales. |
+| **T-R05 (a/b)** | Administración de acceso/disponibilidad administrativa (a) y configuraciones/flujos (b). No sustituye adaptación pedagógica ni legitimidad de publicar. | E04-N4/E04-N5/E05-N3/E05-N5. Actualizar lectura de ficha histórica amplia; delimitar acciones de a/b sin inventar una responsabilidad de infraestructura. |
+| **T-R06** | Organizar interdependencias y compromisos cuando existen, incluida reorganización operativa con facultades explícitamente delegadas. No nace de la mera comunicación. | E02/E03/E05, en particular E05-N1/N4. **No tiene todavía ficha propia**; se prepara candidata de finalidad. Delimitar gobierno contextual y decisiones fuera de delegación. |
+| **T-R07** | Desafiar/examinar actuaciones, comprensión y competencias para producir evidencia contextual revisable. No equivale a evaluación incidental para enseñar (T-R01), autocomprobación (T-R03) ni certificación oficial. | Casos y contracasos E01–E05; E04-N5 reconciliada funcionalmente. Intención define dimensiones requeridas entre las habilitadas por T-R05b; T-R03 solicita optativas; Research investiga validez. |
+
+## Contraejemplos de absorción
+
+- Un profesor pregunta para adaptar su explicación: puede ser **T-R01c**, no necesariamente T-R07.
+- Una comunidad charla sin tareas interdependientes: no surge **T-R06** solo por hablar.
+- Un administrador hace público un recurso autorizado pedagógicamente: **T-R05a** ejecuta, pero no adquiere licencia o facultad de publicar por su acceso técnico.
+- Un familiar acompaña: no asume **T-R04** sin condiciones de representación apropiadas.
+- Un estudiante usa un recurso público comunitario: **T-R03** posible, sin compromisos de pertenencia E05-N1.
+- Una evaluación recoge desempeño bajo presión: no convierte ese resultado automáticamente en conocimiento demostrado; T-R07 mantiene dimensiones separadas y límites.
+
+## Resultado de esta pasada
+
+**No aparece necesidad justificada de una octava Responsibility** a partir del material revisado. La principal deuda documental es la ficha de **T-R06**, junto con revisar las acciones de candidatas ya formuladas y establecer qué grado de adopción pedir al fundador. La coherencia de finalidades es una inferencia documental revisable, no validación integral.
+
+**Siguiente contraste uno por uno:** T-R06: objetivo y facultades delegadas (E03/E05) y contracaso de coordinación sin apropiación de autoridad. Después verificar T-R01 global/a/b/c y avanzar por catálogo. No crear Roles todavía.
