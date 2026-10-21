@@ -156,3 +156,7 @@ No se encontró nueva finalidad funcional que justifique otra Responsibility. No
 [Nota externa N8](2026-10-21-e03-n8-external-use-projections-continuity.md) conserva las consecuencias para proyecciones semánticas, verificabilidad limitada y continuidad sin sincronización obligatoria. [N6 externa](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md) y [N7 externa](2026-10-20-e03-n7-access-privacy-configurable-flows.md) conservan respectivamente linajes/autorización y privacidad/flujos configurables.
 
 **Estado vigente:** E03-N1–N8 reconciliadas a nivel de cobertura de necesidades/Responsibilities, sin Role ni Responsibility nueva para N6–N8. **Auditoría global de E03 pendiente**; no confundir cierre de necesidades con validación de Foundations, Mechanisms o eficacia. Próximo paso recomendado: contrastar coherencia transversal de E03 antes de E04.
+
+## Resultado global E03 — auditoría (2026-10-21)
+
+[Auditoría de coherencia transversal](2026-10-21-e03-global-coherence-audit.md): **E03-N1–N8 reconciliadas funcionalmente**; contraste E01/E02 y F05/F07/F11/F12 sin contradicción funcional bloqueante. T-R01a/b, T-R02, T-R03, T-R04 condicional, T-R05a/b candidatas y T-R06 candidata conservan sus fronteras; no crear Responsibility nueva ni asignar Role. **La tensión F07/autorización derivada no queda resuelta por esta auditoría**. E04/E05 son el siguiente contraste.
