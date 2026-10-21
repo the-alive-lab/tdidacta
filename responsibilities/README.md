@@ -108,3 +108,7 @@ Se inició la [consolidación de finalidades y contraejemplos](../notes/2026-10-
 Se creó la ficha **[T-R06 — Organización y coherencia pedagógica](tr-06-organizacion-coherencia-pedagogica.md)** como **candidata**, conservando su procedencia E02/E03 y el acuerdo E05-N4: puede reorganizar compromisos operativos **dentro de facultades explícitamente delegadas**, sin absorber T-R01/T-R02/T-R03/T-R05 ni autoría/publicación. T-R07 sigue candidata y su validez evaluativa permanece derivada a Research.
 
 **Estado de trabajo:** primeras fronteras transversalmente plausibles; quedan pendientes contraste fino de las acciones, aprobación del catálogo y posterior construcción de Roles. Las secciones históricas del índice se conservan como registro de evolución.
+
+### T-R06 — frontera con T-R01a precisada (2026-10-21)
+
+**Acuerdo del fundador:** [T-R06](tr-06-organizacion-coherencia-pedagogica.md) coordina **interdependencias entre trabajos, compromisos o decisiones**, incluso con una sola persona; no requiere comunidad ni pluralidad de participantes. Organizar las relaciones internas de una intención y sus componentes relativamente estables corresponde principalmente a T-R01a y no activa T-R06 por sí solo. La coordinación operativa sigue limitada a facultades delegadas y no absorbe autoridad pedagógica. Propósito candidato precisado, ficha y acciones todavía no adoptadas.
