@@ -791,3 +791,7 @@ El fundador reconoció que TDidacta **aspira a ofrecer mecanismos propios** de c
 ### E05-N4 — coordinación comunitaria delegable (2026-10-21)
 
 El fundador eligió la alternativa **B: T-R06 puede coordinar y reorganizar ciertos compromisos e interdependencias cuando reciba facultades explícitas, delimitadas y contextuales**, sin requerir consulta colectiva universal para cada ajuste. Esta delegación no transfiere automáticamente labores o autoridad de T-R01/T-R02/T-R03/T-R05, autoría ni derechos de terceros. No se impone coordinador único o jerarquía; T-R06 sigue candidata. **E05-N4 reconciliada funcionalmente**; E05-N5 siguiente necesidad. [E05](../scenarios/e05-aprendizaje-comunitario.md).
+
+### E05-N5 — doble frontera de autorización (2026-10-21)
+
+El fundador acordó separar **autorización pedagógica** de **legitimidad de publicación/distribución**: T-R02 examina/autoriza elementos pedagógicos para un alcance; derechos, privacidad y facultades contextuales condicionan publicar/redistribuir; T-R05a ejecuta acceso/publicación operativa sin adquirir esa autoridad, y T-R06 coordina sin absorberla. Autoría/contribución (F08/O5) tampoco confieren por sí mismas permisos ni aprobación pedagógica. **E05-N5 reconciliada funcionalmente**, sin nueva Responsibility ni mecanismos adoptados. **E05-N6 es la última necesidad pendiente.** [E05](../scenarios/e05-aprendizaje-comunitario.md).
