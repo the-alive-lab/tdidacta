@@ -36,3 +36,16 @@ El alcance de T-R05 **incluye expresamente las tres dimensiones**: (1) quién pu
 1. ¿Qué acciones de acceso, disponibilidad y accesibilidad son esenciales en la definición transversal y cuáles son mecanismos específicos de Platform u otros medios?
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
+
+## Reconciliación posterior — finalidad administrativa de T-R05 (2026-10-21)
+
+**Criterio confirmado por el fundador:** T-R05 se entiende como **administración de recursos y configuraciones**. Su finalidad general es gestionar las condiciones administrativas y operativas que regulan el acceso legítimo a recursos y la configuración del trabajo en cada contexto, dentro de las facultades y restricciones aplicables. Se distinguen dos **matizaciones candidatas**:
+
+- **T-R05a — Gestión de accesos y disponibilidad administrativa:** administrar quién puede acceder o intervenir legítimamente sobre recursos, y su habilitación, publicación operativa o retirada de disponibilidad en un contexto, según facultades pertinentes. No determina por sí misma autorización pedagógica.
+- **T-R05b — Gestión de configuraciones:** administrar configuraciones contextuales y flujos de trabajo distintos de accesos, atendiendo necesidades y feedback legítimos; no reescribe intenciones ni altera unilateralmente sus autorizaciones.
+
+**Frontera acordada:** resolver *por qué una persona no puede aprovechar pedagógicamente un recurso*, considerando tiempo, conectividad doméstica, medios, accesibilidad funcional o contexto, pertenece principalmente a **T-R01b — contextualización y adaptación pedagógica** cuando exige responder pedagógicamente a esas condiciones. T-R05a puede habilitar el acceso legítimo al recurso, pero no queda obligada a resolver barreras materiales o pedagógicas. T-R05b puede reconfigurar legítimamente un flujo operativo, sin asumir esa adaptación pedagógica. La disponibilidad técnica del servicio es una condición operativa que tampoco se atribuye automáticamente a T-R05a ni T-R01b.
+
+**Evolución de criterio:** el objetivo y las acciones originales de esta ficha (2026-10-19), que incluían expresamente disponibilidad y accesibilidad material, y la factorización del 2026-10-20 que todavía preservaba ambas dimensiones en T-R05a, **son antecedentes históricos**. Esta reconciliación posterior restringe expresamente la *responsabilidad administrativa*; no niega O9 ni elimina la obligación transversal de reconocer barreras donde corresponda. El título y la enumeración originales anteriores se conservan como documentación de origen, no como alcance vigente cuando contradicen esta sección.
+
+**Estado:** finalidad general y frontera acordadas; fichas específicas T-R05a/b, acciones completas, facultades, Roles y mecanismos siguen pendientes de formalización. [E04-N4](../scenarios/e04-educacion-en-el-hogar.md) permanece en contraste.
