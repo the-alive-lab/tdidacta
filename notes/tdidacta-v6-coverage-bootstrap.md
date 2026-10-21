@@ -682,3 +682,9 @@ Reservas conservadas: [N6](2026-10-20-e03-n6-pedagogical-intent-authorization-op
 - [ ] Si la métrica no puede contrastarse suficientemente durante el bootstrap, **dejar constancia de alcance, incertidumbre, autoridad y ruta de continuación**, en vez de bloquear las siguientes etapas. Evaluar investigación en `vslices/research-space` solamente si aporta un trabajo metodológico distinto y bajo su propia autoridad.
 
 **Priorización actual:** avanzar con los escenarios y Responsibilities pendientes; esta investigación queda **aparcada y trazada**, no cancelada ni promovida a canon. La recomendación histórica anterior «validar toda la métrica antes de cambiar E05» queda reemplazada por la prioridad expresamente indicada por el fundador: realizar los cambios delimitados cuando corresponda y retomar la validación amplia en el cierre.
+
+### Ampliación del pendiente de clasificación — 2026-10-21
+
+La [extensión de clasificación](2026-10-21-scenario-classification-model-extension.md) ha sido profundizada (secciones 14–25). Al cerrar el bootstrap **revisar especialmente**: (a) unidad de análisis caso/relación/actividad productora y no clasificar personas; (b) elección de taxonomía estricta frente a facetas/relaciones; (c) distinción entre especialización, composición, intersección y continuidad; (d) **clasificación ≠ cobertura**, con alcance, necesidades críticas, evidencia y restricciones explícitas; (e) contraejemplos y prueba de no-colapso/no-explosión; (f) demostración pública honesta de amplitud y límites. La nota incluye un triaje liviano y un conjunto candidato de pruebas sin exigir implementación ni formalización ahora.
+
+**El pendiente sigue diferido**: resolver al cierre si es suficiente documentalmente, merece estudio autónomo en Research o requiere simplificarse. No promover definiciones ni retrasar la separación E02/comunitario, la reclasificación de metas o E04 por esta profundización.
