@@ -696,3 +696,11 @@ La [extensión de clasificación](2026-10-21-scenario-classification-model-exten
 **Todavía pendiente:** delimitar E02 a aprendizaje autodidacta individual, crear E05 «Aprendizaje comunitario» desde la evidencia colaborativa conservando procedencia, ajustar enlaces afectados y contrastar Responsibilities. **No tratar E05 comunitario como existente** hasta formalizar su ficha. Las notas anteriores a esta ejecución conservan su estado histórico, incluso cuando decían que la migración no se había realizado.
 
 **Pendiente diferido intacto:** el modelo amplio de clasificación de escenarios, bases/especializaciones y demostración pública sigue en el [checkpoint](2026-10-21-scenario-classification-checkpoint.md) y su [extensión](2026-10-21-scenario-classification-model-extension.md) para decidir al finalizar bootstrap; la operación parcial no valida esa métrica.
+
+### División ejecutada E02/E05 — 2026-10-21
+
+**Realizado en `main`:** [E02 — Aprendizaje autodidacta](../scenarios/e02-aprendizaje-autodidacta.md) se delimita al uso **independiente de TDidacta respecto de una organización educativa compartida**, no aislamiento social. Se creó [E05 — Aprendizaje comunitario](../scenarios/e05-aprendizaje-comunitario.md) para la organización comunitaria mediante TDidacta; otras personas, medios y recursos pueden permanecer externos conforme a O9. Una persona puede participar en ambos sin fusionar sus procesos.
+
+**Trazabilidad:** antiguo E02-N1–N4 permanece en E02 y antiguo E02-N5/N6 alimenta necesidades comunitarias E05. La ficha E05 distingue estos aportes históricos de nuevas necesidades explicativas y del contraste futuro. El antiguo E05 de metas quedó antes trasladado a [dimensión transversal](../scenarios/dimensions/external-goal-orientation.md). El [índice vigente](../scenarios/README.md) incluye E01–E05. **No reescribir retrospectivamente** el contraste del 2026-10-18 ni la reconciliación del 2026-10-20; sus menciones E02/E05 conservan su significado entonces.
+
+**Pendiente:** contrastar E05 comunitario contra E01/E02/E03/E04 y Responsibilities según alcance, sin afirmar que la anterior reconciliación E02 validó automáticamente este nuevo escenario. Continuar E04 y Roles según puertas de bootstrap. La clasificación general por bases/especializaciones y facetas permanece aparcada en su checkpoint y extensión; la división no la adopta.
