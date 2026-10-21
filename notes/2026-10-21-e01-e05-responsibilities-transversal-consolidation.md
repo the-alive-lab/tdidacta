@@ -44,3 +44,7 @@ El fundador confirmó que T-R06 **puede decidir ajustes operativos dentro de su 
 ## T-R01 — agrupación general confirmada (2026-10-21)
 
 El fundador confirmó que **T-R01 sigue siendo la Responsibility general de enseñanza**, y que **a/b/c son matizaciones distinguibles**: estructurar intenciones/componentes relativamente estables; contextualizar y adaptar propuestas situadas; conducir y facilitar enseñanza. No se escinden automáticamente por persona, actividad o independencia de ejecución. No existe secuencia necesaria, y un participante puede ejercer una o varias. **Agrupación funcional acordada**; quedan en contraste acciones concretas y fronteras con otras Responsibilities, sin adopción del catálogo ni creación de Roles.
+
+## T-R02 — independencia funcional sin separación personal obligatoria (2026-10-21)
+
+El fundador confirmó que **T-R01 formula/adapta y T-R02 examina/autoriza** elementos pedagógicos, pero una misma persona puede ejercer ambas finalidades si dispone de facultades contextuales legítimas. El ejercicio de una no autoriza automáticamente la otra. No se exige universalmente segundo aprobador o estructura institucional; las separaciones exigibles según contexto siguen vigentes. Se reconcilia esta **frontera funcional**, no el catálogo completo.
