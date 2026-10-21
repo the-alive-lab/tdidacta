@@ -54,6 +54,12 @@ El estado de seguimiento es independiente del estado **candidate / active / stab
 - **E03:** N1–N5 reconciliados preliminarmente; F11/F12 y T-R05 sustentan configuración y acceso, T-R06 coordinación sin autorización, T-R01a cuestionamiento curricular fundamentado, y cada Responsibility conserva sus propias obligaciones de trazabilidad.
 - **Siguiente paso:** E03-N6 (adaptaciones de T-R01b y condiciones de autorización por T-R02), luego N7/N8, E04/E05 y finalmente Roles. **T07–T28 sin cambios de estado**. Este registro reciente actualiza el handoff histórico de 2026-10-19 sin alterar retrospectivamente aquel estado.
 
+### Registro incremental E03-N5–N6 — 2026-10-20
+
+- [Acuerdos de Responsibilities desde E03-N5](2026-10-20-e02-e03-responsibilities-reconciliation.md): ratificación T-R01a ante currículo externo, fronteras T-R01/T-R03/T-R02/T-R06 y **propuesta candidata T-R05a (accesos) / T-R05b (configuraciones no relacionadas con accesos)** bajo T-R05. No crear T-R07 por ahora ni promover fichas.
+- [Nota separada de intención, granularidad y condiciones de autorización](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md): acuerdos sobre adaptación dentro de intención y declaración de espacios/condiciones de modificación en intenciones mayores; tensiones F02/F06/F07/F10/F11/F12 y versionamiento **reservadas para después de E03–E05**.
+- **Seguimiento:** E03-N6 mantiene pendientes semánticos separados; continuar contraste N7 y N8, luego E04–E05. **No** marcar E03 cerrada ni actualizar T01–T28.
+
 ## Procedimiento reutilizable por tópico
 
 **Prerequisito de secuencia:** aplicar este procedimiento **después** de completar la etapa previa de escenarios y Responsibilities descrita arriba. Mientras esa etapa esté en curso, T07–T28 siguen pendientes sin progreso inferido.
