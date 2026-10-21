@@ -1,0 +1,59 @@
+# Reconciliación de Responsibilities — E02 y E03 (2026-10-20)
+
+**Estado:** registro de decisiones conversadas y contraste conceptual; no adopción de fichas, Roles, workflows o mecanismos.  
+**Continuidad:** [bootstrap V6](tdidacta-v6-coverage-bootstrap.md), [E02](../scenarios/e02-aprendizaje-autodidacta.md), [E03](../scenarios/e03-educacion-institucional.md), [Responsibilities](../responsibilities/README.md).  
+**Fuente de decisiones:** contraste dialogado con Hernán en sesión 2026-10-20. No constituye evidencia de eficacia.
+
+## Distinción transversal reconciliada
+
+- **Responsibilities** expresan labores y finalidades dentro de un flujo, no personas ni Roles. Un Role futuro puede reunir múltiples Responsibilities, y una persona autodidacta independiente puede realizar todas las pertinentes. No asignar Roles ahora.
+- La complejidad institucional aumenta exigencias (trazabilidad, continuidad, coordinación), **no cambia automáticamente la finalidad** de una Responsibility.
+- Las interacciones entre Responsibilities no fijan una jerarquía ni una secuencia obligatoria.
+
+## E02 — Contraste conceptual completado, sin promoción
+
+Las seis necesidades tienen cobertura conceptual preliminar mediante las Responsibilities existentes y la nueva **T-R06 candidata**; no surgió justificación suficiente para otra Responsibility de comunicación, comunidad o reconocimiento.
+
+- **T-R03 — Aprendizaje y autonomía:** comprender, usar e incluso adaptar para la propia experiencia una intención pedagógica ya existente; dar retroalimentación y reconocer contribuciones que aparecen en el aprendizaje. Una adaptación personal no exige crear una extensión formal.
+- **T-R01b — Contextualización y adaptación:** extender una intención existente para abrir nuevas posibilidades de autonomía o adaptar elementos a situaciones más concretas. Compartir una explicación no activa automáticamente T-R01b: importa la finalidad.
+- **T-R01a / T-R01b y T-R03:** comparten el deber de reconocer aportes en su ámbito; cuando los aportes del aprendizaje pasan a formar parte de intenciones, T-R01 preserva la atribución. [F08](../foundations/pedagogical-authorship.md) fundamenta el reconocimiento. Reconocimiento ≠ incorporación ≠ autorización.
+- **N6 comunicación y deliberación:** medio transversal: aprender y contrastar corresponde a T-R03 (y T-R01b cuando se extienden posibilidades pedagógicas); coordinar dependencias a T-R06. No crear Responsibility por existir foros o conversaciones.
+
+### T-R06 — Organización y coherencia pedagógica (nueva candidata, pendiente de ficha y de contraste E03–E05)
+
+**Finalidad provisional:** articular actividades, contribuciones, dependencias y decisiones cuando requieren integración para sostener la coherencia y continuidad respecto de objetivos establecidos o compartidos.
+
+- Se activa cuando hay **interdependencias que requieren coordinación**, no por cualquier acción educativa ni por el número de personas.
+- Puede detectar inconsistencias, organizar participantes y recursos instrumentalmente, coordinar revisiones, proponer cambios en el enfoque u objetivos, solicitarlos, acordarlos, tomar decisiones operativas dentro de sus facultades o simplemente señalar problemas.
+- Puede gestionar desacuerdos mediante solución contextual, decisión provisional con trazabilidad o escalamiento. No hay método único.
+- Puede coordinar múltiples instancias de T-R01a, T-R01b o T-R02; ello **no le transfiere** la autoría de propuestas, el trabajo especializado ni la autorización pedagógica de T-R02.
+- La analogía «líder técnico» se utilizó únicamente para distinguir fines; **no** adopta un Role u organigrama.
+- Coordinación de recursos no absorbe la gestión de acceso de T-R05.
+
+**Pendiente:** redactar/contrastar ficha candidata sin promoverla, verificar frontera respecto de T-R01a y suficiencia con E03–E05.
+
+## E03 — Contraste progresivo de N1–N5
+
+| Necesidad | Reconciliación | Límites |
+| --- | --- | --- |
+| **N1** Modelos configurables de autorización y funciones situadas | [F11](../foundations/contextual-organization-autonomy.md) permite configuración contextual de cometidos/facultades; [F12](../foundations/opinionated-starting-configurations.md) ofrece puntos de partida modificables. **T-R05** gestiona el acceso legítimo a recursos que requieren las demás Responsibilities, incluidas solicitudes nuevas, comprobación de restricciones y derivación/aprobación/rechazo conforme a autoridad pertinente. | Acceso no otorga autoridad pedagógica ni define por sí mismo facultades; T-R02 autoriza. No justificar T-R07 a partir de N1. |
+| **N2** Coordinación y comunicación | T-R06 puede identificar conflictos entre objetivos, coordinar, proponer cómo abordarlos o revisarlos y facilitar acuerdos. | No se apropia de lo que se somete a autorización ni lo autoriza. Comunicación puede servir a varias Responsibilities. |
+| **N3** Autoría y contribuciones | Reutilizar criterio E02 (T-R01a/b, T-R03 y F08). | Más personas/equipos aumentan exigencia de continuidad y procedencia, no nueva finalidad. |
+| **N4** Continuidad | Cada Responsibility preserva continuidad en su propio objeto; T-R06 solo coordina interdependencias. | Coordinar no equivale a hacer el trabajo ajeno; no crear responsabilidad central de toda continuidad. |
+| **N5** Currículos y exigencias externas | T-R01a **puede y debe** interpretar y cuestionar pedagógicamente exigencias curriculares, detectar tensiones y proponer alternativas justificadas. | Cuestionar no significa tener facultad para modificar las exigencias externas. T-R01b contextualiza y T-R02 autoriza según corresponda. |
+
+### Detalle de T-R05 reconciliado en N1
+
+Facilita acceso a recursos para que T-R01 estructure/extienda, T-R06 coordine, T-R02 examine/autorice, T-R04 supervise dentro de sus facultades y T-R03 aprenda. Atiende solicitudes cuando aún no existe acceso legítimo y verifica condiciones aplicables. No puede eludir límites de privacidad, representación, ni facultades configuradas.
+
+## E03 — Pendientes explícitos
+
+- **N6 variaciones por grupos:** está sobre la mesa la hipótesis «T-R03 adapta su propia experiencia, T-R01b extiende elementos/intenciones para nuevas circunstancias y T-R02 autoriza cuando realmente se prepara un nuevo elemento o versión que requiere autorización». **No está reconciliada la pregunta de si toda adaptación de T-R01b para un grupo exige autorización**, o solo las nuevas versiones/elementos autorizables. No registrar la inclinación del asistente como acuerdo.
+- **N7:** acceso, privacidad y autorización semántica, aún sin contraste específico.
+- **N8:** uso y continuidad de recursos, aún sin contraste específico.
+- Contrastar E04/E05, luego Roles. No avanzar T07 ni cambiar los estados T01–T28.
+- Conservar fichas actuales como candidatas; no inferir implementación, eficacia o promoción.
+
+## Handoff
+
+**Retomar en E03-N6** con la pregunta concreta sobre necesidad de autorización ante adaptaciones situadas de T-R01b. Después N7, N8 y auditoría de suficiencia E03. Usar las distinciones anteriores para evitar reabrir acuerdos sin nueva evidencia.
