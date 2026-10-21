@@ -45,3 +45,11 @@ Por aprobación expresa del fundador se adopta para la ficha candidata el nombre
 2. ¿Qué acciones dependen necesariamente de reglas jurídicas externas?
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
+
+## Contraste transversal — representación y autonomía progresiva (2026-10-21)
+
+**Precisión funcional acordada en continuidad de E01–E05:** T-R04 interviene para **representar y resguardar al aprendiz** cuando exista una función de apoderado o equivalente pertinente, **dentro de facultades contextuales legítimas**, procurando preservar la **autonomía progresiva** ejercida mediante T-R03. La representación necesaria no implica sustituir universalmente las decisiones de aprendizaje, imponer conducción pedagógica T-R01 ni autorizar automáticamente intenciones T-R02.
+
+**Discriminadores:** la presencia de un familiar, cuidador o docente no activa por sí sola T-R04; sí puede activarse al requerirse interlocución o decisión válida de apoderado respecto de participación, protección o información. El grado de autonomía, representación, acceso a información y eventuales restricciones depende del contexto y normas pertinentes: **no se enuncia una regla jurídica universal**.
+
+**Estado:** frontera funcional reconciliada para la consolidación transversal; permanecen candidatas las acciones y pendientes las verificaciones jurídicas situadas y la adopción del catálogo.
