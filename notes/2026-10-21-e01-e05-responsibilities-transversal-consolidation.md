@@ -30,3 +30,9 @@ Para cada candidata: (1) finalidad distinguible, (2) activación condicional en 
 **No aparece necesidad justificada de una octava Responsibility** a partir del material revisado. La principal deuda documental es la ficha de **T-R06**, junto con revisar las acciones de candidatas ya formuladas y establecer qué grado de adopción pedir al fundador. La coherencia de finalidades es una inferencia documental revisable, no validación integral.
 
 **Siguiente contraste uno por uno:** T-R06: objetivo y facultades delegadas (E03/E05) y contracaso de coordinación sin apropiación de autoridad. Después verificar T-R01 global/a/b/c y avanzar por catálogo. No crear Roles todavía.
+
+## Acuerdo posterior — T-R06 independiente del número de participantes (2026-10-21)
+
+El fundador confirmó la alternativa **B — coordinación de interdependencias**. T-R06 puede aparecer ante dependencias entre actividades, compromisos o decisiones aun con un solo participante. **No** se activa solo porque una intención contenga relaciones conceptuales: preservar su estructura interna corresponde principalmente a T-R01a. La prueba funcional es si existe un trabajo de **coordinación entre trabajos/decisiones** distinguible del trabajo pedagógico sobre la intención misma.
+
+**Estado:** objetivo/frontera candidata de T-R06 reconciliados en esta dimensión; falta revisar acciones concretas, casos límite y eventual adopción formal. No se crea Role.
