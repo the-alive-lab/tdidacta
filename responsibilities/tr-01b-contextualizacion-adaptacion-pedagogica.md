@@ -55,3 +55,7 @@ Esta anotación **no elimina ni reasigna automáticamente la acción 4**, no alt
 **Frontera con [T-R01c](tr-01c-conduccion-ensenanza.md):** facilitar y orientar el desarrollo de actividades y exploraciones usando las posibilidades pertinentes corresponde a la finalidad candidata de conducción de la enseñanza. Ambas matizaciones pueden coincidir en una persona y un momento; no se exige que T-R01b preceda a T-R01c ni que toda conducción implique adaptación nueva. Reconocer durante la conducción una necesidad de adaptación tampoco significa realizarla automáticamente.
 
 **Alcance de la decisión:** esta frontera funcional queda reconciliada como criterio de trabajo dentro de T-R01 — Enseñanza. No promueve las fichas completas a canon ni asigna Roles, autorización o mecanismos.
+
+## Lectura prospectiva aprobada — P1 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). Se aprueban las cinco acciones de T-R01b como matización de **T-R01 general**. La acción 4 vigente se interpreta como **preparar, contextualizar o ajustar actividades y posibilidades de exploración**; facilitar su desarrollo durante la experiencia es T-R01c. Formular intenciones situadas produce propuestas candidatas, no autorizaciones automáticas T-R02. Reconocer y responder pedagógicamente a barreras no equivale a administrar accesos T-R05a. Se preserva texto histórico.
