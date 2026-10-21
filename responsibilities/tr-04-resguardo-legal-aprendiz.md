@@ -53,3 +53,7 @@ Por aprobación expresa del fundador se adopta para la ficha candidata el nombre
 **Discriminadores:** la presencia de un familiar, cuidador o docente no activa por sí sola T-R04; sí puede activarse al requerirse interlocución o decisión válida de apoderado respecto de participación, protección o información. El grado de autonomía, representación, acceso a información y eventuales restricciones depende del contexto y normas pertinentes: **no se enuncia una regla jurídica universal**.
 
 **Estado:** frontera funcional reconciliada para la consolidación transversal; permanecen candidatas las acciones y pendientes las verificaciones jurídicas situadas y la adopción del catálogo.
+
+## Lectura prospectiva aprobada — P4 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). T-R04 tiene **cuatro acciones positivas**: reconocer necesidad/límites de representación pertinente; ejercer decisiones y resguardo dentro de facultades; interlocución educativa; atención legítima y minimizada a información pertinente. La antigua quinta acción («evitar atribuir facultades legales por parentesco/cuidado») **se conserva como restricción de activación**, no acción positiva. Autonomía progresiva T-R03 y verificación jurídica por contexto siguen siendo límites esenciales. No se asigna Role.
