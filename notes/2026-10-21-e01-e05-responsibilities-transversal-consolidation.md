@@ -40,3 +40,7 @@ El fundador confirmó la alternativa **B — coordinación de interdependencias*
 ## T-R06 — alcance decisorio delegado (2026-10-21)
 
 El fundador confirmó que T-R06 **puede decidir ajustes operativos dentro de su delegación explícita**, pero no adquirir nuevas facultades por la mera urgencia de una dependencia. Modificaciones pedagógicas y autorizaciones permanecen en T-R01/T-R02, y las decisiones fuera de delegación se solicitan a la autoridad pertinente. No se requiere consentimiento colectivo universal para lo delegado. La frontera está reconciliada **funcionalmente**, sin adoptar la ficha completa.
+
+## T-R01 — agrupación general confirmada (2026-10-21)
+
+El fundador confirmó que **T-R01 sigue siendo la Responsibility general de enseñanza**, y que **a/b/c son matizaciones distinguibles**: estructurar intenciones/componentes relativamente estables; contextualizar y adaptar propuestas situadas; conducir y facilitar enseñanza. No se escinden automáticamente por persona, actividad o independencia de ejecución. No existe secuencia necesaria, y un participante puede ejercer una o varias. **Agrupación funcional acordada**; quedan en contraste acciones concretas y fronteras con otras Responsibilities, sin adopción del catálogo ni creación de Roles.
