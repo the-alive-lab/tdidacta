@@ -779,3 +779,7 @@ Acuerdo de cierre **funcional**: ante cambio de acompañante/material/proveedor,
 ### E05-N1 — autonomía y compromisos explícitos en intenciones comunitarias (2026-10-21)
 
 El fundador distinguió uso individual de recursos comunitarios (sin obligaciones de participación derivadas del mero uso) de **participación explícita** en una intención pedagógica comunitaria, que debe establecer compromisos explícitos. Si no se cumplen, la comunidad debe poder reconocer las dependencias afectadas y responder o cubrirlas dentro de sus facultades, sin sanciones automáticas ni absorción de la autonomía T-R03. **T-R06** es candidata pertinente para coordinación, reservando E05-N4 para contraste específico. **E05-N1 reconciliada funcionalmente**; E05-N2–N6 abiertas. [E05](../scenarios/e05-aprendizaje-comunitario.md).
+
+### E05-N2 — reconocimiento comunitario de aportes y autoría (2026-10-21)
+
+El fundador acordó que cada comunidad puede definir **criterios explícitos propios** de reconocimiento de aportes y autoría, respetando la procedencia histórica, los derechos aplicables y las facultades de autorización. Contribuir, ser autor y tener autoridad decisoria son dimensiones distintas; la continuidad de la comunidad no elimina atribuciones ni transfiere facultades automáticamente. **E05-N2 reconciliada funcionalmente**; la distinción operativa de autoría, acceso, publicación y autorización se contrastará en E05-N5. E05-N3 es la siguiente necesidad abierta. [E05](../scenarios/e05-aprendizaje-comunitario.md).
