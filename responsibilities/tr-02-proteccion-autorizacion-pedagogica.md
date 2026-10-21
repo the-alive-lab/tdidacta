@@ -53,3 +53,8 @@ El fundador confirma que **la protección pedagógica de T-R02 incluye comprobar
 **Acuerdo del fundador:** formular o adaptar una intención pedagógica (T-R01a/b) y examinarla o autorizarla (T-R02) son **finalidades funcionalmente distintas**, sin exigir personas, órganos o instituciones diferentes. Una misma persona puede ejercer ambas cuando su contexto le reconozca las facultades pertinentes. Su coincidencia no transforma la formulación en autorización automática ni elimina las condiciones para una decisión de T-R02.
 
 La distinción se mantiene también en aprendizaje autodidacta, enseñanza particular y experiencias comunitarias; cuando exista una obligación externa de separación o revisión independiente, debe atenderse según el contexto. **Frontera funcional reconciliada**, sin adoptar un segundo aprobador universal, un procedimiento obligatorio ni las acciones completas de la ficha.
+
+## Revisión abierta P2 — publicación (2026-10-21)
+
+El fundador **no aprobó todavía la consolidación de acciones T-R02**: solicitó distinguir **qué significa publicar contenido, cuándo se publica y quién decide/ejecuta su publicación**. [Registro de decisiones](../notes/2026-10-21-responsibilities-consolidation-decisions.md). La distinción de E05-N5 entre autorización pedagógica y legitimidad para distribuir permanece acordada; están abiertas las definiciones y la suficiencia de su distribución entre facultades contextuales y T-R05a. No introducir Responsibility nueva ni procedimiento universal antes del contraste. La ficha mantiene estado candidato.
+
