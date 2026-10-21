@@ -119,3 +119,16 @@ El fundador confirma que **una misma intención puede participar en varias traye
 **Feedback transversal:** no es monopolio de T-R02 ni necesariamente una nueva Responsibility: puede emerger de T-R03 y contribuciones de diferentes profesionales dentro de T-R01, o de otras Responsibilities según la finalidad. TDidacta debe facilitar examen y mejoras a múltiples niveles; evaluar suficiencia contra F06/F08/F09 y sin adelantar Roles.
 
 **Separación:** las distinciones entre autorización directa/derivada, períodos de evolución, fusiones y versiones corresponden a la [nota semántica separada](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md), no a definiciones de Responsibilities ni a un workflow universal aprobado. T-R05a/T-R05b y T-R06 permanecen candidatas según los acuerdos anteriores. E03-N6 sigue abierto; N7/N8, E04/E05 y Roles pendientes.
+
+## Cierre funcional E03-N6 y comprobación transversal (2026-10-20)
+
+**Estado: reconciliado/cerrado para cobertura funcional de E03-N6**, por confirmación expresa del fundador; quedan investigaciones semánticas externas enlazadas en la [nota E03-N6](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md).
+
+- T-R03 aprende y ejerce opciones ya previstas sin alterar su intención. T-R01a/b formula, especializa o desarrolla variantes de intenciones y conserva su procedencia; puede colaborar multidisciplinarmente. T-R02 examina, justifica decisiones de autorización directa y no asume el trabajo de T-R01. T-R06 coordina interdependencias, no sustituye acciones de otros. T-R05a administra acceso legítimo; T-R05b configuraciones no relativas al acceso, sin redefinir restricciones pedagógicas.
+- La autorización derivada habilita usos de variantes bajo condiciones heredadas, incluidas cadenas de especialización y fusiones compatibles; la autorización de origen permanece históricamente reconocible y **no garantiza aplicabilidad si las circunstancias actuales incumplen sus restricciones**.
+- Reconciliar variante con otra versión autorizada de origen exige revisar compatibilidad y crear nueva variante rastreable; **no es consolidar**. Consolidación requiere autorización directa de T-R02. Rechazar consolidación no cancela por sí solo usos derivados legítimos.
+- **No aparece una nueva finalidad de Responsibility en N6**: aumentan exigencias de trazabilidad, revisión, colaboración y conformidad. N7/N8 siguen pendientes; E03 global permanece abierto.
+
+**Chequeo N1–N6:** N1 separa F11/F12 y gestión T-R05a/b de autoridad T-R02; N2 preserva frontera T-R06/T-R01/T-R02; N3 F08 preserva autoría multidisciplinar; N4 distribuye la continuidad por finalidad sin centralizarla en T-R06; N5 permite cuestionamiento curricular T-R01 sin apropiarse de autoridad externa; N6 reutiliza estas fronteras sin crear un Role o jerarquía universal. No se identificó contradicción funcional entre N1–N6. **Sí hay tensión semántica no resuelta con F07 vigente**, que requiere revisión explícita posterior: nueva intención/versión vs modalidad derivada. Esta comprobación no certifica implementación o suficiencia global E03.
+
+**Este apartado actualiza los handoffs anteriores que aún dicen «N6 pendiente»; se conservan como registros históricos de etapas anteriores.**
