@@ -125,3 +125,9 @@ Se preparó la [extensión de modelo de clasificación de escenarios](2026-10-21
 - El **trabajo exhaustivo de métrica ya NO es puerta obligatoria previa** al progreso inmediato de escenarios: por instrucción posterior del fundador, priorizar avanzar en la separación E02 autodidacta/comunitaria y en la futura conversión del E05 actual (metas) a dimensión, con trazabilidad deliberada. **Ninguna migración se ejecuta con esta nota.** El debate amplio de clasificación queda para cierre de bootstrap o investigación posterior.
 
 **Recordatorio:** hay un pendiente explícito en el [bootstrap V6](tdidacta-v6-coverage-bootstrap.md) para decidir cuándo resolver o retomar esta línea. Los apartados anteriores permanecen como antecedentes de etapas previas; esta actualización indica la prioridad vigente.
+
+### Extensión profundizada — criterio de lectura vigente (2026-10-21)
+
+La [extensión investigativa](2026-10-21-scenario-classification-model-extension.md), secciones 14–25, incluye ahora **unidad de análisis** (caso/episodio/productor/familia), taxonomía estricta vs **facetas y relaciones**, distinción especialización/composición/intersección/sucesión, registros mínimos, **pruebas contrafactuales/metamórficas**, criterios para separar clasificación de **soporte por alcance y evidencia**, protocolo incremental y estrategia de afirmaciones públicas. Contrasta antecedentes W3C PROV, desarrollo iterativo de taxonomías, ISO 29148 y argumentos de aseguramiento como **analogías, no adopciones**.
+
+**No cambiar por esta extensión el catálogo, E05, F10 ni las puertas del bootstrap.** Los nuevos hallazgos se conservan para la evaluación al cierre y no son requisitos adoptados. El trabajo prioritario de escenarios sigue abierto.
