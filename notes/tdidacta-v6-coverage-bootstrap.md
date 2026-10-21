@@ -803,3 +803,7 @@ El fundador confirmó que destinatarios externos pueden aprovechar recursos educ
 ### Consolidación transversal E01–E05 iniciada (2026-10-21)
 
 Una vez reconciliadas funcionalmente las necesidades E01–E05, se abrió [nota de contraste transversal](2026-10-21-e01-e05-responsibilities-transversal-consolidation.md), inventariando T-R01a/b/c, T-R02, T-R03, T-R04, T-R05a/b, T-R06 y T-R07, con finalidad, contraejemplos y reservas. Se creó la [ficha candidata T-R06](../responsibilities/tr-06-organizacion-coherencia-pedagogica.md), distinguible por coordinación de **interdependencias reales** y posibilidad de reorganizar compromisos dentro de delegación expresa. **No se adoptan Responsibilities ni Roles**, y el contraste fino de acciones continúa, especialmente T-R06 y agrupación T-R01. La evaluación T-R07 mantiene su investigación independiente en Research.
+
+### T-R06 — coordinación no limitada a múltiples participantes (2026-10-21)
+
+En la consolidación transversal el fundador eligió **B: la activación de T-R06 depende de interdependencias reales entre trabajos o decisiones, no del número de participantes**. Una persona sola puede coordinar varias actividades interdependientes. Contraejemplo: organizar relaciones internas de una intención es primordialmente T-R01a, no T-R06 por defecto. [Ficha T-R06](../responsibilities/tr-06-organizacion-coherencia-pedagogica.md) · [Contraste transversal](2026-10-21-e01-e05-responsibilities-transversal-consolidation.md). Finalidad/frontera aclaradas; acciones y adopción pendientes.
