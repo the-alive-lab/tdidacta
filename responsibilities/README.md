@@ -67,3 +67,7 @@ La distinción entre flujo mínimo completo y extensiones activables/desactivabl
 Las cuestiones *fuera* del catálogo de Responsibilities están separadas: [N6 — linajes y autorización derivada](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md), [N7 — privacidad y flujos mínimos/extensiones](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md) y [N8 — proyecciones y continuidad externa](../notes/2026-10-21-e03-n8-external-use-projections-continuity.md). F07 y los mecanismos siguen pendientes de reconciliación explícita; ninguna ficha se promueve ni se asignan Roles.
 
 Los estados parciales anteriores del documento se conservan como registro histórico y son sustituidos por este estado más reciente.
+
+### Auditoría global E03 (2026-10-21)
+
+[Resultado](../notes/2026-10-21-e03-global-coherence-audit.md): **E03-N1–N8 reconciliadas y coherentes funcionalmente** con E01/E02. No se identificó nueva Responsibility imprescindible; las fichas existentes y candidaturas T-R05a/b/T-R06 siguen pendientes de contraste E04/E05 y Roles posteriores. F07, flujos configurables y verificabilidad externa siguen reservas de otras superficies, no defectos ya resueltos por cambiar estas fichas.
