@@ -47,6 +47,13 @@ El estado de seguimiento es independiente del estado **candidate / active / stab
 - **Próximo paso recomendado:** abrir E02, inventariar sus Actors y necesidades, identificar cuáles de las seis Responsibilities conservan objetivo, qué cambia o falta, y registrar candidatos sin promover ni asignar Roles. Continuar E03, E04 y E05. **No volver todavía a T07.**
 - **Seguimiento de puerta:** **En curso**; E01 extraído/reconciliado preliminarmente; contraste E02–E05 y Roles pendientes. **Los estados T01–T28 de la tabla siguiente no cambian.**
 
+### Actualización de continuidad — 2026-10-20 (E02 → E03)
+
+- [Registro de reconciliación E02 y E03 N1–N5](2026-10-20-e02-e03-responsibilities-reconciliation.md): fuente de los acuerdos conversados, fronteras y pendientes; **no adopción canónica**.
+- **E02:** contraste conceptual de N1–N6 completado; **T-R06** propuesta como candidata (organización y coherencia pedagógica, activada por interdependencias), sin crear Responsibilities adicionales para comunicación o atribución. No inferir Roles.
+- **E03:** N1–N5 reconciliados preliminarmente; F11/F12 y T-R05 sustentan configuración y acceso, T-R06 coordinación sin autorización, T-R01a cuestionamiento curricular fundamentado, y cada Responsibility conserva sus propias obligaciones de trazabilidad.
+- **Siguiente paso:** E03-N6 (adaptaciones de T-R01b y condiciones de autorización por T-R02), luego N7/N8, E04/E05 y finalmente Roles. **T07–T28 sin cambios de estado**. Este registro reciente actualiza el handoff histórico de 2026-10-19 sin alterar retrospectivamente aquel estado.
+
 ## Procedimiento reutilizable por tópico
 
 **Prerequisito de secuencia:** aplicar este procedimiento **después** de completar la etapa previa de escenarios y Responsibilities descrita arriba. Mientras esa etapa esté en curso, T07–T28 siguen pendientes sin progreso inferido.
