@@ -62,3 +62,11 @@ La finalidad independiente de T-R07 es **caracterizar competencias demostradas**
 **Discriminador funcional:** T-R03 puede autocomprobar el aprendizaje para orientar su recorrido; T-R07 intenta caracterizar competencias mediante desafíos, criterios explícitos, hechos revisables e interpretaciones acotadas. La identidad del evaluador o el uso de tecnología no basta para determinar cuál finalidad se ejerce. Las afirmaciones comparativas sobre profundidad, calidad, fiabilidad y validez entre modalidades son **hipótesis para Research**, no resultados probados.
 
 **Estado:** modalidades y frontera funcional reconciliadas; T-R07 sigue candidata y su metodología no ha sido validada por este acuerdo.
+
+## Frontera acordada — evaluar sin asumir las consecuencias ajenas (2026-10-21)
+
+**Acuerdo del fundador:** quien ejerce **T-R07 se centra en evaluar**, quien ejerce **T-R01 en enseñar** y quien ejerce **T-R03 en aprender**. Cada finalidad puede producir evidencia, resultados o material aprovechable por las otras; esa circulación **no obliga ni autoriza** a exceder la propia Responsibility.
+
+T-R07 formula desafíos, examina actuaciones y construye conclusiones evaluativas con evidencia revisable y límites explícitos. **No decide automáticamente** cómo enseñar a partir de esos hallazgos (T-R01), cómo continuar aprendiendo (T-R03), qué elementos pedagógicos autorizar (T-R02) ni qué consecuencias institucionales, administrativas o certificadoras imponer: esas decisiones dependen de finalidades y facultades pertinentes.
+
+La frontera no obliga a mantener personas separadas: una misma persona puede ejercer varias Responsibilities, pero debe distinguir el fundamento y las facultades de cada decisión. **Estado:** frontera funcional de T-R07 reconciliada; métodos, calidad de inferencia y eventual adopción siguen pendientes.
