@@ -31,3 +31,8 @@
 - Decidir si T-R07 es Responsibility autónoma, su denominación e identificador; si se adopta, recién entonces contrastar posibles Roles por contexto.
 
 **Conclusión:** candidatura justificada para estudio transversal; **E04-N5 sigue abierta**.
+
+
+## Handoff a Research (2026-10-21)
+
+Los casos E01–E05 solo aportan **plausibilidad funcional**. Se registró [intake metodológico provisional](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/notes/2026-10-21-tdidacta-tr07-research-intake.md) para investigar antecedentes y validez de desafíos, transferencia y matrices interpretativas. No se inicia experimento ni se considera validada la orientación hacia comprensión profunda; Research deberá decidir reutilización de una línea existente o separación nueva con justificación.
