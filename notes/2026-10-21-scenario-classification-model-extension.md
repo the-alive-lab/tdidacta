@@ -422,3 +422,244 @@ No crear un formato, carpeta o IR ahora. Una fila de nota o ficha Markdown puede
 **Dato mínimo sobre incertidumbre:** distinguir *hecho descrito por la fuente*, *supuesto para el experimento*, *inferencia razonada* y *pregunta abierta*. Para una afirmación pública añadir fecha/versión de TDidacta y evidencia. Evitar tratar notas de exploración como hechos empíricos sobre usuarios reales.
 
 **Valor práctico:** este formato permitiría clasificar casos nuevos con poco trabajo, comparar decisiones previas y registrar por qué dos analistas discrepan **sin diseñar todavía un motor automático de taxonomía**.
+
+## 19. Clasificación por explicación, no por parecido superficial
+
+Una similitud («este caso se parece a E01») puede sugerir una hipótesis, pero **no justificarla**. Proponer comparar explicaciones rivales con un registro breve:
+
+| Pregunta | Alternativa A | Alternativa B | Evidencia que discriminaría |
+| --- | --- | --- | --- |
+| Productor sin docente identificado | E01 especializado | Proceso productor transversal sin escenario de enseñanza clasificable | Existencia o ausencia delimitada de relación particular de enseñanza |
+| Familia con tutor externo | E04 con apoyo E01 | E01 dentro de domicilio familiar | Quién organiza y responde por la experiencia, y si hay dos relaciones separables |
+| Comunidad abierta de aprendizaje | E02 colaborativo histórico | Nueva familia comunitaria propuesta | Dependencia de decisiones, coordinación y continuidad colectivas |
+| Institución que produce para terceros | Especialización E03 | Dos experiencias vinculadas por transferencia de recurso | Organización de trabajo productor vs organización de enseñanza receptora |
+
+**Criterio tentativo de elección:** preferir la explicación que preserve hechos observados, exija menos participantes o relaciones no comprobados, represente mejor las necesidades pertinentes y deje visibles las reservas. Si dos explicaciones permanecen defendibles, **conservar ambas** y la pregunta que las distingue. No seleccionar solo porque una es más fácil de implementar.
+
+### 19.1 Pruebas contrafactuales / metamórficas
+
+Adaptar la idea de pruebas de metamorfismo como **instrumento conceptual**, no como protocolo automatizado aprobado. Una modificación controlada debería preservar ciertas conclusiones **solo cuando no modifica una relación constitutiva**:
+
+| Transformación controlada | Expectativa a contrastar | Falla reveladora |
+| --- | --- | --- |
+| Una misma persona deja de ser especialista+docente; otra toma el material y enseña al mismo aprendiz | Familia E01 probablemente estable si persiste enseñanza particular | Clasificador basado en identidad o cuenta |
+| Material preparado con TDidacta pasa a imprimirse y utilizarse externamente | Contexto educativo reconocible puede persistir | Confundir uso de plataforma y enseñanza |
+| E02 autodidacta agrega una meta externa explícita | Debería seguir siendo E02; cambia la dimensión de propósito | Tratar la meta como escenario exclusivo |
+| Se añade deliberación y mantenimiento verdaderamente comunitarios al trabajo E02 | Puede cambiar a comunitario o introducir otra relación; **no** exigir estabilidad | Modelo incapaz de reconocer colaboración sustantiva |
+| Una institución agrega recursos externos con autoría reconocida | E03 puede persistir, cambiando procedencia y necesidades | Base definida por producción interna exclusivamente |
+| Familia incorpora tutor para una actividad concreta | E04 puede persistir con apoyo particular | Exigir que familia cumpla toda función pedagógica |
+| Un recurso público se vuelve restringido por razones legítimas | Clasificación educativa quizá persiste, **cobertura de acceso puede cambiar** | Inferir cobertura desde pertenencia taxonómica |
+| Docente recibe información sensible de aprendiz sin facultad legítima para divulgarla | Escenario puede persistir; divulgación ya no está cubierta | Clasificador que hace desaparecer límites O7 |
+| Grupo de personas estudia en el mismo lugar pero sin contribución mutua | No necesariamente E05 comunitario | Confundir copresencia con organización comunitaria |
+| Grupo se coordina y comparte autoridad para orientar aprendizaje | Posible comunidad educativa real | Clasificador que solo mira número de participantes |
+
+**Advertencia:** «expectativa» no es verdad garantizada. Estos cambios pueden revelar fronteras funcionales y semánticas que obliguen a revisar los invariantes hipotéticos, en lugar de corregir el caso para hacerlo encajar.
+
+### 19.2 Prueba de no-colapso
+
+La taxonomía debe distinguir casos cuando **diferir tiene consecuencias de cobertura**. Si las mismas etiquetas sirven para una tutoría con un aprendiz identificado y para un productor editorial sin usuario final conocido, necesitamos explicar si:
+- el modelo sí distingue ambos **mediante relaciones o reservas**, aunque compartan facetas; o
+- el supuesto escenario E01 fue ampliado hasta perder poder discriminador.
+
+Una clasificación que mapea todas las situaciones a una base universal tendría **máxima cobertura aparente y mínima utilidad analítica**.
+
+### 19.3 Prueba de no-explosión
+
+La solución contraria tampoco sirve: inventar una base nueva cada vez que cambian la edad, el tamaño del grupo, la tecnología, la meta, la procedencia del recurso o la persona que ejerce una función. El modelo debe conservar identidad conceptual cuando una variación se explica adecuadamente por una especialización o una restricción transversal.
+
+**Tensión a evaluar:** poder discriminador vs economía conceptual. No maximizar uno aislado del otro.
+
+## 20. La noción de «soporte» necesita un alcance y un argumento
+
+Hay una diferencia entre poder **representar** una configuración y poder **atender satisfactoriamente sus necesidades**. Incluso «soportado por configuraciones» requiere precisar *qué capacidades están definidas*, *qué está implementado* y *qué condición externa permanece necesaria*.
+
+### 20.1 Evaluar necesidades individuales antes del veredicto global
+
+| Resultado por necesidad (hipótesis documental) | Significado | Ejemplo |
+| --- | --- | --- |
+| **Cubierta para el alcance indicado** | Existe razón y soporte identificables para atender la necesidad dentro de condiciones expresas | Uso indirecto de materiales previsto en O9; comprobar realización operativa aparte |
+| **Cubierta condicionalmente** | Depende de una restricción que puede o no cumplirse | Compartir material solo si acceso/publicación son legítimos |
+| **Parcial** | Alguna parte pertinente queda fuera | Impresión posible, reintegración externa no implementada |
+| **Pendiente / incierta** | No se ha examinado o no hay evidencia suficiente | Verificación de un recurso externo arbitrario |
+| **Contradicha / no cubierta** | Una limitación conocida impide satisfacer la necesidad para ese alcance | Prometer certificación oficial que TDidacta no otorga |
+| **No aplicable** | No forma parte de las necesidades de esa experiencia | Representación legal de menores en caso adulto sin menores |
+
+**No declarar el escenario entero soportado mediante una media aritmética** que pueda ocultar una necesidad obligatoria sin cubrir. El resultado global depende de las necesidades pertinentes y de cuáles son **condiciones innegociables** para la afirmación específica.
+
+**Tesis de trabajo:** el soporte pertenece a una pareja *escenario/caso + alcance y condiciones*, no necesariamente a una etiqueta de escenario a perpetuidad. Un escenario puede ser soportado para distribución de materiales y no estarlo para certificación externa, analítica de aprendizaje o privacidad de datos sensibles bajo cierto régimen.
+
+### 20.2 Cuatro planos de evidencia, sin confundirlos
+
+1. **Semántico/conceptual:** fundamentos, conceptos y Responsibilities ofrecen una explicación coherente de la necesidad; puede haber lagunas abiertas.
+2. **Operativo/de realización:** existe flujo, material, interfaz, integración o procedimiento que funciona bajo condiciones declaradas; demostrar ejecución concreta.
+3. **Normativo o de autorización contextual:** el uso es legítimo, autorizado o permitido donde corresponda; el funcionamiento técnico no suple derechos, políticas, autorizaciones ni certificaciones.
+4. **Empírico educativo:** observaciones permiten inferir algo específico sobre uso, acceso, comprensión o resultados, dentro de límites metodológicos; generar una lección no demuestra aprender.
+
+Los planos son relacionados pero **no equivalentes ni necesariamente ordenados linealmente**. Un producto puede funcionar técnicamente y ser pedagógicamente inadecuado o jurídicamente improcedente para cierto contexto. Un caso conceptualmente cubierto puede seguir sin implementación. Una certificación de tercero no se transforma en autorización pedagógica de TDidacta.
+
+### 20.3 Esqueleto mínimo de argumento de cobertura
+
+Para afirmar «TDidacta atiende el caso X para el propósito Y, bajo las condiciones Z» sería útil poder reconstruir:
+
+- **Afirmación precisa:** cuál es el alcance real, qué destinatarios y medios contempla, y qué excluye.
+- **Necesidades pertinentes:** qué debe cumplirse para que esa afirmación sea razonable; cuáles son condiciones críticas.
+- **Razón de cobertura:** vínculo concreto con principios, Responsibilities, soluciones, capacidades/configuraciones existentes y sus límites.
+- **Evidencia:** qué documento, prueba, demostración u observación respalda *cada tramo de la inferencia*.
+- **Supuestos y contraevidencia:** qué no se sabe, qué puede refutar la afirmación y qué restricciones siguen abiertas.
+- **Estado y fecha:** si se trata de propuesta, contraste conceptual, función probada o eficacia evaluada; qué versión/superficie aplica.
+
+**Ejemplo ilustrativo de afirmación honesta:** «El diseño de TDidacta contempla preparar un recurso que un docente utiliza fuera de la plataforma; la viabilidad de exportar y verificar conformidad de todas las formas de representación no está demostrada». Está respaldada conceptualmente por O9 y E03-N8, **pero no autoriza afirmar soporte universal de cualquier exportación**.
+
+**Anti-ejemplo:** «TDidacta soporta todos los casos E01 y cualquier especialización, por lo tanto todos sus aprendizajes son equivalentes y efectivos». Aquí se infieren realizaciones y eficacia desde pertenencia al catálogo, sin evidencia.
+
+### 20.4 Formativo como propiedad del aprendizaje del proyecto
+
+El estado propuesto **formativo** evalúa lo que el análisis del caso aportó al conocimiento de TDidacta, **no** que se trate de un escenario especialmente bueno para enseñar a alumnos. Para evitar homonimia pedagógica, explicitar esta acepción cuando llegue a documentación pública.
+
+Ejemplo: E03 puede aportar propuestas sobre autorización derivada, trazabilidad y coordinación, **aunque** algunas no hayan sido adoptadas canónicamente. Su contribución es trazable; la reconciliación funcional del escenario y la formalización pendiente de F07 son estados diferentes.
+
+Un caso que descubre un defecto importante **pero aún no tiene cobertura suficiente** puede producir conocimiento valioso sin poder declararse formativo según el criterio elegido por el fundador (formativo ⊆ soportado). No borrar su contribución: registrarla como resultado investigativo sin promover el estado.
+
+## 21. Protocolo de contraste incremental y evidencia de generalización
+
+No iniciar esta investigación exhaustiva ahora. Dejar preparado un protocolo **candidato** para cuando corresponda, sin confundirlo con un Manual/Automated Protocol de Research ya aprobado.
+
+### 21.1 Ciclo iterativo propuesto
+
+1. **Elegir metacaracterística:** ¿clasificamos organización y participación educativa *para estimar cobertura*, no disciplinas, profesiones, plataformas o niveles escolares?
+2. **Tomar casos diversos:** E01–E04 y comunitario como ejemplos usados en el descubrimiento, además de casos de borde deliberadamente incómodos.
+3. **Contrastar hipótesis de familias y facetas** contra las relaciones registradas, con decisiones y dudas trazables.
+4. **Separar casos de diseño y evaluación:** retener algunos que no se hayan utilizado para formular las categorías.
+5. **Registrar errores:** falsos encajes, necesidades omitidas, duplicación de familias, casos imposibles de diferenciar y ambigüedad entre revisores.
+6. **Refinar lo mínimo necesario:** primero frontera/relación, luego faceta; nueva familia solo si esos recursos siguen siendo insuficientes.
+7. **Revisar criterios de cierre:** evaluar si explica los casos pertinentes y si agregar más estructura realmente mejora su utilidad.
+
+El trabajo de [Nickerson, Varshney y Muntermann (2013)](https://doi.org/10.1057/ejis.2012.26) presenta un método iterativo de desarrollo de taxonomías. Es un **precedente metodológico** para definir objeto de clasificación, dimensiones y condiciones de cierre, **no una prueba ni obligación de adoptar una taxonomía estricta**.
+
+### 21.2 Conjunto mínimo de contraste futuro
+
+| Grupo | Ejemplos orientativos | Resultado que buscamos |
+| --- | --- | --- |
+| **Conductores conocidos** | E01 particular, E02 individual, E03 institucional, E04 familiar | Reproducir fronteras ya fundadas |
+| **Cambios controlados** | Especialista/docente separados; material impreso; misma experiencia con meta externa | Probar invariancia frente a atributos no constitutivos |
+| **Casos ambiguos** | Productor sin aprendices identificados; familias comunitarias; institución que produce para otra | Conservar explicaciones alternativas, no forzar etiqueta |
+| **Casos adversariales** | Comunidad sin colaboración real; publicación sin autoridad; recurso disponible pero inutilizable | Detectar falsos soportes |
+| **Casos nuevos** | Situaciones que no participaron en el diseño de ejes | Evaluar generalización, no solo ajuste retrospectivo |
+
+**Medidas descriptivas candidatas:** tiempo humano de clasificación, cantidad de supuestos inventados, proporción de casos aún indeterminados, desacuerdos entre revisores, omisiones de restricciones críticas, modificaciones del catálogo necesarias para absorber casos nuevos. No seleccionar pesos, puntajes ni objetivos numéricos antes de definir un conjunto de validación.
+
+### 21.3 Independencia y error
+
+En una futura revisión con más de un evaluador, documentar no solo acuerdo final sino **desacuerdos fundamentados**. Dos personas pueden coincidir en la etiqueta E01 mientras discrepan sobre si la enseñanza es observada o solamente prevista. Una concordancia superficial de nombres no equivale a concordancia conceptual.
+
+Un caso de frontera puede permanecer «indeterminado» y ser un **resultado correcto** si faltan datos materiales. La taxonomía no debería castigar la incertidumbre honesta incentivando categorías inventadas.
+
+### 21.4 Criterios de parada
+
+Para evitar que la taxonomía se convierta en trabajo infinito, proponer condiciones de cierre **revisables y no numéricas**:
+
+- No hay contradicciones documentales bloqueantes entre las definiciones actuales y los casos ensayados.
+- Los casos importantes pueden clasificarse o declararse razonadamente indeterminados.
+- Añadir otra faceta o familia no mejora de manera justificable la clasificación o la detección de brechas.
+- La documentación de cada decisión puede ser comprendida por otra persona sin la conversación de origen.
+- Se pueden expresar límites y evidencias de soporte sin afirmar resultados educativos no probados.
+- La operación de triaje resulta proporcional al valor que aporta; no requiere revisar todos los escenarios para registrar un caso pequeño.
+
+**No hay obligación de alcanzar una cobertura universal del espacio de escenarios**, ni de demostrar que se han enumerado todas las formas posibles de enseñar y aprender. La clasificación debe ser extensible y admitir futuras objeciones.
+
+## 22. Representación pública: de «podemos clasificarlo» a «podemos atenderlo»
+
+Esta iniciativa tiene dos usos futuros que no deben mezclarse:
+
+**Uso interno:** detectar necesidades, reutilizar contraste existente, priorizar brechas y gestionar continuidad de decisiones.
+
+**Uso público:** explicar qué tipos de experiencias TDidacta contempla, cómo se beneficia quien no usa la plataforma y qué evidencias justifican cada afirmación.
+
+### 22.1 Ejemplo de ficha pública candidata
+
+**Caso:** especialista independiente prepara material para que otro docente enseñe a un grupo.
+
+| Pregunta del visitante | Respuesta que podría fundamentarse |
+| --- | --- |
+| ¿Qué experiencia es? | Preparación de recursos con mediación docente externa; E01 especializado como hipótesis de familia |
+| ¿Quién necesita usar TDidacta? | Potencialmente solo especialista; uso indirecto amparado conceptualmente por O9 |
+| ¿Qué trabajo ayuda a organizar? | Intención, preparación, adaptación, procedencia y restricciones; alcance real por verificar |
+| ¿Qué pasa con la autoridad? | Preparar no equivale a aprobar, divulgar ni certificar; F07/F08 permanecen diferenciados |
+| ¿Funciona con materiales imprimibles? | Hay dirección conceptual de acceso indirecto; capacidades concretas dependen de formato y mecanismo |
+| ¿Está probado que enseña mejor? | No se puede afirmarlo sin investigación empírica situada |
+| ¿Qué falta verificar? | Representación externa, restricciones, disponibilidad, adecuación y comportamiento operativo |
+
+**Principio de interfaz futuro:** permitir recorrer casos por contexto, funciones, destinatarios y condiciones; mostrar ejemplos contrastantes en lugar de una cifra grandilocuente de «escenarios soportados».
+
+La **interfaz** es opcional. Una tabla Markdown y ejemplos trazables pueden cumplir la responsabilidad de comunicación sin una nueva Platform ni un «catalogador automático».
+
+### 22.2 Afirmaciones públicas por niveles
+
+| Tipo de afirmación | Ejemplo prudente | Evidencia requerida |
+| --- | --- | --- |
+| **Intención del diseño** | «TDidacta contempla apoyo a enseñanza indirecta» | Orientación/documento canónico |
+| **Cobertura conceptual examinada** | «Este caso tiene necesidades contrastadas con Responsibilities identificadas» | Matriz de correspondencia y reservas |
+| **Capacidad disponible** | «Este flujo puede realizarse en la versión X bajo estas condiciones» | Demostración/pruebas de la implementación concreta |
+| **Adecuación en un contexto** | «La experiencia fue utilizable para este grupo y estos recursos» | Observación contextual; condiciones de acceso |
+| **Resultado educativo** | «Se observó mejora en un indicador definido para esta población» | Diseño evaluativo válido con límites e incertidumbre |
+
+El documento [ISO/IEC/IEEE 29148:2018](https://www.iso.org/standard/72089.html) proporciona un antecedente para distinguir requisitos, necesidades, trazabilidad y verificación/validación. Y los *assurance cases* (p. ej. [SEI/CMU — Toward a Theory of Assurance Case](https://insights.sei.cmu.edu/documents/1222/2012_005_001_28161.pdf)) ofrecen una analogía de **afirmación + argumento + evidencia**, útil para evitar saltar de una ficha a una promesa pública. **No aplicar una certificación o notación de seguridad como estándar educativo adoptado**.
+
+### 22.3 Derecho a decir «todavía no sabemos»
+
+Para una plataforma educativa de acceso público, ocultar desconocimientos sería especialmente problemático cuando se trata de menores, privacidad, discapacidad, recursos limitados o exigencias oficiales.
+
+La documentación debería poder expresar «no examinado», «solo conceptual», «parcial», «requiere autorización externa», «no verificado para este medio», «no cubre certificación» o «hay conflicto pendiente», sin dejar de mostrar qué trabajo educativo es posible.
+
+**Hipótesis de valor público:** una clasificación abierta a excepciones y con trazabilidad de evidencia podría ser más convincente que una lista larga de sectores educativos supuestamente compatibles.
+
+## 23. Riesgos de diseño y antipatrones a vigilar
+
+| Riesgo | Cómo aparece | Control candidato |
+| --- | --- | --- |
+| **Sobreajuste** | Ejes creados a medida de E01–E04 pero fallan en casos nuevos | Casos retenidos y adversariales |
+| **Inflación de familias** | Cada variación gana un E-xx nuevo | Triaje incremental, especializaciones cuando proceden |
+| **Colapso de familias** | Todo se denomina E01 o E03 | Pruebas de no-colapso y relaciones constitutivas |
+| **Circularidad** | «Es E01 porque es enseñanza particular» | Describir estructura y necesidad antes del nombre |
+| **Confusión persona–escenario** | Aprendiz con varias experiencias recibe una sola etiqueta | Unidad de análisis: episodio/relación |
+| **Confusión función–Role** | «Docente» o «especialista» se promueven como Role automáticamente | Mantener observación separada de interpretación |
+| **Confusión acceso–autoridad** | Publicar/exportar implica permiso pedagógico o legal | Revisar F07/F08/F11/O7 |
+| **Clasificar = soportar** | Casos asignados se cuentan como funcionalidades disponibles | Matriz de necesidades y evidencia por alcance |
+| **Herencia de garantías** | Base cubierta implica especializaciones cubiertas | Reexaminar diferencias y restricciones |
+| **Composición ingenua** | Dos escenarios cubiertos implican combinación cubierta | Examinar conflictos e interdependencias |
+| **Homonimia con F10** | Se adoptan dos «escenarios especializados» sin distinguir nivel | Vocabulario separado y enlaces a concepto vigente |
+| **Sesgo de plataforma** | Usuarios indirectos son invisibles | O9 y relación con TDidacta como atributo independiente |
+| **Sesgo institucional** | Un organigrama explica toda relación educativa | F11: funciones y facultades contextualizadas |
+| **Asimilación editorial** | El caso D/M fuerza a inventar aprendices | Conservar fragmento de proceso y desconocimiento |
+| **Mercadotecnia sin evidencia** | Matriz de cobertura convertida en promesa de eficacia | Afirmaciones acotadas, contraevidencia y fechas |
+| **Carga de clasificación excesiva** | Cualquier ejemplo exige estudio completo | Filtro liviano, profundización por gatillos |
+| **Deriva documental** | Antiguo E05 se reutiliza borrando significado original | Mapa de migración, enlaces históricos y decisiones fechadas |
+
+## 24. Conexiones con metodologías externas — analogías verificables, no adopciones
+
+Estas referencias ayudan a estructurar preguntas de investigación; **no validan el modelo de TDidacta ni autorizan agregar fundamentos**:
+
+- **[Nickerson, Varshney y Muntermann, 2013](https://doi.org/10.1057/ejis.2012.26):** la construcción iterativa de una taxonomía debe explicitar objeto, dimensiones y criterios de término. **Tensión:** su enfoque taxonómico no obliga a TDidacta a usar una sola característica por eje si aquí lo apropiado resulta ser un esquema por facetas/relaciones.
+- **[W3C PROV Overview](https://www.w3.org/TR/prov-overview/) / [PROV-O](https://www.w3.org/TR/prov-o/):** distinguen entidades, actividades y agentes para describir procedencia; sirve como analogía para impedir que «autor», «recurso», «actividad» y «usuario» se mezclen. No importar PROV ni su clase de Role como Roles de TDidacta.
+- **[ISO/IEC/IEEE 29148:2018](https://www.iso.org/standard/72089.html):** antecedente de trazabilidad de necesidades/requisitos y distinciones entre verificación y validación. No sustituye investigación educativa ni certificación legal.
+- **[SEI/CMU — Towards a Theory of Assurance Case](https://insights.sei.cmu.edu/documents/1222/2012_005_001_28161.pdf):** propone razonar mediante afirmaciones, argumentos y evidencia. Una clasificación de cobertura no se vuelve una demostración por dibujarla en notación de aseguramiento.
+- **[W3C PROV Primer](https://www.w3.org/TR/prov-primer/):** útil para ejemplos narrativos de cadenas de procedencia, manteniendo diferenciado el resultado de una actividad de la persona que participó en ella.
+
+**Límite de verificación de antecedentes:** los enlaces citados respaldan su orientación general y existencia. Las hipótesis sobre E01–E06 y sobre cómo medir cobertura son elaboración exploratoria propia, no resultados extraídos de esas fuentes.
+
+## 25. Entregable mínimo recomendado para una revisión futura
+
+Si el bootstrap vuelve sobre esta idea, en lugar de diseñar inmediatamente un framework de clasificación, preparar **un contraste documental breve y refutable** que responda:
+
+1. ¿Se ha fijado una unidad de análisis inequívoca y compatible con episodios simultáneos?
+2. ¿Se conocen relaciones constitutivas mínimas de cada familia candidata?
+3. ¿Las facetas explican los casos sin sobreajuste ni proliferación?
+4. ¿Los casos D/M se representan honestamente sin inventar enseñanza observada?
+5. ¿Se distinguen especialización, composición, intersección y transferencia?
+6. ¿Puede una especialización fallar requisitos críticos aunque su base esté cubierta?
+7. ¿La división E02/comunitario y migración E05 orientado a metas conservan historia y contribuciones?
+8. ¿Se puede publicar una afirmación de alcance con necesidades, evidencia y límites, sin hablar de eficacia no probada?
+9. ¿Se justifica mantener esta clasificación como herramienta documental o hace falta una investigación separada con evidencia externa?
+10. ¿Qué observación falsaría la elección finalmente recomendada?
+
+**Decisión de continuidad:** no desarrollar ahora el modelo hasta cerrar su semántica completa; conservar esta extensión como espacio de hipótesis, avanzar con las necesidades y Responsibilities del bootstrap y decidir al cierre si corresponde adoptarla parcialmente, investigarla aparte o descartarla. No transformar el anexo en nueva puerta obligatoria del trabajo de escenarios.
