@@ -43,3 +43,7 @@ Una persona familiar puede acompañar la enseñanza utilizando una propuesta exi
 El fundador acordó precisar la acción 4 de [T-R01b](tr-01b-contextualizacion-adaptacion-pedagogica.md) como preparación, contextualización o ajuste de actividades y posibilidades de exploración. **T-R01c conduce y facilita su ejercicio** cuando existe actividad de orientación educativa reconocible. Enseñar no implica haber adaptado personalmente; adaptar no implica conducir personalmente. Las dos finalidades pueden coincidir en una misma experiencia.
 
 **Estado:** frontera de trabajo reconciliada; T-R01c sigue siendo matización candidata y sus acciones no quedan adoptadas en conjunto. La sección previa «Solapamiento pendiente» registra el momento anterior a este acuerdo.
+
+## Revisión durante la conducción — criterio acordado (2026-10-21)
+
+El fundador confirmó que revisar el desarrollo de la experiencia mientras se enseña pertenece a T-R01c cuando sirve a orientar y apoyar su conducción. Revisar la adecuación de una intención o propuesta corresponde a T-R01a/b según su finalidad estructural o situada. Detectar una dificultad durante la enseñanza puede motivar otra revisión, pero no corrige ni autoriza automáticamente elementos; F06 y T-R02 mantienen sus fronteras. Este acuerdo no adopta todas las acciones de la ficha.
