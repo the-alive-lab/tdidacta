@@ -144,3 +144,9 @@ Se acordó preservar la distinción entre **evaluar T-R07, enseñar T-R01 y apre
 ## Auditoría E01–E05 — resultado documental (2026-10-21)
 
 Se completó la [auditoría transversal de 30 necesidades y siete finalidades candidatas](../notes/2026-10-21-e01-e05-responsibilities-coverage-audit.md): todas tienen finalidad o soporte normativo identificable, sin necesidad justificada de una octava Responsibility. **No significa eficacia, implementación o adopción.** Se identificaron siete deudas de consistencia (D1–D7), especialmente T-R05, T-R07 y metadatos históricos. Antes de Roles, contrastar acciones y preparar aprobación expresa.
+
+## Lectura vigente — aprobaciones parciales de consolidación (2026-10-21)
+
+[Decisiones P1–P8 del fundador](../notes/2026-10-21-responsibilities-consolidation-decisions.md). **P1 T-R01, P3 T-R03, P4 T-R04, P5 T-R05, P6 T-R06 y P7 consistencia documental: aprobadas a nivel de acciones/finalidades. P2 T-R02: en revisión** por la semántica de publicar, decidir y ejecutar publicación. **P8: se aprobó posponer T-R07** hasta Research, NO adoptar T-R07.
+
+Se mantienen **siete finalidades candidatas**; cinco tienen acciones consolidadas por esta decisión, una está en revisión (T-R02) y otra diferida (T-R07). Las referencias iniciales a «seis fichas» son recuentos **históricos de extracción de E01**, no el estado presente. Las secciones originales y notas congeladas preservan procedencia; las decisiones posteriores prevalecen para interpretar el trabajo vigente. No se han adoptado Roles, mecanismos ni un catálogo definitivo.
