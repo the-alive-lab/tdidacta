@@ -66,3 +66,11 @@ En ambos contextos existen contribuciones múltiples, discrepancias, comunicaci�
 **Condiciones de evolución propuestas:** autorización derivada situada bajo condiciones de la intención directamente autorizada; herencia acumulativa en derivaciones sucesivas; combinación solo bajo restricciones compatibles; variante reconciliada para otro origen sin confundir reconciliación y consolidación; validez histórica distinta de aplicabilidad bajo circunstancias actuales. La formalización de estas reglas queda [reservada como cuestión semántica](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md), especialmente por tensión con F07 vigente. [Registro de Responsibilities](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md).
 
 **Control de coherencia:** N1 (autoridad contextual vs acceso), N2 (coordinación), N3 (atribución), N4 (continuidad), N5 (referencias externas) y N6 no presentan conflicto funcional detectado en este contraste. F07 **no está formalmente reconciliado** con la autorización derivada; no presumir su adopción. N7 y N8 siguen pendientes, por tanto E03 completo **no está cerrado**. Los ejemplos «planificación/unidad/clase/actividad» no constituyen una jerarquía universal.
+
+## Seguimiento posterior — E03-N7 (2026-10-20)
+
+**N7 reconciliada funcionalmente** sin añadir Responsibilities ni Roles. Acceso legítimo/proporcional (T-R05a), configuración contextual de flujos (T-R05b) y autorización pedagógica (T-R02) mantienen fronteras distintas; T-R01 puede comunicar observaciones derivadas bajo condiciones legítimas, T-R04 interviene condicionalmente y O7 rige transversalmente. La información restringida no se vuelve divulgable automáticamente por producir una conclusión pedagógica.
+
+Los acuerdos sobre **flujo mínimo completo, extensiones operativas activables o retirables, revisión de divulgación según autoridad pertinente, anonimización y protección retrospectiva** no son fichas de Responsibilities: véase [nota N7](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md). No imponer revisiones individuales universales ni suponer que omitir pasos equivale a eliminar las garantías de privacidad.
+
+**Estado vigente:** E03-N1–N7 reconciliados funcionalmente; N8 pendiente. E03 global no cerrado.
