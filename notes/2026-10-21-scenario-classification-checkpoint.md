@@ -64,3 +64,31 @@ Examinar otras dimensiones independientes (orientación a metas externas, autori
 - Actualizar bootstrap, inventario de necesidades, cross-links y futuros contrastes E04/E05 de manera coherente cuando se decida.
 
 **Continuidad operativa inmediata:** investigar la métrica y sus contraejemplos, **antes de cambiar el E05 existente o comenzar renumeraciones**. El cierre funcional de E03 y las notas N6/N7/N8 permanecen intactos.
+
+## Contraste E01 — distribución de funciones y participación indirecta (2026-10-21)
+
+**Hallazgo propuesto por el fundador, todavía no incorporado a la ficha E01 ni elevado a una taxonomía adoptada.** La relación educativa observada en E01 puede distinguir **especialista → docente → aprendiz**:
+- **Especialista:** prepara/desarrolla material pedagógico base.
+- **Docente:** utiliza ese material para enseñar y puede contextualizarlo.
+- **Aprendiz:** aprende con el material y las experiencias educativas.
+Son **funciones observables en un caso**, no obligatoriamente personas diferentes, ni Roles canónicos, ni asignación automática de Responsibilities o autoridad T-R02.
+
+**E01 originalmente observado:** la misma persona ejercía funciones de especialista y docente, enseñando directamente al aprendiz. **Especialización propuesta:** el especialista usa TDidacta para preparar recursos destinados a terceros, mientras docente y aprendiz pueden utilizar/consumir los resultados **sin interactuar directamente con TDidacta**. La enseñanza externa sigue existiendo; no debe inferirse que el especialista enseña directamente al aprendiz. Producción, autoría, autorización pedagógica y publicación continúan diferenciadas conforme a sus fronteras anteriores.
+
+### Hipótesis de escenarios base y especializados
+
+- Un **escenario base** caracteriza relaciones educativas pertinentes sin exigir que todas sus funciones sean ejercidas por una sola persona o que todos los participantes utilicen TDidacta.
+- Un **escenario especializado** concreta distribución de funciones, destinatarios, condiciones y modos de uso sobre uno o varios escenarios base potencialmente compatibles; no hereda obligatoriamente cada actividad operativa como paso universal.
+- **Estructura** (base/especializado) y **estado de investigación** (candidato/en análisis/soportado/formativo) son ejes diferentes. Un escenario especializado puede ser formativo si produce una propuesta conceptual sustantiva y trazable.
+- La **participación educativa** y la **interacción directa con TDidacta** pueden variar independientemente. Examinar si se necesita un cuarto eje explícito o una descomposición de las dimensiones iniciales.
+- El anterior candidato «enseñanza especializada para terceros» podría **no justificar escenario base E06**: puede ser especialización de E01, E02, E03 o comunitario; no decidir antes del contraste. «Especialización» no es sinónimo de necesidades educativas especiales.
+
+### Prueba de falsación abierta
+
+1. Determinar qué relaciones mínimas definen E01: ¿necesita efectivamente relación interpersonal docente-aprendiz aunque externa a la plataforma? ¿Qué ocurre con material publicado que nunca se enseña?
+2. Examinar otros pares función/persona/usuario directo, incluidos docente usando material externo, tercero que publica material y participante aprendiz que utiliza TDidacta sin intervención del especialista.
+3. Comprobar si una especialización puede relacionarse con **más de un escenario base** sin contradicción semántica, o si eso requiere distinguir composición de especialización.
+4. No confundir esquema de **funciones observables** con el catálogo de Responsibilities o Roles futuros, ni trasplantar reglas de autorización derivada de intenciones pedagógicas a los escenarios.
+5. Actualizar la clasificación E05/E06 y la ficha E01 únicamente si el contraste ulterior lo justifica y hay decisión deliberada.
+
+**Estatus:** checkpoint metodológico; se preservan el E05 existente, numeración y documentos históricos.
