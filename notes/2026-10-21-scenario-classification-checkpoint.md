@@ -92,3 +92,24 @@ Son **funciones observables en un caso**, no obligatoriamente personas diferente
 5. Actualizar la clasificación E05/E06 y la ficha E01 únicamente si el contraste ulterior lo justifica y hay decisión deliberada.
 
 **Estatus:** checkpoint metodológico; se preservan el E05 existente, numeración y documentos históricos.
+
+## Primera prueba comparativa E01 — variación controlada de funciones (2026-10-21)
+
+**Resultado exploratorio, no adopción.** Mantener separados: (a) organización y relación educativa del caso, (b) asignación de funciones a personas, (c) destinatarios y (d) participantes con interacción directa con TDidacta.
+
+| Caso | Especialista / docente / aprendiz | Interacción con TDidacta | Lectura candidata |
+| --- | --- | --- | --- |
+| A. Tutor particular prepara y enseña a estudiante | Especialista=docente; aprendiz distinto | Tutor directo; estudiante variable | E01 caso conductor |
+| B. Productor elabora por encargo recursos para otro docente que enseña a su alumno | Tres participantes distintos | Productor directo; otros indirectos | Especialización plausible de E01 con enseñanza externa |
+| C. Tutor usa material previo de especialista externo | Tres participantes distintos | Tutor directo; productor puede no utilizarlo | E01 plausible: separación de autoría/uso |
+| D. Persona publica material abierto sin destinatario ni situación de enseñanza identificable | Productor identificado; docente y aprendiz solo potenciales | Productor directo | **Indeterminado**: no inventar relación docente–aprendiz para forzar E01 |
+| E. Comunidad produce y mantiene recursos para terceros | Funciones colectivas; docentes y aprendices pueden estar fuera | Integrantes productores directos | Potencial especialización comunitaria, sin decidir aún escenario base |
+| F. Institución encarga materiales a especialistas para docentes de otras instituciones | Producción/uso entre organizaciones; funciones separadas | Interacción parcial | Puede atravesar E03 y producción externa; probar composición vs especialización |
+
+**Hallazgo provisional:** dividir *funciones entre personas* o cambiar *quién interactúa con la plataforma* **no basta por sí solo** para crear escenario base. Pero una producción completamente desacoplada de toda relación de enseñanza observable (D) podría requerir otra interpretación: no asumir por definición que cae en E01.
+
+**Falla posible de los tres ejes originales:** D2 (funciones distribuidas) no describe por sí sola cuáles son las funciones, quién las ejerce ni quién utiliza directamente TDidacta; D3 no distingue receptor del material de aprendiz efectivamente acompañado. Antes de agregar un cuarto eje, comprobar si conviene registrar **relaciones funcionales** y **modo de interacción con la plataforma** como atributos de cada caso.
+
+**Criterio de decisión a contrastar en otros escenarios:** una variación es especialización cuando preserva las relaciones constitutivas pertinentes del escenario base, aunque reasigne funciones u omita pasos operativos no esenciales. Si hay que inventar participantes o relaciones ausentes para clasificarla, la cobertura **no está demostrada**. Una especialización puede revelar brecha acotada sin exigir análisis exhaustivo de todo el escenario base.
+
+**Siguiente contraste:** ejecutar el mismo test con E02 individual, E03 institucional, E04 hogar y comunitario propuesto, incluyendo el caso D, para comprobar si hay escenario base no cubierto. No migrar E05 todavía.
