@@ -66,3 +66,7 @@ El fundador confirmó **T-R05 como una Responsibility general**, con T-R05a (ges
 El fundador confirmó que T-R07 admite **evaluación externa o autoevaluación**, incluso **autodidacta + tecnología** con resultados potencialmente decentes o excelentes. A la vez, formular desafíos suficientemente profundos puede ser difícil para una persona autodidacta: esa tensión pertenece al problema de evaluación, no es un bug conceptual. **Especialista + tecnología** se reconoce como configuración especialmente prometedora, no obligatoria ni validada empíricamente.
 
 T-R03 autocomprueba para orientar su aprendizaje; T-R07 busca evidencia estructurada de competencias y límites inferenciales, independientemente de quién evalúe. Contrastar profundidad y fiabilidad entre modalidades corresponde a Research. Frontera de modalidades reconciliada funcionalmente; ficha todavía candidata.
+
+## T-R07 — resultados compartibles sin transferencia de finalidad (2026-10-21)
+
+El fundador confirmó el principio: **evaluador evalúa (T-R07), enseñador enseña (T-R01) y aprendiz aprende (T-R03)**. Evidencia, conclusiones o materiales pueden alimentar otras Responsibilities, pero no confieren automáticamente facultades para decidir enseñanza, recorrido de aprendizaje, autorización pedagógica, certificación o consecuencias institucionales. La separación es **funcional, no personal obligatoria**. T-R07 queda reconciliada en esta frontera, sin adopción ni validación de sus instrumentos.
