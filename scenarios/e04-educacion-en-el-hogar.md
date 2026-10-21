@@ -108,3 +108,11 @@ La necesidad N2 («contextualizar intenciones y circunstancias sin requerir form
 **Principio reconciliado:** administración de accesos, autoridad legítima sobre información y representación de intereses del aprendiz son funciones diferentes aunque coincidan en una misma persona. Ninguna sustituye O7. Tratándose de menores, no presumir que cualquier familiar accede a todos sus datos.
 
 **Reservas:** requisitos jurídicos según edad y jurisdicción, autoridad de divulgación, bases de tratamiento/consentimiento cuando apliquen, salvaguardas, controles, evaluaciones de accesibilidad y eficacia operativa. No se crean Responsibilities ni Roles; las matizaciones continúan candidatas. Los contrastes preliminares anteriores quedan como historia; **N5 es la siguiente necesidad abierta**.
+
+## E04-N5 — apertura de T-R07 candidata (2026-10-21)
+
+La distinción de prácticas formativas, **evidencia revisable de capacidades y comprensión**, juicio evaluativo, certificación y reconocimiento oficial motivó la [candidatura T-R07 — Evaluación profunda y desafío de competencias](../responsibilities/tr-07-evaluacion-profunda-competencias.md). T-R01 evalúa para mejorar la enseñanza; T-R07 busca examinar actuaciones con finalidad propia; T-R03 conserva elecciones autónomas y T-R02 autoriza elementos pedagógicos, no conocimientos de la persona.
+
+[Primer contraste E01–E05](../notes/2026-10-21-tr07-evaluacion-profunda-contraste-inicial.md): plausibilidad funcional condicional, con contraejemplos. Se proponen evidencia y matrices interpretativas revisables, criterios de profundidad y transferencia, dimensiones base y extensiones inicialmente deshabilitadas; su habilitación es contextual T-R05b y las solicitudes optativas del aprendiz se vinculan con T-R03 y privacidad pertinente. No se atribuyen personalidad, valor moral, eficacia demostrada ni reconocimiento oficial a resultados.
+
+**Estado:** T-R07 candidata; **E04-N5 abierta** mientras se contrastan criterios, eficacia y autoridad de evaluación/acreditación. No se adoptan Roles, mecanismos ni reforma de O0/F01. N6 permanece abierta.
