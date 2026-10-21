@@ -1,4 +1,6 @@
-# E05 — Aprendizaje orientado a metas
+# E05 — Aprendizaje orientado a metas (ficha histórica)
+
+> **Aviso de migración documental (2026-10-21):** esta ficha conserva el **antiguo E05** tal como se investigó el 2026-10-18; **ya no es un escenario vigente del catálogo**. Sus seis necesidades y contraste conceptual fueron trasladados a la dimensión transversal [Orientación hacia metas externas](dimensions/external-goal-orientation.md). El identificador E05 se libera para la futura ficha comunitaria, aún no creada. Los textos siguientes son **registro histórico**, no la clasificación actual. Véase [índice](README.md).
 
 **Estado:** ficha de cobertura documentada (2026-10-18), con alcance y preguntas pendientes. Los actores son locales a este escenario, no Roles adoptados ni asignaciones de Responsibilities. No se presupone implementación, eficacia ni obligaciones legales universales. [Índice](README.md).
 
