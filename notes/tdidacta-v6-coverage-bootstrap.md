@@ -831,3 +831,7 @@ Se delimitó T-R04 a representación y resguardo legítimos, preservando autonom
 ### T-R07 — evaluación externa y autoevaluación (2026-10-21)
 
 El fundador confirmó que T-R07 admite evaluación externa y autoevaluación; una persona autodidacta con tecnología puede lograr resultados decentes o excelentes, aunque autogenerar desafíos de profundidad suficiente sea difícil. Esa dificultad es parte del problema que T-R07 aborda. Especialista + tecnología aparece como combinación especialmente potente, no exigencia universal ni resultado validado. Distinguir autocomprobación T-R03 de examen estructurado T-R07; eficacia y validez pendientes en Research. [Ficha T-R07](../responsibilities/tr-07-evaluacion-profunda-competencias.md).
+
+### T-R07 — evaluación y consecuencias diferenciadas (2026-10-21)
+
+El fundador estableció que T-R07 evalúa, T-R01 enseña y T-R03 aprende; las evidencias/resultados pueden servir a otras finalidades sin autorizar que una Responsibility absorba decisiones ajenas. Evaluar no decide automáticamente enseñanza, itinerario del aprendiz, autorización, certificación o consecuencias administrativas. Separación funcional, no necesariamente de personas. [Ficha T-R07](../responsibilities/tr-07-evaluacion-profunda-competencias.md). Frontera reconciliada, instrumentos aún sujetos a Research.
