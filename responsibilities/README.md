@@ -12,12 +12,17 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 
 **Criterio acordado para T-R01a/T-R01b:** distinguir componentes de trabajo pedagógico relativamente estables frente a componentes más dinámicos; no separar responsabilidades por una secuencia rígida de planificación y ejecución. Lo estable puede revisarse y lo dinámico conserva restricciones.
 
+## Registro original y matización propuesta posteriormente
+
+Las seis fichas originalmente extraídas de E01 se mantienen en su procedencia. **T-R01c se añadió como hipótesis durante E04-N2, no forma parte de la extracción original.** T-R01 general se explora como finalidad común con matizaciones a/b/c, sin formalizar una nueva taxonomía ni imponer orden temporal.
+
 ## Fichas candidatas obtenidas de E01
 
 | Identificador provisional | Responsabilidad | Estado |
 | --- | --- | --- |
 | **T-R01a** | [Estructuración y continuidad pedagógica](tr-01a-planificacion-contextualizacion-pedagogica.md) | Dos criterios reconciliados; acciones adicionales pendientes de contraste |
-| **T-R01b** | [Contextualización y adaptación pedagógica](tr-01b-contextualizacion-adaptacion-pedagogica.md) | Criterios acordados; contraste E02–E05 pendiente |
+| **T-R01b** | [Contextualización y adaptación pedagógica](tr-01b-contextualizacion-adaptacion-pedagogica.md) | Criterios acordados; frontera con T-R01c candidata pendiente |
+| **T-R01c** | [Conducción de la enseñanza](tr-01c-conduccion-ensenanza.md) | **Matización candidata E04-N2**, sin adopción; requiere contraste E01–E05 |
 | **T-R02** | [Protección y autorización pedagógica](tr-02-proteccion-autorizacion-pedagogica.md) | Criterios acordados; contraste E02–E05 pendiente |
 | **T-R03** | [Aprendizaje y autonomía](tr-03-aprendizaje-retroalimentacion.md) | Criterios acordados; contraste E02–E05 pendiente |
 | **T-R04** | [Representación y resguardo del aprendiz](tr-04-resguardo-legal-aprendiz.md) | H03 reconciliado: apoderado o figura equivalente, aplicación condicional; contraste pendiente |
