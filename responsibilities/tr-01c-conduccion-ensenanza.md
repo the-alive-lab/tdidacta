@@ -32,3 +32,7 @@ El [concepto de enseñanza](../concepts/teaching.md) establece orientación y ap
 Una persona familiar puede acompañar la enseñanza utilizando una propuesta existente (T-R01c), contextualizarla cuando sea pertinente (T-R01b) o estructurar una nueva (T-R01a). No necesita asumir las tres matizaciones; ninguna exige título profesional o IA de forma universal. Eso tampoco garantiza suficiencia de conocimiento especializado, calidad pedagógica o aprendizaje logrado. La protección y autorización pertinente siguen siendo materia de T-R02.
 
 **Pendientes:** contrastar el criterio en E01, E02, E03 y E05; delimitar acciones frente a T-R01b; precisar la finalidad general T-R01 sin secuencia obligatoria y distinguir conducción de mera publicación de materiales.
+
+## Contraste transversal posterior (2026-10-21)
+
+[Resultado y contracasos E01/E02/E03/E05](../notes/2026-10-21-tr01c-cross-scenario-contrast.md): la conducción de enseñanza aparece como finalidad distinguible en E01/E03 y de activación condicional en E02/E05. La prueba no equivale a adopción; quedan pendientes la definición general de T-R01 y el solapamiento con la acción 4 de T-R01b.
