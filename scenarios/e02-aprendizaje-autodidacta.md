@@ -1,49 +1,35 @@
 # E02 — Aprendizaje autodidacta
 
-**Estado:** ficha de escenario de cobertura formalizada para análisis, **no aprobación de capacidades ni planificación de implementación** (2026-10-18). Los actores son **locales al escenario**, no Roles ni asignaciones normativas de Responsibilities. Las necesidades describen cobertura pretendida, no funcionalidades comprometidas. Véase [índice de escenarios](README.md).
+**Estado:** escenario de cobertura para análisis, delimitado el 2026-10-21 desde la ficha original del 2026-10-18. Actores locales, no Roles o Responsibilities adoptados. No supone implementación ni eficacia. [Índice](README.md).
 
-## Contexto
+## Contexto y frontera con E05
 
-Quien aprende puede orientar también su propia enseñanza, sin depender necesariamente de un docente designado. Puede comenzar con poco conocimiento de una materia, pero no se supone que todo autodidacta sea principiante o necesite IA. El autodidactismo puede ser individual o colaborativo.
+La persona **organiza y desarrolla su experiencia de aprendizaje mediante TDidacta de forma independiente de una organización educativa compartida dentro de su contexto de uso**. Puede apoyarse en recursos existentes, herramientas, asistencia tecnológica, otras personas, consultas a foros y comunidades externas. **Independencia respecto del uso de TDidacta no significa aislamiento social**, ni exige ausencia de ayuda o interacción externa.
+
+En [E05 — Aprendizaje comunitario](e05-aprendizaje-comunitario.md), TDidacta sostiene o facilita una **organización educativa compartida**, aunque actividades y participantes puedan estar fuera de la plataforma. La mera consulta de un foro no basta para convertir E02 en E05. Una misma persona puede participar simultáneamente de E02 y E05, con ámbitos y continuidad distinguibles. La mentoría individualizada y estable se contrasta con [E01](e01-ensenanza-particular.md).
 
 ## Actores observables
 
-- **Persona autodidacta:** orienta y experimenta su propio aprendizaje; puede crear, corregir y utilizar recursos.
-- **Participante colaborador eventual:** en la modalidad comunitaria, contribuye con preguntas, ideas, experimentos, materiales o feedback, sin asumir por ello el lugar de docente permanente.
-- **Comunidad de práctica o aprendizaje eventual:** colectivo reconocible por su participación compartida; no necesariamente institución, persona jurídica ni autoridad pedagógica.
+- **Persona autodidacta:** orienta, experimenta, valora y retoma su propio aprendizaje; puede elaborar, corregir o utilizar recursos.
+- **Fuentes, colaboradores o acompañantes eventuales:** pueden prestar apoyo o información sin constituir obligatoriamente una organización comunitaria de su experiencia dentro de TDidacta.
 
-Los actores son locales y pueden coincidir. La comunidad no presupone propiedad central del conocimiento ni ausencia de reglas organizativas.
+No se asume conocimiento experto previo, diagnóstico de estilos de aprendizaje ni necesidad universal de IA.
 
-## Modalidades
-
-### Independiente (standalone)
-
-La persona mantiene la conducción de su aprendizaje, aun cuando utilice materiales existentes o asistencia tecnológica. No implica aislamiento social obligatorio.
-
-### Acompañado o colaborativo
-
-Las personas contribuyen a un esfuerzo compartido, comparable en estructura participativa a proyectos de software libre: pueden coordinarse, debatir, revisar y construir conocimiento sin una relación obligatoria profesor–alumno ni docente central. La cooperación no impide acuerdos sobre calidad, publicación o coordinación. Una **mentoría individualizada y estable** suele corresponder mejor a [E01](e01-ensenanza-particular.md).
-
-## Necesidades de cobertura
+## Necesidades de cobertura preservadas
 
 1. Reconocer necesidades y formular intenciones sin exigir autoridad académica institucional o conocimiento experto previo.
 2. Facilitar orientación directa y asistida sin prescribir una ruta ni convertir recomendaciones tecnológicas en decisiones humanas autorizadas.
 3. Permitir exploración, práctica, reflexión y contraste de resultados para que la persona valore qué le ayuda a comprender, sin prometer diagnosticar «estilos de aprendizaje» fijos.
 4. Conservar autonomía para consultar recursos, cambiar de enfoque o retomar experiencias.
-5. En modalidad colaborativa, reconocer autorías y aportes materiales, feedback y continuidad compartida, sin atribuir automáticamente coautoría ni autoridad a toda intervención.
-6. **Disponer de una capacidad de comunicación y deliberación** para plantear problemas, hacer preguntas, debatir, recibir feedback y coordinar contribuciones comunitarias, sin imponer jerarquía docente. Esta capacidad debe poder ser provista por TDidacta o **delegarse/integrarse con servicios externos**, sin obligar a utilizar exclusivamente su infraestructura.
 
-## Contraste con fundamentos y orientaciones
+**Trazabilidad:** las necesidades **N5** (reconocimiento de aportes y continuidad compartida) y **N6** (comunicación, deliberación y coordinación) de esta ficha **tal como existía el 2026-10-18** se trasladaron a [E05](e05-aprendizaje-comunitario.md) como materias comunitarias; no se descartaron ni se rebautizaron retrospectivamente. Las notas fechadas de contraste siguen describiendo la antigua modalidad E02 colaborativa.
 
-- [F01](../foundations/teaching-and-learning.md): enseñar y aprender no obligan a personas o posiciones diferentes; cobertura conceptual considerada suficiente.
-- [F08](../foundations/pedagogical-authorship.md): reconocimiento proporcional de contribuciones por declaración responsable; cobertura conceptual considerada suficiente.
-- [F09](../foundations/learner-autonomy.md): aprendizaje autónomo compatible con apoyo de pares; cobertura conceptual considerada suficiente.
-- [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md): necesidades, posibilidades, exploración y revisión.
-- [O3](../orientation/human-effort-and-agency.md), [O6](../orientation/effort-inversion.md): carga de coordinación, posibilidades reales y esfuerzo humano.
+## Fundamentos, orientaciones y límites
 
-## Límites y cuestiones abiertas
+- [F01](../foundations/teaching-and-learning.md): enseñar y aprender pueden coincidir en la misma persona; cobertura conceptual considerada suficiente.
+- [F09](../foundations/learner-autonomy.md): autonomía con ayudas eventuales; cobertura conceptual considerada suficiente.
+- [F02](../foundations/pedagogical-needs-and-intentions.md), [F05](../foundations/semantic-projection.md), [F06](../foundations/pedagogical-review-and-correction.md): formulación, exploración, práctica y revisión.
+- [F08](../foundations/pedagogical-authorship.md): reconocer contribuciones pertinentes, sin convertir toda interacción externa en colaboración comunitaria formal.
+- [O3](../orientation/human-effort-and-agency.md), [O6](../orientation/effort-inversion.md): proporcionalidad, esfuerzo y opciones reales.
 
-- **Referencia de diseño comunitario:** estudiar la gobernanza de [PostgreSQL](https://www.postgresql.org/about/governance/) como antecedente de colaboración abierta con equipos, *committers* y mecanismos explícitos para tratar desacuerdos. **No copiar automáticamente** órganos, licencias ni poderes a TDidacta. La selección de mecanismos de decisión y autoridad pedagógica sigue pendiente de contraste con E03 y futuras Responsibilities/Roles.
-- ¿Qué evidencia permite a una persona evaluar estrategias propias sin confundir la sensación de progreso con aprendizaje demostrado? **Respuesta aplazada**: tratarla con los demás tópicos de investigación/cobertura, sin bloquear formalización de E02.
-- La referencia a PostgreSQL significa que el esfuerzo compartido **no exige dueño único del proyecto**; sin embargo, no equivale a ausencia de licencias, permisos, mantenimiento o atribuciones legales. Contribuir no concede automáticamente autoridad para aprobar versiones; eso exige acuerdos explícitos según contexto.
-- **Sí se reconoce como cobertura necesaria la comunicación comunitaria**, incluidas consultas, discusión y coordinación de aportes. Su prestación podrá ser propia o externalizada. No se adopta todavía un foro concreto, un repositorio obligatorio, una interfaz, algoritmo o tecnología; moderación y resolución de conflictos deberán tratarse en diseño y responsabilidades, no darse por inexistentes.
+**Pendiente:** ¿qué evidencia permite evaluar estrategias propias sin confundir sensación de progreso, conformidad semántica y aprendizaje demostrado? No se adoptan métricas o diagnósticos universales. El análisis [E02/E03 de Responsibilities](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md) se preserva con su alcance histórico y no se interpreta como nueva validación de E05.
