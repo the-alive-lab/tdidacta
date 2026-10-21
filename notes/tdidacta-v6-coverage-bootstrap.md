@@ -811,3 +811,7 @@ En la consolidación transversal el fundador eligió **B: la activación de T-R0
 ### T-R06 — decisiones operativas con delegación explícita (2026-10-21)
 
 El fundador confirmó la frontera decisoria: T-R06 puede decidir reorganizaciones operativas dentro de facultades explícitamente delegadas; una interdependencia urgente no autoriza nuevas facultades. Cambios pedagógicos y autorizaciones siguen en T-R01/T-R02, y fuera de delegación corresponde solicitar/escalar. [Ficha T-R06](../responsibilities/tr-06-organizacion-coherencia-pedagogica.md). Estado de candidatura preservado.
+
+### T-R01 — finalidad general de enseñanza confirmada (2026-10-21)
+
+En consolidación transversal el fundador confirmó **T-R01 como Responsibility general**, con T-R01a (estructuración/continuidad), T-R01b (contextualización/adaptación) y T-R01c (conducción) como matizaciones funcionales, no responsabilidades independientes ni secuencia obligatoria. Pueden recaer en personas distintas o coincidir. Se acuerda agrupación funcional; acciones y catálogo siguen candidatos. [Contraste](2026-10-21-e01-e05-responsibilities-transversal-consolidation.md).
