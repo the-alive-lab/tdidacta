@@ -132,3 +132,7 @@ Se reconcilió la frontera funcional: T-R04 representa y resguarda al aprendiz c
 ### T-R05 — Responsibility administrativa general (2026-10-21)
 
 **Acuerdo del fundador:** T-R05 sigue siendo **una Responsibility general de administración**, con T-R05a (accesos y disponibilidad administrativa) y T-R05b (configuraciones y flujos) como matizaciones, no Responsibilities separadas. Habilitar opciones no equivale a convertirlas en requisitos pedagógicos; ejecutar publicación no atribuye derechos o autorización para distribuir. [Ficha T-R05](tr-05-gestion-acceso-recursos.md). Agrupación funcional acordada; acciones, Roles y mecanismos pendientes.
+
+### T-R07 — modalidad abierta y desafío especializado (2026-10-21)
+
+Por acuerdo del fundador, [T-R07](tr-07-evaluacion-profunda-competencias.md) puede ejercerse en **evaluación externa o autoevaluación**; autodidacta + tecnología puede lograr resultados sólidos para los objetivos educativos. La dificultad de autogenerar desafíos de suficiente profundidad es una característica relevante del problema, no motivo para prohibir la modalidad. Especialista + tecnología es una combinación especialmente prometedora, sin requisito universal ni garantía de validez. Contrastes empíricos quedan en Research; ficha candidata.
