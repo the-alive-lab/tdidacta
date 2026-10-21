@@ -47,3 +47,7 @@ Estas son acciones de la **misma responsabilidad por converger en el objetivo de
 ## Estado y trazabilidad
 
 Esta ficha recoge la reorganización conversacional del fundador posterior a la [primera extracción histórica E01](../notes/2026-10-19-e01-transversal-responsibilities-review.md). Sus antiguos identificadores T-RXX **no son equivalencias automáticas** con esta nueva agrupación por objetivo. La ficha no reclasifica Foundations, Concepts ni define una metodología universal de planificación.
+
+## Lectura prospectiva aprobada — P1 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). Se aprueban las seis acciones de T-R01a dentro de **T-R01 general**, precisando que estructurar intenciones relativamente estables y revisarlas no es adaptación situada T-R01b, coordinación de dependencias T-R06 ni autorización T-R02. Preparar versiones candidatas preserva la historia y no las autoriza. La autoridad curricular externa no se apropia. El texto original fechado permanece como procedencia; no se crean Roles.
