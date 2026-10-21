@@ -38,3 +38,11 @@ Se adopta la interpretación **A: aprendizaje como objetivo agrupador**. La retr
 **Decisión de alcance (2026-10-19):** conservar este problema como cuestión abierta para investigación posterior, sin resolverlo anticipadamente mediante comunicación alternativa, mediación u otra técnica específica. La finalidad de T-R03 sigue siendo el aprendizaje, no la obligación de producir feedback.
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
+
+## Frontera transversal — autonomía, participación y compromisos (2026-10-21)
+
+**Acuerdo del fundador:** T-R03 conserva la autonomía para decidir participar, continuar o abandonar una experiencia y para solicitar o retirar evaluaciones optativas conforme a las condiciones aplicables. Esa autonomía **no faculta a modificar unilateral o retroactivamente** compromisos legítimamente asumidos ni requisitos obligatorios declarados en una intención pedagógica.
+
+Ante salida o incumplimiento en una experiencia comunitaria, las interdependencias pueden requerir respuesta de T-R06 dentro de facultades delegadas, sin transformar la coordinación en autoridad general sobre el recorrido del aprendiz. Abandonar una actividad no implica sanción automática; las consecuencias legítimas y sus límites requieren atención contextual.
+
+**Estado:** frontera funcional reconciliada transversalmente con E05-N1 y T-R07; no imposición de contratos, retención forzosa, procedimientos ni adopción íntegra de T-R03.
