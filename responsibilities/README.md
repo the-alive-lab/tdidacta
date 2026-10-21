@@ -120,3 +120,7 @@ Se creó la ficha **[T-R06 — Organización y coherencia pedagógica](tr-06-org
 ### T-R02 — distinción funcional frente a T-R01 (2026-10-21)
 
 Se acordó que la elaboración/adaptación de intenciones T-R01 y su examen/autorización T-R02 son **responsabilidades distinguibles, aunque ejercibles por la misma persona cuando tenga ambas facultades**. La coincidencia no supone autorización tácita ni obliga universalmente a dos personas o un segundo aprobador. [Ficha T-R02](tr-02-proteccion-autorizacion-pedagogica.md). Frontera reconciliada; acciones y adopción formal pendientes.
+
+### T-R03 — autonomía y compromisos (2026-10-21)
+
+El fundador confirmó la frontera entre **autonomía para participar, continuar o dejar una experiencia** y **ausencia de facultad para alterar unilateralmente compromisos aceptados o requisitos pedagógicos obligatorios**. En experiencias comunitarias, T-R06 atiende interdependencias resultantes dentro de delegación, sin sanciones automáticas. [Ficha T-R03](tr-03-aprendizaje-retroalimentacion.md). Criterio funcional reconciliado; adopción pendiente.
