@@ -116,3 +116,7 @@ La distinción de prácticas formativas, **evidencia revisable de capacidades y 
 [Primer contraste E01–E05](../notes/2026-10-21-tr07-evaluacion-profunda-contraste-inicial.md): plausibilidad funcional condicional, con contraejemplos. Se proponen evidencia y matrices interpretativas revisables, criterios de profundidad y transferencia, dimensiones base y extensiones inicialmente deshabilitadas; su habilitación es contextual T-R05b y las solicitudes optativas del aprendiz se vinculan con T-R03 y privacidad pertinente. No se atribuyen personalidad, valor moral, eficacia demostrada ni reconocimiento oficial a resultados.
 
 **Estado:** T-R07 candidata; **E04-N5 abierta** mientras se contrastan criterios, eficacia y autoridad de evaluación/acreditación. No se adoptan Roles, mecanismos ni reforma de O0/F01. N6 permanece abierta.
+
+## Continuidad investigativa de E04-N5 (2026-10-21)
+
+La distinción funcional T-R01/T-R07 permanece como **candidatura**, y la suficiencia de las evaluaciones requiere evidencia metodológica externa al catálogo. Se abrió [intake investigativo provisional en research-space](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/notes/2026-10-21-tdidacta-tr07-research-intake.md), sin iniciar una RQ ni Study y sin considerar probada la validez de las evaluaciones. **E04-N5 no queda cerrada por registrar el handoff.** La investigación futura podrá revisar la propuesta, sin alterar retrospectivamente los acuerdos de E04-N1–N4.
