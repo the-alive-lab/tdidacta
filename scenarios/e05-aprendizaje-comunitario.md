@@ -34,3 +34,13 @@ La [gobernanza de PostgreSQL](https://www.postgresql.org/about/governance/) es a
 ## Procedencia
 
 El [E02 original](e02-aprendizaje-autodidacta.md) incluía ambas modalidades y seis necesidades. La separación preserva las N5/N6 y las conclusiones históricas; el [contraste de 2026-10-18](cross-scenario-coverage-2026-10-18.md) no se reescribe. El [antiguo E05 de metas](e05-aprendizaje-orientado-a-metas.md) se conserva como registro histórico de su traslado a [dimensión transversal](dimensions/external-goal-orientation.md).
+
+## E05-N1 — reconciliación funcional: autonomía y compromisos comunitarios (2026-10-21)
+
+**Acuerdo del fundador:** distinguir **aprovechar recursos producidos por una comunidad** de **participar explícitamente en una intención pedagógica comunitaria**. El uso de recursos no crea por sí solo compromisos de participación. Cuando alguien participa explícitamente en una intención comunitaria, debe haber **compromisos explícitos**, pertinentes y reconocibles para sus participantes.
+
+El incumplimiento de compromisos no implica automáticamente sanción ni la pérdida de autonomía del aprendiz: **la comunidad debe poder reconocer qué dependencia quedó descubierta y decidir cómo cubrirla o responder**, según las facultades y condiciones legítimas aplicables. Entre las posibilidades que quedan para contraste están reorganizar tareas, solicitar apoyo, adaptar el alcance, renegociar acuerdos o interrumpir justificadamente una actividad; **no** se adopta una política universal de respuesta.
+
+**Fronteras funcionales:** T-R03 conserva el propósito y decisiones de aprendizaje individual; la **T-R06 candidata** aporta coordinación de interdependencias y reacción a compromisos no satisfechos, sin apropiarse del aprendizaje, la enseñanza (T-R01), la autorización pedagógica (T-R02) ni la habilitación administrativa (T-R05). La existencia de compromisos no supone autoridad general de la comunidad sobre el recorrido del aprendiz. Una intención comunitaria no confiere automáticamente facultades sobre información personal o terceros (O7/F11).
+
+**Estado:** **E05-N1 reconciliada funcionalmente**, no Role, contrato jurídico, mecanismo de gestión de compromisos ni adopción integral de T-R06. Queda por contrastar en E05-N4 la suficiencia y frontera de T-R06 para coordinar interdependencias reales.
