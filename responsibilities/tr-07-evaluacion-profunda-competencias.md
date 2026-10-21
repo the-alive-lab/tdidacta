@@ -39,3 +39,16 @@ Pendiente contraste transversal E01–E05, validación de criterios y eventual d
 ## Derivación investigativa (2026-10-21)
 
 La propuesta de T-R07 tiene cuestiones de **validez metodológica** que se investigarán en Research y no se resuelven por definir una Responsibility. [Intake provisional en research-space](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/notes/2026-10-21-tdidacta-tr07-research-intake.md): discriminación entre comprensión profunda y reproducción superficial, transferencia, capacidades sociocognitivas, separación de factores de presión, matrices de evidencia e interpretación. La ubicación en PIR es provisional y **no equipara evaluación del aprendizaje con conformidad de realizaciones**. No existe aún RQ, Study ni Finding validado por ese intake.
+
+## Precisión funcional acordada — alcance desde intención y aprendiz (2026-10-21)
+
+**Este acuerdo prevalece sobre cualquier lectura anterior de «base estándar» como conjunto universal de dimensiones obligatorias.** TDidacta puede proponer dimensiones y modalidades estándar; **ninguna dimensión resulta obligatoria universalmente solo por pertenecer a ese conjunto**.
+
+- **T-R05b** habilita explícitamente las dimensiones disponibles en un contexto; las extensiones comienzan deshabilitadas.
+- **La intención pedagógica** declara qué dimensiones habilitadas requiere examinar. Una dimensión puede ser requerida en una intención y optativa en otra; no se auto-habilita al declararla.
+- **T-R03** puede solicitar dimensiones adicionales habilitadas que la intención no haya requerido y decidir sobre la divulgación de sus resultados voluntarios dentro de los límites legítimos.
+- **T-R07** recibe ambos alcances —requisitos de intención y elecciones adicionales del aprendiz—, decide medios de examen metodológicamente pertinentes y produce hechos revisables e interpretaciones diferenciadas. No modifica por sí misma las dimensiones exigidas ni las habilitaciones.
+- Si la intención exige algo deshabilitado, **se manifiesta la incompatibilidad** y puede solicitarse habilitación a quien corresponda; no se omite silenciosamente el requisito ni se activa por autoridad de T-R07.
+- **Resultados obligatorios y voluntarios** se identifican separadamente, preservando los límites pertinentes de autorización pedagógica, privacidad y representación.
+
+La finalidad independiente de T-R07 es **caracterizar competencias demostradas**, no necesariamente corregir la enseñanza, certificar o producir mejora. T-R01 puede aprovechar resultados legítimamente compartidos. La definición de instrumentos y validez de las dimensiones sigue derivada a Research. Este acuerdo es **reconciliación de frontera funcional**, no adopción final de T-R07, Rol ni implementación.
