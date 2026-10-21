@@ -730,3 +730,9 @@ Se contrastó [T-R01c](../responsibilities/tr-01c-conduccion-ensenanza.md) con E
 ### T-R01 general — finalidad acordada por el fundador (2026-10-21)
 
 El fundador confirmó expresamente **T-R01 — Enseñanza** como finalidad general: concebir, contextualizar y ejercer orientación pedagógica para favorecer el aprendizaje sin garantizarlo. [Índice de Responsibilities](../responsibilities/README.md). T-R01a/b/c son **matizaciones por finalidad**, no secuencia obligatoria ni asignación de Roles o personas. **Estado:** criterio general acordado; sus fichas y acciones particulares aún candidatas. La próxima revisión es la frontera de la acción 4 de T-R01b frente a la conducción T-R01c. E04-N2 no se declara cerrada por esta decisión.
+
+### Frontera acción 4 de T-R01b / conducción T-R01c reconciliada (2026-10-21)
+
+**Cambio aplicado por acuerdo del fundador:** la acción 4 vigente de [T-R01b](../responsibilities/tr-01b-contextualizacion-adaptacion-pedagogica.md) pasa a expresar **preparar, contextualizar o ajustar actividades y posibilidades de exploración** según circunstancias pertinentes, sin asumir su conducción. La acción de [T-R01c candidata](../responsibilities/tr-01c-conduccion-ensenanza.md) precisa **facilitar y orientar el desarrollo** de actividades y exploraciones, sin exigir adaptación previa. Las finalidades pueden coexistir sin orden obligatorio. Se conservaron en anotaciones y versiones previas las formulaciones históricas de T-R01b.
+
+**Estado de decisión:** frontera funcional reconciliada en el marco de T-R01 — Enseñanza; no se han adoptado todas las acciones de las matizaciones, Roles ni mecanismos. [E04-N2](../scenarios/e04-educacion-en-el-hogar.md) aún requiere reconciliación específica, sin interpretarse automáticamente cerrada por esta precisión.
