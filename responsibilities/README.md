@@ -112,3 +112,7 @@ Se creó la ficha **[T-R06 — Organización y coherencia pedagógica](tr-06-org
 ### T-R06 — frontera con T-R01a precisada (2026-10-21)
 
 **Acuerdo del fundador:** [T-R06](tr-06-organizacion-coherencia-pedagogica.md) coordina **interdependencias entre trabajos, compromisos o decisiones**, incluso con una sola persona; no requiere comunidad ni pluralidad de participantes. Organizar las relaciones internas de una intención y sus componentes relativamente estables corresponde principalmente a T-R01a y no activa T-R06 por sí solo. La coordinación operativa sigue limitada a facultades delegadas y no absorbe autoridad pedagógica. Propósito candidato precisado, ficha y acciones todavía no adoptadas.
+
+### T-R01 — finalidad general y matizaciones a/b/c (2026-10-21)
+
+**Acuerdo del fundador:** **T-R01 permanece como una Responsibility general de enseñanza**. T-R01a (estructuración y continuidad relativamente estable), T-R01b (contextualización y adaptación situada) y T-R01c (conducción efectiva) son **matizaciones de esa finalidad**, no tres Responsibilities autónomas por el solo hecho de tener acciones o participantes diferentes. Pueden ejercerse separadamente, combinarse o distribuirse entre participantes sin constituir fases obligatorias ni exigir que una persona ejerza las tres. **Se reconcilia la agrupación funcional**, no la adopción íntegra de todas las acciones ni la definición de Roles.
