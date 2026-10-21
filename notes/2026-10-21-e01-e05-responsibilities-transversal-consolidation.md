@@ -56,3 +56,7 @@ El fundador confirmó que **T-R01 formula/adapta y T-R02 examina/autoriza** elem
 ## T-R04 — representación y autonomía progresiva (2026-10-21)
 
 Se precisó que T-R04 representa y resguarda al aprendiz cuando corresponde una función legítima de apoderado o equivalente, sin sustituir universalmente la autonomía progresiva de T-R03. El parentesco o cuidado no basta para conferir facultades; T-R01/T-R02 mantienen autoridad diferenciada. Los límites jurídicos de representación y acceso a información son contextuales. Frontera funcional reconciliada, ficha candidata.
+
+## T-R05 — Responsibility administrativa general (2026-10-21)
+
+El fundador confirmó **T-R05 como una Responsibility general**, con T-R05a (gestión de accesos y disponibilidad administrativa) y T-R05b (gestión de configuraciones y flujos operativos) como matizaciones. La capacidad técnica o administrativa **no da autoridad pedagógica ni legitimidad para publicar**: habilitar una dimensión evaluativa no permite imponerla en una intención; ejecutar publicación no confiere derechos de distribución. T-R01b conserva la adaptación pedagógica. Agrupación y fronteras funcionales acordadas; acciones completas no adoptadas.
