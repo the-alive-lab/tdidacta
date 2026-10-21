@@ -94,3 +94,17 @@ La necesidad N2 («contextualizar intenciones y circunstancias sin requerir form
 **T-R01b** interpreta circunstancias como tiempo, materiales, conectividad y barreras funcionales cuando requieren adaptar la propuesta educativa. **T-R01c** acompaña su realización dentro de condiciones existentes. **O9** conserva disponibilidad, utilizabilidad y pertinencia como dimensiones distintas; **O7** condiciona privacidad transversalmente y **T-R04** interviene solo si corresponde una función de apoderado. Habilitar un recurso no garantiza su utilizabilidad ni calidad pedagógica.
 
 **Estado:** frontera T-R05/T-R01b acordada; **N4 aún no reconciliada como necesidad completa**. Falta contrastar la suficiencia de privacidad y protección de menores, así como la distribución de barreras materiales y sus límites. No se adoptan Roles ni mecanismos.
+
+## Reconciliación funcional E04-N4 — acceso, privacidad y resguardo (2026-10-21)
+
+**Acuerdo expreso del fundador:** N4 queda **reconciliada en el contraste de necesidades y Responsibilities**, no como validación jurídica ni implementación.
+
+- **T-R01b:** interpreta limitaciones de tiempo, medios, conectividad o accesibilidad y prepara respuestas **pedagógicas** pertinentes; no garantiza la eliminación material de la barrera. **T-R01c** conduce la experiencia dentro de las condiciones reales.
+- **T-R05a:** administra el acceso legítimo y la disponibilidad **administrativa** de recursos; **T-R05b** configura flujos y condiciones operativas. Administrar el acceso no atribuye autoridad ilimitada sobre los datos ni resuelve por sí solo barreras materiales.
+- **O7:** privacidad y minimización de datos personales como condición transversal, aun sin apoderado; **O9:** distinguir disponibilidad, utilizabilidad y pertinencia.
+- **T-R04:** representación y resguardo de intereses del aprendiz **cuando corresponde** una función de apoderado; no equivale a familiaridad ni concede control irrestricto sobre la información.
+- **F11:** distribuir facultades contextuales no crea legitimidad de divulgación por sí mismo. La autoridad pertinente para divulgar puede ser distinta de quien configura o concede técnicamente acceso; un flujo T-R05b tampoco la sustituye.
+
+**Principio reconciliado:** administración de accesos, autoridad legítima sobre información y representación de intereses del aprendiz son funciones diferentes aunque coincidan en una misma persona. Ninguna sustituye O7. Tratándose de menores, no presumir que cualquier familiar accede a todos sus datos.
+
+**Reservas:** requisitos jurídicos según edad y jurisdicción, autoridad de divulgación, bases de tratamiento/consentimiento cuando apliquen, salvaguardas, controles, evaluaciones de accesibilidad y eficacia operativa. No se crean Responsibilities ni Roles; las matizaciones continúan candidatas. Los contrastes preliminares anteriores quedan como historia; **N5 es la siguiente necesidad abierta**.
