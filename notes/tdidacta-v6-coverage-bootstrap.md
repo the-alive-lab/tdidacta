@@ -667,3 +667,7 @@ El bootstrap puede darse por concluido **solo cuando los 28 tópicos tengan esta
 [Auditoría E03](2026-10-21-e03-global-coherence-audit.md) completada con contraste E01/E02, F05/F07/F11/F12 y fronteras T-R01–T-R06: **N1–N8 reconciliadas funcionalmente, sin contradicción bloqueante detectada**. E03 queda reconciliado **en la etapa de cobertura de Responsibilities**, no implementado ni formalizado en todos sus fundamentos y mecanismos.
 
 Reservas conservadas: [N6](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md) autorización derivada vs F07; [N7](2026-10-20-e03-n7-access-privacy-configurable-flows.md) flujos mínimos/extensiones bajo F11/O7; [N8](2026-10-21-e03-n8-external-use-projections-continuity.md) proyecciones y verificabilidad externa no garantizada por F05. **Siguiente paso E04, luego E05, después Roles**. No modificar T07–T28.
+
+### Checkpoint previo a E04 — clasificación de escenarios (2026-10-21)
+
+[Checkpoint de taxonomía de escenarios](2026-10-21-scenario-classification-checkpoint.md) registra hipótesis de tres dimensiones, estados candidato/en análisis/soportado/formativo, separación futura de E02 autodidacta vs comunitaria, diferenciación del productor para terceros, y eventual conversión del E05 actual (metas externas) en dimensión transversal. **No se alteró todavía el catálogo, la ficha E05 ni sus identificadores.** Primero contrastar/refutar la métrica con casos límite, luego decidir adopción y migración con trazabilidad. El análisis E03 permanece válido.
