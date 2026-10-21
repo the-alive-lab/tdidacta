@@ -113,3 +113,15 @@ Son **funciones observables en un caso**, no obligatoriamente personas diferente
 **Criterio de decisión a contrastar en otros escenarios:** una variación es especialización cuando preserva las relaciones constitutivas pertinentes del escenario base, aunque reasigne funciones u omita pasos operativos no esenciales. Si hay que inventar participantes o relaciones ausentes para clasificarla, la cobertura **no está demostrada**. Una especialización puede revelar brecha acotada sin exigir análisis exhaustivo de todo el escenario base.
 
 **Siguiente contraste:** ejecutar el mismo test con E02 individual, E03 institucional, E04 hogar y comunitario propuesto, incluyendo el caso D, para comprobar si hay escenario base no cubierto. No migrar E05 todavía.
+
+
+## Extensión de investigación y cambio en el orden de trabajo (2026-10-21)
+
+Se preparó la [extensión de modelo de clasificación de escenarios](2026-10-21-scenario-classification-model-extension.md), con hipótesis, casos discriminadores, riesgos, puntos de falsación y posibles criterios públicos de cobertura. **Es material de investigación, no una definición adoptada.** En particular:
+
+- Diferenciar **escenarios de cobertura** de **Escenarios pedagógicos base/especializados**, que ya están definidos canónicamente en F10.
+- El escenario de «producción especializada para terceros» **no debe suponerse base independiente**: la conversación posterior lo considera plausiblemente una especialización o dimensión de otros escenarios. La candidatura E06 previa queda en revisión.
+- El criterio de *escenario formativo* es **contribución conceptual sustantiva y trazable** sobre un escenario soportado, independientemente de la adopción posterior de esa propuesta.
+- El **trabajo exhaustivo de métrica ya NO es puerta obligatoria previa** al progreso inmediato de escenarios: por instrucción posterior del fundador, priorizar avanzar en la separación E02 autodidacta/comunitaria y en la futura conversión del E05 actual (metas) a dimensión, con trazabilidad deliberada. **Ninguna migración se ejecuta con esta nota.** El debate amplio de clasificación queda para cierre de bootstrap o investigación posterior.
+
+**Recordatorio:** hay un pendiente explícito en el [bootstrap V6](tdidacta-v6-coverage-bootstrap.md) para decidir cuándo resolver o retomar esta línea. Los apartados anteriores permanecen como antecedentes de etapas previas; esta actualización indica la prioridad vigente.
