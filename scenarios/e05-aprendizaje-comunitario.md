@@ -58,3 +58,13 @@ Distinguir:
 **Fronteras:** O5 y F08 permiten reconocer contribuciones sin confundirlas con autoría o autoridad; T-R01a/b pueden trabajar sobre intenciones y propuestas, T-R02 conserva la protección/autorización pedagógica de elementos, y T-R06 candidata puede coordinar interdependencias sin apropiarse de autoría ni decisión pedagógica. Accesos y publicación siguen sus facultades pertinentes; la gestión comunitaria no modifica retroactivamente las evidencias.
 
 **Estado:** **E05-N2 reconciliada funcionalmente**, no adopción de un régimen universal de licencias, gobernanza, mecanismos de atribución ni Roles. Quedan para E05-N5 las fronteras detalladas entre autoría, acceso, publicación y autorización.
+
+## E05-N3 — reconciliación funcional: comunicación modular y continuidad (2026-10-21)
+
+**Acuerdo del fundador:** TDidacta debe reconocer la comunicación, preguntas, debate y deliberación comunitarios como una **capacidad que aspira a ofrecer con mecanismos propios**, pero **no debe hacer depender la experiencia educativa** de que exista o llegue a financiarse un módulo propio de comunicación. Debe admitirse su realización por proveedores o medios externos, manteniendo el núcleo didáctico y la continuidad de elementos pedagógicos en TDidacta.
+
+La comunicación puede ocurrir fuera de la plataforma sin impedir incorporar sus **resultados pertinentes** (decisiones, aportes, razones, acuerdos) con procedencia y autorización legítimas. Una conversación externa, votación o mensaje **no modifica ni autoriza automáticamente** una intención pedagógica. No toda interacción requiere registro persistente; su relevancia y proporcionalidad deben justificarse.
+
+**Fronteras:** T-R03 dialoga para aprender; T-R01c comunica para enseñar; T-R06 candidata coordina interdependencias y compromisos cuando existen; T-R02 protege/autorizada elementos pedagógicos; T-R05b puede configurar soluciones disponibles sin determinar autoridad pedagógica. La solución externa y un eventual módulo propio no se presumen funcionalmente equivalentes, especialmente en privacidad, acceso, recuperabilidad o trazabilidad.
+
+**Estado:** **E05-N3 reconciliada funcionalmente**. Modularidad propia/externa es **criterio de diseño candidato**, no arquitectura, contrato de integración, producto o compromiso de implementar un módulo propio. El financiamiento y viabilidad del servicio son restricciones reales, no justificación para prometer capacidades inexistentes. E05-N4 queda abierta para contrastar T-R06 específicamente.
