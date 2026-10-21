@@ -140,3 +140,7 @@ Por acuerdo del fundador, [T-R07](tr-07-evaluacion-profunda-competencias.md) pue
 ### T-R07 — evaluación sin autoridad automática sobre consecuencias (2026-10-21)
 
 Se acordó preservar la distinción entre **evaluar T-R07, enseñar T-R01 y aprender T-R03**: las evidencias y materiales pueden circular entre esas finalidades, pero no transfieren automáticamente responsabilidades ni facultades decisorias. T-R07 no determina por sí sola estrategias de enseñanza, decisiones del aprendiz, autorizaciones pedagógicas, consecuencias administrativas o certificaciones. Una persona puede ejercer varias Responsibilities con facultades correspondientes. [Ficha T-R07](tr-07-evaluacion-profunda-competencias.md). Frontera funcional reconciliada, sin adopción de la candidata.
+
+## Auditoría E01–E05 — resultado documental (2026-10-21)
+
+Se completó la [auditoría transversal de 30 necesidades y siete finalidades candidatas](../notes/2026-10-21-e01-e05-responsibilities-coverage-audit.md): todas tienen finalidad o soporte normativo identificable, sin necesidad justificada de una octava Responsibility. **No significa eficacia, implementación o adopción.** Se identificaron siete deudas de consistencia (D1–D7), especialmente T-R05, T-R07 y metadatos históricos. Antes de Roles, contrastar acciones y preparar aprobación expresa.
