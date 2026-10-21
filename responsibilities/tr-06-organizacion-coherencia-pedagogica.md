@@ -43,3 +43,13 @@
 **Caso discriminador:** organizar las relaciones, razones o contenidos *internos* de una intención para mantener su coherencia pedagógica pertenece principalmente a **T-R01a**; **T-R06** se reconoce cuando la dependencia entre trabajos o decisiones requiere coordinación conjunta para sostener su continuidad. La existencia de relaciones semánticas por sí sola no activa T-R06.
 
 Las facultades de reorganización siguen siendo **explícitas, delimitadas y contextuales**; una sola persona no obtiene automáticamente autoridad T-R02, T-R05 ni derechos de terceros por coordinar. La frontera acordada consolida el **propósito candidato**, no adopta la totalidad de sus acciones, un Role o un mecanismo.
+
+## Decisiones dentro de la coordinación — frontera acordada (2026-10-21)
+
+**Acuerdo del fundador:** T-R06 puede **tomar decisiones operativas de coordinación** para resolver interdependencias **dentro de facultades explícitas, delimitadas y contextualizadas**. Detectar un bloqueo o necesidad de resolverlo **no amplía por sí mismo** esas facultades.
+
+- Si la reorganización afecta prioridades, secuencias o compromisos operativos y está comprendida en su delegación, T-R06 puede decidir y dejar trazabilidad proporcionada.
+- Si implica reformular una intención, adaptar pedagógicamente o autorizar elementos, intervienen respectivamente las finalidades y autoridades pertinentes de T-R01 y T-R02; la coordinación no las absorbe.
+- Si la decisión excede la delegación, T-R06 debe solicitarla o escalarla a quien tenga facultades, sin resolverla unilateralmente ni exigir consulta colectiva universal para decisiones sí delegadas.
+
+**Estado:** frontera de decisiones de T-R06 reconciliada funcionalmente; ficha todavía candidata, sin Roles, flujos ni adopción íntegra de acciones.
