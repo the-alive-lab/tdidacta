@@ -105,3 +105,15 @@ No inferir una Responsibility adicional solo por existir feedback; confrontar F0
 ### Pendientes explícitos
 
 Contrastar versiones consolidadas inmutables y nuevas variantes con F07; qué autoriza exactamente el origen, revocación/restricción de usos futuros, reutilización entre contextos, composición y linajes, feedback/procedencia proporcional y reglas de consolidación. No declarar validación experimental o adopción formal. Mantener E03-N6 en curso y retomar conciliación canónica después de E03–E05.
+
+## Cierre del contraste funcional E03-N6 — decisión del fundador (2026-10-20)
+
+**Criterio confirmado:** una autorización derivada conserva su validez histórica asociada a su versión de origen, pero cada uso concreto debe satisfacer las condiciones y restricciones pertinentes en el contexto actual. Si cambian las circunstancias y deja de satisfacerlas, el uso ya no se presume cubierto; no se invalidan retroactivamente usos legítimos anteriores.
+
+**Herencia acumulativa reconciliada como regla candidata:** una variante directamente derivada (p. ej. `v1-A`) puede declarar condiciones más específicas para nuevas derivaciones, sin adquirir autorización directa ni extender la autoridad de `v1`. Una variante posterior (`v1-A-B`) debe cumplir las condiciones de `v1-A` y, transitivamente, las de `v1`. Generar derivaciones requiere cobertura de autorización derivada válida, no meras facultades de edición.
+
+**Fusiones:** las restricciones aplicables de cada origen deben ser compatibles y satisfechas por el resultado. Restricciones incompatibles impiden atribuir autorización derivada automáticamente: reformular una alternativa que cumpla las condiciones o presentar a autorización directa pertinente. En fusiones con mismo origen, T-R01 puede operar con autonomía sin solicitar por defecto autorización explícita para cada merge; esta autonomía no prueba automáticamente la conformidad de cualquier combinación.
+
+**Reconciliación entre versiones ≠ consolidación:** `v1.0.0-A` permanece ligada a `v1.0.0` aunque se autorice directamente `v1.0.1`. Para trasladar su propuesta a `v1.0.1` corresponde examinar las condiciones nuevas y producir una variante reconciliada identificable (ej. `v1.0.1-A`), sometida a revisión según lo pertinente. Esto **no** convierte automáticamente la variante en nueva versión directamente autorizada; la consolidación es otra decisión de T-R02.
+
+**Estado de cobertura:** el fundador declaró suficiente el criterio funcional de E03-N6 y confirmó la distinción autorización histórica / aplicabilidad presente. **E03-N6 queda cerrado solo en el contraste de Responsibilities y necesidades del escenario**. Autorización derivada, herencia, lifecycle y modelo de linajes siguen propuestas conceptuales por reconciliar expresamente con F02/F06/F07/F10 y sus Concepts. El cierre funcional no equivale a modificar F07, a adoptar un mecanismo de versionamiento ni a validar eficacia.
