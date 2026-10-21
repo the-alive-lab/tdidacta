@@ -116,3 +116,7 @@ Se creó la ficha **[T-R06 — Organización y coherencia pedagógica](tr-06-org
 ### T-R01 — finalidad general y matizaciones a/b/c (2026-10-21)
 
 **Acuerdo del fundador:** **T-R01 permanece como una Responsibility general de enseñanza**. T-R01a (estructuración y continuidad relativamente estable), T-R01b (contextualización y adaptación situada) y T-R01c (conducción efectiva) son **matizaciones de esa finalidad**, no tres Responsibilities autónomas por el solo hecho de tener acciones o participantes diferentes. Pueden ejercerse separadamente, combinarse o distribuirse entre participantes sin constituir fases obligatorias ni exigir que una persona ejerza las tres. **Se reconcilia la agrupación funcional**, no la adopción íntegra de todas las acciones ni la definición de Roles.
+
+### T-R02 — distinción funcional frente a T-R01 (2026-10-21)
+
+Se acordó que la elaboración/adaptación de intenciones T-R01 y su examen/autorización T-R02 son **responsabilidades distinguibles, aunque ejercibles por la misma persona cuando tenga ambas facultades**. La coincidencia no supone autorización tácita ni obliga universalmente a dos personas o un segundo aprobador. [Ficha T-R02](tr-02-proteccion-autorizacion-pedagogica.md). Frontera reconciliada; acciones y adopción formal pendientes.
