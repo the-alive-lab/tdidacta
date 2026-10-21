@@ -18,7 +18,7 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **E05 — Aprendizaje orientado a metas fue retirado del catálogo de escenarios de cobertura** y se trasladó a [Orientación hacia metas externas](dimensions/external-goal-orientation.md), dentro de [dimensiones transversales](dimensions/README.md). Sus seis necesidades y conclusiones se preservan allí. La [antigua ficha E05](e05-aprendizaje-orientado-a-metas.md) y el [contraste del 2026-10-18](cross-scenario-coverage-2026-10-18.md) son **evidencia histórica**: las referencias a «E05» en ellos significan el antiguo escenario, no el próximo E05 comunitario.
 
-**Escenarios vigentes por ahora: E01, E02, E03 y E04.** E02 aún incluye el contenido comunitario histórico; su división y la creación de **E05 — Aprendizaje comunitario** constituyen la siguiente operación pendiente. No existe todavía un E05 nuevo ni un E06 independiente adoptado. La taxonomía general de escenarios base/especializados sigue en investigación; no confundirla con los tipos canónicos de Escenario pedagógico de F10.
+**Escenarios vigentes: E01, E02, E03, E04 y [E05 — Aprendizaje comunitario](e05-aprendizaje-comunitario.md).** E02 ahora se delimita al uso independiente de TDidacta respecto de una organización educativa compartida; E05 registra ese uso comunitario, sin exigir aislamiento social para E02 ni docente central para E05. No hay E06 independiente adoptado. La taxonomía general de escenarios base/especializados sigue en investigación; no confundirla con los tipos canónicos de Escenario pedagógico de F10.
 
 ## Contraste histórico de las cinco fichas (2026-10-18)
 
@@ -36,12 +36,19 @@ Las decisiones anteriores actualizan el alcance de las fichas sin reescribir F01
 Las fichas siguientes desarrollan **contexto, actores locales, circunstancias, necesidades de cobertura, trazabilidad y preguntas abiertas**, sin asignar Roles ni Responsibilities y sin introducir compromisos de implementación:
 
 - [E01 — Enseñanza particular](e01-ensenanza-particular.md)
-- [E02 — Aprendizaje autodidacta (independiente y colaborativo)](e02-aprendizaje-autodidacta.md)
+- [E02 — Aprendizaje autodidacta (uso independiente de TDidacta)](e02-aprendizaje-autodidacta.md)
 - [E03 — Educación institucional](e03-educacion-institucional.md)
 - [E04 — Educación en el hogar](e04-educacion-en-el-hogar.md)
+- [E05 — Aprendizaje comunitario](e05-aprendizaje-comunitario.md)
 - [Dimensión transversal — Orientación hacia metas externas](dimensions/external-goal-orientation.md) (procedente del [antiguo E05](e05-aprendizaje-orientado-a-metas.md); **no es escenario vigente**)
 
 Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 cuentan ahora con fichas propias**, conservando preguntas abiertas; la clasificación del antiguo E05 se resolvió documentalmente el 2026-10-21 con su traslado a dimensión transversal; las demás referencias históricas al E05 en las secciones siguientes conservan su significado original.
+
+## Separación de E02 y creación de E05 (2026-10-21)
+
+La [ficha E02 vigente](e02-aprendizaje-autodidacta.md) describe aprendizaje autodidacta **independiente respecto del uso de TDidacta**, no aislamiento social. La [ficha E05 vigente](e05-aprendizaje-comunitario.md) describe **organización comunitaria educativa mediante TDidacta**, incluso si algunas actividades y participantes permanecen externos. Se preservaron las necesidades **N1–N4** en E02 y se trasladaron las necesidades colaborativas **N5/N6 históricas** a E05, sin descartar su conocimiento ni declarar un contraste E05 concluido.
+
+**Lectura histórica obligatoria:** las secciones siguientes del índice, el [contraste 2026-10-18](cross-scenario-coverage-2026-10-18.md) y las notas de Responsibilities anteriores a la división hablan de **«E02 colaborativo»** con su sentido original y de **«E05»** como aprendizaje orientado a metas. No reasignar retroactivamente esos nombres a los nuevos documentos. La [dimensión transversal de metas externas](dimensions/external-goal-orientation.md) conserva el contenido del E05 antiguo.
 
 ## Resoluciones posteriores de las fichas E01/E02/E04 (2026-10-18)
 
