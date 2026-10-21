@@ -32,3 +32,16 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 **Regla de continuidad:** evitar transformar una acción aislada en Responsibility o Rol por su nombre. Contrastar objetivos y acciones con E01–E05 antes de afirmar transversalidad suficiente y mantener separado el estado candidato de una aprobación del fundador.
 
 [Canon del proyecto](../README.md) · [E01](../scenarios/e01-ensenanza-particular.md) · [Antecedente histórico de siete extracciones](../notes/2026-10-19-e01-transversal-responsibilities-review.md).
+
+## Continuidad de contraste E02–E03 — 2026-10-20
+
+**Este apartado actualiza el estado histórico de la extracción E01 anterior; no reemplaza sus fichas ni las promueve.** [Registro de reconciliación](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md) · [Nota externa a Responsibilities](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md).
+
+- **T-R01a/T-R01b:** especializaciones de la finalidad de trabajo sobre intenciones pedagógicas; diferentes profesionales pueden ejercer **T-R01 conjuntamente**, incluidos docentes, psicólogos escolares u otros especialistas cuando contribuyen efectivamente a esa finalidad. Las profesiones aportan perspectivas distintas, **no** determinan una Responsibility ni un Role. La autoría/contribución se reconoce proporcionalmente, sin atribuir autoridad pedagógica automática.
+- **T-R02:** autoriza pedagógicamente de manera directa cuando corresponde y realiza feedback de autorización estructurado, justificado, navegable y proporcional. La propuesta de autorización derivada para variantes situadas y sus condiciones **sigue pendiente de reconciliación canónica F07**. Rechazar la consolidación no equivale automáticamente a prohibir el uso derivado legítimo.
+- **T-R03:** aprender y ejercer autonomía dentro de posibilidades ofrecidas; sus necesidades y observaciones pueden motivar mejoras sin obligar a feedback universal.
+- **T-R05:** **factorización candidata T-R05a (gestión de accesos)** / **T-R05b (gestión de configuraciones no relativas a accesos)**, con objetivo común de gestión/configuración de recursos y plataforma. La segunda puede atender gramáticas de organización contextuales; no decide autorización pedagógica ni crea restricciones pedagógicas unilaterales. No se crea T-R07 por ahora.
+- **T-R06:** nueva candidata **Organización y coherencia pedagógica**, activada por interdependencias; coordina, detecta problemas y propone alternativas sin apropiarse de formulaciones ni autorización T-R02. Su ficha específica sigue pendiente.
+- **Feedback:** puede originarse en varias Responsibilities y desde múltiples disciplinas/niveles; no se crea una Responsibility adicional por el mero hecho de participar o comentar. La separación de finalidades requiere contraste posterior.
+
+**Estado de la puerta:** E02 contrastado conceptualmente; E03-N1–N5 preliminarmente reconciliados, E03-N6 avanzado pero **abierto** por problemas semánticos externos a Responsibilities, N7/N8 pendientes. Después E04/E05 y finalmente Roles. No adoptar jerarquía escolar universal ni modificar Foundations/Concepts directamente desde este índice. La factorización T-R05a/b y T-R06 son **candidaturas**, no fichas promovidas.
