@@ -36,3 +36,9 @@
 ## Handoff a Research (2026-10-21)
 
 Los casos E01–E05 solo aportan **plausibilidad funcional**. Se registró [intake metodológico provisional](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/notes/2026-10-21-tdidacta-tr07-research-intake.md) para investigar antecedentes y validez de desafíos, transferencia y matrices interpretativas. No se inicia experimento ni se considera validada la orientación hacia comprensión profunda; Research deberá decidir reutilización de una línea existente o separación nueva con justificación.
+
+## Reconciliación posterior de frontera — dimensiones exigidas y optativas (2026-10-21)
+
+Se precisa el contraste inicial: la referencia a «conjunto base» describía una **oferta estándar candidata**, **no un mínimo universalmente obligatorio** de dimensiones evaluativas. **La intención pedagógica declara las dimensiones que exige** entre aquellas habilitadas por T-R05b; T-R03 puede sumar dimensiones habilitadas no exigidas y controlar legítimamente la divulgación de los resultados voluntarios. T-R07 recibe ambos alcances y evalúa mediante criterios y evidencia diferenciada, sin arrogarse facultades para alterar la intención. La incompatibilidad entre intención y habilitación se comunica y puede dar lugar a solicitud de habilitación: nunca se resuelve con activación u omisión silenciosa.
+
+**Juicio funcional:** el contraste E01–E05 ofrece una finalidad diferenciada para T-R07 respecto de evaluación formativa T-R01, aprendizaje T-R03, autorización T-R02 y configuración T-R05b. Esto permite **reconciliar funcionalmente E04-N5**, distinguiendo evaluación de formación y de acreditación oficial; **no** declara validados instrumentos, certificación, autoridad contextual, adopción de T-R07 ni cierre de pendientes jurídicos o empíricos.
