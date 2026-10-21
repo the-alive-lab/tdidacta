@@ -787,3 +787,7 @@ El fundador acordó que cada comunidad puede definir **criterios explícitos pro
 ### E05-N3 — comunicación modular y proveedor intercambiable (2026-10-21)
 
 El fundador reconoció que TDidacta **aspira a ofrecer mecanismos propios** de comunicación y deliberación comunitaria, pero no debe condicionar el uso pedagógico a promesas de módulos que no existan ni a sostenibilidad futura incierta. Se admite usar servicios externos y registrar resultados pertinentes con procedencia/autorización, sin que el proveedor de comunicación adquiera autoridad sobre intenciones. Comunicación al servicio de T-R01/T-R03/T-R06 y configuraciones T-R05b; T-R02 conserva autorización. **E05-N3 reconciliada funcionalmente**; modularidad es criterio de diseño candidato y no implementación. **E05-N4 siguiente**. [E05](../scenarios/e05-aprendizaje-comunitario.md).
+
+### E05-N4 — coordinación comunitaria delegable (2026-10-21)
+
+El fundador eligió la alternativa **B: T-R06 puede coordinar y reorganizar ciertos compromisos e interdependencias cuando reciba facultades explícitas, delimitadas y contextuales**, sin requerir consulta colectiva universal para cada ajuste. Esta delegación no transfiere automáticamente labores o autoridad de T-R01/T-R02/T-R03/T-R05, autoría ni derechos de terceros. No se impone coordinador único o jerarquía; T-R06 sigue candidata. **E05-N4 reconciliada funcionalmente**; E05-N5 siguiente necesidad. [E05](../scenarios/e05-aprendizaje-comunitario.md).
