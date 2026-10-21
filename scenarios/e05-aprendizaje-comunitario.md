@@ -78,3 +78,17 @@ La comunicación puede ocurrir fuera de la plataforma sin impedir incorporar sus
 **Caso discriminador:** si una persona deja de cumplir un compromiso del que depende una actividad comunitaria, quien ejerce T-R06 con delegación válida puede reorganizar responsabilidades operativas dentro de su alcance. Si el cambio exige alterar una intención autorizada, reasignar derechos de autoría o comunicar datos privados, se requiere además la decisión/autoridad correspondiente.
 
 **Estado:** **E05-N4 reconciliada funcionalmente**; T-R06 mantiene estado de candidatura, sin Role, procedimiento obligatorio, estructura jerárquica ni mecanismo técnico adoptado. La autoridad específica es contextual; E05-N5 examinará autoría, acceso, publicación y autorización.
+
+## E05-N5 — reconciliación funcional: autoría, autorización, acceso y publicación (2026-10-21)
+
+**Acuerdo expreso del fundador:** se distinguen **autorización pedagógica** de un elemento o versión y **legitimidad/autorización para publicarlo o distribuirlo**. Ninguna sustituye automáticamente a la otra. La primera atiende a corrección, suficiencia y pertinencia frente a una intención y alcance educativo (T-R02/F07); la segunda depende de los derechos, privacidad, facultades y acuerdos contextuales aplicables, que pueden corresponder a actores diferentes.
+
+- **Autoría y aportes (F08/O5):** reconocer origen, contribuciones y derechos; ser autor no concede automáticamente facultad para publicar o autorizar pedagógicamente.
+- **Autorización pedagógica (T-R02):** habilita un alcance de utilización pedagógica según la autoridad pertinente; no concede licencias ni levanta prohibiciones de divulgar.
+- **Legitimidad de publicación y distribución:** examinar facultades, licencias, restricciones, privacidad y derechos de terceros. No se reduce a pulsar «publicar» ni implica que T-R02 otorgue esas facultades.
+- **Acceso y publicación operativa (T-R05a):** ejecutar disponibilidad y accesos legítimos conforme a decisiones pertinentes, sin crear autoridad por poseer permisos técnicos.
+- **Coordinación (T-R06 candidata):** organizar interdependencias y seguimiento sin apropiarse de las decisiones anteriores.
+
+**Caso discriminador:** una intención autorizada para uso interno puede incorporar material de terceros que impida su publicación pública; inversamente, la licencia para distribuir un recurso no demuestra su adecuación pedagógica. Una persona puede ejercer varias finalidades **si** cuenta con facultades independientes para cada una. La comunidad conserva autonomía organizativa dentro de derechos y límites aplicables.
+
+**Estado:** **E05-N5 reconciliada funcionalmente**. No se crea Responsibility adicional de publicación ni se adopta una arquitectura, licencia universal o flujo obligatorio. E05-N6 continúa abierta.
