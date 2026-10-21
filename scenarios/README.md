@@ -14,7 +14,13 @@ Los escenarios **no son excluyentes, ni definen identidades permanentes**. Una p
 
 **Obligación de cobertura ≠ funcionalidad inmediata**: definir un escenario permite rastrear necesidades, límites y brechas. No prescribe prioridad, versión, implementación, interfaz o certificación de resultados. La adopción de compromisos concretos y alcance por release requiere planificación y decisión posterior.
 
-## Contraste transversal de las cinco fichas
+## Estado vigente de la clasificación (2026-10-21)
+
+**E05 — Aprendizaje orientado a metas fue retirado del catálogo de escenarios de cobertura** y se trasladó a [Orientación hacia metas externas](dimensions/external-goal-orientation.md), dentro de [dimensiones transversales](dimensions/README.md). Sus seis necesidades y conclusiones se preservan allí. La [antigua ficha E05](e05-aprendizaje-orientado-a-metas.md) y el [contraste del 2026-10-18](cross-scenario-coverage-2026-10-18.md) son **evidencia histórica**: las referencias a «E05» en ellos significan el antiguo escenario, no el próximo E05 comunitario.
+
+**Escenarios vigentes por ahora: E01, E02, E03 y E04.** E02 aún incluye el contenido comunitario histórico; su división y la creación de **E05 — Aprendizaje comunitario** constituyen la siguiente operación pendiente. No existe todavía un E05 nuevo ni un E06 independiente adoptado. La taxonomía general de escenarios base/especializados sigue en investigación; no confundirla con los tipos canónicos de Escenario pedagógico de F10.
+
+## Contraste histórico de las cinco fichas (2026-10-18)
 
 El [contraste E01–E05](cross-scenario-coverage-2026-10-18.md) registra necesidades compartidas, diferencias de autoridad, suficiencias preliminares y **seis preguntas priorizadas para revisar Foundations**. No introduce escenarios, fundamentos, Roles ni Responsibilities adicionales por sí mismo. Las fichas siguen siendo fuente principal de los actores locales y de sus necesidades.
 
@@ -33,9 +39,9 @@ Las fichas siguientes desarrollan **contexto, actores locales, circunstancias, n
 - [E02 — Aprendizaje autodidacta (independiente y colaborativo)](e02-aprendizaje-autodidacta.md)
 - [E03 — Educación institucional](e03-educacion-institucional.md)
 - [E04 — Educación en el hogar](e04-educacion-en-el-hogar.md)
-- [E05 — Aprendizaje orientado a metas (transversal candidato)](e05-aprendizaje-orientado-a-metas.md)
+- [Dimensión transversal — Orientación hacia metas externas](dimensions/external-goal-orientation.md) (procedente del [antiguo E05](e05-aprendizaje-orientado-a-metas.md); **no es escenario vigente**)
 
-Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 cuentan ahora con fichas propias**, conservando preguntas abiertas; E05 aún requiere decisión sobre su clasificación transversal definitiva.
+Las secciones siguientes preservan el inventario original de cobertura y sus contrastes transversales, como **resumen de navegación**; para detalles del escenario utilizar la ficha individual y evitar crear definiciones paralelas. **E03 y E05 cuentan ahora con fichas propias**, conservando preguntas abiertas; la clasificación del antiguo E05 se resolvió documentalmente el 2026-10-21 con su traslado a dimensión transversal; las demás referencias históricas al E05 en las secciones siguientes conservan su significado original.
 
 ## Resoluciones posteriores de las fichas E01/E02/E04 (2026-10-18)
 
