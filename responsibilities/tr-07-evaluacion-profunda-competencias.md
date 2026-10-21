@@ -52,3 +52,13 @@ La propuesta de T-R07 tiene cuestiones de **validez metodológica** que se inves
 - **Resultados obligatorios y voluntarios** se identifican separadamente, preservando los límites pertinentes de autorización pedagógica, privacidad y representación.
 
 La finalidad independiente de T-R07 es **caracterizar competencias demostradas**, no necesariamente corregir la enseñanza, certificar o producir mejora. T-R01 puede aprovechar resultados legítimamente compartidos. La definición de instrumentos y validez de las dimensiones sigue derivada a Research. Este acuerdo es **reconciliación de frontera funcional**, no adopción final de T-R07, Rol ni implementación.
+
+## Contraste transversal — modalidades de evaluación y capacidad de desafío (2026-10-21)
+
+**Precisión del fundador:** T-R07 puede ejercerse tanto mediante **evaluación externa** como mediante **autoevaluación**, incluida la combinación de **persona autodidacta y tecnología**. No es obligatorio un examinador humano independiente ni puede concluirse que la autoevaluación sea inherentemente insuficiente: con apoyo tecnológico puede alcanzar un nivel decente o excelente para los objetivos de TDidacta.
+
+**Asimetría esperable, no defecto:** a un autodidacta puede resultarle difícil formular desafíos de la profundidad exigida por T-R07. Esta dificultad es una característica relevante del problema que la Responsibility intenta atender, no un error que deba ocultarse. La combinación **especialista + tecnología** puede potenciar especialmente la calidad y profundidad del desafío, sin convertirse en condición universal para activar T-R07 ni en garantía automática de validez.
+
+**Discriminador funcional:** T-R03 puede autocomprobar el aprendizaje para orientar su recorrido; T-R07 intenta caracterizar competencias mediante desafíos, criterios explícitos, hechos revisables e interpretaciones acotadas. La identidad del evaluador o el uso de tecnología no basta para determinar cuál finalidad se ejerce. Las afirmaciones comparativas sobre profundidad, calidad, fiabilidad y validez entre modalidades son **hipótesis para Research**, no resultados probados.
+
+**Estado:** modalidades y frontera funcional reconciliadas; T-R07 sigue candidata y su metodología no ha sido validada por este acuerdo.
