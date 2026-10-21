@@ -58,3 +58,12 @@ La distinción se mantiene también en aprendizaje autodidacta, enseñanza parti
 
 El fundador **no aprobó todavía la consolidación de acciones T-R02**: solicitó distinguir **qué significa publicar contenido, cuándo se publica y quién decide/ejecuta su publicación**. [Registro de decisiones](../notes/2026-10-21-responsibilities-consolidation-decisions.md). La distinción de E05-N5 entre autorización pedagógica y legitimidad para distribuir permanece acordada; están abiertas las definiciones y la suficiencia de su distribución entre facultades contextuales y T-R05a. No introducir Responsibility nueva ni procedimiento universal antes del contraste. La ficha mantiene estado candidato.
 
+## Resolución vigente P2 — previsualización y publicación de versiones (2026-10-21)
+
+**Acuerdo posterior del fundador:** [P2 reconciliada y aprobada funcionalmente](../notes/2026-10-21-responsibilities-consolidation-decisions.md); esta sección prevalece sobre la anotación histórica «Revisión abierta P2».
+
+Se mantienen las **cinco acciones nucleares** de examen, contraste, comprobación proporcional de suficiencia/corrección, preservación de versiones y decisión de autorización. **T-R02 además decide, bajo facultades y derechos aplicables, cuándo habilitar una previsualización limitada y cuándo publicar una versión pedagógica para un alcance autorizado.** La previsualización puede permitir verificación previa mediante enlace de acceso controlado, pero **no equivale a publicación** y no es etapa obligatoria universal.
+
+La **publicación oficial en el contexto pedagógico** fija una versión inmutable e identificable y sus criterios/alcance históricos. Cambiar contenido o criterios da lugar a una nueva versión y decisión pertinente, no a mutación silenciosa de lo ya publicado. Esto **no** implica que TDidacta determine el estado de publicación original de documentos externos que recibe: el origen mantiene esa autoridad y procedencia.
+
+**T-R05a** gestiona acceso y destinatarios de versiones publicadas **dentro de condiciones previamente autorizadas**; añadir nuevos integrantes cubiertos por criterios existentes no requiere reautorizar pedagógicamente, pero ampliar criterios sí necesita decisión facultada. Ni T-R02 ni T-R05a adquieren licencias, titularidad o derechos de distribución por esa sola función. El acuerdo **no** prescribe arquitectura o workflow, ni se confunde con certificación. La ficha sigue candidata a promoción formal; no hay Roles adoptados.
