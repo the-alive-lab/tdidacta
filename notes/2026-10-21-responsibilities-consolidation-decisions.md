@@ -57,3 +57,19 @@ Se establece esta lectura prospectiva de precedencia: las fichas iniciales de 20
 E01-N4 (necesidad de separación técnica), E03-N6/F07 (autorización derivada), E04-N6/O13 tentativa (portabilidad), condiciones jurídicas de autoría, privacidad, representación y acreditación; ninguna se da por resuelta aquí.
 
 **Paso siguiente:** resolver P2 con el fundador; luego comprobar coherencia del catálogo consolidado y solicitar, por separado, cualquier promoción formal. No crear Roles ahora.
+
+## Resolución posterior de P2 — autorización, previsualización y publicación (2026-10-21)
+
+**Decisión confirmada por el fundador:** P2 queda **reconciliada y aprobada para consolidación funcional**, con la precisión siguiente, que prevalece sobre su estado anterior «en revisión» sin reescribirlo.
+
+- **T-R02** examina y autoriza una versión pedagógica bajo criterios y un **alcance definido en ese momento**. Puede habilitar su **previsualización** para revisión mediante accesos limitados, sin atribuirle aún estado de publicación oficial; y **decidir la publicación** de una versión autorizada bajo condiciones y destinatarios definidos. La previsualización es una posibilidad previa, **no un pipeline universal obligatorio**.
+- **Publicación** significa establecer una **versión identificable, oficialmente publicada en el contexto pertinente, e inmutable respecto de su contenido y criterios históricos**. Las correcciones posteriores se materializan como nuevas versiones/candidatas, sin reescribir la publicación previa. El estado de publicado de un recurso **externo** es competencia de su origen: TDidacta puede recibirlo e incorporarlo, sin declarar o sustituir su publicación de origen.
+- **T-R05a** administra los accesos y la extensión de destinatarios sobre versiones ya publicadas **dentro de los criterios previamente definidos por T-R02 y de las restricciones legítimas aplicables**. No puede ampliar unilateralmente el alcance autorizado ni modificar la versión o los criterios de publicación. Si el alcance autoriza miembros presentes y futuros, T-R05a puede habilitar nuevos miembros sin una nueva autorización T-R02.
+- **Autorizar pedagógicamente no concede derechos de autor, licencias o consentimiento de divulgación externos.** T-R02 ejerce decisión de publicación *en el contexto pedagógico y dentro de facultades y derechos legítimos*, no sobre la legitimidad de origen ajena. Previsualizar o facilitar un enlace no equivale automáticamente a publicar.
+- **La misma persona puede ejercer T-R01, T-R02 y T-R05**, distinguiendo siempre finalidades y facultades. No se crea una Responsibility adicional por publicar.
+
+**Alcance de aprobación P2:** se consolidan funcionalmente las cinco acciones T-R02 originales, interpretadas junto con decisión contextual sobre previsualización y publicación de versiones, sin prescribir plataforma, mecanismo, workflow, acceso público universal, certificado oficial ni legalidad de cada publicación. **No se adopta todavía el catálogo como canon final ni Roles**.
+
+## Estado actualizado de P1–P8 (2026-10-21)
+
+**P1–P7 aprobadas como consolidación funcional de T-R01–T-R06 y consistencia documental. P8 aprobó mantener T-R07 pendiente de Research**. Las seis Responsibilities no-T-R07 están reconciliadas en su finalidad y acciones; T-R07 no fue adoptada ni reformulada. El cierre de exploración de **E01–E05** es **funcional/documental** (30 necesidades contrastadas), no cierre de reservas de F07, O13, privacidad, resultados reales, implementación o validación metodológica. Los estados previos en este registro son antecedentes cronológicos.
