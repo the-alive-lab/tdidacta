@@ -46,3 +46,7 @@ Se adopta la interpretación **A: aprendizaje como objetivo agrupador**. La retr
 Ante salida o incumplimiento en una experiencia comunitaria, las interdependencias pueden requerir respuesta de T-R06 dentro de facultades delegadas, sin transformar la coordinación en autoridad general sobre el recorrido del aprendiz. Abandonar una actividad no implica sanción automática; las consecuencias legítimas y sus límites requieren atención contextual.
 
 **Estado:** frontera funcional reconciliada transversalmente con E05-N1 y T-R07; no imposición de contratos, retención forzosa, procedimientos ni adopción íntegra de T-R03.
+
+## Lectura prospectiva aprobada — P3 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). Se consolidan **cuatro acciones**: participar, explorar, reconocer progreso/estrategias y reconsiderar el recorrido. La comunicación de feedback es **facultativa** cuando corresponda. La autonomía progresiva permite discontinuar experiencias, sin reescribir unilateralmente compromisos aceptados o exigencias declaradas; no hay sanciones automáticas. Distinción con T-R01 y con T-R04 preservada.
