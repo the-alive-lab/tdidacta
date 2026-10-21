@@ -265,3 +265,160 @@ Estas referencias no demuestran que la clasificación propuesta funcione ni que 
 - **Rechazar/simplificar:** si al contrastar los casos no añade capacidad explicativa real frente a las fichas de escenarios y sus necesidades.
 
 Mientras tanto, la instrucción de continuidad es **preservar estas hipótesis, no convertirlas en canon**, no renumerar ahora desde esta nota, no alterar F10/F07/F11 ni las pruebas congeladas, y avanzar con los escenarios y Responsibilities pendientes.
+
+---
+
+# Anexo II — profundización del modelo explicativo (2026-10-21)
+
+**Estado del anexo:** hipótesis nuevas y refinamientos de las secciones 0–13, todos **pendientes de validación**. Este anexo no sustituye las posiciones históricas de arriba, no cambia E01–E05 y no es adopción de nuevos Concepts, Foundations, Roles, Responsibilities, formatos ni mecanismos. Se agrega porque el modelo puede resultar útil para demostrar alcance educativo públicamente, pero necesita distinguir con rigor descripción, clasificación, cobertura y evidencia.
+
+## 14. Primera corrección epistemológica: ¿qué unidad estamos clasificando?
+
+Una misma narración suele mezclar cuatro unidades que conviene distinguir antes de asignar identificadores:
+
+| Unidad candidata | Qué delimita | Ejemplo | Error si se confunde |
+| --- | --- | --- | --- |
+| **Situación / caso particular** | Una configuración observada, prevista o hipotética en cierto contexto | Ana produce una guía que Luis utilizará con Carla | Concluir que existe una familia nueva por cada variación |
+| **Relación / experiencia educativa** | Una interacción o trayectoria de enseñanza/aprendizaje, que puede existir fuera de TDidacta | Luis acompaña a Carla utilizando la guía | Exigir que todas las personas usen la plataforma |
+| **Proceso de contribución a recursos** | Preparación, mantenimiento, revisión, publicación o distribución con posible destinatario futuro | Ana publica una guía sin que se conozca aún un docente | Inventar una relación directa de enseñanza que no existe en la observación |
+| **Familia o escenario de cobertura** | Conjunto de casos que conservan relaciones constitutivas pertinentes y necesidades comparables | E01 particular, E02 autodidacta, E03 institución | Tratar el nombre de la familia como descripción exhaustiva de cada caso |
+
+**Hipótesis:** clasificar un proceso de producción no es automáticamente lo mismo que clasificar la experiencia educativa que se realizará con sus resultados. Pueden estar conectados por procedencia, pero tener participantes, tiempos y contextos diferentes.
+
+### 14.1 Caso completo frente a fragmento del caso
+
+La pregunta «¿a qué escenario pertenece una guía pública cuyos usuarios aún se desconocen?» puede estar mal formada. Se observa **un fragmento de la trayectoria educativa** (la producción) sin disponer de los otros tramos. El fragmento es real como actividad, aunque la experiencia futura no sea observable.
+
+Proponer tres situaciones epistemológicas distintas:
+
+- **No observado / desconocido:** no sabemos si existe docente o aprendiz; no inventarlos ni negar su existencia.
+- **Futuro o condicional:** se prevé que alguien pueda enseñar/aprender, pero no hay una experiencia concreta todavía.
+- **Ausencia positivamente establecida:** el caso delimitado excluye expresamente cierta relación; aun así, no puede inferirse imposibilidad de usos futuros.
+
+El resultado «aún no clasificable como experiencia E01» **no equivale** a «TDidacta no soporta el flujo de producción». Puede haber cobertura de una parte del trabajo y alcance incierto de la experiencia total. Este parece el núcleo del contraejemplo D/M.
+
+### 14.2 Tiempo y límites de la observación
+
+Una persona que hoy aprende autónomamente (E02), mañana prepara materiales para otros y después acompaña a un estudiante (E01) **no transforma retrospectivamente** el primer episodio en E01. Un mismo recurso puede participar en varios episodios. Una clasificación debería poder señalar **qué momento, relaciones y alcance** está describiendo, sin exigir que una persona tenga una identidad de escenario permanente.
+
+**Riesgo:** si el identificador de escenario se asigna a la persona o a su cuenta, el modelo clasifica individuos en vez de contextos, induce falsas exclusividades y confunde aprendizaje paralelo con cambio de identidad.
+
+## 15. Taxonomía estricta frente a clasificación por facetas y relaciones
+
+La primera tabla D1/D2/D3 mezclaba tipos de propiedad y valores superpuestos. Hay al menos tres caminos:
+
+1. **Taxonomía estricta:** dimensiones con características bien delimitadas, destinadas a asignaciones consistentes; necesita especificar exclusividad, exhaustividad y manejo de casos híbridos.
+2. **Clasificación facetada:** varias propiedades independientes pueden coexistir en un caso; un caso puede ocupar múltiples valores y registrar desconocidos.
+3. **Modelo relacional de casos:** las personas o grupos, acciones, recursos, destinatarios y relaciones se describen explícitamente; las etiquetas de escenario se **derivan razonadamente** de ese registro.
+
+**Hipótesis preferida para contrastar:** *facetas como vista ligera + relaciones educativas constitutivas como argumento de clasificación*. El modelo relacional solo será necesario si las facetas no discriminan correctamente; no adoptar un grafo formal ni una ontología por anticipado.
+
+Una faceta puede ser verdaderamente un **atributo de caso** y no una dimensión taxonómica en sentido estricto. Por ejemplo, «institucional» y «comunitario» podrían coexistir, mientras «autodidacta» expresa un modo de organización personal y «tercero desconocido» un vínculo con destinatarios. Forzar exclusividad produciría decisiones arbitrarias.
+
+**Criterio de parsimonia:** añadir una dimensión solo si resuelve un error de clasificación o de cobertura que no se resuelve registrando mejor una relación o restricción existente.
+
+### 15.1 No toda combinatoria tiene sentido educativo
+
+El conjunto hipotético de valores no implica que su producto cartesiano sea un catálogo de casos válidos. Distinguir:
+
+- combinación **lógicamente incompatible** con las definiciones de sus atributos;
+- combinación **posible pero no observada**;
+- combinación **observada pero ajena al alcance definido de TDidacta**;
+- combinación **pertinente pero no cubierta todavía**;
+- combinación **cubierta conceptualmente** para ciertas necesidades;
+- combinación **demostrada operativamente** bajo condiciones explícitas.
+
+Estas diferencias deben estar documentadas, no escondidas bajo una celda vacía ni una cruz verde.
+
+### 15.2 E05 orientado a metas como prueba de independencia
+
+La misma meta «aprobar una credencial de arquitectura de software» puede coexistir con E02, un programa institucional E03, tutoría E01 o comunidad colaborativa. Si cambiar únicamente la fuente de una meta externa cambia la familia de escenario, la métrica está **mezclando propósito con organización**. La meta es un buen ejemplo de dimensión transversal candidata porque **no decide por sí sola la relación educativa**.
+
+**Matiz:** una meta puede cambiar necesidades, plazos, evidencia o restricciones de evaluación; «transversal» no significa «irrelevante para cobertura». Una meta regulada puede agregar una exigencia externa que TDidacta no está autorizado a satisfacer.
+
+## 16. Semántica mínima de las relaciones: no tratar títulos como predicados
+
+El esquema especialista → docente → aprendiz es útil para pensar funciones, pero podría dar lugar a una falsa linealidad. Puede existir:
+
+- especialista que produce para varios docentes;
+- docentes que adaptan materiales de varias fuentes;
+- aprendices que estudian sin docente;
+- una persona que combina producción, mediación y aprendizaje;
+- aportes de una comunidad sin titular único;
+- aprendiz que contribuye a mejorar el material;
+- medios de aplicación externos donde TDidacta no puede observar uso o aprendizaje.
+
+Por eso la flecha no debe entenderse como **pipeline obligatorio**, sino como relaciones posibles que conviene distinguir.
+
+### 16.1 Vocabulario analítico provisional
+
+| Relación candidata | Describe | No debe inferirse automáticamente |
+| --- | --- | --- |
+| **produce/prepara** | Participante desarrolla un material o propuesta | Que tiene autorización pedagógica o facultad de publicación |
+| **revisa/transforma** | Participante aporta cambios o evaluación | Que ejerce T-R02, que todo cambio constituye coautoría |
+| **media/enseña** | Participante acompaña una experiencia mediante recursos o acciones | Que creó los recursos o accedió a TDidacta |
+| **aprende/participa** | Participante toma parte en aprendizaje | Que alcanzó el resultado pretendido |
+| **distribuye/facilita acceso** | Hace llegar recursos o experiencias a destinatarios | Que el acceso es legítimo, suficiente o pedagógicamente adecuado |
+| **autoriza pedagógicamente** | Decisión humana válida para intención/versión/alcance | Que equivale a autoría, acceso a datos o certificación |
+| **coordina/mantiene** | Atiende coherencia, relaciones o continuidad | Que es dueño del contenido, de los datos o de toda la organización |
+| **interactúa con TDidacta** | Utiliza directamente alguna superficie del sistema | Que necesariamente ejerce docencia |
+| **aprovecha resultado** | Se beneficia de recursos producidos con TDidacta | Que accede al sistema, conformidad automáticamente verificada o aprendizaje efectivo |
+
+Estas son **distinciones de análisis**, no predicados formales ni catálogo de facultades. Comparar con F01/F07/F08/F11/O9/Responsibilities al retomar. Especialmente, «especialista» puede significar experiencia disciplinar, función de preparación, producción editorial u otra cosa: su **nombre no constituye evidencia** de qué hizo.
+
+### 16.2 Relaciones constitutivas frente a relaciones accidentales
+
+La identidad de E01 no debe deducirse del hecho de que haya exactamente dos cuentas, ni de que un docente haga clic en publicar. Un posible núcleo es **enseñanza/acompañamiento particular con destinatario o grupo delimitado**, compatible con mediación y producción por terceros. Pero esto **no está adoptado** y enfrenta el caso de un especialista que produce por encargo sin conocer a los alumnos.
+
+Para proponer una relación constitutiva sin circularidad:
+
+1. Formular la situación educativa que la relación explica.
+2. Identificar necesidades que aparecerían aun sin TDidacta.
+3. Quitar contrafactualmente la relación: ¿desaparece la diferencia con otras familias?
+4. Cambiar quién ejerce cada función sin alterar la relación; comprobar estabilidad.
+5. Buscar un caso vecino en que dos familias predicen consecuencias diferentes.
+6. Registrar **qué evidencia distingue** «pertenece», «no pertenece» e «indeterminado».
+
+Las relaciones constitutivas no necesariamente son condiciones universales fijadas una vez para siempre: deben ser revisables si los casos revelan contradicciones reales.
+
+## 17. Especialización, composición, intersección y sucesión: cuatro operaciones distintas
+
+| Operación hipotética | Pregunta discriminadora | Ejemplo | Riesgo |
+| --- | --- | --- | --- |
+| **Especialización** | ¿Sigue siendo recognoscible una familia al concretar condiciones y funciones? | E01 con especialista ≠ docente | Heredar pasos accidentales como obligaciones |
+| **Composición** | ¿Hay dos relaciones educativas con dependencias que interactúan y requieren reconciliación conjunta? | Red entre familias que enseña en hogares y comparte decisiones comunitarias | Sumar garantías sin compatibilizar límites |
+| **Intersección de características** | ¿Coinciden simplemente propiedades sin crear una relación nueva? | Tutor particular + meta de credencial | Tratar cualquier etiqueta adicional como escenario nuevo |
+| **Sucesión/continuidad** | ¿Una experiencia cambia de contexto o los resultados pasan a otra? | Recurso creado individualmente, adoptado luego por institución | Reescribir la procedencia del primer episodio |
+
+**Hipótesis:** composición no debe activarse porque una persona aparezca en dos escenarios. Requiere **interacción material entre las relaciones**, por ejemplo decisiones o recursos compartidos con restricciones cruzadas. Dos actividades educativas paralelas pueden mantenerse independientes.
+
+**Subtipo problemático: transferencia:** una organización produce una realización que otra utiliza. Puede ser un vínculo entre actividades o escenarios distintos, no una «composición» de ambas instituciones. Registrar dependencia del recurso y condiciones de uso quizá explique el caso mejor que una genealogía de escenarios.
+
+### 17.1 Composición no monotónica
+
+La cobertura de cada componente por separado **no garantiza** la cobertura de su combinación. Ejemplo hipotético: un recurso utilizable en casa y compartible en una comunidad puede dejar de ser legítimamente compartible si contiene una observación sensible. También una autorización pedagógica válida en un alcance no se amplía por acumular escenarios.
+
+Esto no significa importar las reglas de fusión/autorización derivada de E03-N6. Es una **analogía de riesgo**: las restricciones de las relaciones participantes deben revisarse conjuntamente.
+
+## 18. Esquema mínimo de registro para experimentar sin infraestructura nueva
+
+No crear un formato, carpeta o IR ahora. Una fila de nota o ficha Markdown puede bastar:
+
+| Campo candidato | Valor ilustrativo | Interpretación |
+| --- | --- | --- |
+| **Caso y procedencia** | «Especialista por encargo»; ejemplo propuesto en conversación | Procedencia y estado de observación |
+| **Unidad observada** | Producción del material + enseñanza futura separada | Limita el alcance de la inferencia |
+| **Participantes conocidos** | Productor externo, docente destinatario | No implica conocer al aprendiz |
+| **Relaciones comprobadas** | Productor prepara recurso; docente lo recibirá | Distinguir *previsto* de *observado* |
+| **Relaciones desconocidas** | Uso final y aprendizaje logrado | No completar con ficción |
+| **Uso de TDidacta** | Productor directo; docente/aprendiz indirectos posibles | Independiente de funciones |
+| **Familia candidata** | E01 | Hipótesis, no veredicto |
+| **Alternativa competitiva** | Trabajo productor transversal previo a experiencia E01 | Reduce sesgo de encaje |
+| **Necesidades nuevas o diferentes** | Entrega, continuidad, autorización, atribución | Vincular a artefactos existentes |
+| **Contradicción o reserva** | E01 actual describe enseñanza particular efectivamente organizada | Impide afirmar clasificación cerrada |
+| **Conclusión provisional** | Especialización plausible, soporte total por comprobar | No es adopción |
+| **Siguiente prueba** | Preguntar si existe docente-aprendiz delimitado; contrastar uso sin intervención de productor | Investigación proporcional |
+
+**Dato mínimo sobre incertidumbre:** distinguir *hecho descrito por la fuente*, *supuesto para el experimento*, *inferencia razonada* y *pregunta abierta*. Para una afirmación pública añadir fecha/versión de TDidacta y evidencia. Evitar tratar notas de exploración como hechos empíricos sobre usuarios reales.
+
+**Valor práctico:** este formato permitiría clasificar casos nuevos con poco trabajo, comparar decisiones previas y registrar por qué dos analistas discrepan **sin diseñar todavía un motor automático de taxonomía**.
