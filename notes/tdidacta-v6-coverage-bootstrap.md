@@ -827,3 +827,7 @@ Se acordó distinguir decidir participar o retirarse de una experiencia de modif
 ### T-R04 y T-R05 — consolidación transversal (2026-10-21)
 
 Se delimitó T-R04 a representación y resguardo legítimos, preservando autonomía progresiva de T-R03 sin presuponer autoridad por parentesco. El fundador confirmó además **T-R05 como Responsibility administrativa general**: T-R05a acceso/disponibilidad administrativa y T-R05b configuración/flujos son matizaciones. Configurar no es decidir requisitos pedagógicos; ejecutar publicación no es autorizar distribución. [T-R04](../responsibilities/tr-04-resguardo-legal-aprendiz.md) · [T-R05](../responsibilities/tr-05-gestion-acceso-recursos.md). Fronteras reconciliadas; fichas candidatas.
+
+### T-R07 — evaluación externa y autoevaluación (2026-10-21)
+
+El fundador confirmó que T-R07 admite evaluación externa y autoevaluación; una persona autodidacta con tecnología puede lograr resultados decentes o excelentes, aunque autogenerar desafíos de profundidad suficiente sea difícil. Esa dificultad es parte del problema que T-R07 aborda. Especialista + tecnología aparece como combinación especialmente potente, no exigencia universal ni resultado validado. Distinguir autocomprobación T-R03 de examen estructurado T-R07; eficacia y validez pendientes en Research. [Ficha T-R07](../responsibilities/tr-07-evaluacion-profunda-competencias.md).
