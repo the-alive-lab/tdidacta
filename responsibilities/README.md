@@ -45,3 +45,11 @@ Una **Responsibility** agrupa acciones necesarias según un **objetivo común**,
 - **Feedback:** puede originarse en varias Responsibilities y desde múltiples disciplinas/niveles; no se crea una Responsibility adicional por el mero hecho de participar o comentar. La separación de finalidades requiere contraste posterior.
 
 **Estado de la puerta:** E02 contrastado conceptualmente; E03-N1–N5 preliminarmente reconciliados, E03-N6 avanzado pero **abierto** por problemas semánticos externos a Responsibilities, N7/N8 pendientes. Después E04/E05 y finalmente Roles. No adoptar jerarquía escolar universal ni modificar Foundations/Concepts directamente desde este índice. La factorización T-R05a/b y T-R06 son **candidaturas**, no fichas promovidas.
+
+### Cierre de cobertura funcional E03-N6 — 2026-10-20
+
+El fundador confirmó el cierre de **E03-N6 únicamente a nivel de necesidades/Responsibilities**. Las labores de T-R01a/b, T-R02, T-R03, T-R05a/b y T-R06 bastan preliminarmente para variaciones contextuales, revisión y autorización pertinente; T-R04 sigue condicional según el contexto. No se crea otra Responsibility a partir de N6.
+
+Quedaron criterios de trabajo sobre autorización derivada, herencia de restricciones, fusiones compatibles, revisión entre orígenes, consolidación selectiva y distinción entre **autorización histórica** y **aplicabilidad del uso actual**. **No son todavía una reforma adoptada de F07**; consultar [nota semántica](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md) y [revisión funcional](../notes/2026-10-20-e02-e03-responsibilities-reconciliation.md).
+
+El texto previo sobre N6 «abierto» describe el estado anterior al cierre y permanece como antecedente. **Estado vigente de la puerta:** N1–N6 reconciliados preliminarmente, N7/N8 pendientes; E03 completo, E04/E05, Roles y la formalización semántica siguen abiertos.
