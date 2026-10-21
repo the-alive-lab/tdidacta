@@ -726,3 +726,7 @@ Se anotó la frontera de la acción 4 de [T-R01b](../responsibilities/tr-01b-con
 ### Contraste transversal T-R01c — 2026-10-21
 
 Se contrastó [T-R01c](../responsibilities/tr-01c-conduccion-ensenanza.md) con E01, E02, E03 y E05. [Registro de prueba y contracasos](2026-10-21-tr01c-cross-scenario-contrast.md). **Resultado provisional:** finalidad de conducción distinguible de adaptación en cuatro escenarios; casos fuertes E01/E03, activación condicional E02/E05. Publicar, coordinar y aprender no implican automáticamente conducir enseñanza. **Pendientes de decisión:** aceptación por el fundador, definición de T-R01 general, frontera con acción 4 T-R01b. E04-N2 sigue abierta; no se promueve la candidata ni se cierra E05.
+
+### T-R01 general — finalidad acordada por el fundador (2026-10-21)
+
+El fundador confirmó expresamente **T-R01 — Enseñanza** como finalidad general: concebir, contextualizar y ejercer orientación pedagógica para favorecer el aprendizaje sin garantizarlo. [Índice de Responsibilities](../responsibilities/README.md). T-R01a/b/c son **matizaciones por finalidad**, no secuencia obligatoria ni asignación de Roles o personas. **Estado:** criterio general acordado; sus fichas y acciones particulares aún candidatas. La próxima revisión es la frontera de la acción 4 de T-R01b frente a la conducción T-R01c. E04-N2 no se declara cerrada por esta decisión.
