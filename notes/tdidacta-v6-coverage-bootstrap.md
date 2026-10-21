@@ -783,3 +783,7 @@ El fundador distinguió uso individual de recursos comunitarios (sin obligacione
 ### E05-N2 — reconocimiento comunitario de aportes y autoría (2026-10-21)
 
 El fundador acordó que cada comunidad puede definir **criterios explícitos propios** de reconocimiento de aportes y autoría, respetando la procedencia histórica, los derechos aplicables y las facultades de autorización. Contribuir, ser autor y tener autoridad decisoria son dimensiones distintas; la continuidad de la comunidad no elimina atribuciones ni transfiere facultades automáticamente. **E05-N2 reconciliada funcionalmente**; la distinción operativa de autoría, acceso, publicación y autorización se contrastará en E05-N5. E05-N3 es la siguiente necesidad abierta. [E05](../scenarios/e05-aprendizaje-comunitario.md).
+
+### E05-N3 — comunicación modular y proveedor intercambiable (2026-10-21)
+
+El fundador reconoció que TDidacta **aspira a ofrecer mecanismos propios** de comunicación y deliberación comunitaria, pero no debe condicionar el uso pedagógico a promesas de módulos que no existan ni a sostenibilidad futura incierta. Se admite usar servicios externos y registrar resultados pertinentes con procedencia/autorización, sin que el proveedor de comunicación adquiera autoridad sobre intenciones. Comunicación al servicio de T-R01/T-R03/T-R06 y configuraciones T-R05b; T-R02 conserva autorización. **E05-N3 reconciliada funcionalmente**; modularidad es criterio de diseño candidato y no implementación. **E05-N4 siguiente**. [E05](../scenarios/e05-aprendizaje-comunitario.md).
