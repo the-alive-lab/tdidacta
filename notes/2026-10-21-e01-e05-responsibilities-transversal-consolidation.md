@@ -36,3 +36,7 @@ Para cada candidata: (1) finalidad distinguible, (2) activación condicional en 
 El fundador confirmó la alternativa **B — coordinación de interdependencias**. T-R06 puede aparecer ante dependencias entre actividades, compromisos o decisiones aun con un solo participante. **No** se activa solo porque una intención contenga relaciones conceptuales: preservar su estructura interna corresponde principalmente a T-R01a. La prueba funcional es si existe un trabajo de **coordinación entre trabajos/decisiones** distinguible del trabajo pedagógico sobre la intención misma.
 
 **Estado:** objetivo/frontera candidata de T-R06 reconciliados en esta dimensión; falta revisar acciones concretas, casos límite y eventual adopción formal. No se crea Role.
+
+## T-R06 — alcance decisorio delegado (2026-10-21)
+
+El fundador confirmó que T-R06 **puede decidir ajustes operativos dentro de su delegación explícita**, pero no adquirir nuevas facultades por la mera urgencia de una dependencia. Modificaciones pedagógicas y autorizaciones permanecen en T-R01/T-R02, y las decisiones fuera de delegación se solicitan a la autoridad pertinente. No se requiere consentimiento colectivo universal para lo delegado. La frontera está reconciliada **funcionalmente**, sin adoptar la ficha completa.
