@@ -48,3 +48,18 @@ Distinguir con precisión:
 ## Límite y continuación
 
 **No editar todavía** definiciones canónicas aprobadas ni inferir una política universal de reautorización. Estas cuestiones se retomarán **después de completar E03–E05**, conforme a la instrucción del fundador. Mantenerlas separadas de la reconciliación de Responsibilities, sin alterar los estados T01–T28.
+
+## Ampliación acordada — organización composicional de intenciones (2026-10-20)
+
+**Decisión de dirección conceptual expresada por el fundador:** no tratar `planificación → unidad → clase → actividad` como jerarquía estructural obligatoria ni restringir TDidacta a esas cuatro denominaciones. Pueden conservarse como **configuraciones iniciales opinionadas** (F12) de ciertos contextos, no como tipos universales.
+
+- **Escalas y etiquetas configurables:** las denominaciones «planificación», «unidad», «clase», «actividad» y otras son posibles interpretaciones contextuales de organizaciones de intenciones, no primitivas pedagógicas universales.
+- **Primitivas a investigar (no adoptadas):** `Contenedor` y `Trayectoria`. Como ejemplo de gramática candidata: un contenedor admite contenedores y trayectorias; una trayectoria admite contenedores. T-R05b podría gestionar etiquetas, combinaciones permitidas y validez estructural de las combinaciones en la configuración contextual. **No se ha demostrado que estas dos primitivas sean suficientes ni que sus reglas ejemplificadas deban ser definitivas.**
+- **Reutilización sin duplicación:** una misma intención **debe poder participar en varias trayectorias independientes sin duplicar su identidad**. La posibilidad y sus límites dependen tanto de las condiciones estructurales configuradas como de las **condiciones de organización que la propia intención puede declarar para generar nuevas intenciones**.
+- **Condiciones de organización propias de la intención:** una intención puede restringir qué nuevas intenciones se originan o relacionan con ella y bajo qué condiciones, además del espacio y condiciones de modificación/autorización ya registrados. El detalle de precedencia, herencia, propagación de restricciones y conflictos sigue abierto.
+- **Frontera T-R05b:** configura la organización admitida por el contexto (no los accesos, que corresponden a T-R05a); **no** puede imponer por sí misma restricciones adicionales sobre la autorización pedagógica de una intención ni modificar su alcance autorizado. Validez organizativa no demuestra autorización pedagógica.
+- **Relaciones no arbóreas:** investigar composición, secuenciación, dependencia, convergencia y reutilización; la participación en varias trayectorias no debe forzar copias de la intención ni una jerarquía escolar única. No afirmar todavía que cada contenedor/trayectoria sea necesariamente una intención, ni que cada relación esté resuelta por las dos primitivas.
+
+**Contraste pendiente:** confrontar la propuesta con F02/F07/F10/F11/F12, Intención pedagógica, Alcance de autorización y mecanismos de versionamiento, preservando la inmutabilidad de versiones consolidadas y la separación entre adaptación prevista y modificación de la intención. Examinar expresamente si el uso de una intención por varias trayectorias afecta versión, contexto o alcance autorizado. Esta nota no cambia esas definiciones canónicas ni autoriza implementar una gramática fija.
+
+**Seguimiento:** mantener esta cuestión separada de la reconciliación de Responsibilities y retomarla después del contraste E03–E05, sin perder el acuerdo de dirección de diseño ni fingir cierre semántico.
