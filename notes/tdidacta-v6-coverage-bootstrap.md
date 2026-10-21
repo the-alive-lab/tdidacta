@@ -835,3 +835,7 @@ El fundador confirmó que T-R07 admite evaluación externa y autoevaluación; un
 ### T-R07 — evaluación y consecuencias diferenciadas (2026-10-21)
 
 El fundador estableció que T-R07 evalúa, T-R01 enseña y T-R03 aprende; las evidencias/resultados pueden servir a otras finalidades sin autorizar que una Responsibility absorba decisiones ajenas. Evaluar no decide automáticamente enseñanza, itinerario del aprendiz, autorización, certificación o consecuencias administrativas. Separación funcional, no necesariamente de personas. [Ficha T-R07](../responsibilities/tr-07-evaluacion-profunda-competencias.md). Frontera reconciliada, instrumentos aún sujetos a Research.
+
+### Auditoría final E01–E05 × Responsibilities (2026-10-21)
+
+[Informe de auditoría](2026-10-21-e01-e05-responsibilities-coverage-audit.md): **30/30 necesidades** tienen finalidad candidata o soporte normativo transversal identificable. No se justifica una octava Responsibility; existen siete deudas editoriales/semánticas (D1–D7). E01-N4, O13 tentativa, métodos de T-R07 y exigencias jurídicas conservan reservas. **No se adoptan fichas ni Roles**. Próximo paso: consolidación prospectiva y contraste fino de acciones.
