@@ -60,3 +60,9 @@ Se precisó que T-R04 representa y resguarda al aprendiz cuando corresponde una 
 ## T-R05 — Responsibility administrativa general (2026-10-21)
 
 El fundador confirmó **T-R05 como una Responsibility general**, con T-R05a (gestión de accesos y disponibilidad administrativa) y T-R05b (gestión de configuraciones y flujos operativos) como matizaciones. La capacidad técnica o administrativa **no da autoridad pedagógica ni legitimidad para publicar**: habilitar una dimensión evaluativa no permite imponerla en una intención; ejecutar publicación no confiere derechos de distribución. T-R01b conserva la adaptación pedagógica. Agrupación y fronteras funcionales acordadas; acciones completas no adoptadas.
+
+## T-R07 — autoevaluación, especialistas y tecnología (2026-10-21)
+
+El fundador confirmó que T-R07 admite **evaluación externa o autoevaluación**, incluso **autodidacta + tecnología** con resultados potencialmente decentes o excelentes. A la vez, formular desafíos suficientemente profundos puede ser difícil para una persona autodidacta: esa tensión pertenece al problema de evaluación, no es un bug conceptual. **Especialista + tecnología** se reconoce como configuración especialmente prometedora, no obligatoria ni validada empíricamente.
+
+T-R03 autocomprueba para orientar su aprendizaje; T-R07 busca evidencia estructurada de competencias y límites inferenciales, independientemente de quién evalúe. Contrastar profundidad y fiabilidad entre modalidades corresponde a Research. Frontera de modalidades reconciliada funcionalmente; ficha todavía candidata.
