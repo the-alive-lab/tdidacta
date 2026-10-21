@@ -57,3 +57,41 @@ Facilita acceso a recursos para que T-R01 estructure/extienda, T-R06 coordine, T
 ## Handoff
 
 **Retomar en E03-N6** con la pregunta concreta sobre necesidad de autorización ante adaptaciones situadas de T-R01b. Después N7, N8 y auditoría de suficiencia E03. Usar las distinciones anteriores para evitar reabrir acuerdos sin nueva evidencia.
+
+
+## Actualización incremental — desde E03-N5 hasta el contraste actual (2026-10-20)
+
+**Carácter:** registro de acuerdos de trabajo sobre **Responsibilities**, sin promover fichas ni reinterpretar retrospectivamente el texto anterior. Para las cuestiones sobre definición de intención, adaptación, versionado y condiciones de autorización, véase [nota separada de cuestiones no-Responsibility](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md).
+
+### N5 — Exigencias curriculares externas (ratificación)
+
+Se mantiene el criterio ya registrado: **T-R01a puede y debe cuestionar pedagógicamente** las exigencias curriculares, interpretar su propósito, examinar tensiones y proponer alternativas. Esa labor no concede autoridad para cambiar la norma externa ni equivale a autorización T-R02. Este punto ya estaba cubierto en el registro N1–N5 y aquí solo se ratifica su frontera.
+
+### N6 — Variaciones por grupos: fronteras funcionales reconocidas
+
+- **T-R03:** utiliza, comprende y adapta la experiencia empleando posibilidades que una intención ya ofrece; esta labor no implica alterar la definición de la intención.
+- **T-R01b:** cuando se necesitan posibilidades pedagógicas que la intención existente no ofrece, trabaja en su extensión o contextualización más específica; no es sinónimo de ejecutar opciones adaptativas ya previstas.
+- **T-R01a:** atiende estructuración de intenciones y revisión de componentes relativamente estables; sus cambios pueden tener consecuencias de autorización, sin asignarles una regla universal solo por provenir de T-R01a.
+- **T-R02:** mantiene la responsabilidad de protección, examen y autorización pedagógica; el hecho de que otro esfuerzo configure permisos o coordine cambios no transfiere esta decisión.
+- **T-R06 (candidata):** coordina dependencias y puede identificar, solicitar, acordar o proponer modos de abordar problemas; no se apropia de la intención ni autoriza el resultado.
+
+**Importante:** el criterio preciso de qué modificaciones concretas requieren autorización explícita no queda resuelto en esta nota. Fue formulada una propuesta sobre condiciones declaradas por intenciones superiores y granularidad de los elementos; se preserva separadamente para revisar conceptos y fundamentos.
+
+### T-R05 — Factorización candidata revisada durante N6
+
+El fundador propuso **mantener un objetivo común T-R05** («gestión y configuración de accesos y plataforma») y explorar dos especializaciones, **sin crear la T-R07** que se había sugerido provisionalmente:
+
+| Candidato | Labor funcional propuesta | Frontera |
+| --- | --- | --- |
+| **T-R05a — Gestión de accesos** | Gestionar acceso legítimo a recursos, solicitudes de acceso y condiciones de utilización/intervención por las otras Responsibilities; preservar disponibilidad y accesibilidad material reconocidas previamente en T-R05. | No define legitimidad pedagógica ni autoriza nuevos elementos o versiones. |
+| **T-R05b — Gestión de configuraciones** | Administrar configuraciones contextuales y operativas **distintas de los accesos**, incluidas configuraciones iniciales/particulares y parámetros de funcionamiento, conforme a condiciones aplicables. | No reescribe intenciones pedagógicas ni modifica por sí misma condiciones pedagógicas autorizadas. |
+
+La motivación explícita es que ambas labores son especializaciones de la **misma finalidad de gestión/configuración de recursos y plataforma**, no Roles ni personas necesariamente diferentes. La factorización **T-R05a/T-R05b está acordada como hipótesis de organización**, no como promoción de dos fichas adoptadas. Mantener abierta la prueba de suficiencia del objetivo común y el tratamiento exacto de restricciones de modificación.
+
+### Estado y continuación
+
+- **E03-N5:** ratificado, conceptualmente reconciliado.
+- **E03-N6:** fronteras de Responsibilities avanzadas; **pendiente** resolver la semántica de variaciones, modificaciones, versiones y autorización mediante revisión de fundamentos/conceptos, sin mezclar esa investigación con fichas de Responsibilities.
+- **E03-N7/N8:** sin contraste específico en este registro.
+- **T-R06:** sigue candidata; **T-R07:** propuesta explorada y descartada **como candidata separada por ahora**, a favor de la especialización T-R05a/T-R05b. No reservar el identificador como decisión definitiva.
+- **E04/E05 y Roles:** pendientes. No modificar estados históricos T01–T28 ni dar por completada E03.
