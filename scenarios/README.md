@@ -191,3 +191,9 @@ No introducir escenarios separados por cada tecnología, medio, condición médi
 - **Evidencia:** experimentos, validaciones o uso observado, sin confundir intención con logro.
 
 **No se crean F11, Roles, Responsibilities o requisitos de producto automáticamente.** Este registro precede a la definición de responsabilidades, a la reconstrucción T01–T28 y a la auditoría Foundations→Mechanisms (pospuesta).
+
+## Cierre de la exploración funcional E01–E05 (2026-10-21)
+
+**Estado vigente:** las **30 necesidades actuales** de [E01](e01-ensenanza-particular.md) (6), [E02](e02-aprendizaje-autodidacta.md) (4 tras separación comunitaria), [E03](e03-educacion-institucional.md) (8), [E04](e04-educacion-en-el-hogar.md) (6) y [E05](e05-aprendizaje-comunitario.md) (6) fueron contrastadas y reconciliadas **a nivel de finalidades funcionales**. Ver [auditoría](../notes/2026-10-21-e01-e05-responsibilities-coverage-audit.md) y [decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). E05-N5 recibió precisión posterior de previsualización, versión publicada inmutable y extensión de acceso por T-R05a dentro de criterios T-R02.
+
+**Cerrado:** exploración documental de escenarios y correspondencia inicial de sus necesidades con Responsibilities (T-R01–T-R06 consolidadas funcionalmente). **No cerrado:** necesidad técnica E01-N4; semántica de autorización derivada E03-N6/F07; posible orientación de portabilidad O13 (E04-N6); investigación T-R07; interpretación jurídica/contextual y eventual ejecución. T-R07 sigue candidata en espera, no valida evaluaciones por aparecer en la matriz. El cierre no adopta Roles, promesas de producto, capacidades ni catálogo definitivo. Los estados anteriores de este índice permanecen como procedencia histórica.
