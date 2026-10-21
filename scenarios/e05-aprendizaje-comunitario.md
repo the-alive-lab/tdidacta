@@ -44,3 +44,17 @@ El incumplimiento de compromisos no implica automáticamente sanción ni la pér
 **Fronteras funcionales:** T-R03 conserva el propósito y decisiones de aprendizaje individual; la **T-R06 candidata** aporta coordinación de interdependencias y reacción a compromisos no satisfechos, sin apropiarse del aprendizaje, la enseñanza (T-R01), la autorización pedagógica (T-R02) ni la habilitación administrativa (T-R05). La existencia de compromisos no supone autoridad general de la comunidad sobre el recorrido del aprendiz. Una intención comunitaria no confiere automáticamente facultades sobre información personal o terceros (O7/F11).
 
 **Estado:** **E05-N1 reconciliada funcionalmente**, no Role, contrato jurídico, mecanismo de gestión de compromisos ni adopción integral de T-R06. Queda por contrastar en E05-N4 la suficiencia y frontera de T-R06 para coordinar interdependencias reales.
+
+## E05-N2 — reconciliación funcional de contribuciones, autoría y continuidad comunitaria (2026-10-21)
+
+**Acuerdo expreso del fundador:** una comunidad puede establecer **sus propios criterios explícitos de reconocimiento de autoría y contribuciones**, dentro de sus facultades y respetando procedencia histórica, derechos aplicables y autorizaciones pertinentes.
+
+Distinguir:
+- **Contribución:** participación o aporte efectivamente realizado, con procedencia y tipo de intervención reconocibles; proporcionar feedback o corregir un error no crea por sí solo coautoría.
+- **Autoría:** atribución correspondiente conforme a los criterios comunitarios legítimos, la naturaleza del aporte y los derechos aplicables; puede ser individual o compartida cuando se justifique.
+- **Autoridad:** facultad de decidir, autorizar, modificar o publicar según el contexto. No se deriva automáticamente de contribuir, de ser autor o de coordinar.
+- **Continuidad:** permitir que la comunidad prosiga su trabajo ante cambios de participantes sin borrar atribuciones previas ni transferir facultades implícitamente.
+
+**Fronteras:** O5 y F08 permiten reconocer contribuciones sin confundirlas con autoría o autoridad; T-R01a/b pueden trabajar sobre intenciones y propuestas, T-R02 conserva la protección/autorización pedagógica de elementos, y T-R06 candidata puede coordinar interdependencias sin apropiarse de autoría ni decisión pedagógica. Accesos y publicación siguen sus facultades pertinentes; la gestión comunitaria no modifica retroactivamente las evidencias.
+
+**Estado:** **E05-N2 reconciliada funcionalmente**, no adopción de un régimen universal de licencias, gobernanza, mecanismos de atribución ni Roles. Quedan para E05-N5 las fronteras detalladas entre autoría, acceso, publicación y autorización.
