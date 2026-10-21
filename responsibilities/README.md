@@ -76,3 +76,11 @@ Los estados parciales anteriores del documento se conservan como registro histó
 ### Auditoría global E03 (2026-10-21)
 
 [Resultado](../notes/2026-10-21-e03-global-coherence-audit.md): **E03-N1–N8 reconciliadas y coherentes funcionalmente** con E01/E02. No se identificó nueva Responsibility imprescindible; las fichas existentes y candidaturas T-R05a/b/T-R06 siguen pendientes de contraste E04/E05 y Roles posteriores. F07, flujos configurables y verificabilidad externa siguen reservas de otras superficies, no defectos ya resueltos por cambiar estas fichas.
+
+## Criterio acordado para T-R01 general (2026-10-21)
+
+**Decisión expresa del fundador:** la finalidad general de **T-R01 — Enseñanza** es **concebir, contextualizar y ejercer orientación pedagógica para favorecer el aprendizaje**, sin asumir la obligación de garantizar que ocurra. Este criterio agrupa tres **matizaciones candidatas** diferenciadas por su finalidad: [T-R01a](tr-01a-planificacion-contextualizacion-pedagogica.md) (estructuración y continuidad), [T-R01b](tr-01b-contextualizacion-adaptacion-pedagogica.md) (contextualización y adaptación) y [T-R01c](tr-01c-conduccion-ensenanza.md) (conducción efectiva de la enseñanza).
+
+**Fronteras:** la agrupación no es una secuencia obligatoria, una partición por personas, profesiones o cargos, ni supone que las tres matizaciones deban activarse siempre. T-R03 conserva la finalidad distinta de aprender; T-R02 la de protección y autorización. Se **acuerda la finalidad general como criterio de trabajo**, no la aprobación definitiva de acciones ni la promoción automática de las fichas candidatas.
+
+**Siguiente contraste:** reconciliar la acción 4 de T-R01b respecto de la conducción T-R01c, sin reescribir acuerdos históricos. [Prueba transversal](../notes/2026-10-21-tr01c-cross-scenario-contrast.md).
