@@ -815,3 +815,7 @@ El fundador confirmó la frontera decisoria: T-R06 puede decidir reorganizacione
 ### T-R01 — finalidad general de enseñanza confirmada (2026-10-21)
 
 En consolidación transversal el fundador confirmó **T-R01 como Responsibility general**, con T-R01a (estructuración/continuidad), T-R01b (contextualización/adaptación) y T-R01c (conducción) como matizaciones funcionales, no responsabilidades independientes ni secuencia obligatoria. Pueden recaer en personas distintas o coincidir. Se acuerda agrupación funcional; acciones y catálogo siguen candidatos. [Contraste](2026-10-21-e01-e05-responsibilities-transversal-consolidation.md).
+
+### T-R02 — separación funcional, no necesariamente personal (2026-10-21)
+
+El fundador confirmó que T-R01 y T-R02 tienen finalidades independientes, aunque una misma persona puede formular/adaptar y examinar/autorizar elementos pedagógicos cuando tenga facultades contextuales para ambas. No se requiere aprobador separado universal ni se infiere autorización automática. [Ficha T-R02](../responsibilities/tr-02-proteccion-autorizacion-pedagogica.md). Frontera funcional reconciliada; catálogo sigue candidato.
