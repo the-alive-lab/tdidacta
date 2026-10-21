@@ -45,3 +45,18 @@ La experiencia educativa se organiza principalmente en un entorno familiar o dom
 - ¿Cómo apoyar necesidades educativas y progresos sin transformarlos en certificados oficiales ni garantizar calidad o cumplimiento curricular? **Pendiente para trabajo posterior**; distinguir evidencia formativa de títulos y certificados oficiales sin prometer que TDidacta los otorgará.
 - Validación chilena mediante exámenes libres se cita solo como **ejemplo contextual**, no como requisito universal: [Ayuda Mineduc](https://www.ayudamineduc.cl/ficha/examenes-libres-menores-de-18-anos-11).
 - No se prescriben interfaces familiares, perfiles infantiles, control parental, currículos, verificaciones, ni calendario de implementación.
+
+## Contraste E04-N1 — reconciliación funcional (2026-10-21)
+
+**Resultado acordado:** N1 queda reconciliada **solo en la frontera conceptual entre necesidades y Responsibilities**. Las labores existentes permiten distinguir autonomía del aprendiz, acompañamiento y representación; no se justifica por N1 una Responsibility adicional.
+
+- **T-R03:** aprendizaje y autonomía progresiva de la persona, sin exigir dirección total de un tercero.
+- **T-R01a/b:** preparación, contextualización y adaptación cuando esa sea la finalidad de la ayuda; acompañar no confiere autoridad universal.
+- **T-R04:** representación y resguardo propios de un apoderado o figura equivalente **cuando corresponda**, con límites aplicables; no equivale a cuidado familiar genérico ni exige condición jurídica universal.
+- **T-R02:** protección y autorización pedagógica de elementos e intenciones pertinentes, distintas de acompañamiento y representación.
+
+Una persona puede ejercer varias funciones, o estas distribuirse entre participantes; los actores E04 no se convierten por ello en Roles canónicos. No se presume que el adulto tome todas las decisiones educativas ni que cada decisión del aprendiz requiera aprobación.
+
+**Reservas abiertas:** conflictos de decisiones, límites de facultades, protección y requisitos por edad, jurisdicción y contexto. El contraste funcional **no demuestra cumplimiento jurídico ni implementación**; no adopta permisos ni flujos universales. Continuar con E04-N2 conservando estos límites.
+
+**Fuentes:** [T-R03](../responsibilities/tr-03-aprendizaje-retroalimentacion.md), [T-R01a](../responsibilities/tr-01a-planificacion-contextualizacion-pedagogica.md), [T-R01b](../responsibilities/tr-01b-contextualizacion-adaptacion-pedagogica.md), [T-R04](../responsibilities/tr-04-resguardo-legal-aprendiz.md), [T-R02](../responsibilities/tr-02-proteccion-autorizacion-pedagogica.md), [F09](../foundations/learner-autonomy.md), [F07](../foundations/pedagogical-authorization.md), [F11](../foundations/contextual-organization-autonomy.md).
