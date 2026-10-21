@@ -10,7 +10,7 @@ El [concepto de enseñanza](../concepts/teaching.md) establece orientación y ap
 
 ## Acciones candidatas
 
-1. Orientar experiencias, prácticas y exploraciones pertinentes.
+1. **Facilitar y orientar el desarrollo de actividades y exploraciones** mediante posibilidades pedagógicas pertinentes, ofreciendo apoyos durante la experiencia sin exigir su adaptación previa.
 2. Plantear explicaciones, preguntas o ejemplos y facilitar las posibilidades disponibles.
 3. Ofrecer acompañamiento y feedback educativo durante el desarrollo de la experiencia.
 4. Reconocer dificultades que puedan requerir ajustes y comunicarlas, o asumir otra matización cuando corresponda.
@@ -36,3 +36,10 @@ Una persona familiar puede acompañar la enseñanza utilizando una propuesta exi
 ## Contraste transversal posterior (2026-10-21)
 
 [Resultado y contracasos E01/E02/E03/E05](../notes/2026-10-21-tr01c-cross-scenario-contrast.md): la conducción de enseñanza aparece como finalidad distinguible en E01/E03 y de activación condicional en E02/E05. La prueba no equivale a adopción; quedan pendientes la definición general de T-R01 y el solapamiento con la acción 4 de T-R01b.
+
+
+## Frontera funcional reconciliada con T-R01b (2026-10-21)
+
+El fundador acordó precisar la acción 4 de [T-R01b](tr-01b-contextualizacion-adaptacion-pedagogica.md) como preparación, contextualización o ajuste de actividades y posibilidades de exploración. **T-R01c conduce y facilita su ejercicio** cuando existe actividad de orientación educativa reconocible. Enseñar no implica haber adaptado personalmente; adaptar no implica conducir personalmente. Las dos finalidades pueden coincidir en una misma experiencia.
+
+**Estado:** frontera de trabajo reconciliada; T-R01c sigue siendo matización candidata y sus acciones no quedan adoptadas en conjunto. La sección previa «Solapamiento pendiente» registra el momento anterior a este acuerdo.
