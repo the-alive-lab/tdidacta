@@ -385,7 +385,7 @@ Las relaciones constitutivas no necesariamente son condiciones universales fijad
 
 | Operación hipotética | Pregunta discriminadora | Ejemplo | Riesgo |
 | --- | --- | --- | --- |
-| **Especialización** | ¿Sigue siendo recognoscible una familia al concretar condiciones y funciones? | E01 con especialista ≠ docente | Heredar pasos accidentales como obligaciones |
+| **Especialización** | ¿Sigue siendo reconocible una familia al concretar condiciones y funciones? | E01 con especialista ≠ docente | Heredar pasos accidentales como obligaciones |
 | **Composición** | ¿Hay dos relaciones educativas con dependencias que interactúan y requieren reconciliación conjunta? | Red entre familias que enseña en hogares y comparte decisiones comunitarias | Sumar garantías sin compatibilizar límites |
 | **Intersección de características** | ¿Coinciden simplemente propiedades sin crear una relación nueva? | Tutor particular + meta de credencial | Tratar cualquier etiqueta adicional como escenario nuevo |
 | **Sucesión/continuidad** | ¿Una experiencia cambia de contexto o los resultados pasan a otra? | Recurso creado individualmente, adoptado luego por institución | Reescribir la procedencia del primer episodio |
