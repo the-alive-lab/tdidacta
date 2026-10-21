@@ -47,3 +47,7 @@ El fundador acordó precisar la acción 4 de [T-R01b](tr-01b-contextualizacion-a
 ## Revisión durante la conducción — criterio acordado (2026-10-21)
 
 El fundador confirmó que revisar el desarrollo de la experiencia mientras se enseña pertenece a T-R01c cuando sirve a orientar y apoyar su conducción. Revisar la adecuación de una intención o propuesta corresponde a T-R01a/b según su finalidad estructural o situada. Detectar una dificultad durante la enseñanza puede motivar otra revisión, pero no corrige ni autoriza automáticamente elementos; F06 y T-R02 mantienen sus fronteras. Este acuerdo no adopta todas las acciones de la ficha.
+
+## Lectura prospectiva aprobada — P1 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). T-R01c permanece matización de enseñanza: **cuatro acciones positivas** (facilitar actividades, explicar/preguntar/ejemplificar, acompañar/retroalimentar durante enseñanza, advertir dificultades y comunicar necesidades de ajuste) y **una condición transversal**, antes numerada como acción 5: respetar autonomía, acceso, privacidad y autorizaciones pertinentes. No se elimina esta obligación ni se convierte en finalidad separada. La conducción no exige previa adaptación T-R01b.
