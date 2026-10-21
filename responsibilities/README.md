@@ -84,3 +84,7 @@ Los estados parciales anteriores del documento se conservan como registro histó
 **Fronteras:** la agrupación no es una secuencia obligatoria, una partición por personas, profesiones o cargos, ni supone que las tres matizaciones deban activarse siempre. T-R03 conserva la finalidad distinta de aprender; T-R02 la de protección y autorización. Se **acuerda la finalidad general como criterio de trabajo**, no la aprobación definitiva de acciones ni la promoción automática de las fichas candidatas.
 
 **Siguiente contraste:** reconciliar la acción 4 de T-R01b respecto de la conducción T-R01c, sin reescribir acuerdos históricos. [Prueba transversal](../notes/2026-10-21-tr01c-cross-scenario-contrast.md).
+
+### Frontera T-R01b / T-R01c reconciliada (2026-10-21)
+
+Por acuerdo del fundador se precisó prospectivamente la **acción 4 de [T-R01b](tr-01b-contextualizacion-adaptacion-pedagogica.md)**: preparar, contextualizar o ajustar actividades y posibilidades de exploración según circunstancias pertinentes. La [T-R01c candidata](tr-01c-conduccion-ensenanza.md) expresa **facilitar y orientar su desarrollo**, sin requerir adaptación previa. Las finalidades pueden coexistir y no constituyen fases obligatorias. La redacción histórica de T-R01b permanece trazable; el acuerdo resuelve esta frontera de trabajo, **no adopta completas las fichas ni Roles**.
