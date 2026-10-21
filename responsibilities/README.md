@@ -59,3 +59,11 @@ El texto previo sobre N6 «abierto» describe el estado anterior al cierre y per
 **N7 reconciliada funcionalmente**, al igual que N6. T-R05a atiende accesos parciales, legítimos, proporcionados y condiciones de divulgación; T-R05b configuraciones de flujo mínimo y extensiones operativas contextuales; T-R01 aportes derivados de información restringida; T-R02 revisión de suficiencia de evidencia sin privilegios automáticos sobre datos; T-R04 resguardo condicional y O7 privacidad transversal. No se creó Responsibility ni Role adicional.
 
 La distinción entre flujo mínimo completo y extensiones activables/desactivables, revisión de divulgación según autoridad pertinente, anonimización de datos históricos y conservación legítima de trazabilidad queda en la [nota N7 externa a Responsibilities](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md). **Estado vigente E03: N1–N7 reconciliados funcionalmente; N8 pendiente.** Los estados previos preservados son históricos, no contradicciones vigentes.
+
+### Reconciliación E03-N8 y estado vigente de E03 (2026-10-21)
+
+**E03-N1–N8 reconciliadas funcionalmente** en cobertura de necesidades/Responsibilities; se requiere aún una **auditoría global** del escenario. En N8 se reutilizan T-R01a/b (preparación y continuidad pedagógica), T-R03 (aprendizaje sin uso obligatorio de plataforma), T-R05a (acceso, disponibilidad y accesibilidad material) y T-R02 (autorización cuando corresponda). No hay fundamento para crear Responsibility adicional solo por proyecciones, impresión, exportación, importación o verificación externa.
+
+Las cuestiones *fuera* del catálogo de Responsibilities están separadas: [N6 — linajes y autorización derivada](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md), [N7 — privacidad y flujos mínimos/extensiones](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md) y [N8 — proyecciones y continuidad externa](../notes/2026-10-21-e03-n8-external-use-projections-continuity.md). F07 y los mecanismos siguen pendientes de reconciliación explícita; ninguna ficha se promueve ni se asignan Roles.
+
+Los estados parciales anteriores del documento se conservan como registro histórico y son sustituidos por este estado más reciente.
