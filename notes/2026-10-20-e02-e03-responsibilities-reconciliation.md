@@ -95,3 +95,15 @@ La motivación explícita es que ambas labores son especializaciones de la **mis
 - **E03-N7/N8:** sin contraste específico en este registro.
 - **T-R06:** sigue candidata; **T-R07:** propuesta explorada y descartada **como candidata separada por ahora**, a favor de la especialización T-R05a/T-R05b. No reservar el identificador como decisión definitiva.
 - **E04/E05 y Roles:** pendientes. No modificar estados históricos T01–T28 ni dar por completada E03.
+
+## Precisión posterior sobre T-R05b — organización configurable (2026-10-20)
+
+El fundador ratifica la factorización candidata **T-R05a (gestión de accesos)** y **T-R05b (gestión de configuraciones no relativas a accesos)** dentro de T-R05, sin crear T-R07.
+
+**Extensión concreta de T-R05b:** gestionar configuraciones organizativas contextuales que no impongan una taxonomía escolar fija. Como hipótesis de mecanismo, TDidacta podría ofrecer primitivas configurables (`Contenedor`, `Trayectoria`) y permitir configurar etiquetas, combinaciones estructurales admitidas y restricciones de organización. «Planificación», «unidad», «clase» y «actividad» serían opciones de configuración inicial, no Roles, Responsibilities ni tipos estructurales universales.
+
+**Frontera ratificada:** T-R05b **no tiene potestad propia para añadir restricciones de autorización pedagógica a una intención, cambiar su significado o ampliar/reducir unilateralmente su alcance autorizado**. Las condiciones estructurales de un contexto y las condiciones de organización/generación de nuevas intenciones que declara cada intención deben poder coexistir, sin confundir validez estructural con autorización T-R02. Las condiciones de acceso quedan en T-R05a.
+
+El fundador confirma que **una misma intención puede participar en varias trayectorias sin duplicarse**, sujeta a condiciones de estructura y de organización expresadas por la propia intención. Esta capacidad se investiga semánticamente en la [nota separada de E03-N6](2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md), no se convierte en otra Responsibility ni en una decisión técnica adoptada.
+
+**Estado:** dirección conceptual acordada; la suficiencia de `Contenedor`/`Trayectoria`, las relaciones no jerárquicas y las reglas de conflicto/herencia siguen abiertas. E03-N6 no se cierra, E03-N7/N8 continúan pendientes, E04/E05 y Roles después. No promocionar fichas ni alterar T01–T28.
