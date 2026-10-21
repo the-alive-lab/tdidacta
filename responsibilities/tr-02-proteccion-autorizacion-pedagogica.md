@@ -47,3 +47,9 @@ El fundador confirma que **la protección pedagógica de T-R02 incluye comprobar
 2. ¿Se justifica el objetivo agrupador en todas sus manifestaciones?
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
+
+## Frontera funcional con T-R01 — coincidencia de participantes (2026-10-21)
+
+**Acuerdo del fundador:** formular o adaptar una intención pedagógica (T-R01a/b) y examinarla o autorizarla (T-R02) son **finalidades funcionalmente distintas**, sin exigir personas, órganos o instituciones diferentes. Una misma persona puede ejercer ambas cuando su contexto le reconozca las facultades pertinentes. Su coincidencia no transforma la formulación en autorización automática ni elimina las condiciones para una decisión de T-R02.
+
+La distinción se mantiene también en aprendizaje autodidacta, enseñanza particular y experiencias comunitarias; cuando exista una obligación externa de separación o revisión independiente, debe atenderse según el contexto. **Frontera funcional reconciliada**, sin adoptar un segundo aprobador universal, un procedimiento obligatorio ni las acciones completas de la ficha.
