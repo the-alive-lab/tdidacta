@@ -48,3 +48,7 @@ El fundador confirmó que **T-R01 sigue siendo la Responsibility general de ense
 ## T-R02 — independencia funcional sin separación personal obligatoria (2026-10-21)
 
 El fundador confirmó que **T-R01 formula/adapta y T-R02 examina/autoriza** elementos pedagógicos, pero una misma persona puede ejercer ambas finalidades si dispone de facultades contextuales legítimas. El ejercicio de una no autoriza automáticamente la otra. No se exige universalmente segundo aprobador o estructura institucional; las separaciones exigibles según contexto siguen vigentes. Se reconcilia esta **frontera funcional**, no el catálogo completo.
+
+## T-R03 — autonomía y compromisos aceptados (2026-10-21)
+
+**Acuerdo del fundador:** T-R03 puede decidir participar y discontinuar experiencias, incluidas extensiones optativas cuando corresponda; no puede redefinir retrospectivamente requisitos de una intención ni compromisos ya asumidos. T-R06 puede atender interdependencias afectadas dentro de delegación legítima, sin adquirir control general del aprendizaje ni imponer sanciones automáticas. Frontera **funcionalmente reconciliada**, sin cerrar modalidades jurídicas u operativas.
