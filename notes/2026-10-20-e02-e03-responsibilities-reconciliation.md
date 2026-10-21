@@ -132,3 +132,17 @@ El fundador confirma que **una misma intención puede participar en varias traye
 **Chequeo N1–N6:** N1 separa F11/F12 y gestión T-R05a/b de autoridad T-R02; N2 preserva frontera T-R06/T-R01/T-R02; N3 F08 preserva autoría multidisciplinar; N4 distribuye la continuidad por finalidad sin centralizarla en T-R06; N5 permite cuestionamiento curricular T-R01 sin apropiarse de autoridad externa; N6 reutiliza estas fronteras sin crear un Role o jerarquía universal. No se identificó contradicción funcional entre N1–N6. **Sí hay tensión semántica no resuelta con F07 vigente**, que requiere revisión explícita posterior: nueva intención/versión vs modalidad derivada. Esta comprobación no certifica implementación o suficiencia global E03.
 
 **Este apartado actualiza los handoffs anteriores que aún dicen «N6 pendiente»; se conservan como registros históricos de etapas anteriores.**
+
+## E03-N7 — Reconciliación funcional (2026-10-20)
+
+**Necesidad:** separar acceso a materiales e información, privacidad, y autorización pedagógica del significado.
+
+- **T-R05a** gestiona accesos **parciales, legítimos y proporcionales**, solicitudes adicionales y condiciones de comunicación de recursos/información; no equivale a una autorización irrestricta ni a autoridad pedagógica.
+- **T-R05b** configura la operación contextual, incluido el flujo mínimo y extensiones activables o retirables durante su funcionamiento. Configurar procedimientos no concede facultades de divulgación ni anula condiciones de protección.
+- **T-R01**, en colaboración multidisciplinar, puede producir observaciones pedagógicas derivadas de información restringida; su comunicación a otros participantes se sujeta a autoridad/condiciones legítimas, sin requerir divulgar automáticamente las fuentes.
+- **T-R02** examina y decide sobre autorización *pedagógica*; puede considerar evidencia insuficiente y solicitar antecedentes legítimamente examinables sin exigir acceso irrestricto a fuentes sensibles.
+- **T-R04**, cuando se activa, resguarda intereses e interlocución del aprendiz dentro de límites aplicables; **O7** mantiene privacidad/minimización transversal a todas las Responsibilities.
+
+No se encontró nueva finalidad funcional que justifique otra Responsibility. No se adopta un Role de autoridad sobre datos ni un flujo de aprobación universal. Las reglas sobre aprobaciones de divulgación, flujo mínimo/extensiones, anonimización de datos históricos y su trazabilidad están registradas **separadamente** en [nota externa N7](2026-10-20-e03-n7-access-privacy-configurable-flows.md).
+
+**Estado:** N7 reconciliada funcionalmente, al mismo nivel que N6; su formalización de mecanismos queda pendiente. N8 sin reconciliar; E03 no cerrado globalmente.
