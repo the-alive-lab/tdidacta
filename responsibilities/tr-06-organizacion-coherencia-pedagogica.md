@@ -53,3 +53,7 @@ Las facultades de reorganización siguen siendo **explícitas, delimitadas y con
 - Si la decisión excede la delegación, T-R06 debe solicitarla o escalarla a quien tenga facultades, sin resolverla unilateralmente ni exigir consulta colectiva universal para decisiones sí delegadas.
 
 **Estado:** frontera de decisiones de T-R06 reconciliada funcionalmente; ficha todavía candidata, sin Roles, flujos ni adopción íntegra de acciones.
+
+## Lectura prospectiva aprobada — P6 (2026-10-21)
+
+[Decisiones de consolidación](../notes/2026-10-21-responsibilities-consolidation-decisions.md). Finalidad vigente: **coordinar interdependencias entre trabajos, compromisos o decisiones**, incluso con **una sola persona**, cuando exista una necesidad efectiva de coordinación. Cinco acciones consolidadas: reconocer dependencias y compromisos si existen; facilitar comunicación/acuerdos instrumentales; organizar seguimiento, alternativas y escalamiento; reorganizar operaciones **dentro de delegación explícita**; preservar decisiones pertinentes con procedencia proporcional. No se activa por mera conversación ni por organizar relaciones internas de una intención T-R01a. Urgencia no concede autoridad ajena. La mención histórica de «experiencia compartida» no impone pluralidad de personas.
