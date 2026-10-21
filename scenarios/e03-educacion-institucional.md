@@ -74,3 +74,11 @@ En ambos contextos existen contribuciones múltiples, discrepancias, comunicaci�
 Los acuerdos sobre **flujo mínimo completo, extensiones operativas activables o retirables, revisión de divulgación según autoridad pertinente, anonimización y protección retrospectiva** no son fichas de Responsibilities: véase [nota N7](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md). No imponer revisiones individuales universales ni suponer que omitir pasos equivale a eliminar las garantías de privacidad.
 
 **Estado vigente:** E03-N1–N7 reconciliados funcionalmente; N8 pendiente. E03 global no cerrado.
+
+## Estado actualizado de E03 tras N8 (2026-10-21)
+
+**E03-N1 a N8 reconciliadas funcionalmente** en cobertura de necesidades y Responsibilities. Falta auditoría global de coherencia antes de declarar cerrado el escenario. Los estados anteriores se conservan como antecedentes históricos.
+
+**N8:** TDidacta debe apoyar uso directo e indirecto y continuidad fuera de plataforma, sin conectividad o sincronización obligatorias. Distinguir mecanismos propios (por ejemplo impresión de realizaciones) de bloques de proyección semántica usados por docentes para representaciones propias. La conformidad no es idéntica a procedencia, adecuación contextual o autorización. Se desea poder verificar representaciones externas, sin afirmar viabilidad técnica ni verificación universal. La reincorporación es opcional y no consolida automáticamente. Recursos preexistentes de MINEDUC y docentes ya estaban contemplados. Reutiliza T-R01a/b, T-R02, T-R03 y T-R05a sin crear nueva Responsibility.
+
+**Pendientes externos:** [N6 — autorización derivada, linajes, lifecycle](../notes/2026-10-20-e03-n6-pedagogical-intent-authorization-open-questions.md); [N7 — privacidad y flujos configurables](../notes/2026-10-20-e03-n7-access-privacy-configurable-flows.md); [N8 — proyecciones y continuidad externa](../notes/2026-10-21-e03-n8-external-use-projections-continuity.md). La reconciliación con F07 y los mecanismos sigue pendiente.
