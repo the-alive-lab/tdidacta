@@ -34,3 +34,8 @@ Pendiente contraste transversal E01–E05, validación de criterios y eventual d
 **T-R01** evalúa para orientar y corregir la enseñanza; **T-R03** aprende y autocomprueba; **T-R02** protege y autoriza elementos pedagógicos, no competencias personales; **T-R07** evalúa actuaciones y comprensión con finalidad distinguible de enseñar. Los hallazgos pueden alimentar T-R01 sin obligar a que el evaluador enseñe. Evaluación, certificación y reconocimiento oficial son distintos, aunque sus participantes puedan coincidir. La dificultad sin valor evaluativo no es un objetivo.
 
 **Pendientes metodológicos:** validez de evidencia, fiabilidad, dimensiones confundidas, accesibilidad, diversidad de formas de actuar, divulgación de resultados, protección de menores, semántica de configuraciones y aprobación eventual. El énfasis explícito en comprensión profunda y transferible merece contraste separado con O0/F01, sin modificarlos retroactivamente.
+
+
+## Derivación investigativa (2026-10-21)
+
+La propuesta de T-R07 tiene cuestiones de **validez metodológica** que se investigarán en Research y no se resuelven por definir una Responsibility. [Intake provisional en research-space](https://github.com/vslices/research-space/blob/main/lines/pedagogical-intent-realization/notes/2026-10-21-tdidacta-tr07-research-intake.md): discriminación entre comprensión profunda y reproducción superficial, transferencia, capacidades sociocognitivas, separación de factores de presión, matrices de evidencia e interpretación. La ubicación en PIR es provisional y **no equipara evaluación del aprendizaje con conformidad de realizaciones**. No existe aún RQ, Study ni Finding validado por ese intake.
