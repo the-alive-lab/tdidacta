@@ -40,3 +40,9 @@ La generación de **nuevas intenciones pedagógicas de alcance situado** sí per
 **Estado:** ambos puntos tienen tratamiento acordado (uno reconciliado y otro expresamente diferido). La ficha completa sigue siendo candidata hasta el contraste entre escenarios.
 
 **Continuidad:** la transversalidad de la definición es un criterio de construcción, todavía **no verificado en otros escenarios**. Las acciones no quedan promovidas como obligaciones universales por aparecer aquí.
+
+## Contraste posterior con T-R01c (2026-10-21)
+
+Durante E04-N2 surgió [T-R01c — Conducción de la enseñanza](tr-01c-conduccion-ensenanza.md) como **matización candidata**, diferenciada por su finalidad de ejercer orientación y apoyo en la experiencia sin requerir adaptación nueva. La acción 4 de esta ficha («Gestionar las actividades y habilitar oportunidades de exploración») **queda señalada como frontera por contrastar**: preparar o ajustar posibilidades puede responder a T-R01b; conducir su utilización puede responder a T-R01c. Ambas finalidades pueden coincidir sin fijar secuencia o personas diferentes.
+
+Esta anotación **no elimina ni reasigna automáticamente la acción 4**, no altera acuerdos del 2026-10-19 y no promueve T-R01c ni T-R01b a canon. Contrastar con E01–E05 antes de revisar acciones.
